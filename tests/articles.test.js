@@ -1,6 +1,6 @@
 const {resolve} = require('path')
 const {readdirSync} = require('fs')
-const parser = require('../lib/parser')
+const parser = require('../utils/parser')
 
 const DOCS_DIRECTORY = resolve(`${__dirname}/../docs`)
 const ARTICLES_DIRECTORY = resolve(DOCS_DIRECTORY, 'articles')
