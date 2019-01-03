@@ -8,6 +8,9 @@
   "scripts": {
     "test": "jest --noStackTrace"
   },
+  "jest": {
+    "setupTestFrameworkScriptFile": "./tests/setup.js"
+  },
   "dependencies": {
     "gatsby-transformer-remark": "^2.1.19"
   },

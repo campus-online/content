@@ -1,5 +1,5 @@
-const {resolve, basename} = require('path')
-const {readdirSync, existsSync} = require('fs')
+const {resolve} = require('path')
+const {readdirSync} = require('fs')
 const parser = require('../lib/parser')
 
 const DOCS_DIRECTORY = resolve(`${__dirname}/../docs`)
@@ -9,15 +9,6 @@ const prefixWith = slug => title => `[${slug}]: ${title}`
 const isRelation = value => (value && typeof value.slug === 'string')
 const isMarkdown = entry => entry.isFile && entry.name.endsWith('.md')
 const getAbsolutePath = article => resolve(ARTICLES_DIRECTORY, article)
-
-expect.extend({
-	toExistIn(received, argument){
-		const absolutePath = resolve(argument, received)
-		const pass = existsSync(absolutePath)
-		const message = () => `expected ${received}${pass ? ' not' : ''} to exist in ${argument}`
-		return {pass, message}
-	}
-})
 
 const articles = readdirSync(
 	ARTICLES_DIRECTORY,
