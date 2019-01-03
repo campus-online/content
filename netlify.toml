@@ -1,0 +1,13 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+  functions = "functions/dist"
+
+[build.environment]
+  AWS_LAMBDA_JS_RUNTIME = "nodejs8.10"
+
+[[redirects]]
+  from = "/admin/"
+  to = "https://campus.fac.unb.br/admin/"
+  status = 301
+  force = true

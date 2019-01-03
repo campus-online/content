@@ -7,21 +7,29 @@
   "private": true,
   "scripts": {
     "prebuild": "rm -rf dist && mkdir -p dist/emails",
-    "build": "mjml 'emails/*.mjml' -o dist/emails",
-    "lint": "mjml -v 'emails/*.mjml'",
+    "build": "npm-run-all -s 'build:*'",
+    "build:emails": "mjml 'emails/*.mjml' -o dist/emails",
+    "build:functions": "netlify-lambda build functions",
+    "dev": "npm-run-all -p 'dev:*'",
+    "dev:functions": "netlify-lambda serve functions",
+    "lint": "npm-run-all -s 'lint:*'",
+    "lint:emails": "mjml -v 'emails/*.mjml'",
     "test": "jest --noStackTrace"
   },
   "jest": {
     "setupTestFrameworkScriptFile": "./tests/setup.js"
   },
   "dependencies": {
-    "gatsby-transformer-remark": "^2.1.19"
+    "gatsby-transformer-remark": "^2.1.19",
+    "node-fetch": "^2.3.0"
   },
   "devDependencies": {
     "@babel/core": "^7.2.2",
     "babel-core": "^7.0.0-bridge.0",
     "babel-jest": "^23.6.0",
     "jest": "^23.6.0",
-    "mjml": "^4.3.0"
+    "mjml": "^4.3.0",
+    "netlify-lambda": "^1.1.1",
+    "npm-run-all": "^4.1.5"
   }
 }
