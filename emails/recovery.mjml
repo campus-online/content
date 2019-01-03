@@ -1,0 +1,46 @@
+<mjml>
+	<mj-head>
+		<mj-attributes>
+			<mj-all max-width="600" font-family="'SF Pro Text','SF Pro Icons','Helvetica Neue','Helvetica','Arial',sans-serif,-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'"></mj-all>
+			<mj-text padding="0" color="#141618" line-height="24px" font-size="14px"></mj-text>
+		</mj-attributes>
+	</mj-head>
+	<mj-body>
+		<!-- [header] -->
+		<mj-section padding="0">
+			<mj-column>
+				<mj-divider border-color="#FFF"></mj-divider>
+				<mj-image align="left" width="160px" alt="campus online" src="https://campus.fac.unb.br/assets/images/logo.png"></mj-image>
+				<mj-divider border-color="#141618" border-width="2px"></mj-divider>
+			</mj-column>
+		</mj-section>
+		<!-- [content] -->
+		<mj-section padding="10px 25px 0">
+			<mj-column>
+				<mj-text>
+					<h1 style="font-weight: 500; line-height: 1.25;">Parabéns</h1>
+					<p>Você está a um passo de ter uma conta de repórter no Campus Online, o último passo que você precisa fazer é definir a sua senha de acesso</p>
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section padding="0 0 25px">
+			<mj-column>
+				<mj-button href="{{ .SiteURL }}/admin/#recovery_token={{ .Token }}" font-weight="300" align="left" font-size="15px">Definir senha</mj-button>
+			</mj-column>
+		</mj-section>
+		<!-- [footer] -->
+		<mj-section padding="10px 0 0">
+			<mj-column>
+				<mj-divider border-color="#E4E4E4" border-width="1px"></mj-divider>
+			</mj-column>
+		</mj-section>
+		<mj-section padding="0 25px">
+			<mj-column>
+				<mj-text><a href="{{ .SiteURL }}" style="color: #949494; text-decoration: none;">Campus Online</a></mj-text>
+			</mj-column>
+			<mj-column>
+				<mj-text align="right"><a href="https://kunst.com.br" style="color: #949494; text-decoration: none;">kunst.com.br</a></mj-text>
+			</mj-column>
+		</mj-section>
+	</mj-body>
+</mjml>
