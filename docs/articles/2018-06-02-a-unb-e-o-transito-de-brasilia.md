@@ -1,0 +1,28 @@
+---
+template: blog-post
+title: Editorial - A UnB e o trânsito de Brasília
+cover: /uploads/260116_educacao1.jpg
+date: '2018-06-02'
+editorial:
+  slug: /editorials/2018-1-opiniao/
+  title: Opinião
+semester: 2018/1
+featured: false
+---
+Caro leitor,
+
+
+
+“Caro” realmente foi uma palavra que definiu essas últimas semanas. Em especial esta, que foi dedicada à temática do trânsito. Foi uma semana em que a situação começou a voltar ao normal após a greve dos caminhoneiros. Uma greve que afetou diversos setores de abastecimento, incluindo a Universidade de Brasília. Mas vamos jogar um verde: a mobilidade dentro da Universidade – e fora dela –  nunca foi lá essas coisas. Sem contar que o transporte público em Brasília já estava precário bem antes da greve começar.
+
+
+
+Vamos por partes, começando pela cidade até chegar à UnB – que é o foco do nosso jornal.  Brasília, a cidade centralizada. A capital do país. Quando pensamos em capital, já imaginamos movimento, aglomeração,  um turbilhão de carros, motos e ônibus. Bom, salvo os engarrafamentos que acontecem em horários de pico, a realidade não é bem essa.  É de conhecimento geral de quem mora aqui que nos encontramos em uma cidade muito espaçada – tudo fica meio longe. A própria UnB é um reflexo disso. Vamos supor que você, estudante ou professor, tem uma aula às 8h da manhã em uma sala lá do BSA norte; e, logo em seguida, uma outra aula lá na última sala do BSA sul. Dureza, né? E real, acontece com muita gente. Como você faz para chegar lá em menos de 5 minutos, já que teve que parar para tirar uma dúvida necessária ou comprar um café rapidinho, é um mistério. Muita gente tem a ideia de comprar um daqueles skates modelo cruiser para ajudar ou usam as bikes do GDF disponíveis em alguns pontos da Universidade.
+
+
+
+Um ponto bacana, inclusive, a chegada dessas bicicletas. Ajudou bastante gente na locomoção entre os prédios – por vezes tão longes uns dos outros. Porém, nem tudo são flores na vida de quem está pedalando. O respeito pelo ciclista é algo que, infelizmente, ainda precisa ser ensinado e efetivado não apenas na Universidade, mas na própria cidade. Já houve casos de atropelamento dentro do campus da UnB (um deles, esse ano, no mês de maio. Clique [aqui](https://g1.globo.com/df/distrito-federal/noticia/ciclista-e-atropelado-dentro-do-campus-da-unb-na-asa-norte.ghtml) para ver a notícia). Os dados mais recentes divulgados pelo GDF (disponíveis no site, mas você pode ver clicando [aqui](http://www.detran.df.gov.br/images/estatisticas_transito_anuais_espec/informativo_n02_bicicleta_2016.pdf)), só em 2016, houve 8 mortes envolvendo ciclistas em Brasília. E não podemos esquecer o [caso recente](https://www.correiobraziliense.com.br/app/noticia/cidades/2017/10/22/interna_cidadesdf,635388/acidente-ciclista-rodas-da-paz.shtml) que ocorreu com um aluno da UnB, o ciclista Raul Aragão de 23 anos, que faleceu após ser atropelado por um carro em alta velocidade na Asa Norte. O rapaz era voluntário de uma ONG chamada “Rodas da Paz”, que tem justamente o objetivo de reduzir a violência no trânsito na cidade.
+
+
+
+Essa última semana do mês foi a última do Maio Amarelo – que é o mês de conscientização no trânsito. Por ser um tema tão importante, o Campus decidiu ter o enfoque dessa semana nisso. Afinal, a mobilidade faz parte do nosso dia a dia universitário e, tão importante quanto saber como estão as coisas pós greve e falta de combustível, é saber que ainda há muitos lados que precisam ser vistos por todos os retrovisores.
