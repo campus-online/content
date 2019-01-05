@@ -3,7 +3,7 @@ template: blog-post
 title: >-
   UnB mantém base nacional de dados de Ciência da Informação, campo inexplorado
   no país
-cover: /uploads/bb49f055-e95f-487e-83fe-2be57a7901a3.jpg
+cover: https://www.ucarecdn.com/5859d18a-9594-4ee8-8fdf-b375441a6a8c/
 date: '2018-09-24'
 editorial: 2018-2-educacao
 authors:
@@ -30,7 +30,7 @@ Contudo, um dos principais desafios para o projeto é o acesso. Por ser registra
 
 Vilan Filho afirma que procura parcerias para ampliar a abrangência do projeto em termos de acessibilidade, mas que a burocracia para firmar esse tipo de acordo com pessoas de fora da Unb é muito grande. Ele ressalta que a ABCDM não é um aplicativo ou um software, e sim um conjunto de dados, ou seja, há inúmeras formas de se disponibilizar isso na internet, por exemplo.
 
-![Professor Jayme, de camisa social, é um dos coordenadores do projeto pioneiro no Brasil. (Foto: Mateus Maia)](/uploads/bb49f055-e95f-487e-83fe-2be57a7901a3.jpg)
+![Professor Jayme, de camisa social, é um dos coordenadores do projeto pioneiro no Brasil. (Foto: Mateus Maia)](https://www.ucarecdn.com/5859d18a-9594-4ee8-8fdf-b375441a6a8c/)
 
 ## Extensão
 

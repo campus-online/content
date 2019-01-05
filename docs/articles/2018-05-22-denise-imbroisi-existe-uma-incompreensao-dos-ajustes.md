@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: 'Denise Imbroisi: “Existe uma incompreensão dos ajustes”'
-cover: /uploads/img-20180520-wa0011-768x512.jpg
+cover: https://www.ucarecdn.com/1c285c3b-efba-4d9b-a427-385cceacc2b8/
 date: '2018-05-22'
 editorial: 2018-1-educacao
 authors:

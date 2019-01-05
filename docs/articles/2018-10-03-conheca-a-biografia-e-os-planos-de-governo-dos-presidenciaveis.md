@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Conheça a biografia e os planos de governo dos presidenciáveis
-cover: /uploads/candidatos-cni-pesquisa.png
+cover: https://www.ucarecdn.com/cf1009b0-598e-4f7a-a18e-4619668aa461/
 date: '2018-10-03'
 editorial: 2018-2-politica
 authors:
@@ -20,7 +20,7 @@ headline: >-
 ---
 
 
-![](/uploads/12014489.jpg)
+![](https://www.ucarecdn.com/7d26b3c7-accd-4988-a55b-552c272e6931/)
 
 ## **CIRO GOMES (PDT)**
 
@@ -42,7 +42,7 @@ headline: >-
 
 # _**/ Por**_ _Samantha Rannya_
 
-![](/uploads/fernando-haddad-empata-bolsonaro-genial-brasilis.jpg)
+![](https://www.ucarecdn.com/6a71f6a1-406b-4211-a43d-8568a1a31707/)
 
 ## **FERNANDO HADDAD (PT)**
 
@@ -66,7 +66,7 @@ headline: >-
 
 _**/ Por **Bruna Teixeira_
 
-![](/uploads/naom_5b06809448af9.jpg)
+![](https://www.ucarecdn.com/c3d4ad5e-b63a-46d1-94f7-ca371c1aebde/)
 
 ## **GERALDO ALCKMIN (PSDB)**
 
@@ -90,7 +90,7 @@ _**/ Por **Bruna Teixeira_
 
 # / _**Por **Clara Matheus_
 
-![](/uploads/bolsonaro-4.jpg)
+![](https://www.ucarecdn.com/b833eb69-dff1-402b-a05f-5ce7c9b85798/)
 
 ## **JAIR BOLSONARO (PSL)**
 
@@ -112,7 +112,7 @@ _**/ Por **Bruna Teixeira_
 
 _**/ Por **Emmeline Portela_
 
-![](/uploads/marina-rede-0101-868x644.jpg)
+![](https://www.ucarecdn.com/4a0332ad-1c84-40a4-a55e-a7c030436561/)
 
 **Força acreana**
 

@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Editorial - Bolsonaro e o futuro tenebroso das universidades federais
-cover: /uploads/editorial.jpg
+cover: https://www.ucarecdn.com/b39b0879-330c-460f-9b9b-d6af764843aa/
 date: '2018-10-28'
 editorial: 2018-2-opiniao
 authors:

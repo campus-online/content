@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Estudo sobre segurança na UnB revela fragilidade
-cover: /uploads/foto-seg.jpg
+cover: https://www.ucarecdn.com/b052d05a-1b7a-4a4e-acaa-3d80b6cfaac1/
 date: '2018-06-28'
 editorial: 2018-1-educacao
 authors:

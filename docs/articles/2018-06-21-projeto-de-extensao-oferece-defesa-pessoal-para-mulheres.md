@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Projeto de extensão oferece defesa pessoal para mulheres
-cover: /uploads/ultimo.jpg
+cover: https://www.ucarecdn.com/2e1e8a22-cf85-451a-aeba-0d47f397acd0/
 date: '2018-06-21'
 editorial: 2018-1-universidade
 authors:

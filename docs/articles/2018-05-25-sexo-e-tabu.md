@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Sexo é tabu
-cover: /uploads/whatsapp-image-2018-05-25-at-16.52.03-1024x576.jpeg
+cover: https://www.ucarecdn.com/d4637a24-b813-48e9-9411-3103d085681a/
 date: '2018-05-25'
 editorial: 2018-1-opiniao
 semester: 2018/1

@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Nada de novo no front
-cover: /uploads/img_2552.jpg
+cover: https://www.ucarecdn.com/ecbdaa6a-99db-4163-a27e-99beedcb702b/
 date: '2018-10-07'
 editorial: 2018-2-politica
 authors:
@@ -15,7 +15,7 @@ São oito horas da manhã na Escola Classe 415, na Asa Norte, e o início das el
 
 
 
-![Panfletos de candidatos. (Foto: Eline Sandes)](/uploads/img_2552.jpg)
+![Panfletos de candidatos. (Foto: Eline Sandes)](https://www.ucarecdn.com/ecbdaa6a-99db-4163-a27e-99beedcb702b/)
 
 
 

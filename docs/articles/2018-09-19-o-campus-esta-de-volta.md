@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: O Campus está de volta!
-cover: /uploads/whatsapp-image-2018-09-18-at-20.25.01.jpeg
+cover: https://www.ucarecdn.com/2707b747-168f-472a-9667-10e18fdcb9c9/
 date: '2018-09-19'
 authors:
   - 2018-2-mariah-aquino

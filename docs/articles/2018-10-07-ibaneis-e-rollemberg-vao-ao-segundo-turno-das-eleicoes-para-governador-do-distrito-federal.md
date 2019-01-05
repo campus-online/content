@@ -3,7 +3,7 @@ template: blog-post
 title: >-
   Ibaneis e Rollemberg vão ao segundo turno das eleições para governador do
   Distrito Federal
-cover: /uploads/whatsapp-image-2018-10-07-at-22.26.40.jpeg
+cover: https://www.ucarecdn.com/c6cc9800-cd86-467a-b5be-5565a0c8eac3/
 date: '2018-10-07'
 editorial: 2018-2-politica
 authors:

@@ -3,7 +3,7 @@ template: blog-post
 title: >-
   Faculdade de Comunicação da UnB se posiciona em defesa da Universidade e da
   democracia
-cover: /uploads/nota.jpg
+cover: https://www.ucarecdn.com/611f2878-3452-488f-b41d-63682b65482d/
 date: '2018-10-26'
 editorial: 2018-2-opiniao
 authors:

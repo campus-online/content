@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: A saúde mental na Universidade de Brasília
-cover: /uploads/foto-materia-thais-768x512.jpg
+cover: https://www.ucarecdn.com/8c8f1633-8b5f-422c-9b02-05f687a79154/
 date: '2018-05-26'
 editorial: 2018-1-educacao
 authors:
@@ -38,7 +38,7 @@ Segundo uma matéria do huffpost Brasil (outubro de 2017), em uma pesquisa divul
 
 Porém, alguns setores nem possuem espaço nesses cálculos. De acordo com uma matéria da Folha, de dezembro de 2017, as principais universidades brasileiras não têm diagnóstico de saúde mental de seus alunos de pós-graduação – incluindo a UnB, que, segundo a reportagem da folha, não respondeu o questionário sobre o assunto.
 
-![](/uploads/img-thif.jpg)
+![](https://www.ucarecdn.com/aae5a309-aeea-465d-b456-3c11495aef3e/)
 
 ## E por que isso acontece?
 

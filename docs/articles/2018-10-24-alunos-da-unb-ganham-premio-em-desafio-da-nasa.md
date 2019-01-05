@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Alunos da UnB ganham prêmio em desafio da NASA
-cover: /uploads/whatsapp-image-2018-10-25-at-12.55.32.jpeg
+cover: https://www.ucarecdn.com/afbd2701-17fa-4446-a25f-35aee482d7dc/
 date: '2018-10-24'
 editorial: 2018-2-educacao
 authors:

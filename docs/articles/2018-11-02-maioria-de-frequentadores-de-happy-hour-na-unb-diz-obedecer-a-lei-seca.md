@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Maioria de frequentadores de happy hour na UnB diz obedecer a Lei Seca
-cover: /uploads/c9070a18-a8a0-49f0-aadd-9e9a7e99cdea.jpg
+cover: https://www.ucarecdn.com/c16623cf-88cb-452f-a55c-fff442d3a62f/
 date: '2018-11-04'
 editorial: 2018-2-comportamento
 authors:

@@ -3,7 +3,7 @@ template: blog-post
 title: >-
   Interdição de parte da Rodoviária não afeta linha 110, que faz ligação com a
   UnB
-cover: /uploads/2018-10-11-01.21.27-1.jpg
+cover: https://www.ucarecdn.com/756a4c8c-e192-4fc1-adde-214fd5f9d353/
 date: '2018-10-11'
 editorial: 2018-2-cidade
 authors:
@@ -31,7 +31,7 @@ A vendedora ambulante Vanessa Braga, 36 anos, estava trabalhando na rodoviária 
 
 Agentes da Defesa Civil, Novacap, Corpo de Bombeiros e Polícia Militar garantiram a segurança do local e fizeram as primeiras análises técnicas. Em um primeiro comunicado afirmaram que a parte afetada representa 15% da sustentação da viga e que isto ainda está dentro da margem de segurança. Uma nova avaliação ainda será feita para que medidas possam ser tomadas.
 
-![(Foto: Sarah Paes)](/uploads/2018-10-11-01.21.26-1.jpg)
+![(Foto: Sarah Paes)](https://www.ucarecdn.com/849c28d9-62fa-4d52-a96a-75b335500a6f/)
 
 Ainda segundo a Novacap, o acidente de hoje não tem relação com as reformas que estão sendo feitas na rodoviária e a empresa responsável pelo dano terá que arcar com os custos dos prejuízos. A empresa Vivo foi comunicada e em nota informou que já “está em contato com os órgãos competentes para fornecer todas as informações necessárias e tomar as medidas cabíveis”.
 
@@ -44,4 +44,4 @@ Enquanto parte da estação de embarque estiver interditada quatro linhas de ôn
 
 \- 2302, Gama, e 2202, Santa Maria: os passageiros das linhas paradoras do BRT embarcarão no Eixinho W (entre o Conjunto Nacional e o Conic).
 
-![(Foto: Sarah Paes)](/uploads/2018-10-11-01.21.23-1.jpg)
+![(Foto: Sarah Paes)](https://www.ucarecdn.com/fdc3550b-1594-4428-8b22-d0ca7385f5d6/)

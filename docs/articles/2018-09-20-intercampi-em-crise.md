@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Intercampi em crise
-cover: /uploads/foto-de-capa.png
+cover: https://www.ucarecdn.com/4ec8dd9a-335e-4e8c-adbd-0ef3847c5d07/
 date: '2018-09-20'
 editorial: 2018-2-educacao
 authors:
@@ -53,15 +53,15 @@ Em nota divulgada no início do semestre, o prefeito do campus, Valdeci Reis, ex
 
 Nos anos anteriores, os universitários possuíam um leque de opções, em diversos horários, para transitarem entre os diferentes campi com mais flexibilidade. No entanto, atualmente, com a redução de frota, os universitários ficam à mercê do número limitado de viagens feitas. Em estudo feito pelos estudantes da matéria Campus, foi observada uma queda do número de viagens em 52,95% quando comparado a 2017. Confira:
 
-![](/uploads/61893ba9-f491-4379-a34f-62e2e3a7b9de-7786-0000084023bad360.jpg)
+![](https://www.ucarecdn.com/cfd95475-751d-496b-9d47-ed246f668cb2/)
 
-![Arte: Marina Julião](/uploads/ef67e2fa-1bc8-4f68-b586-232ec7bc3aa5-7786-000008402dac8090.jpg)
+![Arte: Marina Julião](https://www.ucarecdn.com/29334d79-88c4-4551-8a58-95bc145b8c9d/)
 
 ## Palavra de especialista
 
 Pós-graduando em transportes na UnB, Pastor Willy defendeu seu ponto de vista em entrevista sobre o assunto da redução da frota dos Intercampi. Segundo ele, a prioridade do serviço de mobilidade deve ser o aluno. Se o estudante está sendo prejudicado pela alteração dos horários de ônibus, há que se procurar outra alternativa para satisfazer ambas as partes - estudante e universidade.
 
-![](/uploads/815d5fc9-0ab4-435f-b343-bf39729288f1-7786-00000840356c792c.jpg)
+![](https://www.ucarecdn.com/16e883c7-6a7b-4cf1-84d7-fb319f674b7e/)
 
 “Ter a mobilidade com os intercampi é fundamental para maior interação entre os alunos, além de um melhor aproveitamento e complementação de disciplinas que se realizam em cada um dos campus”, afirmou quando questionado sobre a importância dos intercampi.
 
@@ -69,7 +69,7 @@ Completa ainda dizendo que “nada justifica que os alunos fiquem sem mobilidade
 
 ## O que diz a UnB
 
-![](/uploads/7d07225e-3870-4fea-b2f1-e1a58e3acf43-7786-000008403a0315b9.jpg)
+![](https://www.ucarecdn.com/5927d6ef-42d7-4bf4-853e-4790977f4227/)
 
 Como justificativa para a adaptação de horários oferecidos pelos Intercampi, o prefeito da Universidade de Brasília, Valdeci Reis explicou que a mudança faz parte de uma adaptação orçamentária e de uma análise feita pelos diretores dos três campi - Planaltina, Gama e Ceilândia. Segundo o prefeito, os diretores perceberam que as grades horárias não contemplavam a necessidade de transitar entre os campi.
 

@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Diversidade de histórias que marcam relacionamentos na UnB
-cover: /uploads/capa-materia-dia-dos-namorados-748x421.jpeg
+cover: https://www.ucarecdn.com/71bc431f-f1ca-4bed-b108-6c18d7be2c8a/
 date: '2018-06-12'
 editorial: 2018-1-universidade
 authors:
@@ -29,7 +29,7 @@ Tudo começou por volta de 1999, quando Thales, ainda um calouro do curso de psi
 
 Alguns anos depois, Thales a pediu em namoro. Porém, por estarem em momentos diferentes da vida, ela não aceitou. “Eu já estava estudando para o mestrado enquanto ele matava aula no píer”, explica Carla. De qualquer forma, isso não influenciou muito a relação entre os dois, e as caronas se mantiveram. “A gente, inclusive, tem posições políticas bem distintas até hoje. Naquela época batíamos boca por isso. Ela ficava três dias brigada comigo, ficava no carro de cabeça virada pro lado por toda a viagem, mas continuava indo e voltando da UnB comigo do mesmo jeito”, expõe Thales.
 
-![Ensaio para prévia do noivado de Carla Antloga e Thales Caetano](/uploads/giu-2.jpg)
+![Ensaio para prévia do noivado de Carla Antloga e Thales Caetano](https://www.ucarecdn.com/fa9f8beb-e984-468e-a4be-f51190c1d6d7/)
 
 Tempo depois, Carla se formou e os dois se distanciaram. Ela se casou com outra pessoa, teve um filho. Neste meio tempo, Thales também se formou em psicologia. No entanto, continuou estudando, desta vez medicina. Foram 11 anos distantes um do outro, com poucos encontros episódicos. Um exemplo é a vez em que se esbarraram por acaso e resolveram tomar um café. “Foi um dia estranho. Eu estava casada e com um filho recém-nascido. Nem tivemos assunto, mas houve um clima esquisito”, expressa Carla. E também a ocasião em que, ao prestar o concurso para ser professora, ela passou por um momento de muita ansiedade e o chamou para que fosse ao local da prova ajudá-la a se acalmar. “Mas em nenhum desses momentos houve algo. Nem no tempo da faculdade, nem nesses encontros depois”, acrescenta Thales.
 
@@ -37,7 +37,7 @@ Foi somente no final de 2012, após diversas situações, que finalmente começa
 
 A universidade marcou tanto a trajetória do casal que o álbum de noivado foi fotografado por lá, em diferentes locais do campus.
 
-![](/uploads/giu-4-1024x683.jpg)
+![](https://www.ucarecdn.com/444d848f-8523-4b98-bb4b-8972d5cb1c26/)
 
 ## Amor de calouras
 
@@ -49,7 +49,7 @@ Deborah fazia parte do grupo mais animado na organização do evento, ao passo q
 
 O próximo contato mais pessoal aconteceu em num dia em que elas e a turma passaram a tarde na UnB à espera de uma palestra que começaria às 17h. Resolveram então ir para o Cageo (Centro Acadêmico de Geologia) e passaram um bom tempo jogando truco. “Depois fomos para um HH (happy hour). A gente se beijou, só que a Deborah não lembra. Eu estava até ficando com outro menino, e aí ela me disse que eu era a crush dela”, descreve Odara. Após esse dia, passaram a conversar mais.
 
-![Déborah à esquerda e Odara à direita, durante uma das saídas de campo](/uploads/giu-3.jpeg)
+![Déborah à esquerda e Odara à direita, durante uma das saídas de campo](https://www.ucarecdn.com/bc8bbaa3-c4b1-4150-af9f-f1da4e4f27dc/)
 
 No curso de Geologia são comuns as saídas de campo. São pequenas viagens que permitem que os alunos vejam e identifiquem na prática o que foi passado durante as aulas. Foi numa dessas saídas, em Teresina de Goiás, que as meninas se tornaram ainda mais próximas. Em uma das noites, após o dia de estudos realizados, Deborah relata: “No segundo dia, a gente estava lá no quarto e eu queria muito beijá-la, mas infelizmente tinha medo. Depois fomos para o bar, e aí ficamos”.
 

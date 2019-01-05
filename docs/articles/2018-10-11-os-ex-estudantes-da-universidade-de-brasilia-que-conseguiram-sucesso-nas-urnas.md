@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Das cadeiras das salas de aula da UnB aos gabinetes parlamentares
-cover: /uploads/whatsapp-image-2018-10-13-at-16.14.21.jpeg
+cover: https://www.ucarecdn.com/1f433ec7-b983-4c26-9ab8-d5eed0012eb3/
 date: '2018-10-14'
 editorial: 2018-2-politica
 authors:
@@ -32,7 +32,7 @@ Tendo ingressado na universidade em 2003, Grass se envolveu em vários projetos 
 
 Há também ex-alunos da universidade já bastante conhecidos do brasiliense. O Professor Reginaldo Veras (PDT) obteve diploma em Geografia pela UnB no final da década de 1990 e foi reeleito para o segundo mandato consecutivo. A médica Arlete Sampaio (PT), que foi vice-governadora e Secretária de Desenvolvimento Social do DF, cursou Medicina na UnB e venceu a terceira eleição a deputada distrital.
 
-![(Arte: Marina Julião)](/uploads/whatsapp-image-2018-10-13-at-16.14.20.jpeg)
+![(Arte: Marina Julião)](https://www.ucarecdn.com/24a3d966-cbdc-4f44-9c20-79f71dca6fa0/)
 
 ## Celeiro político
 

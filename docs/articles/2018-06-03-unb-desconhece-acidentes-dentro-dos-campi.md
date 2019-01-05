@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: UnB desconhece acidentes dentro dos campi
-cover: /uploads/5-1024x576.jpeg
+cover: https://www.ucarecdn.com/2a0fb7a7-5d92-4104-89dc-45b002bfa281/
 date: '2018-06-03'
 editorial: 2018-1-educacao
 authors:

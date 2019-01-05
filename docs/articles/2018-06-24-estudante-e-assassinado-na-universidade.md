@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Estudante é assassinado na universidade
-cover: /uploads/35924491_1665786553517321_71929917545119744_o-748x421.jpg
+cover: https://www.ucarecdn.com/305b99e0-aa94-4365-90da-1d619eab1e12/
 date: '2018-06-24'
 editorial: 2018-1-universidade
 authors:

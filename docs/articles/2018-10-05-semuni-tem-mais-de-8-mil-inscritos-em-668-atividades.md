@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: SemUni tem mais de 8 mil inscritos em 668 atividades
-cover: /uploads/img-20181005-wa0033.jpg
+cover: https://www.ucarecdn.com/369582ac-be0a-4af4-b1e3-b682c037a421/
 date: '2018-10-05'
 editorial: 2018-2-educacao
 authors:

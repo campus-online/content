@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Ensino Superior é pauta dos candidatos à Presidência em seus planos de governo
-cover: /uploads/28877757323_29aac81fc9_o.jpg
+cover: https://www.ucarecdn.com/a1612b14-d998-4884-83e0-3b08e8daa4b2/
 date: '2018-09-30'
 editorial: 2018-2-politica
 authors:
@@ -30,21 +30,21 @@ Pensando nisso, a equipe do Campus Online disponibiliza o que cada candidato fal
 
 ## Álvaro Dias (Pode)
 
-![](/uploads/alvaro-dias_poder360.jpg)
+![](https://www.ucarecdn.com/d2c3e1f0-bc16-4158-9a54-ef4dfa959587/)
 
 * Parceria com o setor privado;
 * Projeto 200 gênios para Universidades.
 
 ## Cabo Daciolo (Patriota)
 
-![](/uploads/cabodaciolo_huffpost.jpeg)
+![](https://www.ucarecdn.com/f9e1d2a5-2186-4c09-b94c-48323d8b929d/)
 
 * Investimento nas universidades federais;
 * Novas universidades federais e novos _campi_.
 
 ## Ciro Gomes (PDT)
 
-![](/uploads/cirogomesfoto.jpeg)
+![](https://www.ucarecdn.com/8d0cd5ad-68f6-4cad-9a7b-d4d2dc511737/)
 
 * As universidades públicas deverão, além de ampliar a oferta de vagas e prosseguir com as políticas de cotas, estreitar seus laços com as políticas e ações no campo da educação básica e ciência, tecnologia e inovação;
 * Manutenção da gratuidade nas universidades e institutos de ensino federais;
@@ -59,13 +59,13 @@ Pensando nisso, a equipe do Campus Online disponibiliza o que cada candidato fal
 
 ## Eymael (DC)
 
-![](/uploads/eymael_veja.jpg)
+![](https://www.ucarecdn.com/f1f5b05b-b477-4f70-80c4-90a729a6d0d6/)
 
 * Ampliação de vagas nos cursos superiores nas Universidades Federais, sobretudo em período noturno.
 
 ## Fernando Haddad (PT)
 
-![](/uploads/fernando-haddad-foto-abr.jpg)
+![](https://www.ucarecdn.com/1425605c-20fd-4c77-b345-fa3dbd9b9557/)
 
 * Expandir matrículas no Ensino Superior, técnico e profissional;
 * Investimento em ciência, tecnologia e informação nas universidades, institutos e centros de pesquisa;
@@ -77,13 +77,13 @@ Pensando nisso, a equipe do Campus Online disponibiliza o que cada candidato fal
 
 ## Geraldo Alckmin (PSDB)
 
-![](/uploads/alckmin_ultimosegundoig.jpg)
+![](https://www.ucarecdn.com/c634aca6-5396-462e-b1b9-ba25d60caa56/)
 
 * Estimular parcerias entre universidades e empresas.
 
 ## Guilherme Boulos (PSOL)
 
-![](/uploads/boulos_oglobo.jpg)
+![](https://www.ucarecdn.com/d66a4511-8762-4a9c-8705-fe505955f875/)
 
 * Convocar um plebiscito para rever a emenda do teto de gastos;
 * Retomar o crescimento do Ensino Superior, valorizando escolas públicas e Institutos Profissionais;
@@ -97,13 +97,13 @@ Pensando nisso, a equipe do Campus Online disponibiliza o que cada candidato fal
 
 ## Henrique Meirelles (MDB)
 
-![](/uploads/meirelles_istoe.jpg)
+![](https://www.ucarecdn.com/1cdf7e58-9179-4541-85d9-2d18a2dbd0bc/)
 
 * Auxílio das universidades para identificação de prioridades nas obras com maior potencial de atraírem recursos privados.
 
 ## Jair Bolsonaro (PSL)
 
-![](/uploads/bolsonaro_istoe.jpg)
+![](https://www.ucarecdn.com/b82af7a4-2ce4-4a09-aa99-73e6f83eca19/)
 
 * Universidade como geradora de avanços técnicos, buscando formas de elevar a produtividade, a riqueza e o bem-estar da população;
 * Universidades como estimuladoras do empreendedorismo;
@@ -111,14 +111,14 @@ Pensando nisso, a equipe do Campus Online disponibiliza o que cada candidato fal
 
 ## João Amoêdo (Novo)
 
-![](/uploads/amoedo_istoe.jpg)
+![](https://www.ucarecdn.com/0d05f095-fd50-42fe-a32c-c060c152f4bb/)
 
 * Instituir mensalidades em universidades públicas;
 * Melhorar gestão, reduzir a burocracia, introduzir novas fontes de recursos não-estatais e parceria com o setor privado voltado à pesquisa.
 
 ## João Goulart Filho (PPL)
 
-![](/uploads/joaogoulartfilho_veja.jpg)
+![](https://www.ucarecdn.com/0db6ad14-010e-47e0-a2f0-c499665844ba/)
 
 * Revogar a emenda do teto de gastos;
 * Promover o desenvolvimento das tecnologias nucleares e correlatas, estabelecendo cooperação entre empresas, institutos de pesquisa e universidades brasileiras;
@@ -127,7 +127,7 @@ Pensando nisso, a equipe do Campus Online disponibiliza o que cada candidato fal
 
 ## Marina Silva (Rede)
 
-![](/uploads/marinasilva_exame.png)
+![](https://www.ucarecdn.com/615dae89-c798-4d5b-b6cb-adcb1282d414/)
 
 * Ampliação do acesso ao ensino superior, mantendo a política de cotas;
 * Ciência, tecnologia e inovação: universidades devem ser desafiadas a realizar; pesquisas que contribuam para a superação dos problemas sociais, ambientais e econômicos;
@@ -137,7 +137,7 @@ Pensando nisso, a equipe do Campus Online disponibiliza o que cada candidato fal
 
 ## Vera Lucia (PSTU)
 
-![](/uploads/veralucia_metrojornal.jpg)
+![](https://www.ucarecdn.com/30f79c4b-0030-400a-8005-defe9b00138b/)
 
 * Estatização de universidades privadas.
 

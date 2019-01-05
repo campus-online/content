@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: 'Após 15 anos, avaliação das cotas é positiva'
-cover: /uploads/dsc0173-748x421.jpg
+cover: https://www.ucarecdn.com/8a75eb34-7c94-45f2-aeaa-dbeec6f49e64/
 date: '2018-06-11'
 editorial: 2018-1-educacao
 authors:
@@ -43,13 +43,13 @@ Em 2017, 33% dos calouros se autodeclararam pretos e pardos e 29% alunos de esco
 
 A Doutora em história e professora Joelma Rodrigues destaca o quanto essa política abre portas e permite a ascensão da população negra e de baixa renda. “Ver pessoas negras no interior das universidades, nos mais diversos cursos, muitas as primeiras de sua família, e saber que elas se tornam exemplos de que é possível estar naquele lugar para além dos trabalhos subalternizados, renova os ares da academia”, comenta.
 
-![](/uploads/dsc0150-1024x683.jpg)
+![](https://www.ucarecdn.com/19ff5f00-e7d3-43f0-b36d-3a5c1aecf5a1/)
 
 O estudante de administração Lineker Teixeira foi o primeiro da família a ingressar no ensino superior. Como estudante de escola pública, passou por um choque cultural. “Eu venho de uma cidade periférica. Na minha escola, que era pública, tinham muitos estudantes negros e eu nunca tinha me sentido tão diferente. Quando eu cheguei aqui na universidade a turma era majoritariamente branca e de classe alta. Foi bem difícil”.
 
 
 
-![](/uploads/20180609_124403-1024x831.jpg)
+![](https://www.ucarecdn.com/b86dfce5-222d-4d49-ae66-8f87e741bb51/)
 
 Lineker (foto acima) conta que a política de cotas permitiu a entrada de mais pessoas da família. “Depois de mim entraram alguns primos. Acho que a política de cotas está permitindo a nossa família de ingressar nesse ambiente que até então não tinha”. O estudante é de baixa renda, por isso começou a trabalhar desde o segundo semestre para se manter no curso, o que acabou por comprometer o desempenho acadêmico.
 
@@ -57,7 +57,7 @@ Lineker (foto acima) conta que a política de cotas permitiu a entrada de mais p
 
 Jefferson Silva (foto abaixo), estudante de Artes Visuais ingressou em 2013 e também foi o primeiro da família a cursar o ensino superior. Ele fala da dificuldade de adaptação no ambiente acadêmico. “No início eu achei meio estranho porque eu era um dos poucos negros da minha sala. ” Jefferson acredita que mesmo após 15 anos de implementação da política de cotas o quantitativo de pessoas negras na Universidade ainda é baixo. “Ainda não conseguimos ver a população negra, que é maioria no Brasil representada na universidade”.
 
-![](/uploads/20180609_124831-1024x772.jpg)
+![](https://www.ucarecdn.com/cbff14a4-6b9f-4239-9341-36a61ce5b320/)
 
 \
 \

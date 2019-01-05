@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Maio Amarelo e um trânsito mais seguro no Brasil
-cover: /uploads/copia-2-768x768.png
+cover: https://www.ucarecdn.com/478892e1-3624-4a7a-8059-5723a1655c76/
 date: '2018-05-29'
 editorial: 2018-1-educacao
 authors:
@@ -13,7 +13,7 @@ featured: false
 ---
 Maio Amarelo é um movimento internacional de segurança viária criado para conscientizar a população e ter uma convivência mais segura nas ruas. Tem também o objetivo de baixar o índice de mortes e feridos nas rodovias e estradas.
 
-![Foto: Jhon Millones](/uploads/21573903826_a6c2992023_c.jpg)
+![Foto: Jhon Millones](https://www.ucarecdn.com/67ffbcff-2d32-46be-b371-9fc2aeea0091/)
 
 A campanha Maio Amarelo faz parte da agenda da Organização das Nações Unidas (ONU) e, neste ano, vem sendo desenvolvida no Brasil com o tema “Nós somos o trânsito“. Os principais órgãos do Distrito Federal, como o Departamento de Estradas de Rodagem do Distrito Federal (DER-DF), Departamento de Trânsito do Distrito Federal (DETRAN- DF), Polícia Militar do Distrito Federal (PM-DF) e o Corpo de Bombeiros Militar do Distrito Federal (CBMDF) apoiam a ação.
 
@@ -31,4 +31,4 @@ Fonte: (DER-DF)
 
 De acordo com dados da ONU, o Brasil é o 5º país em número de acidentes fatais, com 230 mortes a cada 100 mil veículos. O excesso de velocidade, condutores embriagados e pessoas sem cinto de segurança são os principais motivos que causam as mortes.
 
-![Arte: Filliphi da Costa e Thifany Batista](/uploads/jhon1.jpg)
+![Arte: Filliphi da Costa e Thifany Batista](https://www.ucarecdn.com/78400eb9-d7d5-4823-92f0-e94ce8cea7c6/)

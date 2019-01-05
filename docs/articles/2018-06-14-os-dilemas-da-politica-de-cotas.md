@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Os dilemas da política de Cotas
-cover: /uploads/ho1-748x421.jpg
+cover: https://www.ucarecdn.com/dc801385-eb4f-45e9-bbc1-31c093c739c7/
 date: '2018-06-14'
 editorial: 2018-1-opiniao
 authors:

@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Projeto de extensão da UnB atua no combate de câncer de mama de forma gratuita
-cover: /uploads/whatsapp-image-2018-10-10-at-16.29.46.jpeg
+cover: https://www.ucarecdn.com/ac361a6d-3e3c-4865-a25b-2b8364d02259/
 date: '2018-10-12'
 editorial: 2018-2-comportamento
 authors:
@@ -40,4 +40,4 @@ Mesmo com a campanha, os dados ainda não são bons. Segundo o Instituto Naciona
 
 E o mais importante: não deixe de realizar exames periódicos. O cuidado é essencial.
 
-![(Arte: Isabela Castilho)](/uploads/whatsapp-image-2018-10-10-at-16.58.03.jpeg)
+![(Arte: Isabela Castilho)](https://www.ucarecdn.com/963ac6ad-fb89-48e9-b29b-17302b625252/)

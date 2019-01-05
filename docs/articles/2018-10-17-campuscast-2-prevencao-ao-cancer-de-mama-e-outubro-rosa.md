@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: 'CampusCast #2 – Prevenção ao câncer de mama e Outubro Rosa'
-cover: /uploads/whatsapp-image-2018-10-19-at-07.59.06.jpeg
+cover: https://www.ucarecdn.com/6c35b486-f0d7-4ece-8ac8-5a75e03e03f6/
 date: '2018-10-17'
 editorial: 2018-2-campuscast
 authors:

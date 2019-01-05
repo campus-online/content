@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Movimento moderado e muitos santinhos no Cruzeiro
-cover: /uploads/fila.jpg
+cover: https://www.ucarecdn.com/318708d3-7a5c-4a2a-ac7f-d6a2eb3d1fa0/
 date: '2018-10-07'
 editorial: 2018-2-politica
 authors:
@@ -21,6 +21,6 @@ O patrulhamento da polícia militar ocorrerá em todos os colégios eleitorais. 
 
 Mesmo com as recomendações, as zonas eleitorais do Cruzeiro amanheceram com grande quantidade de santinhos espalhados nas ruas. Questionados sobre o porquê da sujeira, policiais militares da região afirmaram que o patrulhamento na madrugada não era de responsabilidade deles, que começaram a trabalhar no período da manhã.
 
-![Santinhos espalhados pelas ruas do Cruzeiro. (Foto: Gabriel Escobar)](/uploads/img_1304.jpeg)
+![Santinhos espalhados pelas ruas do Cruzeiro. (Foto: Gabriel Escobar)](https://www.ucarecdn.com/75b04d97-71dc-40b8-bcaa-8474cc2dee10/)
 
 Para consultar o local de votação, basta ver a página do TRE-DF. O período de votação se encerra às 17h e é necessária a apresentação do título de eleitor acompanhado do documento oficial com foto ou, substituindo esses documentos, o aplicativo e-Título, desenvolvido pela Justiça Eleitoral.

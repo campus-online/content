@@ -3,7 +3,7 @@ template: blog-post
 title: >-
   Ocorrências nas dependências da UnB diminuem em comparação a 2017, mas alguns
   pontos continuam perigosos
-cover: /uploads/whatsapp-image-2018-10-31-at-19.54.05.jpeg
+cover: https://www.ucarecdn.com/5abb4299-8d03-47f2-a9bd-9793d8f44643/
 date: '2018-11-01'
 editorial: 2018-2-comportamento
 authors:
@@ -23,7 +23,7 @@ De acordo com a Diretoria de Segurança da UnB (Diseg), apenas no primeiro semes
 
 Os dados fornecidos pela Diseg sugerem diminuição de registro em todas as ocorrências, mas ainda longe do ideal, o que mantém a insegurança dos alunos.
 
-![(Arte: Isabela Castilho)](/uploads/unnamed.jpg)
+![(Arte: Isabela Castilho)](https://www.ucarecdn.com/5dcc5cb4-310d-4da5-b7d1-d788e745de6f/)
 
 Questionada sobre os locais de maior ocorrência dentro do Campus Darcy Ribeiro, a Assessoria de Comunicação da UnB informou que a metodologia da coleta de dados por parte da diretoria de segurança não foi constante ao longo dos anos e, portanto, não era possível afirmar precisamente o local mais perigoso da universidade.
 
@@ -31,7 +31,7 @@ Questionada sobre os locais de maior ocorrência dentro do Campus Darcy Ribeiro,
 
 O estudante de comunicação organizacional Filipe Alemar conta que fazer curso pelo período noturno é viver com medo: “estudo à noite e sempre fico bastante receoso de ir pra parada ou pro estacionamento quando preciso ficar depois da aula pra desenvolver algum trabalho. Fica tudo deserto e o quadro piora com a iluminação baixa. Caminhos de apenas minutos se tornam tenebrosos, a palavra é medo”.
 
-![Parada de ônibus na ponta norte do Instituto Central de Ciências (ICC). Muitos alunos precisam pegar ônibus após as aulas, porém trajetos curtos tornam-se perigosos por conta da pouca luminosidade e fluxo reduzido de pessoas e carros. (Foto: Vitória Russel)](/uploads/whatsapp-image-2018-10-31-at-19.56.38.jpeg)
+![Parada de ônibus na ponta norte do Instituto Central de Ciências (ICC). Muitos alunos precisam pegar ônibus após as aulas, porém trajetos curtos tornam-se perigosos por conta da pouca luminosidade e fluxo reduzido de pessoas e carros. (Foto: Vitória Russel)](https://www.ucarecdn.com/e8a1aad0-3661-4c34-822c-8d5954eacea8/)
 
 ## Câmeras de segurança
 

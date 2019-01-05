@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: 'Em livro, ex-professor da UnB questiona racismo na televisão'
-cover: /uploads/image_6483441.jpg
+cover: https://www.ucarecdn.com/c5c1b016-cde9-4003-93d3-92e9051361d7/
 date: '2018-11-14'
 editorial: 2018-2-educacao
 authors:
@@ -23,7 +23,7 @@ Ainda mais afundo que os números, interessa estudar como são mostrados os indi
 
 Antes mesmo de adentrar o espaço acadêmico, o professor Richard Santos, também conhecido como Big Richard, já trabalhava com comunicação e era conhecido por suas habilidades com o rap e envolvimento na cultura hip-hip. Nascido no Rio de Janeiro conquistou o próprio espaço em São Paulo, Brasília e outros estados do Brasil através de seu trabalho com a comunicação televisiva nas áreas de cultura, periferias e música. Tudo sem deixar passar nenhuma chance de falar sobre negritude entre suas passadas pela Rede Globo, TV Band, TV Cultura, MTV, Record, entre outras emissoras.
 
-![O professor Richard Santos. (Foto: Caroline Souza)](/uploads/image_6483441.jpg)
+![O professor Richard Santos. (Foto: Caroline Souza)](https://www.ucarecdn.com/c5c1b016-cde9-4003-93d3-92e9051361d7/)
 
 Richard se mudou para Brasília a convite da TV Brasil para produzir reportagens especiais sobre seus temas de domínio. O autor se cansa da vida artística e midiática eventualmente, decide se dedicar à academia e já graduado em ciências sociais faz especialização em história e cultura no Brasil. Seguido de mestrado em comunicação e por fim doutorado em ciências sociais com especialização em estudos latinos americanos, no ELA – UnB. Hoje, leciona na Universidade Federal do Sul da Bahia pelo Centro de Formação em Artes, onde trabalha o audiovisual, e também pela Pós-Graduação, onde trabalha a educação para as relações étnico-raciais. São figuras importantíssimas que andam por aí grandes e gigantes de sorriso no rosto, sem que sequer saibamos o quanto já realizaram nesta vida... confira a entrevista:
 
@@ -38,7 +38,7 @@ Neste momento, além da divulgação de “Branquitude e Televisão”, que tem 
 
 
 
-![Capa do livro "Branquitude e televisão". (Foto: divulgação)](/uploads/branquitude-e-televisao_capa-252x400.jpg)
+![Capa do livro "Branquitude e televisão". (Foto: divulgação)](https://www.ucarecdn.com/4640c8bc-f409-4366-b200-37d6a2ed2577/)
 
 _**Campus **_–** **Com base no livro, qual o perfil majoritário das pessoas que aparecem na televisão brasileira e qual o impacto disso na vida em sociedade dos que não fazem parte deste perfil?
 

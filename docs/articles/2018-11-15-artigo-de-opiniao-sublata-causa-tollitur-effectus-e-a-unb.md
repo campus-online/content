@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: 'Artigo de opinião: Sublata causa, tollitur effectus e a UnB'
-cover: /uploads/opiniao.jpg
+cover: https://www.ucarecdn.com/113b40e2-dffb-4b4a-939c-d9a271050885/
 date: '2018-11-15'
 editorial: 2018-2-opiniao
 authors:

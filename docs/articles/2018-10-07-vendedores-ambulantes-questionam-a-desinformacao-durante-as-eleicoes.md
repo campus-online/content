@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Vendedores ambulantes questionam a desinformação durante as eleições
-cover: /uploads/img_0644.jpg
+cover: https://www.ucarecdn.com/e5ea8171-bb8a-428a-8883-1785d1bdf403/
 date: '2018-10-07'
 editorial: 2018-2-politica
 authors:
@@ -21,7 +21,7 @@ Os vendedores ambulantes estão sempre localizados em pontos estratégicos onde 
 
 O vendedor de picolé Cícero Pereira da Silva, 31 anos, desabafa um pouco. Enquanto atende os clientes próximo à entrada do Centro Educacional Gisno, na Asa Norte, ele conta que deixará de votar porque não ficou sabendo da necessidade da atualização do título com a biometria. Na verdade, ele pensava que apenas um documento com foto seria suficiente para registrar o seu voto. Além disso, Cícero conta que após saber da novidade da biometria ele procurou saber mais sobre o assunto e aponta a burocracia existente no processo como um empecilho para os eleitores. "Tudo agora é no agendamento. Tem que ter uma agilidade melhor."
 
-![Ambulantes vendem produtos em frente ao CEUB neste domingo de eleições. (Foto: Ana Laura Pinheiro)](/uploads/img_0644.jpg)
+![Ambulantes vendem produtos em frente ao CEUB neste domingo de eleições. (Foto: Ana Laura Pinheiro)](https://www.ucarecdn.com/e5ea8171-bb8a-428a-8883-1785d1bdf403/)
 
 Em frente ao Centro Universitário de Brasília (CEUB), muito perto de onde Cícero Pereira estava vendendo seus sorvetes, havia outros três ambulantes. Deles, apenas um conhecia o e-Título, aplicativo novo que permite o acesso ao título de eleitor por meio do celular. Dentre os três, um desconhecia também a possibilidade de votar em trânsito.
 

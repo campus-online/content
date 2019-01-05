@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Pouco trabalho para polícia no Riacho Fundo
-cover: /uploads/image-2-.png
+cover: https://www.ucarecdn.com/b50c19c8-ee74-49ee-acaf-3f6555331ce5/
 date: '2018-10-07'
 editorial: 2018-2-politica
 authors:

@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Terceirizados enfrentam irregularidades nas demissões
-cover: /uploads/capa-n-748x421.jpg
+cover: https://www.ucarecdn.com/8292b37d-40ba-44c3-b5ea-1b5f83cf45f1/
 date: '2018-06-07'
 editorial: 2018-1-educacao
 authors:
@@ -22,4 +22,4 @@ Ambas reclamam ter recebido somente a rescisão até o momento. “A empresa fal
 
 Apesar da conjuntura econômica não estar favorável, Lucimone não perde o otimismo: “Estamos passando por um momento muito difícil, mas nada é impossível”, declara a moradora de Ceilândia Sul, que ainda conta acumular experiência de vigilância e segurança enquanto trabalhava na universidade, apesar de no contrato indicar somente o serviço de porteira.
 
-![](/uploads/foto-n.jpeg)
+![](https://www.ucarecdn.com/c5b66183-cd3e-4125-8d2e-269ff51eb644/)

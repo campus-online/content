@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: 'Manual do estudante politizado: um guia básico para você entender a UnB'
-cover: /uploads/vic-748x421.jpeg
+cover: https://www.ucarecdn.com/a94cba8a-ac89-47fa-b02b-d61e8ee1b1b8/
 date: '2018-06-14'
 editorial: 2018-1-universidade
 authors:

@@ -3,7 +3,7 @@ template: blog-post
 title: >-
   Cerca de 288 pessoas esperavam por atendimento especializado em saúde trans
   pelo SUS até agosto
-cover: /uploads/bandeira-trans.jpg
+cover: https://www.ucarecdn.com/c8ed8cb1-55c1-4464-a389-7011f25a1fb5/
 date: '2018-11-15'
 editorial: 2018-2-comportamento
 authors:
@@ -24,13 +24,13 @@ Para ter acesso ao processo, pacientes a partir de 18 anos precisam passar por a
 
 A tabela a seguir mostra quais hospitais federais oferecem os procedimentos.
 
-![](/uploads/tabela-de-hospitais-federais.png)
+![](https://www.ucarecdn.com/0af7f78a-5152-4a41-8a3e-75a0a2ec69a2/)
 
 Dois grupos de crianças e adolescentes também podem receber assistência. A faixa etária de um grupo vai de 12 a 17 anos, e do outro, de 17 a 21 anos. O foco não é em procedimentos cirúrgicos, mas em intervenções psicossociais, como estratégias de relacionamento em sociedade preconceituosa e conscientização de direitos sociais.
 
 Sobre o acesso a procedimentos pelo SUS, o Ministério da Saúde afirma que “a inclusão de pacientes na lista de espera é feita por gestores \[de secretarias de saúde] locais”.
 
-![A bandeira do orgulho transgênero foi criada em agosto de 1999, por Monica Helms e tem cinco listras horizontais. São duas listras azuis, cor tradicionalmente ligada aos meninos, duas listras cor-de-rosa, cor tradicionalmente ligada às meninas, e uma faixa central branca, para aqueles que estão entre os dois sexos, em transição de um para o outro ou consideram ter um gênero neutro ou indefinido. (Foto: reprodução)](/uploads/cropped-bandeira_trans.jpg)
+![A bandeira do orgulho transgênero foi criada em agosto de 1999, por Monica Helms e tem cinco listras horizontais. São duas listras azuis, cor tradicionalmente ligada aos meninos, duas listras cor-de-rosa, cor tradicionalmente ligada às meninas, e uma faixa central branca, para aqueles que estão entre os dois sexos, em transição de um para o outro ou consideram ter um gênero neutro ou indefinido. (Foto: reprodução)](https://www.ucarecdn.com/89989027-63e4-410b-b14a-07422dfb92f8/)
 
 **Diversidade afetiva**
 
@@ -42,7 +42,7 @@ Mesmo com a [Política Nacional de Saúde LGBT](http://bvsms.saude.gov.br/bvs/pu
 
 O cientista político trans Marcelo Caetano, de 29 anos, formado pela Universidade de Brasília, esclarece que existem diversas alternativas biomédicas e intervenções cirúrgicas que podem deixar as pessoas mais confortáveis com o próprio corpo, e não só pessoas trans. “Todos devem ter autonomia sobre o próprio corpo para decidir, mas vale pensar também no quanto essas intervenções acontecem realmente porque a pessoa vive em grande sofrimento sem elas, e se há alguma régua da cisgeneridade operando aí”, indica Caetano.
 
-![O cientista político Marcelo Caetano. (Foto: reprodução de rede social)](/uploads/marcelo-caetano.png)
+![O cientista político Marcelo Caetano. (Foto: reprodução de rede social)](https://www.ucarecdn.com/df87bbe9-8778-4f4d-97e0-31e6cded46e7/)
 
 Educador social na região da Estrutural, no Distrito Federal, ele avalia o nível de informação da população brasileira sobre a comunidade T. “Com a grande massificação da internet nesta última década, muita coisa mudou: novos canais de voz e fala se abriram para pessoas trans e a questão chegou em muitos lugares: na grande mídia, na academia. Alguns direitos foram garantidos. Pessoas trans estão resistindo há décadas e, hoje, essa se tornou uma questão que chega a muitos lugares do mundo.”
 

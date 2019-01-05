@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Consumo de bebida alcoólica afeta universitários
-cover: /uploads/thalyta-foto-748x421.jpeg
+cover: https://www.ucarecdn.com/f946f9f9-efcf-472a-b932-5e628d349931/
 date: '2018-06-11'
 editorial: 2018-1-universidade
 authors:
@@ -24,7 +24,7 @@ O consumo do álcool e outras drogas está presente desde os trotes universitár
 
 Segundo dados divulgados pela Organização Mundial da Saúde (OMS), o consumo de álcool por pessoa no Brasil chegou a 8,9 litros em 2016 e superou a média internacional, de 6,4 litros per capita. Isso pode estar relacionado a questões biológicas, sociais e psicológicas.  No entanto, não se pode afirmar definitivamente o que leva ao jovem à decisão de ingerir ou não bebidas alcoólicas. O modo com que cada um lida com a bebida e as relações com as pessoas do seu meio de convivência podem ser fatores a serem considerados nesse processo.
 
-![](/uploads/thalyta-foto-748x421.jpeg)
+![](https://www.ucarecdn.com/f946f9f9-efcf-472a-b932-5e628d349931/)
 
 A OMS não vê o consumo do álcool em si como um problema, mas considera que o uso excessivo e a falta de controle em certas situações podem causar prejuízos. No Brasil, dados estatísticos demonstram que o álcool é responsável por 47% dos acidentes de trânsito (principal causa de morte entre jovens), 41% dos homicídios e por um número expressivo de assassinatos, brigas e suicídio. O excesso de drogas legais e/ou ilegais é reconhecido mundialmente como um problema real que afeta a humanidade como um todo, principalmente por causar impactos negativos no desempenho profissional e acadêmico, no estado de saúde, na vida social e familiar do consumidor.
 

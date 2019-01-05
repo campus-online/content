@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: 'Famílias usam o segundo turno das eleições para gerar renda extra  '
-cover: /uploads/whatsapp-image-2018-10-28-at-12.10.21.jpeg
+cover: https://www.ucarecdn.com/2a0293af-0282-409a-9ad4-20a9dd7d1120/
 date: '2018-10-28'
 editorial: 2018-2-politica
 authors:
@@ -18,7 +18,7 @@ headline: >-
 ---
 Algumas pessoas enxergam nas eleições oportunidades além de exercer o direito ao voto direto. Não é incomum encontrar ambulantes vendendo os mais diversas itens nas zonas eleitorais, que vão desde bandeiras e adesivos até alimentos e bebidas. É o caso de uma família do P Norte, Ceilândia, que enxergou no dia de hoje uma oportunidade de ganhar dinheiro extra para ajudar nas finanças.
 
-![Família vende dindin em frente a colégio eleitoral. (Foto: Matheus Godois)](/uploads/whatsapp-image-2018-10-28-at-12.10.21.jpeg)
+![Família vende dindin em frente a colégio eleitoral. (Foto: Matheus Godois)](https://www.ucarecdn.com/2a0293af-0282-409a-9ad4-20a9dd7d1120/)
 
 O casal Ester e Alex, junto com filho Gustavo, vende bombons e dindin em frente à escola classe 38 para ajudar na renda de casa. Eles fizeram o mesmo no primeiro turno das eleições, mas consideram que no segundo turno as vendas estão melhores. “Segundo turno está sendo bem melhor, só pela parte da manhã já vendemos quase o mesmo tanto que o dia inteiro do primeiro turno”, disse Ester.
 

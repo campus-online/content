@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Taguatinguenses se surpreendem com cancelamento de títulos
-cover: /uploads/image.png
+cover: https://www.ucarecdn.com/3a96858a-0381-4999-b6bb-90e6722e80ec/
 date: '2018-10-07'
 editorial: 2018-2-politica
 authors:
@@ -23,7 +23,7 @@ Muitos ainda estavam perdidos devido à extinção de algumas zonas eleitorais, 
 
 "Estas zonas estão uma zona", disse o eleitor de Taguatinga Norte que teve de se dirigir para outra seção após descobrir que a escola não era seu local de votação. O morador não quis ser identificado.
 
-![Santinhos espalhados pela rua em Taguatinga. (Foto: Millena Sousa)](/uploads/image-1-.png)
+![Santinhos espalhados pela rua em Taguatinga. (Foto: Millena Sousa)](https://www.ucarecdn.com/26b913c5-be53-4d1b-9e86-c1f6e5431945/)
 
 Os famosos "santinhos" também apareceram nas ruas perto da escola. Como o setor é área residencial, a sujeira fica a cargo dos próprios moradores.
 

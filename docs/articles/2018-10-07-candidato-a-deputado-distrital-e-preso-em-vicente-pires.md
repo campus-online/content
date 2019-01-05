@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Candidato a deputado distrital é detido em Vicente Pires
-cover: /uploads/img_4556.jpg
+cover: https://www.ucarecdn.com/87f2d1ae-9334-4c8f-ae62-f7f17517994e/
 date: '2018-10-07'
 editorial: 2018-2-politica
 authors:

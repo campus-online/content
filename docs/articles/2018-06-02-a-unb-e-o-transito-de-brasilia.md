@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Editorial - A UnB e o trânsito de Brasília
-cover: /uploads/260116_educacao1.jpg
+cover: https://www.ucarecdn.com/0a1f3159-55f8-45c5-a55d-615df4d8d329/
 date: '2018-06-02'
 editorial: 2018-1-opiniao
 semester: 2018/1

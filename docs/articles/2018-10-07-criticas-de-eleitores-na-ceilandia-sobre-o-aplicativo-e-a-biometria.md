@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: 'Na Ceilândia, eleitores criticam aplicativo de título digital e biometria'
-cover: /uploads/cartorio-eleitoral-realiza-mutirao-da-biometria-dgst.jpg
+cover: https://www.ucarecdn.com/c9ed20ac-92f9-40a1-bf54-e03b7e013da5/
 date: '2018-10-07'
 editorial: 2018-2-politica
 authors:

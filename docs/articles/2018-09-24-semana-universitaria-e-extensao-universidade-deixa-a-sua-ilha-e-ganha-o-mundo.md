@@ -3,7 +3,7 @@ template: blog-post
 title: >-
   Semana Universitária e extensão: universidade deixa a sua `ilha` e ganha o
   mundo
-cover: /uploads/ae12c87f-baba-402f-9e1d-6d4986391626.jpg
+cover: https://www.ucarecdn.com/b3541267-1a4f-497e-a501-92ba5eabe0d2/
 date: '2018-09-24'
 editorial: 2018-2-educacao
 authors:

@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: 'Ambiente profissional: como identificar e como lidar com assédios'
-cover: /uploads/assedio-moral1465591017.jpg
+cover: https://www.ucarecdn.com/9c690a8d-5174-426b-8ed1-3eafddba6011/
 date: '2018-07-23'
 editorial: 2018-1-universidade
 authors:

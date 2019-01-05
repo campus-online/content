@@ -3,7 +3,7 @@ template: blog-post
 title: >-
   Sexo dentro de Campus é motivado por pouca maturidade e consumo alcoólico, diz
   especialista
-cover: /uploads/bce-2.jpg
+cover: https://www.ucarecdn.com/4073a9c1-aa11-42d0-92f6-97c05a36b668/
 date: '2018-05-16'
 editorial: 2018-1-educacao
 authors:
@@ -27,7 +27,7 @@ Para o especialista em sexualidade humana, Alexandre Marques, graduado em psicol
 
 Um estudante de 23 anos que preferiu não identificar nome ou curso, conta já ter feito sexo em três ocasiões dentro da área pública da UnB — levando em conta que o campus compreende a CEU (Casa do Estudante Universitário) e a Colina, alojamentos onde, naturalmente, é permitida a prática sexual. A sala de estudos da BCE (Biblioteca Central da UnB), por duas vezes, e atrás do prédio BSA Norte foram os locais escolhidos pelo aluno. Ele diz se arrepender de ter transado na biblioteca: “É um lugar completamente inapropriado. As pessoas podiam estar estudando, mas eu estava ocupando para outra coisa”. A sala privativa da BCE conta com apenas uma pequena janela na porta que não pode ser tapada, como instrui placa afixada na parede. Antes, era necessário que dois estudantes reservassem o local. Hoje, é exigida a presença de três deles.
 
-![Foto: Caroline Zampiron](/uploads/bsa-n.jpg)
+![Foto: Caroline Zampiron](https://www.ucarecdn.com/dd5dee03-88ec-4848-908a-3fdbf972f96d/)
 
 > O local já foi utilizado para sexo entre alunos da UnB após festa no campus.
 

@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: 'Ameaçado pela devastação, Cerrado é tema de debate'
-cover: /uploads/whatsapp-image-2018-09-25-at-11.33.46.jpeg
+cover: https://www.ucarecdn.com/76f87c44-d9a6-4279-9bd6-6e4fcca943d5/
 date: '2018-09-25'
 editorial: 2018-2-educacao
 authors:

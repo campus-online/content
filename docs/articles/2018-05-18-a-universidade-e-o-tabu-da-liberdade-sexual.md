@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: A universidade e o tabu da liberdade sexual
-cover: /uploads/img-20180521-wa0120-768x512.jpg
+cover: https://www.ucarecdn.com/7618294f-1d17-44b8-bb11-911ec02a802c/
 date: '2018-05-18'
 editorial: 2018-1-opiniao
 authors:
@@ -28,7 +28,7 @@ Alguns estudantes da UnB contaram suas experiências no ambiente universitário,
 
 
 
-![Gabriel de Araújo tinha a sexualidade como um tabu](/uploads/gabriel-araujo-1024x683.jpg)
+![Gabriel de Araújo tinha a sexualidade como um tabu](https://www.ucarecdn.com/d43c78bd-498b-44ef-9fbb-2e58160c5a48/)
 
 “Eu negava muito a minha sexualidade e me reprimia. Sempre associava a questão das sexualidades diversas da normativa heterossexual como coisas ruins que eu deveria fugir”, relata o estudante de direito Gabriel de Araújo “A vivência na academia me possibilitou desmistificar algumas coisas e falar de assuntos que para mim eram tabus. Nisso, eu desconstruí muita coisa que eu tinha como verdade e sequer questionava, como a minha própria sexualidade”.
 
@@ -50,7 +50,7 @@ Isabella não é a única: por toda a universidade, existem alunos que relatam c
 
 
 
-![Felipe Oliveira, formado em Letras-Tradução na UnB. “O ingresso na universidade mudou completamente minha vida e a forma como me enxergo ”, conta. ](/uploads/felipe-oliveira-1024x768.jpg)
+![Felipe Oliveira, formado em Letras-Tradução na UnB. “O ingresso na universidade mudou completamente minha vida e a forma como me enxergo ”, conta. ](https://www.ucarecdn.com/dd8577c2-c140-47cd-a657-96d991b6dd57/)
 
 
 

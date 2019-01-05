@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: O tardio despertar da universidade para as notícias falsas
-cover: /uploads/whatsapp-image-2018-10-19-at-18.47.09.jpeg
+cover: https://www.ucarecdn.com/67964efd-8d67-42cb-a919-9e0c19c95cb7/
 date: '2018-10-19'
 editorial: 2018-2-politica
 authors:
@@ -26,7 +26,7 @@ Sendo esta a primeira disciplina sobre fake news na Universidade de Brasília, P
 
 Paulo José também reitera que a disciplina valoriza a profissão do jornalista e a necessidade de checar as fontes. “A checagem das informações é imprescindível, já que com a proliferação das fake news, a chance de cometer erros e repassá-las é muito grande. E a gente tem que considerar que o jornalista é a última instância da produção de informação verídica.” O papel do jornalista é de portador da verdade e, em tempos de notícias falsas circulando pela internet, é nas mídias tradicionais que a população se ampara para descobrir se a informação que recebeu é verdadeira ou não.
 
-![“A essência do jornalismo é a verdade e a verdade está em risco com tudo o que essas inverdades, ou mentiras, acarretam”, diz Paulo José sobre as fake news. (Foto: Denise Semino)](/uploads/unnamed.jpg)
+![“A essência do jornalismo é a verdade e a verdade está em risco com tudo o que essas inverdades, ou mentiras, acarretam”, diz Paulo José sobre as fake news. (Foto: Denise Semino)](https://www.ucarecdn.com/5dcc5cb4-310d-4da5-b7d1-d788e745de6f/)
 
 Mas nem tudo está perdido, como afirma o professor. Pesquisas comprovam que as fakes news não têm poder de mudar uma opinião, mas sim de reafirmar aquela opinião que quem está lendo já possuía previamente. As fake news que são recebidas e não vão ao encontra da opinião de quem está visualizando são descartadas.
 

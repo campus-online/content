@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Campus Online no Youtube
-cover: /uploads/img-20180525-wa0105-1024x576.jpg
+cover: https://www.ucarecdn.com/b8114e12-4e34-4159-b0b0-c03c17b31715/
 date: '2018-05-28'
 editorial: 2018-1-educacao
 semester: 2018/1

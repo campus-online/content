@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Eleição tranquila em Sobradinho
-cover: /uploads/img_2907.jpg
+cover: https://www.ucarecdn.com/93b5013f-caf5-42cc-9ab4-e931bb0e5a23/
 date: '2018-10-07'
 editorial: 2018-2-politica
 authors:
@@ -20,6 +20,6 @@ Nesta manhã, apesar dos santinhos poluindo as ruas da cidade de Sobradinho, a t
 
 Nas três escolas que faziam parte da Zona 5 de Sobradinho, os policiais relataram uma tranquilidade surpreendente. Afinal, este ano o consumo de bebidas alcoólicas foi permitido. Porém, nenhum caso de briga, baderna ou qualquer outro fato que pudesse criar alguma desordem foi registrado. "Pelo menos não até agora", relatou um policial em frente ao Centro Educacional 3 de Sobradinho, que comportava a maioria das seções de votação.
 
-![Movimentação em colégio eleitoral em Sobradinho, sem intercorrências. (Foto: Brunna Sousa)](/uploads/img_2914.jpg)
+![Movimentação em colégio eleitoral em Sobradinho, sem intercorrências. (Foto: Brunna Sousa)](https://www.ucarecdn.com/c968725f-3c50-44b2-ad73-7986ab71f1cf/)
 
 Apesar de alguns eleitores estarem vestidos com adesivos e camisas dos seus candidatos, o respeito era o que mais estava em pauta na manhã deste 7 de outubro. Botecos abriram cedo para receber os eleitores que já votaram e queriam relaxar no resto do domingo. Muitos pais com crianças, idosos e jovens e até mesmo vendedores ambulantes registraram que nada de extraordinário estava acontecendo e que todos ali estavam satisfeitos em contribuírem com seus votos.

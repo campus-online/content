@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: UnB está entre melhores universidades de países emergentes
-cover: /uploads/bsa-n.jpg
+cover: https://www.ucarecdn.com/dd5dee03-88ec-4848-908a-3fdbf972f96d/
 date: '2018-05-23'
 editorial: 2018-1-educacao
 authors:

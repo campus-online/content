@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Os desafios de conciliar a vida acadêmica com a prática esportiva
-cover: /uploads/img_6355.jpg
+cover: https://www.ucarecdn.com/e8ec2b20-380c-426b-b128-ed83538a9946/
 date: '2018-11-08'
 editorial: 2018-2-comportamento
 authors:
@@ -22,7 +22,7 @@ Mesclar, diariamente, uma intensa rotina de estudos com a prática de exercício
 
 É o caso de André Freire, estudante de Engenharia Florestal, 20 anos, que intercala as aulas de boxe que pratica no Centro Olímpico da universidade com as sessões de treino de Crossfit, método que envolve atividades de alta intensidade. “Todo semestre pego por volta de 28 créditos. Isso dá, mais ou menos, 4 horas de aula por dia. E procuro, todo dia, fazer um esporte físico. Faço boxe terça-feira, quarta-feira e quinta-feira. O treino dura, normalmente, 1h30. A atividade me dá um suporte muito bom, me desestressa bastante, além de que eu faço na hora do almoço. Ou seja, depois do treino, tomo banho e aí volto para a aula até mais esperto”, relata.
 
-![Andre conta que, com as aulas de boxe, consegue manter-se atento às aulas da universidade no horário vespertino. (Foto: arquivo pessoal)](/uploads/16c8a9c7-19e5-4413-8642-53fe998de8b1.jpg)
+![Andre conta que, com as aulas de boxe, consegue manter-se atento às aulas da universidade no horário vespertino. (Foto: arquivo pessoal)](https://www.ucarecdn.com/6b4736d4-32d6-4386-a462-c60b148c18fd/)
 
 Freire também pratica Crossfit em dias sem treinos de boxe, durante a noite. Porém, de acordo com o estudante, em semanas de provas e apresentações de trabalho, é difícil manter a rotina de esporte. “Eu não costumo estudar tanto nas semanas letivas. Prefiro acumular para revisar logo tudo na semana de provas”, revela. De acordo com André, outro fator que lhe possibilita aguentar a rotina pesada é a alimentação favorável. “Minha alimentação é ótima. Faço todas as refeições e tento não ficar sem comer por um período maior que 3 horas. Jamais pulo refeição. Isso me dá um resultado muito legal”, comenta.
 
@@ -30,7 +30,7 @@ Quem gostava, no Ensino Médio, de pedalar por longas distâncias teve de readap
 
 Gabriel, que além de frequentar as salas de aula, também participa da empresa júnior do curso de Nutrição, Nutrir Jr., precisa lidar com a agenda intensa. “O curso de nutrição, apesar de parecer fácil, exige tempo do aluno. Assim, o ciclismo acabou sendo deixado de lado. Eu, por exemplo, frequento a academia agora, em horários vagos da semana, até pra prática”. O estudante reconhece que, praticando um exercício, o universitário abre mão de horários de descanso. “Com a prática da atividade física, você abre mão de muita coisa. É um tempo que você tem a mais pra ficar com a família, amigos. É uma coisa complexa. Por toda essa correria, é difícil”, detalha.
 
-![Gabriel chegava a pedalar mais de duas por dia no Ensino Médio. Depois de ter entrado na UnB, substituiu a bicicleta por treinos físicos na academia. (Foto:](/uploads/d3cb965c-a581-4015-a3ee-8245b93ea54c.jpg)
+![Gabriel chegava a pedalar mais de duas por dia no Ensino Médio. Depois de ter entrado na UnB, substituiu a bicicleta por treinos físicos na academia. (Foto:](https://www.ucarecdn.com/71a6bb26-c3df-4d21-9fed-8e26f245a803/)
 
 Há também exemplos daqueles que priorizam uma atividade esportiva coletiva, com foco no bem estar mútuo. Os amigos Iago Camargo, 19, e Lucas Reis, 20, estudantes de Administração da UnB, treinam Judô, arte marcial japonesa, durante a semana. “Treino o judô desde os quatro anos. Não vejo minha vida sem judô. Na UnB, tenho aula de segunda a quinta, estágio até sexta-feira, pela tarde, e, mesmo assim, treino todos os dias. Para aguentar tudo isso, faço uma dieta equilibrada. É uma rotina desgastante. Preciso desenvolver e não me sobrecarregar. Até pra tranquilizar para o curso e relaxar o corpo, faço tratamento de acupuntura. Eu gosto do que faço, foi uma escolha minha e estou bastante satisfeito”, diz Lucas.
 
@@ -38,7 +38,7 @@ Já Iago, que entrou recentemente na UnB, diz que com a rotina agitada, prefere 
 
 Quem ministra o treino de ambos é Oswaldo Navarro, faixa rajada da modalidade, acompanhado pelo auxiliar e fiel escudeiro, Fabiano Vianna. Os treinos ocorrem às terças e quintas, sendo o último ministrado de 20h30 às 22h30, o que possibilita um maior número de jovens nas aulas. De acordo com Oswaldo, além dos vários horários disponíveis para treinamento, é importante estabelecer um contato com diferentes pessoas e variar o ambiente, respeitando as limitações de cada um. “O cara está lá estudando, sentado por quatro horas. Depois, no contraturno, ainda tem que fazer um estágio ou preparar-se para uma monografia. Se ele vier para cá, primeiro que vai oxigenar o cérebro. Depois, vai encontrar novas amizades, desestressar. Os estudos e trabalhos vão até fluir melhor. Tudo isso ajudará no físico e mental”, aconselha. De acordo com Navarro, ir duas vezes por semana ao treino já é o ideal para relaxar, conduzir melhor os estudos e resolver, com maior afinco, questões pendentes. O sensei ministra aula para crianças desde os três anos de idade, incluindo autistas, até idosos de 80 anos.
 
-![Oswaldo Navarro (à esquerda) ministra os treinamentos para os jovens Iago Camargo (ao lado de Oswaldo) e Lucas Reis (na extrema direita). (Foto: Gabriel Ponte)](/uploads/img_6352.jpg)
+![Oswaldo Navarro (à esquerda) ministra os treinamentos para os jovens Iago Camargo (ao lado de Oswaldo) e Lucas Reis (na extrema direita). (Foto: Gabriel Ponte)](https://www.ucarecdn.com/9649fc54-43ad-4113-8ef1-8eae34d20820/)
 
 ## Dicas do Campus
 

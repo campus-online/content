@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Editorial - A batalha delas
-cover: /uploads/mulheres-representando-3-tipos-de-feminismo-1024x512.jpeg
+cover: https://www.ucarecdn.com/a9c6a772-8963-4bbd-a496-c8a6c7c49a1a/
 date: '2018-06-23'
 semester: 2018/1
 featured: false

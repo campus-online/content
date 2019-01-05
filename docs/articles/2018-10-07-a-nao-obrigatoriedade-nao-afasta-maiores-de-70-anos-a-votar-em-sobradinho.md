@@ -3,7 +3,7 @@ template: blog-post
 title: >-
   Eleitores com mais de 70 anos comparecem às urnas em Sobradinho mesmo com a
   não obrigatoriedade
-cover: /uploads/20181007_075815.jpg
+cover: https://www.ucarecdn.com/afb06a19-ce40-468f-968f-533a349891f9/
 date: '2018-10-07'
 editorial: 2018-2-politica
 authors:
@@ -27,4 +27,4 @@ Sobradinho I e II têm 44 locais de votação e 115.901 eleitores.
 
 Para saber sua zona e seção eleitoral basta acessar o site (<http://www.tre-df.jus.br/>)  do Tribunal Regional Eleitoral do DF (TRE-DF) ou consultar em seu título de eleitor. Para quem já fez o recadastramento biométrico, essas informações estão disponíveis também no aplicativo para smartphones, e-Título. Lembrando que o período de votação começou às 8h e vai até às 17h.
 
-![Fila na entrada do Centro Educacional 02 de Sobradinho para votar. (Foto: Ana Luísa Santos)](/uploads/20181007_075815.jpg)
+![Fila na entrada do Centro Educacional 02 de Sobradinho para votar. (Foto: Ana Luísa Santos)](https://www.ucarecdn.com/afb06a19-ce40-468f-968f-533a349891f9/)

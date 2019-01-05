@@ -3,7 +3,7 @@ template: blog-post
 title: >-
   Novos prazeres, velhos costumes: A prevenção contra infecções sexualmente
   transmissíveis na Universidade
-cover: /uploads/novos-prazeres-velhos-costumes.jpg
+cover: https://www.ucarecdn.com/8aba6da9-951a-429e-954e-653d6566733a/
 date: '2018-05-14'
 editorial: 2018-1-educacao
 authors:
@@ -54,7 +54,7 @@ No caso do HIV, existe a PEP (Profilaxia Pós- Exposição ao HIV). É uma medid
 
 A PEP é composta por medicamentos antirretrovirais que agem evitando a sobrevivência e a multiplicação do HIV no organismo e, por isso, deve ser iniciada o mais rápido possível, preferencialmente nas 2 (duas) primeiras horas após a exposição ao vírus e no máximo em até 72 horas. Os medicamentos são oferecidos gratuitamente pelo SUS e, no Polo de Prevenção da UnB, são feitos a transferência do paciente para a Unidade de Saúde mais próxima.
 
-![Foto: Thifany Batista](/uploads/novos-prazeres-velhos-costumes.jpg)
+![Foto: Thifany Batista](https://www.ucarecdn.com/8aba6da9-951a-429e-954e-653d6566733a/)
 
 > A repórter Thalyta Guerra fez o teste rápido de HIV e Sífilis.
 > O resultado ficou pronto em apenas 10 minutos.
@@ -89,4 +89,4 @@ Cada vez mais aumentam os diagnósticos positivos. Mário relembra que há um m�
 **Local:** ICC SUL – Sala A1-136\
 **Contato:** 3107-6735
 
-![Arte: Natália Alves](/uploads/img-20180515-wa0040.jpg)
+![Arte: Natália Alves](https://www.ucarecdn.com/aef6e5b5-55b1-445e-9691-d1114f8fd2ba/)

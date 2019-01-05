@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Mulheres vencem barreira de gênero no esporte
-cover: /uploads/whatsapp-image-2018-11-14-at-13.26.46.jpeg
+cover: https://www.ucarecdn.com/8011fd8d-ad21-49b6-8500-6ac300da25b4/
 date: '2018-11-16'
 editorial: 2018-2-comportamento
 authors:
@@ -25,7 +25,7 @@ Ao longo do tempo, as mulheres vêm quebrando estereótipos impostos pela cultur
 
 Segundo Cataryne, um exemplo real é o desempenho individual, no quadro das medalhas, do judô nas Olimpíadas. De acordo com a estudante, a arte marcial acaba por trazer mais medalhas, pelo sexo feminino, do que masculino, nas competições. “Eu gosto do que o esporte faz com a figura da mulher. Ele dá valor e mostra que não são apenas homens que são fortes. A mulher também pode ser muito grande no que faz. O judô trouxe isso para mim e continua a trazer para várias mulheres”, relatou.
 
-![Cataryne, que pratica judô desde os quatro anos de idade, já acumula, na bagagem, importantes títulos. (Foto: reprodução do arquivo pessoal)](/uploads/whatsapp-image-2018-11-14-at-13.26.33.jpeg)
+![Cataryne, que pratica judô desde os quatro anos de idade, já acumula, na bagagem, importantes títulos. (Foto: reprodução do arquivo pessoal)](https://www.ucarecdn.com/fa3a8ede-369a-486d-b3a6-7de19e57053d/)
 
 Outra que também, desde criança, se interessa pelo esporte, especificamente o futebol, uma prática esportiva majoritariamente masculina, é Isabella Silveira, 19, estudante de publicidade na UnB. “Comecei a jogar futebol quando era pequena. Sempre demonstrei interesse. Jogava na escola, nos intervalos, junto com os meninos. Porém, meu pai nunca quis me colocar em uma escolinha, nem levou a sério meu interesse, até por ser um esporte majoritariamente masculino. Ao longo da vida, eu nunca parei de jogar, mas também não treinava constantemente. Quando estava no Ensino Médio, voltei a treinar, duas vezes por semana. Depois, acabou que parei por mais um pouco”, revelou.
 

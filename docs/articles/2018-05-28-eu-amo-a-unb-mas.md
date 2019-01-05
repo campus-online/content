@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: 'Eu amo a UnB, mas…'
-cover: /uploads/img-20180527-wa0052-768x512.jpg
+cover: https://www.ucarecdn.com/2ffbc207-84d8-43f6-9f32-9ec124e705ae/
 date: '2018-05-28'
 editorial: 2018-1-opiniao
 authors:

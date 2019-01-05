@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: 'Ciclistas na UnB: sustentabilidade e risco'
-cover: /uploads/img-20180531-wa0056-225x300.jpg
+cover: https://www.ucarecdn.com/43fe5d93-5f07-499b-8031-181142a41fb6/
 date: '2018-05-31'
 editorial: 2018-1-educacao
 authors:
@@ -52,13 +52,13 @@ O professor Pastor Willy Gonzales Taco menciona ainda o problema da segurança e
 
 Apesar dos problemas indicados, existem fatores positivos quanto à segurança. O pesquisador cita a “zona 30”, aquelas áreas de velocidade a 30 km para evitar impactos graves em uma batida ou acidente e ressalta também [a parceria com o Departamento de Trânsito do Distrito Federal (DETRAN) na realização de campanhas](https://www.maioamarelo.com/o-movimento/) para uma relação mais amigável nas vias e do Maio Amarelo.
 
-![](/uploads/img-20180531-wa0055.jpg)
+![](https://www.ucarecdn.com/5302950c-914b-4bcc-98a1-24eb9905f843/)
 
 Raimundo, estudante do curso de Direito, faz o uso da bicicleta como meio de transporte alternativo uma vez que ele mora na 107 Norte, perto da universidade e também quando tem mais tempo e para o lazer. Afirma que o que dificulta o uso da bicicleta é a falta de infraestrutura adequada. “A cidade é pensada para os carros e pouco para as bicicletas e pedestres”.
 
 
 
-![](/uploads/img-20180531-wa0057.jpg)
+![](https://www.ucarecdn.com/e382654c-beab-446d-8557-1f7d79f10a96/)
 
 O grafiteiro, rapper do Extrema Função e artista plástico, Cleiniston, usa as bicicletas por motivo de trabalho. Ele afirma que o projeto + Bikes é muito bom. “É legal principalmente para a locomoção”. O aspecto ruim, quando você vai de uma estação até outra é “você vai levar a bicicleta e chega lá não tem lugar pra guardar ou você vai pegar a bicicleta e não tem bicicleta”. Ele acrescenta ainda a distância entre as estações que pode ser grande.
 

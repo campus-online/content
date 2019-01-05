@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: O passado de cada presidente pensando no futuro
-cover: /uploads/naom_5b71b4f796a15.jpg
+cover: https://www.ucarecdn.com/764fefec-c36d-4114-9de7-37d964e16213/
 date: '2018-10-04'
 editorial: 2018-2-politica
 authors:

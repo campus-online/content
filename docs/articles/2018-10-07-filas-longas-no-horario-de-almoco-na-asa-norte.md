@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Filas longas no horário de almoço na Asa Norte
-cover: /uploads/img_2653.jpg
+cover: https://www.ucarecdn.com/43af62e6-1d3c-4795-ad72-1b69bb4b9dc2/
 date: '2018-10-07'
 editorial: 2018-2-politica
 authors:
@@ -16,7 +16,7 @@ headline: Eleitores chegam a esperar cerca de 30 minutos para votar
 ---
 No Iesb da 909 Norte, as seções 119 e 120 apresentam uma fila de espera. O tempo aproximado é de 30 minutos, demora atribuída à quantidade de idosos e mulheres com crianças de colo que se apresentam no local. Apesar do calor e dos corredores estreitos, a maioria dos eleitores estão pacientes e aguardam a sua vez distraindo-se com o celular, mandando mensagens ou jogando.
 
-![Eleitores aguardam na fila da seção eleitoral no Iesb da Asa Norte. (Foto: Eline Sandes)](/uploads/img_2653.jpg)
+![Eleitores aguardam na fila da seção eleitoral no Iesb da Asa Norte. (Foto: Eline Sandes)](https://www.ucarecdn.com/43af62e6-1d3c-4795-ad72-1b69bb4b9dc2/)
 
 
 

@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: 'UnB melhora a segurança mesmo sem aumento nos recursos '
-cover: /uploads/whatsapp-image-2018-11-01-at-10.20.35.jpeg
+cover: https://www.ucarecdn.com/3e271b69-c8c9-4d69-806d-e2d9c71a05ca/
 date: '2018-10-31'
 editorial: 2018-2-comportamento
 authors:
@@ -17,7 +17,7 @@ Quem anda pelos corredores e estacionamentos da Universidade de Brasília, espec
 
 Todas essas modificações foram recomendadas pelo **Comitê de Segurança** instituído pela reitoria da universidade no final de 2017. As determinações seguiram os resultados de uma pesquisa encomendada pela UnB e elaborada pela Secretaria de Segurança Pública do Distrito Federal (SSP/DF), que investiga a sensação de insegurança dos alunos, professores e funcionários. O levantamento, realizado em abril deste ano, apontou que quase 50% das pessoas se sentem extremamente inseguras dentro da universidade.
 
-![Arte: Isabela Castilho/ Fonte: SSP/DF](/uploads/whatsapp-image-2018-10-31-at-23.39.49.jpeg)
+![Arte: Isabela Castilho/ Fonte: SSP/DF](https://www.ucarecdn.com/15605873-296d-48cc-838c-06673781ad20/)
 
 As medidas para solucionar o problema já estão dando resultados: os furtos de carros, assaltos e agressões diminuíram em relação aos anos anteriores. No primeiro semestre de 2017, foram registrados 74 furtos a carros, enquanto no primeiro semestre de 2018, foram 61. Apesar da redução não ter sido tão significativa no período, é preciso considerar o avanço – principalmente levando em conta que a maioria das novas medidas ainda não tinham sido implantadas. Os assaltos também passaram de três ocorrências no ano passado para nenhuma neste ano.
 
@@ -39,7 +39,7 @@ As medidas, entretanto, estão quase inteiramente restritas ao campus Darcy Ribe
 
 Layza Dutra e Maria Aparecida são duas vigilantes que ficam nas cadeiras elevadas do ICC Norte. Apesar do corte dos gastos no último ano, as duas já trabalham na UnB há cinco anos, das sete da manhã às 16h. Elas contam que a mudança foi benéfica, que nunca presenciaram nenhuma ocorrência esse semestre nos estacionamentos, mas que algumas mudanças ainda poderiam ser feitas para melhorar as condições de trabalho. “Uma coisa que faz falta é uma cabine, por exemplo, no lugar dessa cadeira”, relata Dutra.
 
-![As cadeiras elevadas foram uma novidade do segundo semestre de 2018, cujo intuito é melhorar a vigilância nos maiores estacionamentos do Campus Darcy Ribeiro. (Foto: Natália Fechine)](/uploads/whatsapp-image-2018-11-01-at-10.20.35.jpeg)
+![As cadeiras elevadas foram uma novidade do segundo semestre de 2018, cujo intuito é melhorar a vigilância nos maiores estacionamentos do Campus Darcy Ribeiro. (Foto: Natália Fechine)](https://www.ucarecdn.com/3e271b69-c8c9-4d69-806d-e2d9c71a05ca/)
 
 Escute uma parte da entrevista com a segurança Layza Dutra:
 
@@ -47,7 +47,7 @@ Escute uma parte da entrevista com a segurança Layza Dutra:
 
 A funcionária conta ainda que costuma fazer uma ronda a pé no estacionamento e percebe que sempre tem alguém que esquece a janela aberta. Ela já achou até uma chave. “Quando encontro esses pertences, eles ficam um tempo comigo porque a pessoa pode lembrar e me procurar, mas se não, eu tenho que fazer uma ocorrência e levar para a CoPP”, conta Layza Dutra.
 
-![Visão ampliada do estacionamento conferida pelas cadeiras elevadas. (Foto: Natália Fechine)](/uploads/whatsapp-image-2018-11-01-at-00.33.27.jpeg)
+![Visão ampliada do estacionamento conferida pelas cadeiras elevadas. (Foto: Natália Fechine)](https://www.ucarecdn.com/36c5a99b-efcd-4418-b0fd-c806d217157f/)
 
 A Coordenadoria Proteção ao Patrimônio (CoPP) está diretamente ligada à prefeitura, mas a é a parte que coordena e executa tarefas relativas à vigilância do Campus. Eles também estão ligados ao registro das ocorrências de desvios, furtos, roubos e invasões. E se precisar, o telefone da Central de Segurança é (61) 3107 6222 ou dos achados e perdidos (61) 3107-5855.
 

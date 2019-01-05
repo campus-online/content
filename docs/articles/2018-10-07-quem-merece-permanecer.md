@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Quem merece permanecer?
-cover: /uploads/download.jpg
+cover: https://www.ucarecdn.com/ba9e38ae-de19-461d-a628-88fd38537cb7/
 date: '2018-10-07'
 editorial: 2018-2-politica
 authors:
@@ -20,4 +20,4 @@ Em 2015, Erika aprovou, junto com Paulo Teixeira (PT/SP) e Jean Wyllys (PSOL/RJ)
 
 Entre os deputados que se elegeram em 2014 e não têm planos de continuar na Câmara dos Deputados, há os candidatos ao governo do Distrito Federal Alberto Fraga (DEM) e Rogério Rosso (PSD). Izalci Lucas (PSDB) é candidato ao Senado Federal. Além deles, estão fora das eleições de 2018 o pastor Ronaldo Fonseca (Pode), atual ministro da Secretaria-Geral da Presidência da República, e Rôney Nemer (PP), que sofre ação de improbidade administrativa e está inelegível.
 
-![Elaboração: Mariana Santos.](/uploads/sem-titulo-1.jpg)
+![Elaboração: Mariana Santos.](https://www.ucarecdn.com/cf60e2ad-e91b-420a-a2ed-2b906e618b8c/)

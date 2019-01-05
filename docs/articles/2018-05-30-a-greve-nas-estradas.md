@@ -2,7 +2,7 @@
 template: blog-post
 title: Editorial - A greve nas estradas
 cover: >-
-  /uploads/grevecaminhoneirosestrada1200-ce3b6540be84d218980fff7c9d0d8c44-1200x600.jpg
+  https://www.ucarecdn.com/edef9723-ecb9-47bc-88ae-6ad7292c1c51/
 date: '2018-05-30'
 editorial: 2018-1-opiniao
 authors:

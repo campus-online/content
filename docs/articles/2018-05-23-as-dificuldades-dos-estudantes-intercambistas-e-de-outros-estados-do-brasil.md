@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: As dificuldades dos estudantes intercambistas e de outros estados do Brasil
-cover: /uploads/julio-sousa-768x432.jpg
+cover: https://www.ucarecdn.com/4e1538ef-643b-4f77-b121-1f96f2a1f304/
 date: '2018-05-23'
 editorial: 2018-1-educacao
 authors:
@@ -20,7 +20,7 @@ headline: >-
 ---
 Segundo dados da Assessoria de Assuntos Internacionais da UnB (INT), de 2011 a 2018 entraram 1088 alunos intercambistas (apenas pelos programas da INT). Cerca de 1500 estudantes, em toda a UnB, dependem do auxílio moradia, de acordo com a Diretoria de Desenvolvimento Social (DDS). “Esses números vão aumentar em breve porque está próxima a data do resultado do edital de seleção que oferece 31 vagas para a Casa do Estudante (CEU) e 85 vagas para a modalidade pecúnia”, afirma o coordenador dos programas de assistência, Eduardo Lemgruber.
 
-![](/uploads/bsa-n.jpg)
+![](https://www.ucarecdn.com/dd5dee03-88ec-4848-908a-3fdbf972f96d/)
 
 Administrar a rotina de estudos, trabalho e finanças no início da vida acadêmica muitas vezes acaba prejudicando a saúde mental dos alunos e dificultando o desempenho no curso. Como conta o estudante goiano de biblioteconomia Leonardo Marçal, a adaptação pode ser difícil: Leonardo passou por vários transtornos devido à sua sexualidade e problemas financeiros. As coisas só melhoraram quando o aluno buscou ajuda na DDS. “Me ajudaram com o recurso do auxílio emergencial e me encaminharam para diversas terapias com psicólogo”, relatou. “Eu consegui focar nos estudos e me conhecer melhor. A universidade é minha casa, até porque eu moro aqui e vejo nela uma oportunidade de melhorar minha vida”.
 

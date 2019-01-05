@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Pesquisa mostra relação entre esgotos e consumo de cocaína no DF
-cover: /uploads/img-20180608-wa0010-748x421.jpg
+cover: https://www.ucarecdn.com/d6a09d91-a488-4003-98a7-40ef084a0be5/
 date: '2018-06-11'
 editorial: 2018-1-universidade
 authors:
@@ -17,7 +17,7 @@ A partir da análise dessas amostras de esgoto é possível encontrar cocaína p
 
 Líder no consumo de cocaína está Asa Norte, Lago Norte e Varjão. O gráfico abaixo indica o consumo semanal em dose dia.
 
-![Arte: Filliphi da Costa](/uploads/po-s.png)
+![Arte: Filliphi da Costa](https://www.ucarecdn.com/2e20532d-325d-440c-8e25-37f062090ec8/)
 
 O estudo também foi feito durante a Copa do Mundo de 2014, quando Brasília sediou dois jogos do Brasil em dois finais de semana. A intenção era comprovar se o clima festivo realmente influencia no consumo desses entorpecentes. E a hipótese se confirmou: o consumo de drogas teve um salto significativo. “Quando as pessoas estão consumindo álcool e festejando a tendência para haver consumo é muito grande” explica Fernando Sodré, professor do Instituto de Química da UnB e também integrante do AQQUA.
 
