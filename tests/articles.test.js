@@ -11,7 +11,7 @@ const isString = value => typeof value === 'string'
 const prefixWith = slug => title => `[${slug}]: ${title}`
 const isRelation = ([key, value]) => {
 	if(key === 'authors' && Array.isArray(value)) return value.every(isString)
-	if(key === 'editorial' && isString(value)) return value.match(/^\d{4}-\d-/)
+	if(key === 'editorial') return isString(value)
 	return false
 }
 
