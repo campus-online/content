@@ -5,12 +5,9 @@ title: >-
   democracia
 cover: /uploads/nota.jpg
 date: '2018-10-26'
-editorial:
-  slug: /editorials/2018-2-opiniao/
-  title: Opinião
-author:
-  slug: /authors/2018-2-flavia-said/
-  title: Flávia Said
+editorial: 2018-2-opiniao
+authors:
+  - 2018-2-flavia-said
 semester: 2018/2
 featured: false
 headline: >-
@@ -21,7 +18,7 @@ A direção da Faculdade de Comunicação da Universidade de Brasília (FAC/UnB)
 
 Além de se solidarizar com os docentes, técnicos e discentes das universidades públicas afetadas, o diretor e a vice-diretora da faculdade também expressam solidariedade com os profissionais da imprensa que, "mesmo diante de ambiente hostil à prática de um jornalismo ético e de qualidade, mantiveram seus princípios em defesa da democracia e das liberdades".
 
-A nota também resgata a história de engajamento da Faculdade de Comunicação da UnB, que presenciou a demissão de professores e a perseguição a estudantes durante o período da ditadura militar (1964-1985).  
+A nota também resgata a história de engajamento da Faculdade de Comunicação da UnB, que presenciou a demissão de professores e a perseguição a estudantes durante o período da ditadura militar (1964-1985).
 
 Leia abaixo a íntegra:
 

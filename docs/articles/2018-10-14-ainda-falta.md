@@ -3,12 +3,9 @@ template: blog-post
 title: 'Ainda falta '
 cover: /uploads/ombudsman.jpg
 date: '2018-10-14'
-editorial:
-  slug: /editorials/2018-2-opiniao/
-  title: Opinião
-author:
-  slug: /authors/2018-1-victor-farias/
-  title: Victor Farias
+editorial: 2018-2-opiniao
+authors:
+  - 2018-1-victor-farias
 semester: 2018/2
 tags:
   - ombudsman
@@ -23,13 +20,13 @@ O retorno do Campus é sempre uma boa expectativa. Equipe nova, novas ideias e n
 
 Em pouco mais de três semanas, o Campus tem se mostrado ativo, mas alguns braços do jornal parecem estar adormecidos. A periodicidade de publicações está baixa. O leitor pede mais.
 
-Nesta semana, por exemplo, tirando a cobertura das eleições – feita com o apoio de colaboradores externos –, o Instagram postou cinco matérias – os outros quatro posts eram divulgações de atividades do Campus. Duas dessas publicações foram sobre as eleições, com informações iguais às que outros jornais deram. Nada de novo. Já o Facebook publicou apenas três posts de conteúdo – um link do site, uma matéria muito interessante sobre o diploma da UnB e o Campus Café.  
+Nesta semana, por exemplo, tirando a cobertura das eleições – feita com o apoio de colaboradores externos –, o Instagram postou cinco matérias – os outros quatro posts eram divulgações de atividades do Campus. Duas dessas publicações foram sobre as eleições, com informações iguais às que outros jornais deram. Nada de novo. Já o Facebook publicou apenas três posts de conteúdo – um link do site, uma matéria muito interessante sobre o diploma da UnB e o Campus Café.
 
 Sobre o Campus Café, uma consideração: não entendo o porquê desse vídeo ser feito ao vivo. Live é um recurso utilizado em situações urgentes, em que a mostrar na hora é mais importante do que qualquer outro aspecto da informação. No caso do Campus Café não há essa necessidade. A informação não vai mudar. O resultado poderia ser melhor.
 
 O Twitter, por outro lado, está funcionando bem no sentido de trazer informações importantes para o leitor. A plataforma, no entanto, perde a oportunidade de informar, em algumas situações. No tweet em que se fala sobre o dia ter acordado frio, por exemplo, poderia se dizer a temperatura esperada para aquela manhã. Algo simples, mas efetivo. Comentários sem informação não fazem sentido em um perfil jornalístico.
 
-Outro ponto a ressaltar é a linguagem utilizada no Twitter. Tenta-se utilizar termos jovens, mas o resultado não é bom. A sensação é de que tem um pai tentando usar gírias para falar com os amigos adolescentes do filho dele. A linguagem jovem é menos uma palavra e mais uma forma de falar. Além disso, falta adaptação de alguns textos jornalísticos para a plataforma. Nos tweets em que o assunto é o Empowering Mobility and Autonomy, por exemplo, a fala de um entrevistado ocupa três tweets na íntegra.  
+Outro ponto a ressaltar é a linguagem utilizada no Twitter. Tenta-se utilizar termos jovens, mas o resultado não é bom. A sensação é de que tem um pai tentando usar gírias para falar com os amigos adolescentes do filho dele. A linguagem jovem é menos uma palavra e mais uma forma de falar. Além disso, falta adaptação de alguns textos jornalísticos para a plataforma. Nos tweets em que o assunto é o Empowering Mobility and Autonomy, por exemplo, a fala de um entrevistado ocupa três tweets na íntegra.
 
 ## Outro lado
 

@@ -3,12 +3,9 @@ template: blog-post
 title: Estudo sobre segurança na UnB revela fragilidade
 cover: /uploads/foto-seg.jpg
 date: '2018-06-28'
-editorial:
-  slug: /editorials/2018-1-educacao/
-  title: Educação
-author:
-  slug: /authors/2018-1-luisa-guimaraes/
-  title: Luísa Guimarães
+editorial: 2018-1-educacao
+authors:
+  - 2018-1-luisa-guimaraes
 semester: 2018/1
 tags:
   - segurança

@@ -5,12 +5,9 @@ title: >-
   instalada na UnB
 cover: /uploads/whatsapp-image-2018-10-26-at-19.54.38.jpeg
 date: '2018-10-26'
-editorial:
-  slug: /editorials/2018-2-politica/
-  title: Política
-author:
-  slug: /authors/2018-2-murilo-fagundes/
-  title: Murilo Fagundes
+editorial: 2018-2-politica
+authors:
+  - 2018-2-murilo-fagundes
 semester: 2018/2
 tags:
   - Antifascismo
@@ -38,9 +35,9 @@ Na Universidade Estadual da Paraíba, fiscais do Tribunal Regional Eleiroal (TRE
 
 Na Universidade de Brasília, nenhuma ação policial foi realizada. Ao Campus Online, o chefe de Gabinete da reitoria, o professor Paulo Cesar Marques da Silva, afirmou:
 
-> “Nós estamos atentos ao que vem ocorrendo nas universidades, mas não tivemos qualquer notificação ou coisa semelhante na UnB” 
+> “Nós estamos atentos ao que vem ocorrendo nas universidades, mas não tivemos qualquer notificação ou coisa semelhante na UnB”
 
-O Diretório Central de Estudantes (DCE) da UnB reforçou pelo Facebook que ‘’a gestão atual reforça seu compromisso em garantir o espaço plural, democrático e tolerante para a contraposição de ideias ocorrer de forma decorosa, resguardando o direito do contraditório e a voz de cada indivíduo que representamos’’. 
+O Diretório Central de Estudantes (DCE) da UnB reforçou pelo Facebook que ‘’a gestão atual reforça seu compromisso em garantir o espaço plural, democrático e tolerante para a contraposição de ideias ocorrer de forma decorosa, resguardando o direito do contraditório e a voz de cada indivíduo que representamos’’.
 
 A estudante de fonoaudiologia Andreza Marques diz que se sente ameaçada pelas falas do candidato Jair Bolsonaro, do PSL. “Me sinto muito ameaçada no momento em que percebo o meu lugar na luta de classes. Visto que estou no ensino superior público e sou mantida por auxílio socioeconômico, as falas privatistas do candidato Bolsonaro mostram que ele não se compromete com nada do guarda-chuva da proteção social, que eu e muitos brasileiros que necessitam do apoio do Estado poderemos ficar a mercê do mundo e dos sub-empregos”, desabafou.
 
@@ -48,11 +45,11 @@ O estudante de ciência da computação Rodrigo Cardoso diz temer não só por e
 
 ## Repúdio
 
-A Ordem dos Advogados do Brasil (OAB) se posicionou contrária às ações e afirmou que “as Universidades devem ser respeitadas como espaço autônomo de promoção de debates e discussões, assegurando o direito de todos os integrantes da comunidade acadêmica- sejam de direita ou esquerda- de exporem seus posicionamentos, sempre dentro dos limites da lei. A OBA condena toda forma de censura e de violência política”. 
+A Ordem dos Advogados do Brasil (OAB) se posicionou contrária às ações e afirmou que “as Universidades devem ser respeitadas como espaço autônomo de promoção de debates e discussões, assegurando o direito de todos os integrantes da comunidade acadêmica- sejam de direita ou esquerda- de exporem seus posicionamentos, sempre dentro dos limites da lei. A OBA condena toda forma de censura e de violência política”.
 
 A Procuradoria Geral da República (PGR) vai entrar com um recurso no STF para que a normalidade no ambiente universitário seja restabelecido. Raquel Dodge vê indícios de ofensa à liberdade de expressão, liberdade de reunião e à autonomia universitária. A presidente do TSE, Rosa Weber,  disse, em sessão desta sexta, que a Corregedoria vai analisar e adotar as providências cabíveis para esclarecer circunstâncias e coibir eventuais excessos sobre ações nas universidades contra manifestações políticas.
 
-Até a publicação desta reportagem, dois ministros do STF - Gilmar Mendes e Marco Aurélio Melo - posicionaram-se sobre a operação. Gilmar Mendes disse que é preciso “cautela” com esse tipo de ação.  “Em geral, (as universidades) têm uma ebulição que é positiva, que não necessariamente estão afeitos ao período eleitoral”, sustentou o ministro. 
+Até a publicação desta reportagem, dois ministros do STF - Gilmar Mendes e Marco Aurélio Melo - posicionaram-se sobre a operação. Gilmar Mendes disse que é preciso “cautela” com esse tipo de ação.  “Em geral, (as universidades) têm uma ebulição que é positiva, que não necessariamente estão afeitos ao período eleitoral”, sustentou o ministro.
 
 Marco Aurélio afirmou que a “universidade é campo do saber. O saber pressupõe liberdade, liberdade no pensar, liberdade de expressar ideias. Interferência externa é, de regra, indevida. Vinga a autonomia universitária. Toda interferência é, de início, incabível. Essa é a óptica a ser observada. Falo de uma forma geral. Não me pronuncio especificamente sobre a atuação da Justiça Eleitoral. Mas reconheço que a quadra é de extremos. Por isso é perigosa, em termos de Estado Democrático de Direito.”
 

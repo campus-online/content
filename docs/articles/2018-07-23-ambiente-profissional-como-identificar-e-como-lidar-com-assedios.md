@@ -3,12 +3,9 @@ template: blog-post
 title: 'Ambiente profissional: como identificar e como lidar com assédios'
 cover: /uploads/assedio-moral1465591017.jpg
 date: '2018-07-23'
-editorial:
-  slug: /editorials/2018-1-universidade/
-  title: Universidade
-author:
-  slug: /authors/2018-1-thalyta-guerra/
-  title: Thalyta Guerra
+editorial: 2018-1-universidade
+authors:
+  - 2018-1-thalyta-guerra
 semester: 2018/1
 featured: false
 headline: >-

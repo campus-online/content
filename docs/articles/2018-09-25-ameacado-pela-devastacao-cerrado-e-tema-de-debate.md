@@ -3,12 +3,9 @@ template: blog-post
 title: 'Ameaçado pela devastação, Cerrado é tema de debate'
 cover: /uploads/whatsapp-image-2018-09-25-at-11.33.46.jpeg
 date: '2018-09-25'
-editorial:
-  slug: /editorials/2018-2-educacao/
-  title: Educação
-author:
-  slug: /authors/2018-2-jhon-anders/
-  title: Jhon Anders
+editorial: 2018-2-educacao
+authors:
+  - 2018-2-jhon-anders
 semester: 2018/2
 tags:
   - cerrado
@@ -17,9 +14,9 @@ headline: >-
   Estudantes de Geografia promovem conversa sobre a destruição do bioma
   conhecido como caixa d'água do Brasil
 ---
-O Cerrado já perdeu mais da metade da cobertura de vegetação. O bioma é responsável pelo abastecimento das três principais bacias hidrográficas do Brasil, abastecendo assim mais do 70% do território. Alunos da geografia organizaram uma roda de conversa para discutir a situação na Semana Universitária da UnB.  
+O Cerrado já perdeu mais da metade da cobertura de vegetação. O bioma é responsável pelo abastecimento das três principais bacias hidrográficas do Brasil, abastecendo assim mais do 70% do território. Alunos da geografia organizaram uma roda de conversa para discutir a situação na Semana Universitária da UnB.
 
-O evento "O cerrado não vai longe demais", foi realizado na segunda-feira (24), no Departamento de Geografia. Apresentar as problemáticas relacionadas à conservação do cerrado no Distrito Federal é de grande importância. Giovanna Urias, de 19 anos, estudante do quarto semestre de Geografia, comenta que a abordagem traz uma visão mais ampla da situação problema.   
+O evento "O cerrado não vai longe demais", foi realizado na segunda-feira (24), no Departamento de Geografia. Apresentar as problemáticas relacionadas à conservação do cerrado no Distrito Federal é de grande importância. Giovanna Urias, de 19 anos, estudante do quarto semestre de Geografia, comenta que a abordagem traz uma visão mais ampla da situação problema.
 
 “A geografia é o principal espaço de análise da ciência que não se preocupa somente com a paisagem, trazendo informações construídas com os fluxos definidos a partir das relações humanas, sejam pessoais ou sociais”, explica.
 

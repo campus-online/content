@@ -3,12 +3,9 @@ template: blog-post
 title: Pouco trabalho para polícia no Riacho Fundo
 cover: /uploads/image-2-.png
 date: '2018-10-07'
-editorial:
-  slug: /editorials/2018-2-politica/
-  title: Política
-author:
-  slug: /authors/2018-2-israel-de-carvalho/
-  title: Israel de Carvalho
+editorial: 2018-2-politica
+authors:
+  - 2018-2-israel-de-carvalho
 semester: 2018/2
 tags:
   - Eleições 2018

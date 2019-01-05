@@ -3,12 +3,9 @@ template: blog-post
 title: Proibir doação de sangue por gays fere direitos constitucionais
 cover: /uploads/foto-materia-caroline-748x421.jpg
 date: '2018-06-28'
-editorial:
-  slug: /editorials/2018-1-opiniao/
-  title: Opinião
-author:
-  slug: /authors/2018-1-caroline-zampiron/
-  title: Caroline Zampiron
+editorial: 2018-1-opiniao
+authors:
+  - 2018-1-caroline-zampiron
 semester: 2018/1
 featured: false
 ---

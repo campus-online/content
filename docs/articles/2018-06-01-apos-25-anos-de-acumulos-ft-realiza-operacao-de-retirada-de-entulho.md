@@ -3,12 +3,9 @@ template: blog-post
 title: 'Após 25 anos de acúmulos, FT realiza operação de retirada de entulho'
 cover: /uploads/sandra1-1024x576.jpg
 date: '2018-06-01'
-editorial:
-  slug: /editorials/2018-1-educacao/
-  title: Educação
-author:
-  slug: /authors/2018-1-sandra-silva/
-  title: Sandra Silva
+editorial: 2018-1-educacao
+authors:
+  - 2018-1-sandra-silva
 semester: 2018/1
 tags:
   - entulho

@@ -3,12 +3,9 @@ template: blog-post
 title: Intercampi em crise
 cover: /uploads/foto-de-capa.png
 date: '2018-09-20'
-editorial:
-  slug: /editorials/2018-2-educacao/
-  title: Educação
-author:
-  slug: /authors/2018-2-matheus-godois/
-  title: Matheus Godois
+editorial: 2018-2-educacao
+authors:
+  - 2018-2-matheus-godois
 semester: 2018/2
 tags:
   - intercampi

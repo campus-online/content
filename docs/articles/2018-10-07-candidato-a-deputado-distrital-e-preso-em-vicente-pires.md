@@ -3,12 +3,9 @@ template: blog-post
 title: Candidato a deputado distrital é detido em Vicente Pires
 cover: /uploads/img_4556.jpg
 date: '2018-10-07'
-editorial:
-  slug: /editorials/2018-2-politica/
-  title: Política
-author:
-  slug: /authors/2018-2-giulia-alves-leal/
-  title: Giulia Alves Leal
+editorial: 2018-2-politica
+authors:
+  - 2018-2-giulia-alves-leal
 semester: 2018/2
 tags:
   - Eleições 2018
@@ -23,6 +20,6 @@ O candidato a deputado distrital Gilberto Camargos, do Partido Republicano da Or
 
 Camargos chegou cedo para votar e permaneceu dentro da faculdade por mais de três horas. Segundo Jaqueline Rocha, supervisora, ele estava com adesivos do partido, o que é permitido, e tentou convencer eleitores na entrada do local. "Colocamos os fiscais para ficar na cola dele, mas ele continuou", ela declarou.
 
-Uma advogada, que não quis ser identificada, relatou: "Cheguei 7h20 da manhã e ele já estava aqui". De acordo com ela, o candidato diz que foi o responsável pela construção do posto de saúde da cidade satélite para atrair os votantes. 
+Uma advogada, que não quis ser identificada, relatou: "Cheguei 7h20 da manhã e ele já estava aqui". De acordo com ela, o candidato diz que foi o responsável pela construção do posto de saúde da cidade satélite para atrair os votantes.
 
 A denúncia foi feita pelos funcionários da faculdade e servidores. Victor Bonifácio, supervisor, falou que o Tribunal Regional Eleitoral do Distrito Federal orienta a equipe que participa do dia da votação a fotografar casos irregulares como prova da infração.

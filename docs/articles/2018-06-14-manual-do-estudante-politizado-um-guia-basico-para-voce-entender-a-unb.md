@@ -3,12 +3,9 @@ template: blog-post
 title: 'Manual do estudante politizado: um guia básico para você entender a UnB'
 cover: /uploads/vic-748x421.jpeg
 date: '2018-06-14'
-editorial:
-  slug: /editorials/2018-1-universidade/
-  title: Universidade
-author:
-  slug: /authors/2018-1-victor-farias/
-  title: Victor Farias
+editorial: 2018-1-universidade
+authors:
+  - 2018-1-victor-farias
 semester: 2018/1
 featured: false
 ---

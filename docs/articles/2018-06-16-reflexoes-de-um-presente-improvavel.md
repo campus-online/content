@@ -3,9 +3,7 @@ template: blog-post
 title: Editorial - Reflexões de um presente improvável
 cover: /uploads/111020121033271802711895.jpg
 date: '2018-06-16'
-editorial:
-  slug: /editorials/2018-1-opiniao/
-  title: Opinião
+editorial: 2018-1-opiniao
 semester: 2018/1
 featured: false
 ---

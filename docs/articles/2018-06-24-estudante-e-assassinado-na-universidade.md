@@ -3,12 +3,9 @@ template: blog-post
 title: Estudante é assassinado na universidade
 cover: /uploads/35924491_1665786553517321_71929917545119744_o-748x421.jpg
 date: '2018-06-24'
-editorial:
-  slug: /editorials/2018-1-universidade/
-  title: Universidade
-author:
-  slug: /authors/2018-1-ursula-barbosa/
-  title: Úrsula Barbosa
+editorial: 2018-1-universidade
+authors:
+  - 2018-1-ursula-barbosa
 semester: 2018/1
 tags:
   - Morte UnB

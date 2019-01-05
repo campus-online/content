@@ -3,12 +3,9 @@ template: blog-post
 title: 'Na Ceilândia, eleitores criticam aplicativo de título digital e biometria'
 cover: /uploads/cartorio-eleitoral-realiza-mutirao-da-biometria-dgst.jpg
 date: '2018-10-07'
-editorial:
-  slug: /editorials/2018-2-politica/
-  title: Política
-author:
-  slug: /authors/2018-2-ana-carolina-texeira/
-  title: Ana Carolina Texeira
+editorial: 2018-2-politica
+authors:
+  - 2018-2-ana-carolina-texeira
 semester: 2018/2
 tags:
   - Eleições 2018

@@ -3,9 +3,8 @@ template: blog-post
 title: 'Campuscast #2 – Muito além das salas de aula'
 cover: /uploads/campuscast-2-300x142.png
 date: '2018-05-21'
-author:
-  slug: /authors/2018-1-victor-farias/
-  title: Victor Farias
+authors:
+  - 2018-1-victor-farias
 semester: 2018/1
 tags:
   - campuscast

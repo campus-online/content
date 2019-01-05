@@ -3,12 +3,9 @@ template: blog-post
 title: Título digital divide opinião dos eleitores
 cover: /uploads/whatsapp-image-2018-10-07-at-17.18.15.jpeg
 date: '2018-10-07'
-editorial:
-  slug: /editorials/2018-2-politica/
-  title: Política
-author:
-  slug: /authors/2018-2-isadora-martins/
-  title: Isadora Martins
+editorial: 2018-2-politica
+authors:
+  - 2018-2-isadora-martins
 semester: 2018/2
 tags:
   - Eleições 2018

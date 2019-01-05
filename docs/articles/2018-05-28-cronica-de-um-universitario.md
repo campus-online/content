@@ -3,12 +3,9 @@ template: blog-post
 title: Crônica de um universitário
 cover: /uploads/img-20180528-wa0043-768x512.jpg
 date: '2018-05-28'
-editorial:
-  slug: /editorials/2018-1-opiniao/
-  title: Opinião
-author:
-  slug: /authors/2018-1-naum-carlos/
-  title: Naum Carlos
+editorial: 2018-1-opiniao
+authors:
+  - 2018-1-naum-carlos
 semester: 2018/1
 featured: false
 ---

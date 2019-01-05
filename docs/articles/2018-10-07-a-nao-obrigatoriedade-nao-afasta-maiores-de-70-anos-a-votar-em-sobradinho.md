@@ -5,12 +5,9 @@ title: >-
   não obrigatoriedade
 cover: /uploads/20181007_075815.jpg
 date: '2018-10-07'
-editorial:
-  slug: /editorials/2018-2-politica/
-  title: Política
-author:
-  slug: /authors/2018-2-ana-luisa-santos/
-  title: Ana Luísa Santos
+editorial: 2018-2-politica
+authors:
+  - 2018-2-ana-luisa-santos
 semester: 2018/2
 tags:
   - Política
@@ -26,7 +23,7 @@ Maria de Nazaré Gomes (71) defendeu a importância de votar mesmo não sendo ma
 
 Raimundo Arruda (84) também enfatizou a importância do voto. "Esse é o momento que eu também quero contribuir com a mudança desse país, por isso mesmo não sendo mais obrigatório eu ainda voto", declarou.
 
-Sobradinho I e II têm 44 locais de votação e 115.901 eleitores. 
+Sobradinho I e II têm 44 locais de votação e 115.901 eleitores.
 
 Para saber sua zona e seção eleitoral basta acessar o site (<http://www.tre-df.jus.br/>)  do Tribunal Regional Eleitoral do DF (TRE-DF) ou consultar em seu título de eleitor. Para quem já fez o recadastramento biométrico, essas informações estão disponíveis também no aplicativo para smartphones, e-Título. Lembrando que o período de votação começou às 8h e vai até às 17h.
 

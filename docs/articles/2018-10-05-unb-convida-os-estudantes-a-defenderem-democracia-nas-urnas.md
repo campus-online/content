@@ -3,12 +3,9 @@ template: blog-post
 title: UnB convida estudantes a defenderem democracia nas urnas
 cover: /uploads/unb.jpg
 date: '2018-10-05'
-editorial:
-  slug: /editorials/2018-2-politica/
-  title: Política
-author:
-  slug: /authors/2018-2-murilo-fagundes/
-  title: Murilo Fagundes
+editorial: 2018-2-politica
+authors:
+  - 2018-2-murilo-fagundes
 semester: 2018/2
 tags:
   - Nota UnB

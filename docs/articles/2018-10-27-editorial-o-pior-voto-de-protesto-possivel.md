@@ -3,12 +3,9 @@ template: blog-post
 title: Editorial - O pior voto de protesto possível
 cover: /uploads/editorial.jpg
 date: '2018-10-27'
-editorial:
-  slug: /editorials/2018-2-opiniao/
-  title: Opinião
-author:
-  slug: /authors/2018-2-eder-monteiro/
-  title: Eder Monteiro
+editorial: 2018-2-opiniao
+authors:
+  - 2018-2-eder-monteiro
 semester: 2018/2
 featured: false
 ---

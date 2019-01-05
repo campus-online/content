@@ -3,12 +3,9 @@ template: blog-post
 title: Taguatinguenses se surpreendem com cancelamento de títulos
 cover: /uploads/image.png
 date: '2018-10-07'
-editorial:
-  slug: /editorials/2018-2-politica/
-  title: Política
-author:
-  slug: /authors/2018-2-millena-sousa/
-  title: Millena Sousa
+editorial: 2018-2-politica
+authors:
+  - 2018-2-millena-sousa
 semester: 2018/2
 tags:
   - Taguatinga

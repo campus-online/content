@@ -4,12 +4,9 @@ title: Editorial - A greve nas estradas
 cover: >-
   /uploads/grevecaminhoneirosestrada1200-ce3b6540be84d218980fff7c9d0d8c44-1200x600.jpg
 date: '2018-05-30'
-editorial:
-  slug: /editorials/2018-1-opiniao/
-  title: Opinião
-author:
-  slug: /authors/2018-1-naum-carlos/
-  title: Naum Carlos
+editorial: 2018-1-opiniao
+authors:
+  - 2018-1-naum-carlos
 semester: 2018/1
 featured: false
 ---
@@ -21,7 +18,7 @@ A paralisação desmascara os graves problemas que temos na infraestrutura. Como
 
 
 
-São mais de 500 anos de história para descobrirmos que quem manda na p* toda são os caminhoneiros. De suas boleias eles podem fazer desaparecer a gasolina dos postos, as frutas e verduras dos hortifrútis, os produtos das gôndolas dos mercados e até os coletivos que levam a grande maioria dos brasileiros para o trabalho.  
+São mais de 500 anos de história para descobrirmos que quem manda na p* toda são os caminhoneiros. De suas boleias eles podem fazer desaparecer a gasolina dos postos, as frutas e verduras dos hortifrútis, os produtos das gôndolas dos mercados e até os coletivos que levam a grande maioria dos brasileiros para o trabalho.
 
 
 

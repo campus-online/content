@@ -3,12 +3,9 @@ template: blog-post
 title: Mulheres vencem barreira de gênero no esporte
 cover: /uploads/whatsapp-image-2018-11-14-at-13.26.46.jpeg
 date: '2018-11-16'
-editorial:
-  slug: /editorials/2018-2-comportamento/
-  title: Comportamento
-author:
-  slug: /authors/2018-2-gabriel-ponte/
-  title: Gabriel Ponte
+editorial: 2018-2-comportamento
+authors:
+  - 2018-2-gabriel-ponte
 semester: 2018/2
 tags:
   - mulheres

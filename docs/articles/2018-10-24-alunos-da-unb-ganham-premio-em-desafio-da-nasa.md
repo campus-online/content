@@ -3,12 +3,9 @@ template: blog-post
 title: Alunos da UnB ganham prêmio em desafio da NASA
 cover: /uploads/whatsapp-image-2018-10-25-at-12.55.32.jpeg
 date: '2018-10-24'
-editorial:
-  slug: /editorials/2018-2-educacao/
-  title: Educação
-author:
-  slug: /authors/2018-2-mariah-aquino/
-  title: Mariah Aquino
+editorial: 2018-2-educacao
+authors:
+  - 2018-2-mariah-aquino
 semester: 2018/2
 tags:
   - Nasa

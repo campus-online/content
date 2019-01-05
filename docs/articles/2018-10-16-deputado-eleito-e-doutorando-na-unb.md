@@ -5,12 +5,9 @@ title: >-
   doutorando na UnB
 cover: /uploads/fabio_felix_guiagaybrasilia.jpg
 date: '2018-10-16'
-editorial:
-  slug: /editorials/2018-2-politica/
-  title: Política
-author:
-  slug: /authors/2018-2-matheus-godois/
-  title: Matheus Godois
+editorial: 2018-2-politica
+authors:
+  - 2018-2-matheus-godois
 semester: 2018/2
 tags:
   - CLDF
@@ -33,18 +30,18 @@ Felix é o primeiro candidato assumidamente gay a ser eleito para Câmara Legisl
 
 A equipe do Campus Online fez uma entrevista exclusiva com o deputado eleito, que você confere abaixo:
 
-**1 - Quais pautas serão sua prioridade na Câmara Legislativa? 
+**1 - Quais pautas serão sua prioridade na Câmara Legislativa?
 **Bem, sou assistente social, servidor do sistema socioeducativo, professor e faço doutorado em Ciência Política na UnB. Trabalhei com crianças e adolescentes em situação de rua, no CAJE, nas Unidades de Internação de Planaltina, São Sebastião, Recanto das Emas e fui presidente do Conselho dos Direitos da Criança e do Adolescente do DF. Sou fundador, atualmente Presidente regional do PSOL. Minhas pautas prioritárias conversam diretamente com minha história política: os direitos humanos, a diversidade e os direitos LGBT, a luta por igualdade racial e o enfrentamento ao machismo, a defesa de um ensino democrático e de qualidade e o enfrentamento à desigualdade social aqui no DF.
 
-**2 - Quais as suas propostas para a diversidade?** 
+**2 - Quais as suas propostas para a diversidade?**
 
 Garantir que a diversidade de raça, gênero e orientação sexual sejam respeitados é um compromisso que está encarnado em mim e também pautará o mandato. Teremos várias frentes de ação em defesa da diversidade, em questões de gênero, LGBT e de igualdade racial. De início prezarei por uma equipe múltipla, diversa e representativa. A escola precisa também ser um espaço de acolhimento de mulheres, negros e negras e LGBTs. Pretendo também trabalhar pelo fortalecimento da estruturação do ambulatório trans do DF, pela regulamentação da Lei Maninha, pela criação de casas de acolhimento LGBT, pela fiscalização da implementação do Estatuto da Igualdade Racial e muitas outras iniciativas que podem transformar o DF num lugar que de fato respeita a diversidade.
 
 **3 - Quais seus planos para a Universidade?
-**Nossa conjuntura exige muitos cuidados com os espaços de ensino. A militância no movimento estudantil foi essencial para minha formação política e continuo na luta enquanto aluno de pós-graduação e pesquisador. Pretendo que o mandato, no âmbito do legislativo do Distrito Federal, qualifique a relação do poder público local com a Universidade de Brasília e, me comprometo a atuar em defesa da educação pública de qualidade em todos os níveis. 
+**Nossa conjuntura exige muitos cuidados com os espaços de ensino. A militância no movimento estudantil foi essencial para minha formação política e continuo na luta enquanto aluno de pós-graduação e pesquisador. Pretendo que o mandato, no âmbito do legislativo do Distrito Federal, qualifique a relação do poder público local com a Universidade de Brasília e, me comprometo a atuar em defesa da educação pública de qualidade em todos os níveis.
 
 **4 - Quais foram as reações positivas e negativas que recebeu ao ser eleito?
-**Antes mesmo do dia da votação, vinha recebendo retorno positivo e mensagens de apoio, vários elogios a todo o processo da campanha, mas, ao mesmo tempo, ouvi críticas ao afirmar minha orientação sexual, pessoas alegaram que isso não era importante, que deveria restringir meu discurso a minha profissão e formação acadêmica. E, apesar de qualquer coisa, a repercussão da vitória foi ótima! Me emocionei muito ao ler mensagens de pessoas que nem votam em Brasília e se sentiram representadas pela minha eleição, de eleitoras e eleitores que ficaram muito felizes com essa vitória, que não é só minha. 
+**Antes mesmo do dia da votação, vinha recebendo retorno positivo e mensagens de apoio, vários elogios a todo o processo da campanha, mas, ao mesmo tempo, ouvi críticas ao afirmar minha orientação sexual, pessoas alegaram que isso não era importante, que deveria restringir meu discurso a minha profissão e formação acadêmica. E, apesar de qualquer coisa, a repercussão da vitória foi ótima! Me emocionei muito ao ler mensagens de pessoas que nem votam em Brasília e se sentiram representadas pela minha eleição, de eleitoras e eleitores que ficaram muito felizes com essa vitória, que não é só minha.
 
 **5 - Qual o sentimento de ser o primeiro gay assumido a conquistar vaga na CLDF em um mundo político reconhecidamente intolerante?
 **É um sentimento de orgulho e conquista. Lutei muito para que esse sonho se tornasse real, para que pudéssemos ocupar esse espaço de poder essencial para a garantia dos nossos direitos. Estive sempre ao lado de pessoas que há um bom tempo acreditam neste projeto e lutam por um mundo mais justo e igualitário. Essa vitória é coletiva e a mobilização não é de hoje. Estou muito empolgado e motivado a encarar essa luta!

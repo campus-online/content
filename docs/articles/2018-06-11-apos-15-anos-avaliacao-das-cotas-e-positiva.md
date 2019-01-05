@@ -3,12 +3,9 @@ template: blog-post
 title: 'Após 15 anos, avaliação das cotas é positiva'
 cover: /uploads/dsc0173-748x421.jpg
 date: '2018-06-11'
-editorial:
-  slug: /editorials/2018-1-educacao/
-  title: Educação
-author:
-  slug: /authors/2018-1-hallana-moreira/
-  title: Hallana Moreira
+editorial: 2018-1-educacao
+authors:
+  - 2018-1-hallana-moreira
 semester: 2018/1
 tags:
   - cotas raciais

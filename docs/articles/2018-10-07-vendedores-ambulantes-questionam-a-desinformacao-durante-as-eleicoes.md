@@ -3,12 +3,9 @@ template: blog-post
 title: Vendedores ambulantes questionam a desinformação durante as eleições
 cover: /uploads/img_0644.jpg
 date: '2018-10-07'
-editorial:
-  slug: /editorials/2018-2-politica/
-  title: Política
-author:
-  slug: /authors/2018-2-ana-laura-pinheiro/
-  title: Ana Laura Pinheiro
+editorial: 2018-2-politica
+authors:
+  - 2018-2-ana-laura-pinheiro
 semester: 2018/2
 tags:
   - Eleições 2018
@@ -26,6 +23,6 @@ O vendedor de picolé Cícero Pereira da Silva, 31 anos, desabafa um pouco. Enqu
 
 ![Ambulantes vendem produtos em frente ao CEUB neste domingo de eleições. (Foto: Ana Laura Pinheiro)](/uploads/img_0644.jpg)
 
-Em frente ao Centro Universitário de Brasília (CEUB), muito perto de onde Cícero Pereira estava vendendo seus sorvetes, havia outros três ambulantes. Deles, apenas um conhecia o e-Título, aplicativo novo que permite o acesso ao título de eleitor por meio do celular. Dentre os três, um desconhecia também a possibilidade de votar em trânsito. 
+Em frente ao Centro Universitário de Brasília (CEUB), muito perto de onde Cícero Pereira estava vendendo seus sorvetes, havia outros três ambulantes. Deles, apenas um conhecia o e-Título, aplicativo novo que permite o acesso ao título de eleitor por meio do celular. Dentre os três, um desconhecia também a possibilidade de votar em trânsito.
 
 Raimundo Soares, 39 anos, vendedor de açaí, justificará o voto porque não sabia que era necessário pedir uma autorização e ir a um órgão específico para votar em uma cidade diferente da qual ele fez o título. O comerciante afirma, ainda, que isso é uma falha na comunicação entre o Estado e a sociedade.

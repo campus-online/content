@@ -3,12 +3,9 @@ template: blog-post
 title: Diversidade de histórias que marcam relacionamentos na UnB
 cover: /uploads/capa-materia-dia-dos-namorados-748x421.jpeg
 date: '2018-06-12'
-editorial:
-  slug: /editorials/2018-1-universidade/
-  title: Universidade
-author:
-  slug: /authors/2018-1-giullia-venus/
-  title: Giullia Vênus
+editorial: 2018-1-universidade
+authors:
+  - 2018-1-giullia-venus
 semester: 2018/1
 tags:
   - relacionamento

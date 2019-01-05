@@ -3,12 +3,9 @@ template: blog-post
 title: Biblioteca Central está funcionando com horário especial durante greve
 cover: /uploads/nath-768x768.jpg
 date: '2018-05-29'
-editorial:
-  slug: /editorials/2018-1-educacao/
-  title: Educação
-author:
-  slug: /authors/2018-1-natalia-alves/
-  title: Natália Alves
+editorial: 2018-1-educacao
+authors:
+  - 2018-1-natalia-alves
 semester: 2018/1
 tags:
   - greve

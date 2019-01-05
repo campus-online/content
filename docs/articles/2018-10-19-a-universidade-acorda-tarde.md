@@ -3,12 +3,9 @@ template: blog-post
 title: O tardio despertar da universidade para as notícias falsas
 cover: /uploads/whatsapp-image-2018-10-19-at-18.47.09.jpeg
 date: '2018-10-19'
-editorial:
-  slug: /editorials/2018-2-politica/
-  title: Política
-author:
-  slug: /authors/2018-2-gabriel-ponte/
-  title: Gabriel Ponte
+editorial: 2018-2-politica
+authors:
+  - 2018-2-gabriel-ponte
 semester: 2018/2
 tags:
   - FakeNews
@@ -23,7 +20,7 @@ As aulas da disciplina começaram em agosto, com trinta alunos matriculados, e a
 
 Para a estudante de jornalismo Kellen Barreto, o interesse pela matéria soma-se ao tema, o qual, atualmente, parece encontrar mais destaque ainda. “Eu acredito que com a disseminação monstruosa de fake news, todo profissional da área de comunicação social, e, principalmente jornalista, deve saber como funciona a indústria das notícias falsas e como combater de forma eficaz”, relatou.
 
-De acordo com Kellen, a iniciativa da FAC em ministrar tal disciplina é louvável. “Achei muito importante, considerando a realidade em que nos encontramos. Além disso, apesar de não ser uma coisa nova, o formato como se dá é novo. Então é importante a universidade, como um todo, estudar o assunto”, explicou. Segundo a estudante, pessoas que propagam notícias falsas não se dão conta da infração cometida. “As pessoas precisam entender que fake news é crime. Não é uma brincadeira de Whatsapp e internet como memes. É algo sério que tem decidido questões importantes no mundo”. alertou. 
+De acordo com Kellen, a iniciativa da FAC em ministrar tal disciplina é louvável. “Achei muito importante, considerando a realidade em que nos encontramos. Além disso, apesar de não ser uma coisa nova, o formato como se dá é novo. Então é importante a universidade, como um todo, estudar o assunto”, explicou. Segundo a estudante, pessoas que propagam notícias falsas não se dão conta da infração cometida. “As pessoas precisam entender que fake news é crime. Não é uma brincadeira de Whatsapp e internet como memes. É algo sério que tem decidido questões importantes no mundo”. alertou.
 
 Sendo esta a primeira disciplina sobre fake news na Universidade de Brasília, Paulo José chama a atenção para o atraso da academia em relação a um assunto que tem tomado grandes proporções em várias áreas. “Eu falo da academia no mundo todo, não só no Brasil. No caso de jornalismo, da Faculdade de Comunicação, para mim isso é vital, que a gente disponha de mecanismos capazes de enfrentar esse desafio, e não se justifica que até então a faculdade não tenha se posicionado diante desse fenômeno.” O atraso a que Paulo se refere é a falta de pesquisas e disciplinas que trabalhem as fakes news. Como ele ainda complementa, as faculdade de Stanford, nos Estados Unidos, e Oxford, na Inglaterra, já possuem grupos de pesquisa e trabalhos publicados, assim como na Europa. No Brasil, essa é a primeira disciplina sobre o assunto. “Uma universidade como a de Brasília, da sua importância, já era para ter um grupo de pesquisa multidisciplinar. A minha disciplina é pequena, é só uma reflexão”, finalizou.
 
@@ -38,8 +35,8 @@ Em nota, a assessoria da Universidade de Brasília diz que “os projetos de pes
 ## Bom exemplo
 
 
-O Campus conversou também com Leonardo Cavalcanti, editor de política do jornal Correio Braziliense. A partir deste ano, Cavalcanti passou a publicar no jornal um material especial sobre a construção de notícias falsas, revelando o perfil de quem, um dia, já trabalhou com a publicação do conteúdo inverídico, além de dar detalhes do mecanismo da construção do fato inverídico. “A ideia da reportagem era tentar mostrar como eram as engrenagens da produção da fake news, mostrando a evolução ao longo do crime. Existe uma evolução da fake news. A matéria aborda, de início, um crime de 2010, assemelhando-se a um crime financeiro, no qual abre-se uma porta, aí a polícia vai e fecha e você vai processando isso, sofisticando o tipo criminal. Essa série continua. Nossa ideia é de que não pare”, revelou. 
+O Campus conversou também com Leonardo Cavalcanti, editor de política do jornal Correio Braziliense. A partir deste ano, Cavalcanti passou a publicar no jornal um material especial sobre a construção de notícias falsas, revelando o perfil de quem, um dia, já trabalhou com a publicação do conteúdo inverídico, além de dar detalhes do mecanismo da construção do fato inverídico. “A ideia da reportagem era tentar mostrar como eram as engrenagens da produção da fake news, mostrando a evolução ao longo do crime. Existe uma evolução da fake news. A matéria aborda, de início, um crime de 2010, assemelhando-se a um crime financeiro, no qual abre-se uma porta, aí a polícia vai e fecha e você vai processando isso, sofisticando o tipo criminal. Essa série continua. Nossa ideia é de que não pare”, revelou.
 
-Para ele, a grande diferenciação está no comportamento de tais pessoas, que mais se assemelham a mercenários do que guerrilheiros. “O que mais me chamou a atenção foi a preparação desses caras: programadores extremamente preparados que possuíam informações significativas em relação à comunicação, além de que entendem de números e psicologia de massa. Eles lidam com um volume extenso de informações, além de terem certeza de que se tratava de algo ilícito. Alguns gostam de ser chamados de guerrilheiros, com viés ideológico, mas não são (guerrilheiros), são mercenários. O dinheiro fala mais alto”, constatou. 
+Para ele, a grande diferenciação está no comportamento de tais pessoas, que mais se assemelham a mercenários do que guerrilheiros. “O que mais me chamou a atenção foi a preparação desses caras: programadores extremamente preparados que possuíam informações significativas em relação à comunicação, além de que entendem de números e psicologia de massa. Eles lidam com um volume extenso de informações, além de terem certeza de que se tratava de algo ilícito. Alguns gostam de ser chamados de guerrilheiros, com viés ideológico, mas não são (guerrilheiros), são mercenários. O dinheiro fala mais alto”, constatou.
 
 Questionado sobre como enxerga a relação entre notícias falsas e universitários, Cavalcanti alerta para a necessidade de cooperação entre sociedade e comunicadores. “Para mim, parece que as pessoas se preocupam pouco. Observo também alguns profissionais da comunicação reforçando o papel de jornalistas ao combaterem tal disseminação. Ao meu ver, a sociedade tem que perceber isso também. É uma via de mão dupla. Acho que tem que ter, sim, militância contra as fake news. O trabalho do Paulo José é uma iniciativa excelente”, destacou.

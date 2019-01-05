@@ -5,12 +5,9 @@ title: >-
   transmissíveis na Universidade
 cover: /uploads/novos-prazeres-velhos-costumes.jpg
 date: '2018-05-14'
-editorial:
-  slug: /editorials/2018-1-educacao/
-  title: Educação
-author:
-  slug: /authors/2018-1-thalyta-guerra/
-  title: Thalyta Guerra
+editorial: 2018-1-educacao
+authors:
+  - 2018-1-thalyta-guerra
 semester: 2018/1
 tags:
   - IST

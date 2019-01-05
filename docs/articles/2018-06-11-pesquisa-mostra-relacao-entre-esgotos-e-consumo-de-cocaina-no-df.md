@@ -3,12 +3,9 @@ template: blog-post
 title: Pesquisa mostra relação entre esgotos e consumo de cocaína no DF
 cover: /uploads/img-20180608-wa0010-748x421.jpg
 date: '2018-06-11'
-editorial:
-  slug: /editorials/2018-1-universidade/
-  title: Universidade
-author:
-  slug: /authors/2018-1-sandra-silva/
-  title: Sandra Silva
+editorial: 2018-1-universidade
+authors:
+  - 2018-1-sandra-silva
 semester: 2018/1
 featured: false
 ---

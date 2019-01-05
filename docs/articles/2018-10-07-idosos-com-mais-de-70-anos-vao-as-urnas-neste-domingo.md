@@ -3,12 +3,9 @@ template: blog-post
 title: Idosos com mais de 70 anos vão às urnas neste domingo
 cover: /uploads/img_3214.jpg
 date: '2018-10-07'
-editorial:
-  slug: /editorials/2018-2-politica/
-  title: Política
-author:
-  slug: /authors/2018-2-geovana-melo/
-  title: Geovana Melo
+editorial: 2018-2-politica
+authors:
+  - 2018-2-geovana-melo
 semester: 2018/2
 tags:
   - Eleições 2018

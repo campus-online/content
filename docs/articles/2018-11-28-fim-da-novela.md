@@ -3,12 +3,9 @@ template: blog-post
 title: Fim da novela
 cover: /uploads/ombudsman.jpg
 date: '2018-11-28'
-editorial:
-  slug: /editorials/2018-2-opiniao/
-  title: Opinião
-author:
-  slug: /authors/2018-1-victor-farias/
-  title: Victor Farias
+editorial: 2018-2-opiniao
+authors:
+  - 2018-1-victor-farias
 semester: 2018/2
 tags:
   - ombudsman

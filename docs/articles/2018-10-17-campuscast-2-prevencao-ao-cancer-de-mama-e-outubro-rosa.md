@@ -3,12 +3,9 @@ template: blog-post
 title: 'CampusCast #2 – Prevenção ao câncer de mama e Outubro Rosa'
 cover: /uploads/whatsapp-image-2018-10-19-at-07.59.06.jpeg
 date: '2018-10-17'
-editorial:
-  slug: /editorials/2018-2-campuscast/
-  title: CampusCast
-author:
-  slug: /authors/2018-2-mariah-aquino/
-  title: Mariah Aquino
+editorial: 2018-2-campuscast
+authors:
+  - 2018-2-mariah-aquino
 semester: 2018/2
 tags:
   - podcast
@@ -18,7 +15,7 @@ headline: >-
   No mês de prevenção ao câncer de mama, o segundo CampusCast do semestre
   debateu o assunto com integrantes de grupo de apoio
 ---
-Dentro da cobertura do Outubro Rosa, o Campus apresenta o segundo CampusCast do semestre, onde as repórteres Mariah Aquino e Marina Julião conversam com Gisele e Lilian, organizadoras da ONG Vencedoras Unidas, grupo de apoio e incentivo à convivência entre todos que vivem e convivem com o câncer. 
+Dentro da cobertura do Outubro Rosa, o Campus apresenta o segundo CampusCast do semestre, onde as repórteres Mariah Aquino e Marina Julião conversam com Gisele e Lilian, organizadoras da ONG Vencedoras Unidas, grupo de apoio e incentivo à convivência entre todos que vivem e convivem com o câncer.
 
 A conversa teve informações sobre autoexame, tabus, autoestima e a importância de conhecer o próprio corpo desde cedo. Confira!
 

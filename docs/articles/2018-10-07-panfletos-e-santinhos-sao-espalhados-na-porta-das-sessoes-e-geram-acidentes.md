@@ -3,12 +3,9 @@ template: blog-post
 title: 'Panfletos e santinhos são espalhados na porta das sessões e geram acidentes '
 cover: /uploads/images-1.jpg
 date: '2018-10-07'
-editorial:
-  slug: /editorials/2018-2-politica/
-  title: Política
-author:
-  slug: /authors/2018-2-marcos-braz/
-  title: Marcos Braz
+editorial: 2018-2-politica
+authors:
+  - 2018-2-marcos-braz
 semester: 2018/2
 tags:
   - Eleições 2018
@@ -19,9 +16,9 @@ headline: >-
   Além de poluir a cidade, o material de campanha faz com que os eleitores
   escorreguem e se machuquem ao chegar aos pontos de votação
 ---
-Durante as eleições deste domingo, os candidatos, mais uma vez, deram show de desrespeito ao meio ambiente. A prática de espalhar panfletos no chão em frente aos locais onde estão as seções de votação se repetiu e o lixo permanecerá  lá, poluindo e causando acidentes, até que seja removido pelo Serviço de Limpeza Urbana (SLU). 
+Durante as eleições deste domingo, os candidatos, mais uma vez, deram show de desrespeito ao meio ambiente. A prática de espalhar panfletos no chão em frente aos locais onde estão as seções de votação se repetiu e o lixo permanecerá  lá, poluindo e causando acidentes, até que seja removido pelo Serviço de Limpeza Urbana (SLU).
 
-Na zona eleitoral situada no Colégio Estadual Ceplos, em Luziânia, no Entorno do DF, o lixo espalhado chama a atenção. São de partidos variados e dos mais  diversos candidatos. A coordenadora do colégio eleitoral, Elize Santos (32), reforça que a prática é crime ambiental. 
+Na zona eleitoral situada no Colégio Estadual Ceplos, em Luziânia, no Entorno do DF, o lixo espalhado chama a atenção. São de partidos variados e dos mais  diversos candidatos. A coordenadora do colégio eleitoral, Elize Santos (32), reforça que a prática é crime ambiental.
 
 A situação se encaixa no artigo 163 do Código Penal Brasileiro:
 

@@ -3,12 +3,9 @@ template: blog-post
 title: 'Ciclistas na UnB: sustentabilidade e risco'
 cover: /uploads/img-20180531-wa0056-225x300.jpg
 date: '2018-05-31'
-editorial:
-  slug: /editorials/2018-1-educacao/
-  title: Educação
-author:
-  slug: /authors/2018-1-iane-almeida/
-  title: Iane Almeida
+editorial: 2018-1-educacao
+authors:
+  - 2018-1-iane-almeida
 semester: 2018/1
 tags:
   - ciclismo
@@ -24,7 +21,7 @@ São muitas as tecnologias como _smartphones_, antibióticos, técnicas cirúrgi
 
 Nestas circunstâncias, devemos pensar em como manter a vida e com qualidade. Não vamos aqui discutir as diversas abordagens sobre sustentabilidade. Porém, atrelamos este conceito à relação entre desenvolvimento e manutenção e promoção da vida, em uma abordagem que é humanista, ao falarmos sobre os ciclistas na Universidade de Brasília (UnB). Para o professor e pesquisador do Departamento de Engenharia Civil e Ambiental da UnB, Pastor Willy Gonzales Taco, o trânsito é uma expressão da cultura.
 
- 
+
 
 **Mas então o que fazer se nossa cultura é a do risco?
 **
@@ -44,7 +41,7 @@ Pastor Willy Gonzales Taco revela que apenas 10% dos alunos vem para a universid
 
 
 
-[Veja vídeo do DETRAN em parceria com a UnB 
+[Veja vídeo do DETRAN em parceria com a UnB
 ](https://www.facebook.com/oficialUnB/videos/vb.187578724620204/1827417000636360/?type=2&theater)
 
 
@@ -67,7 +64,7 @@ O grafiteiro, rapper do Extrema Função e artista plástico, Cleiniston, usa as
 
 
 
- 
+
 
 **Projetos
 **

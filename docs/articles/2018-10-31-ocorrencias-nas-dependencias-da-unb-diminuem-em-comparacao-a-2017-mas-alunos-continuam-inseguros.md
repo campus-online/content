@@ -5,12 +5,9 @@ title: >-
   pontos continuam perigosos
 cover: /uploads/whatsapp-image-2018-10-31-at-19.54.05.jpeg
 date: '2018-11-01'
-editorial:
-  slug: /editorials/2018-2-comportamento/
-  title: Comportamento
-author:
-  slug: /authors/2018-2-gabriel-escobar/
-  title: Gabriel Escobar
+editorial: 2018-2-comportamento
+authors:
+  - 2018-2-gabriel-escobar
 semester: 2018/2
 tags:
   - segurança
@@ -44,9 +41,9 @@ Já no caso da Rayanne Marzagão, que estuda ciências ambientais, as câmeras n
 
 ## Ações para melhoria da segurança
 
-O Campus Darcy Ribeiro continua a buscar alternativas para a diminuição ainda maior da violência e crimes no campus. Neste semestre, conforme noticiado pela matéria [UnB melhora a segurança mesmo sem aumento nos recursos](https://campus.fac.unb.br/materias/2018-10-31-unb-melhora-a-seguranca-mesmo-sem-aumento-nos-recursos/), foram instaladas cadeiras elevadas nos estacionamentos e mais câmeras ao redor dos prédios do campus. 
+O Campus Darcy Ribeiro continua a buscar alternativas para a diminuição ainda maior da violência e crimes no campus. Neste semestre, conforme noticiado pela matéria [UnB melhora a segurança mesmo sem aumento nos recursos](https://campus.fac.unb.br/materias/2018-10-31-unb-melhora-a-seguranca-mesmo-sem-aumento-nos-recursos/), foram instaladas cadeiras elevadas nos estacionamentos e mais câmeras ao redor dos prédios do campus.
 
-Além disso, o Departamento da Ciência da Computação, liderado pelo professor Marcelo Ladeira, desenvolveu um aplicativo chamado UnB Alerta, com o objetivo de facilitar a notificação e o registro de ocorrência nos campi da Universidade. Ele permite que qualquer pessoa que circule pela instituição faça alertas georreferenciados em tempo real. Em 2017, a Administração Superior "adotou" o UnB Alerta como ferramenta auxiliar para a melhoria da segurança da comunidade acadêmica. 
+Além disso, o Departamento da Ciência da Computação, liderado pelo professor Marcelo Ladeira, desenvolveu um aplicativo chamado UnB Alerta, com o objetivo de facilitar a notificação e o registro de ocorrência nos campi da Universidade. Ele permite que qualquer pessoa que circule pela instituição faça alertas georreferenciados em tempo real. Em 2017, a Administração Superior "adotou" o UnB Alerta como ferramenta auxiliar para a melhoria da segurança da comunidade acadêmica.
 
 O aplicativo só está disponível para o sistema operacional Android. Usuários de outros aparelhos podem fazer as ocorrências por meio do site <https://unbalerta.unb.br/>.
 

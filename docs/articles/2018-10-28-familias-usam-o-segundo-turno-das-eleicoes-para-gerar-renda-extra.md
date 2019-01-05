@@ -3,12 +3,9 @@ template: blog-post
 title: 'Famílias usam o segundo turno das eleições para gerar renda extra  '
 cover: /uploads/whatsapp-image-2018-10-28-at-12.10.21.jpeg
 date: '2018-10-28'
-editorial:
-  slug: /editorials/2018-2-politica/
-  title: Política
-author:
-  slug: /authors/2018-2-matheus-godois/
-  title: Matheus Godois
+editorial: 2018-2-politica
+authors:
+  - 2018-2-matheus-godois
 semester: 2018/2
 tags:
   - Eleições 2018

@@ -5,12 +5,9 @@ title: >-
   chapa
 cover: /uploads/rob1-748x421.jpeg
 date: '2018-06-16'
-editorial:
-  slug: /editorials/2018-1-universidade/
-  title: Universidade
-author:
-  slug: /authors/2018-1-robson-g-rodrigues/
-  title: Robson G. Rodrigues
+editorial: 2018-1-universidade
+authors:
+  - 2018-1-robson-g-rodrigues
 semester: 2018/1
 featured: false
 ---

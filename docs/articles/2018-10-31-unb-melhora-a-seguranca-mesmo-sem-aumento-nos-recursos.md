@@ -3,12 +3,9 @@ template: blog-post
 title: 'UnB melhora a segurança mesmo sem aumento nos recursos '
 cover: /uploads/whatsapp-image-2018-11-01-at-10.20.35.jpeg
 date: '2018-10-31'
-editorial:
-  slug: /editorials/2018-2-comportamento/
-  title: Comportamento
-author:
-  slug: /authors/2018-2-natalia-fechine/
-  title: Natália Fechine
+editorial: 2018-2-comportamento
+authors:
+  - 2018-2-natalia-fechine
 semester: 2018/2
 featured: false
 headline: >-
@@ -52,6 +49,6 @@ A funcionária conta ainda que costuma fazer uma ronda a pé no estacionamento e
 
 ![Visão ampliada do estacionamento conferida pelas cadeiras elevadas. (Foto: Natália Fechine)](/uploads/whatsapp-image-2018-11-01-at-00.33.27.jpeg)
 
-A Coordenadoria Proteção ao Patrimônio (CoPP) está diretamente ligada à prefeitura, mas a é a parte que coordena e executa tarefas relativas à vigilância do Campus. Eles também estão ligados ao registro das ocorrências de desvios, furtos, roubos e invasões. E se precisar, o telefone da Central de Segurança é (61) 3107 6222 ou dos achados e perdidos (61) 3107-5855. 
+A Coordenadoria Proteção ao Patrimônio (CoPP) está diretamente ligada à prefeitura, mas a é a parte que coordena e executa tarefas relativas à vigilância do Campus. Eles também estão ligados ao registro das ocorrências de desvios, furtos, roubos e invasões. E se precisar, o telefone da Central de Segurança é (61) 3107 6222 ou dos achados e perdidos (61) 3107-5855.
 
 _Por Isabela Castilho e Natália Fechine_

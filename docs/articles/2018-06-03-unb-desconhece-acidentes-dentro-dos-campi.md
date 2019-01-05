@@ -3,12 +3,9 @@ template: blog-post
 title: UnB desconhece acidentes dentro dos campi
 cover: /uploads/5-1024x576.jpeg
 date: '2018-06-03'
-editorial:
-  slug: /editorials/2018-1-educacao/
-  title: Educação
-author:
-  slug: /authors/2018-1-ana-isabel-mansur/
-  title: Ana Isabel Mansur
+editorial: 2018-1-educacao
+authors:
+  - 2018-1-ana-isabel-mansur
 semester: 2018/1
 tags:
   - trânsito

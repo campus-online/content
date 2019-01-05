@@ -5,12 +5,9 @@ title: >-
   Semana Universitária da UnB
 cover: /uploads/whatsapp-image-2018-09-24-at-21.35.26.jpeg
 date: '2018-09-24'
-editorial:
-  slug: /editorials/2018-2-educacao/
-  title: Educação
-author:
-  slug: /authors/2018-1-thalyta-guerra/
-  title: Thalyta Guerra
+editorial: 2018-2-educacao
+authors:
+  - 2018-1-thalyta-guerra
 semester: 2018/2
 tags:
   - saúde mental

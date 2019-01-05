@@ -3,12 +3,9 @@ template: blog-post
 title: 'Ensaio fotográfico: UnB se veste de política'
 cover: /uploads/whatsapp-image-2018-11-04-at-21.18.49.jpeg
 date: '2018-11-12'
-editorial:
-  slug: /editorials/2018-2-politica/
-  title: Política
-author:
-  slug: /authors/2018-2-jamile-vasconcelos/
-  title: Jamile Vasconcelos
+editorial: 2018-2-politica
+authors:
+  - 2018-2-jamile-vasconcelos
 semester: 2018/2
 tags:
   - fotografia

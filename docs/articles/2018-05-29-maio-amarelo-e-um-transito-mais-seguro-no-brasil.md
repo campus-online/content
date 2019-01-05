@@ -3,12 +3,9 @@ template: blog-post
 title: Maio Amarelo e um trânsito mais seguro no Brasil
 cover: /uploads/copia-2-768x768.png
 date: '2018-05-29'
-editorial:
-  slug: /editorials/2018-1-educacao/
-  title: Educação
-author:
-  slug: /authors/2018-1-jhon-millones/
-  title: Jhon Millones
+editorial: 2018-1-educacao
+authors:
+  - 2018-1-jhon-millones
 semester: 2018/1
 tags:
   - trânsito

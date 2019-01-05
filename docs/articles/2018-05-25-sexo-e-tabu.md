@@ -3,9 +3,7 @@ template: blog-post
 title: Sexo é tabu
 cover: /uploads/whatsapp-image-2018-05-25-at-16.52.03-1024x576.jpeg
 date: '2018-05-25'
-editorial:
-  slug: /editorials/2018-1-opiniao/
-  title: Opinião
+editorial: 2018-1-opiniao
 semester: 2018/1
 featured: false
 ---

@@ -3,9 +3,8 @@ template: blog-post
 title: O Campus está de volta!
 cover: /uploads/whatsapp-image-2018-09-18-at-20.25.01.jpeg
 date: '2018-09-19'
-author:
-  slug: /authors/2018-2-mariah-aquino/
-  title: Mariah Aquino
+authors:
+  - 2018-2-mariah-aquino
 semester: 2018/2
 tags:
   - Campus Online

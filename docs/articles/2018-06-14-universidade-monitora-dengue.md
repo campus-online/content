@@ -3,12 +3,9 @@ template: blog-post
 title: Universidade monitora Dengue
 cover: /uploads/nat.png
 date: '2018-06-14'
-editorial:
-  slug: /editorials/2018-1-educacao/
-  title: Educação
-author:
-  slug: /authors/2018-1-natalia-alves/
-  title: Natália Alves
+editorial: 2018-1-educacao
+authors:
+  - 2018-1-natalia-alves
 semester: 2018/1
 tags:
   - dengue

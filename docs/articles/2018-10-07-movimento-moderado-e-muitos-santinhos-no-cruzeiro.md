@@ -3,12 +3,9 @@ template: blog-post
 title: Movimento moderado e muitos santinhos no Cruzeiro
 cover: /uploads/fila.jpg
 date: '2018-10-07'
-editorial:
-  slug: /editorials/2018-2-politica/
-  title: Política
-author:
-  slug: /authors/2018-2-gabriel-escobar/
-  title: Gabriel Escobar
+editorial: 2018-2-politica
+authors:
+  - 2018-2-gabriel-escobar
 semester: 2018/2
 tags:
   - eleições

@@ -3,12 +3,9 @@ template: blog-post
 title: 'Denise Imbroisi: “Existe uma incompreensão dos ajustes”'
 cover: /uploads/img-20180520-wa0011-768x512.jpg
 date: '2018-05-22'
-editorial:
-  slug: /editorials/2018-1-educacao/
-  title: Educação
-author:
-  slug: /authors/2018-1-daniele-brandao/
-  title: Daniele Brandão
+editorial: 2018-1-educacao
+authors:
+  - 2018-1-daniele-brandao
 semester: 2018/1
 tags:
   - UnB

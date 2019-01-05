@@ -3,12 +3,9 @@ template: blog-post
 title: 'Eleitor do DF terá que levar título, documento e guarda-chuva'
 cover: /uploads/image1.jpeg
 date: '2018-10-07'
-editorial:
-  slug: /editorials/2018-2-politica/
-  title: Política
-author:
-  slug: /authors/2018-2-millena-campello/
-  title: Millena Campello
+editorial: 2018-2-politica
+authors:
+  - 2018-2-millena-campello
 semester: 2018/2
 featured: false
 headline: >-

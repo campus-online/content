@@ -3,12 +3,9 @@ template: blog-post
 title: Sites para consultar o número de eleitor estão fora do ar
 cover: /uploads/img_3910.jpg
 date: '2018-10-07'
-editorial:
-  slug: /editorials/2018-2-politica/
-  title: Política
-author:
-  slug: /authors/2018-2-millena-campello/
-  title: Millena Campello
+editorial: 2018-2-politica
+authors:
+  - 2018-2-millena-campello
 semester: 2018/2
 tags:
   - Eleições2018

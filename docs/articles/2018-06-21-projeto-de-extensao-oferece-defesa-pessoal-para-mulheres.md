@@ -3,12 +3,9 @@ template: blog-post
 title: Projeto de extensão oferece defesa pessoal para mulheres
 cover: /uploads/ultimo.jpg
 date: '2018-06-21'
-editorial:
-  slug: /editorials/2018-1-universidade/
-  title: Universidade
-author:
-  slug: /authors/2018-1-john-anders/
-  title: John Anders
+editorial: 2018-1-universidade
+authors:
+  - 2018-1-john-anders
 semester: 2018/1
 tags:
   - defesa pessoal

@@ -3,12 +3,9 @@ template: blog-post
 title: Assista ao vivo debate entre os candidatos ao GDF
 cover: /uploads/img_20180927_101539.jpg
 date: '2018-09-27'
-editorial:
-  slug: /editorials/2018-2-politica/
-  title: Política
-author:
-  slug: /authors/2018-2-flavia-said/
-  title: Flávia Said
+editorial: 2018-2-politica
+authors:
+  - 2018-2-flavia-said
 semester: 2018/2
 tags:
   - GDF

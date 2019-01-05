@@ -3,12 +3,9 @@ template: blog-post
 title: 'Campuscast #4 – Desafios da mobilidade urbana na UnB'
 cover: /uploads/campus4-748x374.png
 date: '2018-06-16'
-editorial:
-  slug: /editorials/2018-1-campuscast/
-  title: CampusCast
-author:
-  slug: /authors/2018-1-victor-farias/
-  title: Victor Farias
+editorial: 2018-1-campuscast
+authors:
+  - 2018-1-victor-farias
 semester: 2018/1
 tags:
   - campuscast

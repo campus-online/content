@@ -3,12 +3,9 @@ template: blog-post
 title: Ensino Superior é pauta dos candidatos à Presidência em seus planos de governo
 cover: /uploads/28877757323_29aac81fc9_o.jpg
 date: '2018-09-30'
-editorial:
-  slug: /editorials/2018-2-politica/
-  title: Política
-author:
-  slug: /authors/2018-2-gabriel-escobar/
-  title: Gabriel Escobar
+editorial: 2018-2-politica
+authors:
+  - 2018-2-gabriel-escobar
 semester: 2018/2
 tags:
   - eleições
@@ -142,9 +139,9 @@ Pensando nisso, a equipe do Campus Online disponibiliza o que cada candidato fal
 
 ![](/uploads/veralucia_metrojornal.jpg)
 
-* Estatização de universidades privadas.  
+* Estatização de universidades privadas.
 
-Todos os candidatos pautaram a educação em seus planos de governo. Para ter acesso aos documentos na íntegra, basta acessar a plataforma [DivulgaCandContas](http://divulgacandcontas.tse.jus.br/divulga/), disponibilizada pela Justiça Eleitoral.  
+Todos os candidatos pautaram a educação em seus planos de governo. Para ter acesso aos documentos na íntegra, basta acessar a plataforma [DivulgaCandContas](http://divulgacandcontas.tse.jus.br/divulga/), disponibilizada pela Justiça Eleitoral.
 
 O primeiro turno das eleições gerais de 2018 acontece no próximo domingo (7), das 8h às 17h (horário local de cada estado). Para votar, é necessário levar o título de eleitor acompanhado de um documento oficial com foto, ou baixar, no Google Play ou App Store, o aplicativo e-Título, que substitui esses documentos.
 

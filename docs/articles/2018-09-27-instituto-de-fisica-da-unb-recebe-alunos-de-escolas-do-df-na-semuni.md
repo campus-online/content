@@ -3,12 +3,9 @@ template: blog-post
 title: Instituto de Física da UnB recebe alunos de escolas do DF na SemUni
 cover: /uploads/img-20180927-wa0037.jpg
 date: '2018-09-27'
-editorial:
-  slug: /editorials/2018-2-educacao/
-  title: Educação
-author:
-  slug: /authors/2018-2-jhon-anders/
-  title: Jhon Anders
+editorial: 2018-2-educacao
+authors:
+  - 2018-2-jhon-anders
 semester: 2018/2
 tags:
   - física

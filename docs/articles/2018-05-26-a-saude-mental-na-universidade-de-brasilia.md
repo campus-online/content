@@ -3,12 +3,9 @@ template: blog-post
 title: A saúde mental na Universidade de Brasília
 cover: /uploads/foto-materia-thais-768x512.jpg
 date: '2018-05-26'
-editorial:
-  slug: /editorials/2018-1-educacao/
-  title: Educação
-author:
-  slug: /authors/2018-1-thifany-batista/
-  title: Thifany Batista
+editorial: 2018-1-educacao
+authors:
+  - 2018-1-thifany-batista
 semester: 2018/1
 tags:
   - saúde mental

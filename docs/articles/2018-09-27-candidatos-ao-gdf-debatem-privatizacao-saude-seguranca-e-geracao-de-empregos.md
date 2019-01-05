@@ -5,12 +5,9 @@ title: >-
   promoção de empregos
 cover: /uploads/dsc_0014.jpg
 date: '2018-09-27'
-editorial:
-  slug: /editorials/2018-2-politica/
-  title: Política
-author:
-  slug: /authors/2018-2-gabriel-escobar/
-  title: Gabriel Escobar
+editorial: 2018-2-politica
+authors:
+  - 2018-2-gabriel-escobar
 semester: 2018/2
 tags:
   - GDF

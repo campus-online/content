@@ -3,9 +3,7 @@ template: blog-post
 title: Campus Online no Youtube
 cover: /uploads/img-20180525-wa0105-1024x576.jpg
 date: '2018-05-28'
-editorial:
-  slug: /editorials/2018-1-educacao/
-  title: Educação
+editorial: 2018-1-educacao
 semester: 2018/1
 tags:
   - youtube

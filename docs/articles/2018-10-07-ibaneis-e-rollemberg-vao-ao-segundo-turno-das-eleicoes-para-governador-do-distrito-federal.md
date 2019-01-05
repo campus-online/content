@@ -5,12 +5,9 @@ title: >-
   Distrito Federal
 cover: /uploads/whatsapp-image-2018-10-07-at-22.26.40.jpeg
 date: '2018-10-07'
-editorial:
-  slug: /editorials/2018-2-politica/
-  title: Política
-author:
-  slug: /authors/2018-2-gabriel-escobar/
-  title: Gabriel Escobar
+editorial: 2018-2-politica
+authors:
+  - 2018-2-gabriel-escobar
 semester: 2018/2
 tags:
   - Eleições 2018

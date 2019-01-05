@@ -3,12 +3,9 @@ template: blog-post
 title: Mulher carregando neto com hidrocefalia é a primeira da fila em Planaltina
 cover: /uploads/20181007_074018.jpg
 date: '2018-10-07'
-editorial:
-  slug: /editorials/2018-2-politica/
-  title: Política
-author:
-  slug: /authors/2018-2-marcella-do-nascimento-rodrigues/
-  title: Marcella do Nascimento Rodrigues
+editorial: 2018-2-politica
+authors:
+  - 2018-2-marcella-do-nascimento-rodrigues
 semester: 2018/2
 tags:
   - Eleições2018

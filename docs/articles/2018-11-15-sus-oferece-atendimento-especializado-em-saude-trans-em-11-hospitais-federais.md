@@ -5,19 +5,16 @@ title: >-
   pelo SUS até agosto
 cover: /uploads/bandeira-trans.jpg
 date: '2018-11-15'
-editorial:
-  slug: /editorials/2018-2-comportamento/
-  title: Comportamento
-author:
-  slug: /authors/2018-2-atila-lima/
-  title: Atila Lima
+editorial: 2018-2-comportamento
+authors:
+  - 2018-2-atila-lima
 semester: 2018/2
 tags:
   - transênero
 featured: true
 headline: São 476 operações e mais de 18 mil atendimentos desde 2008
 ---
-Cerca de 288 pessoas estavam na lista de espera por intervenções de redesignação sexual pelo Sistema Único de Saúde (SUS) até agosto. Segundo o Ministério da Saúde, são 11 os hospitais federais habilitados para oferecer serviços especializados à população trans no país, sendo cinco para operações e seis para ações ambulatoriais. 
+Cerca de 288 pessoas estavam na lista de espera por intervenções de redesignação sexual pelo Sistema Único de Saúde (SUS) até agosto. Segundo o Ministério da Saúde, são 11 os hospitais federais habilitados para oferecer serviços especializados à população trans no país, sendo cinco para operações e seis para ações ambulatoriais.
 
 Em 2006, o SUS publicou a [Carta dos Direitos dos Usuários da Saúde](http://bvsms.saude.gov.br/bvs/publicacoes/cartas_direitos_usuarios_saude_3ed.pdf), que legitimou o direito ao uso do nome social, pelo qual travestis e pessoas transgêneras escolhem ser chamadas – não apenas em serviços especializados, mas em todos os outros serviços da rede pública de saúde. Já o processo transexualizador foi instituído em 2008 e ampliado em 2013, a partir de [portarias](http://bvsms.saude.gov.br/bvs/saudelegis/gm/2013/prt2803_19_11_2013.html). Desde sua criação até abril de 2018, foram realizados 476 operações e mais de 18 mil atendimentos.
 

@@ -5,12 +5,9 @@ title: >-
   a Homofobia
 cover: /uploads/img-20180517-wa0100.jpg
 date: '2018-05-17'
-editorial:
-  slug: /editorials/2018-1-opiniao/
-  title: Opinião
-author:
-  slug: /authors/2018-1-caroline-zampiron/
-  title: Caroline Zampiron
+editorial: 2018-1-opiniao
+authors:
+  - 2018-1-caroline-zampiron
 semester: 2018/1
 tags:
   - homofobia

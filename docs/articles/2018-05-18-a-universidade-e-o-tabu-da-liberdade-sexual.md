@@ -3,12 +3,9 @@ template: blog-post
 title: A universidade e o tabu da liberdade sexual
 cover: /uploads/img-20180521-wa0120-768x512.jpg
 date: '2018-05-18'
-editorial:
-  slug: /editorials/2018-1-opiniao/
-  title: Opinião
-author:
-  slug: /authors/2018-1-hallana-moreira/
-  title: Hallana Moreira
+editorial: 2018-1-opiniao
+authors:
+  - 2018-1-hallana-moreira
 semester: 2018/1
 featured: false
 headline: >-

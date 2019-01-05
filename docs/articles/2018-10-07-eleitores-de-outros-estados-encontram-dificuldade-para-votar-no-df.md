@@ -3,12 +3,9 @@ template: blog-post
 title: Eleitores de outros estados encontram dificuldade para votar no DF
 cover: /uploads/1837467156538801401.jpg
 date: '2018-10-07'
-editorial:
-  slug: /editorials/2018-2-politica/
-  title: Política
-author:
-  slug: /authors/2018-2-larissa-lins/
-  title: Larissa Lins
+editorial: 2018-2-politica
+authors:
+  - 2018-2-larissa-lins
 semester: 2018/2
 tags:
   - Eleições2018

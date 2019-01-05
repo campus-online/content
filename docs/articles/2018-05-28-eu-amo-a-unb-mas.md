@@ -3,12 +3,9 @@ template: blog-post
 title: 'Eu amo a UnB, mas…'
 cover: /uploads/img-20180527-wa0052-768x512.jpg
 date: '2018-05-28'
-editorial:
-  slug: /editorials/2018-1-opiniao/
-  title: Opinião
-author:
-  slug: /authors/2018-1-thifany-batista/
-  title: Thifany Batista
+editorial: 2018-1-opiniao
+authors:
+  - 2018-1-thifany-batista
 semester: 2018/1
 featured: false
 ---

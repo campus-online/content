@@ -3,12 +3,9 @@ template: blog-post
 title: Estudantes indígenas ingressam na UnB por meio de vestibular específico
 cover: /uploads/img-20180611-wa0085-748x421.jpg
 date: '2018-06-11'
-editorial:
-  slug: /editorials/2018-1-universidade/
-  title: Universidade
-author:
-  slug: /authors/2018-1-rebeca-borges/
-  title: Rebeca Borges
+editorial: 2018-1-universidade
+authors:
+  - 2018-1-rebeca-borges
 semester: 2018/1
 tags:
   - indígenas

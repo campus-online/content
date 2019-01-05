@@ -3,12 +3,9 @@ template: blog-post
 title: Conheça a biografia e os planos de governo dos presidenciáveis
 cover: /uploads/candidatos-cni-pesquisa.png
 date: '2018-10-03'
-editorial:
-  slug: /editorials/2018-2-politica/
-  title: Política
-author:
-  slug: /authors/2018-2-murilo-fagundes/
-  title: Murilo Fagundes
+editorial: 2018-2-politica
+authors:
+  - 2018-2-murilo-fagundes
 semester: 2018/2
 tags:
   - política
@@ -33,7 +30,7 @@ headline: >-
 
 # Em 1997 entrou no Partido Popular Socialista (PPS), mas, por desentendimentos internos, se associou ao Partido Socialista Brasileiro (PSB) em 2005. Oito anos depois, após discordar da decisão de apoiar a candidatura de Eduardo Campos à presidência, abandonou o PSB. Entrou no Partido Republicano da Ordem Social (Pros) em 2013, até mudar-se para o Partido Democrático Trabalhista (PDT) em 2015, seu atual partido. Ciro já disputou duas eleições presidenciais, em 1998 e 2002.
 
-# 
+#
 
 **PLANO DE GOVERNO**
 
@@ -55,7 +52,7 @@ headline: >-
 
 # Foi subsecretário de Finanças e Desenvolvimento Econômico da Prefeitura de São Paulo na administração de Marta Suplicy. Integrou o Ministério do Planejamento no governo Lula durante a gestão de Guido Mantega (2003-2004). Em 2005, Haddad assumiu o Ministério da Educação, onde ficou até 2012. Tornou-se prefeito de São Paulo em 2013 e esteve no cargo até 2016. Tentou a reeleição, mas não passou do primeiro turno.
 
-# 
+#
 
 # **PLANO DE GOVERNO**
 
@@ -123,22 +120,22 @@ _**/ Por **Emmeline Portela_
 
 # 	Marina Silva elegeu-se vereadora de Rio Branco, deputada estadual e duas vezes senadora no seu estado de origem, pelo PT. Em 2003 foi ministra do Meio Ambiente, cargo que exerceu até 2008. No ano de 2010, já pelo Partido Verde, concorreu pela primeira vez como candidata à Presidência e conquistou o terceiro lugar.
 
-# 	Nas eleições seguintes, participou como candidata a vice-presidente em chapa com Eduardo Campos, do PSB. Em agosto, Eduardo morreu em um acidente aéreo. Ela assumiu a candidatura e recebeu 21,32% dos votos, mas permaneceu em terceiro lugar. Em 2015 criou a Rede, partido pelo qual candidata a presidente da República. 
+# 	Nas eleições seguintes, participou como candidata a vice-presidente em chapa com Eduardo Campos, do PSB. Em agosto, Eduardo morreu em um acidente aéreo. Ela assumiu a candidatura e recebeu 21,32% dos votos, mas permaneceu em terceiro lugar. Em 2015 criou a Rede, partido pelo qual candidata a presidente da República.
 
 
 
-**Plano de governo** 
+**Plano de governo**
 
 
 
 # 		No programa de Marina Silva, a reforma política ampliará a transparência na aplicação de recursos a fim de diminuir a corrupção, com fim da reeleição em cargos executivos, revisão de financiamento de campanhas e obras e a aplicação do sistema distrital misto.
 
-# 		Na economia, os pressupostos básicos são o superávit primário, o regime de metas para inflação e o câmbio flutuante. A reforma da Previdência é incontornável, eliminará os privilégios e promoverá um sistema misto de contribuição e capitalização. O programa prevê uma reforma tributária para reduzir a complexidade e a insegurança jurídicas, com a implantação do Imposto sobre Bens e Serviços. 
+# 		Na economia, os pressupostos básicos são o superávit primário, o regime de metas para inflação e o câmbio flutuante. A reforma da Previdência é incontornável, eliminará os privilégios e promoverá um sistema misto de contribuição e capitalização. O programa prevê uma reforma tributária para reduzir a complexidade e a insegurança jurídicas, com a implantação do Imposto sobre Bens e Serviços.
 
-# 	Na segurança pública, o compromisso central é com a redução de crimes violentos, em especial os homicídios, e o combate ao crime organizado. Implementará o Sistema Único de Segurança Pública, trabalhando no combate ao tráfico de drogas e pessoas e o controle de armas. 
+# 	Na segurança pública, o compromisso central é com a redução de crimes violentos, em especial os homicídios, e o combate ao crime organizado. Implementará o Sistema Único de Segurança Pública, trabalhando no combate ao tráfico de drogas e pessoas e o controle de armas.
 
 # 	Quanto à educação, o governo promoverá o Plano Nacional de Educação, para reduzir o analfabetismo e a evasão escolar, investindo em infraestrutura e educação integral. A educação formal terá como objetivo o desenvolvimento completo e as relações entre o indivíduo, a universidade e o mercado de trabalho.
 
-# 	Para a saúde pública, reformulará a gestão do SUS, ampliando a oferta de equipamentos adequados e medicamentos. 
+# 	Para a saúde pública, reformulará a gestão do SUS, ampliando a oferta de equipamentos adequados e medicamentos.
 
 _**/ Por **Jônatas Moreira_

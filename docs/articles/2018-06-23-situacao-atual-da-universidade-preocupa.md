@@ -3,12 +3,9 @@ template: blog-post
 title: Situação atual da universidade preocupa
 cover: /uploads/img-20180623-wa0019-1024x575.jpg
 date: '2018-06-23'
-editorial:
-  slug: /editorials/2018-1-universidade/
-  title: Universidade
-author:
-  slug: /authors/2018-1-daniele-brandao/
-  title: Daniele Brandão
+editorial: 2018-1-universidade
+authors:
+  - 2018-1-daniele-brandao
 semester: 2018/1
 tags:
   - universidade
