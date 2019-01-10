@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: 'Após 15 anos, avaliação das cotas é positiva'
 cover: https://www.ucarecdn.com/8a75eb34-7c94-45f2-aeaa-dbeec6f49e64/
 date: '2018-06-11'

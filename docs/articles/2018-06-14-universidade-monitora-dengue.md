@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: Universidade monitora Dengue
 cover: https://www.ucarecdn.com/bf77056d-7e38-4680-861f-ee6099d07b46/
 date: '2018-06-14'

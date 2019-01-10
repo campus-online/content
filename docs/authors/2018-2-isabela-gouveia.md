@@ -1,5 +1,4 @@
 ---
-template: author
 title: Isabela Gouveia
 semester: 2018/2
 image: https://www.ucarecdn.com/6af06913-b379-4a60-a1e3-45a3f3c51f0d/

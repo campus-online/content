@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: 'Famílias usam o segundo turno das eleições para gerar renda extra  '
 cover: https://www.ucarecdn.com/2a0293af-0282-409a-9ad4-20a9dd7d1120/
 date: '2018-10-28'

@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: Conheça a biografia e os planos de governo dos presidenciáveis
 cover: https://www.ucarecdn.com/cf1009b0-598e-4f7a-a18e-4619668aa461/
 date: '2018-10-03'

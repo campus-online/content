@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: >-
   Interdição de parte da Rodoviária não afeta linha 110, que faz ligação com a
   UnB

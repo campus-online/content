@@ -1,5 +1,4 @@
 ---
-template: author
 title: Marina Julião
 semester: 2018/2
 image: https://www.ucarecdn.com/f22b7173-d9f0-426e-beb6-dd9cceb9060f/

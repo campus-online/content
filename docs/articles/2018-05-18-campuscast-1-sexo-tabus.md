@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: 'CampusCast #1 – Sexo & tabus'
 cover: https://www.ucarecdn.com/5f50f4c3-f1b9-4701-b2aa-27be28cbebcd/
 date: '2018-05-18'

@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: Consumo de bebida alcoólica afeta universitários
 cover: https://www.ucarecdn.com/f946f9f9-efcf-472a-b932-5e628d349931/
 date: '2018-06-11'

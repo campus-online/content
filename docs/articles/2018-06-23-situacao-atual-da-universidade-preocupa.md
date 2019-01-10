@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: Situação atual da universidade preocupa
 cover: https://www.ucarecdn.com/7220081f-3f84-459a-8e9f-6348c50c5f80/
 date: '2018-06-23'

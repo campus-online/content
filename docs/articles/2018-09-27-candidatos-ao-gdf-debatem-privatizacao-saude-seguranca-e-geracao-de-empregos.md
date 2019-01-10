@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: >-
   Candidatos ao GDF na FAC:  debate discute privatização, saúde, segurança e
   promoção de empregos

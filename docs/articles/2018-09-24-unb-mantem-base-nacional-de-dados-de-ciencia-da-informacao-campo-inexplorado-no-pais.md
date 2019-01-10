@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: >-
   UnB mantém base nacional de dados de Ciência da Informação, campo inexplorado
   no país

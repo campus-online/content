@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: >-
   Apesar das nove horas disponíveis para votação, eleitores saem de suas casas
   antes das 8h para confirmar o voto

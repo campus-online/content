@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: Quem merece permanecer?
 cover: https://www.ucarecdn.com/ba9e38ae-de19-461d-a628-88fd38537cb7/
 date: '2018-10-07'

@@ -1,5 +1,4 @@
 ---
-template: author
 title: Murilo Fagundes
 semester: 2018/2
 image: https://www.ucarecdn.com/5673be57-8783-409e-97a2-d69ed1f1157e/

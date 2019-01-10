@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: Biblioteca Central está funcionando com horário especial durante greve
 cover: https://www.ucarecdn.com/9fab21a6-a51f-4272-a66c-af725c910762/
 date: '2018-05-29'

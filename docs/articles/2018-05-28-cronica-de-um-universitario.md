@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: Crônica de um universitário
 cover: https://www.ucarecdn.com/831724fc-1359-495f-92fb-6be012ff1a92/
 date: '2018-05-28'

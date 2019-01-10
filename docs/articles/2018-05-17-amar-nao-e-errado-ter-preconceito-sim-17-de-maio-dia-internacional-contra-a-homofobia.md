@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: >-
   Amar não é errado; ter preconceito, sim! 17 de maio: Dia Internacional contra
   a Homofobia

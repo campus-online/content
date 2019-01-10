@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: Os desafios de conciliar a vida acadêmica com a prática esportiva
 cover: https://www.ucarecdn.com/e8ec2b20-380c-426b-b128-ed83538a9946/
 date: '2018-11-08'

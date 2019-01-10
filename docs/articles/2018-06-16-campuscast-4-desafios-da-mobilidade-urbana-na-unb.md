@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: 'Campuscast #4 – Desafios da mobilidade urbana na UnB'
 cover: https://www.ucarecdn.com/fbc07789-924d-4fa7-a05f-ec6963745541/
 date: '2018-06-16'

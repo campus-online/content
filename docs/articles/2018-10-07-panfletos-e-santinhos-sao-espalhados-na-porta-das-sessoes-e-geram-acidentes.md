@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: 'Panfletos e santinhos são espalhados na porta das sessões e geram acidentes '
 cover: https://www.ucarecdn.com/a92d51ba-6472-414d-a41b-7f011e864ded/
 date: '2018-10-07'

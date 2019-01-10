@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: >-
   Filmes produzidos por alunos da UnB participam do 13º Festival Taguatinga de
   Cinema

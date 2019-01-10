@@ -1,5 +1,4 @@
 ---
-template: author
 title: Gabriel Ponte
 semester: 2018/2
 image: https://www.ucarecdn.com/72b9a4f6-8baa-49ea-8d1d-4d81ef545696/

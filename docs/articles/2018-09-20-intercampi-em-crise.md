@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: Intercampi em crise
 cover: https://www.ucarecdn.com/4ec8dd9a-335e-4e8c-adbd-0ef3847c5d07/
 date: '2018-09-20'

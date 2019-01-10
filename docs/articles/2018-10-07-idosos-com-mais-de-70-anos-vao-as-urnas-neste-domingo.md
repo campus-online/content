@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: Idosos com mais de 70 anos vão às urnas neste domingo
 cover: https://www.ucarecdn.com/39748a5d-5810-4e2e-995b-746356d44ab8/
 date: '2018-10-07'

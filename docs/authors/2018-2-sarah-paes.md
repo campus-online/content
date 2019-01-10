@@ -1,5 +1,4 @@
 ---
-template: author
 title: Sarah Paes
 semester: 2018/2
 image: https://www.ucarecdn.com/49fcac14-6ae3-45e0-8b40-f9eeddca7e03/

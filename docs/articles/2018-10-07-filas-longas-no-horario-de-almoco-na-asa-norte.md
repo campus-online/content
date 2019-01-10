@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: Filas longas no horário de almoço na Asa Norte
 cover: https://www.ucarecdn.com/43af62e6-1d3c-4795-ad72-1b69bb4b9dc2/
 date: '2018-10-07'

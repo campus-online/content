@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: Fim da novela
 cover: https://www.ucarecdn.com/2a31a0d9-94a3-44f3-b831-01acf656ae56/
 date: '2018-11-28'

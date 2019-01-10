@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: >-
   Cerca de 288 pessoas esperavam por atendimento especializado em saúde trans
   pelo SUS até agosto

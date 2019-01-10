@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: Das cadeiras das salas de aula da UnB aos gabinetes parlamentares
 cover: https://www.ucarecdn.com/1f433ec7-b983-4c26-9ab8-d5eed0012eb3/
 date: '2018-10-14'

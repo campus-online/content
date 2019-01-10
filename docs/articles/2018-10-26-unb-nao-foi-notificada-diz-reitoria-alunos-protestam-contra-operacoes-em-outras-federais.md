@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: >-
   Em protesto às operações em universidades federais, placa antifascista é
   instalada na UnB

@@ -1,5 +1,4 @@
 ---
-template: author
 title: Flávia Said
 semester: 2018/2
 image: https://www.ucarecdn.com/8066f2d6-88cc-46f2-8b32-cb35eef9b545/

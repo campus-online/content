@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: Assista ao vivo debate entre os candidatos ao GDF
 cover: https://www.ucarecdn.com/20a60cfd-7504-4184-ae39-aefe416f354c/
 date: '2018-09-27'

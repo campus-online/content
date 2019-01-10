@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: Insatisfeitos com a política decidem se abster de votar
 cover: https://www.ucarecdn.com/31f2e80c-de82-4e66-baa8-965387f6b35a/
 date: '2018-10-28'

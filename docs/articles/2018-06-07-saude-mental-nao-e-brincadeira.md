@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: Saúde mental não é brincadeira
 cover: https://www.ucarecdn.com/33c8d2d3-c4f3-4bd4-98bc-69919c460cef/
 date: '2018-06-07'

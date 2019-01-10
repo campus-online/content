@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: Projeto de extensão da UnB atua no combate de câncer de mama de forma gratuita
 cover: https://www.ucarecdn.com/ac361a6d-3e3c-4865-a25b-2b8364d02259/
 date: '2018-10-12'

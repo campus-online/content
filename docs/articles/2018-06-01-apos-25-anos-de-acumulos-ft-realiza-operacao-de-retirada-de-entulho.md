@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: 'Após 25 anos de acúmulos, FT realiza operação de retirada de entulho'
 cover: https://www.ucarecdn.com/308b59ac-4ab9-41cc-b13d-99e93c4cbec2/
 date: '2018-06-01'

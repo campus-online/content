@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: Campus Online no Youtube
 cover: https://www.ucarecdn.com/b8114e12-4e34-4159-b0b0-c03c17b31715/
 date: '2018-05-28'

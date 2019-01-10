@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: 'Ciclistas na UnB: sustentabilidade e risco'
 cover: https://www.ucarecdn.com/43fe5d93-5f07-499b-8031-181142a41fb6/
 date: '2018-05-31'

@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: Estudante é assassinado na universidade
 cover: https://www.ucarecdn.com/305b99e0-aa94-4365-90da-1d619eab1e12/
 date: '2018-06-24'

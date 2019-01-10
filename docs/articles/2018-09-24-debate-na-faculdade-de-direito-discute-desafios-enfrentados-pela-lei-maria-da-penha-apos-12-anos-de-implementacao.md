@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: >-
   Debate na Faculdade de Direito discute desafios enfrentados pela Lei Maria da
   Penha após 12 anos de implementação

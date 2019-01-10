@@ -1,5 +1,4 @@
 ---
-template: author
 title: Anna Beatriz Vieira
 semester: 2018/2
 image: https://www.ucarecdn.com/be7ea812-36af-467e-953f-18a544f50d52/

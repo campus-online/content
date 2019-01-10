@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: Estudantes indígenas ingressam na UnB por meio de vestibular específico
 cover: https://www.ucarecdn.com/e0903b41-f807-4bae-86bd-8f20fd25c0d6/
 date: '2018-06-11'

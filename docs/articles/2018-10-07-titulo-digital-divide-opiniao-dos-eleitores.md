@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: Título digital divide opinião dos eleitores
 cover: https://www.ucarecdn.com/02296686-f004-454c-9762-b078d1b38063/
 date: '2018-10-07'

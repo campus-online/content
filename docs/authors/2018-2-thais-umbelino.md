@@ -1,5 +1,4 @@
 ---
-template: author
 title: Thais Umbelino
 semester: 2018/2
 image: https://www.ucarecdn.com/243eebdb-1f6a-4910-b20c-b4d1e49ec6e5/

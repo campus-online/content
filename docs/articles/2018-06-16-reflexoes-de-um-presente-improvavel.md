@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: Editorial - Reflexões de um presente improvável
 cover: https://www.ucarecdn.com/ddcdab53-def0-4661-be3a-8e92f4b28274/
 date: '2018-06-16'

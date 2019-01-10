@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: Pesquisa mostra relação entre esgotos e consumo de cocaína no DF
 cover: https://www.ucarecdn.com/d6a09d91-a488-4003-98a7-40ef084a0be5/
 date: '2018-06-11'

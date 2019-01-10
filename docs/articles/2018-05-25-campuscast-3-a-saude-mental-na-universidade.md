@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: 'Campuscast #3 – A Saúde Mental na Universidade'
 cover: https://www.ucarecdn.com/84cdcf3e-00ef-413c-914f-77ff44a2ae48/
 date: '2018-05-25'

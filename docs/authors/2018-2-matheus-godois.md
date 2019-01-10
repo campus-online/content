@@ -1,5 +1,4 @@
 ---
-template: author
 title: Matheus Godois
 semester: 2018/2
 image: https://www.ucarecdn.com/63b9300e-f3fa-4764-8928-0ba3c50fa303/
