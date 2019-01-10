@@ -8,6 +8,6 @@
 
 [[redirects]]
   from = "/admin/"
-  to = "https://campus.fac.unb.br/admin/"
+  to = "https://campus.netlify.com/admin/"
   status = 301
   force = true
