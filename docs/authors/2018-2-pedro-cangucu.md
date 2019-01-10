@@ -1,5 +1,4 @@
 ---
-template: author
 title: Pedro Canguçu
 semester: 2018/2
 image: https://www.ucarecdn.com/18f6312c-31a3-49f2-b4f4-87382e69e289/

@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: 'Campuscast #3 – Fake news e o segundo turno das eleições de 2018'
 cover: https://www.ucarecdn.com/26d7ade9-22ed-4743-8e72-d20c48c8b677/
 date: '2018-10-30'

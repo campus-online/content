@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: >-
   Eleições DCE: Aliança é eleita com margem expressiva. Confira as propostas da
   chapa

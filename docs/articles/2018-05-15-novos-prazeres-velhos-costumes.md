@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: >-
   Novos prazeres, velhos costumes: A prevenção contra infecções sexualmente
   transmissíveis na Universidade

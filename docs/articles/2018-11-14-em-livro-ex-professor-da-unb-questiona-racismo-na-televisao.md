@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: 'Em livro, ex-professor da UnB questiona racismo na televisão'
 cover: https://www.ucarecdn.com/c5c1b016-cde9-4003-93d3-92e9051361d7/
 date: '2018-11-14'

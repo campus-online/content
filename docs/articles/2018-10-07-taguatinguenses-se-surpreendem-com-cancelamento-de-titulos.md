@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: Taguatinguenses se surpreendem com cancelamento de títulos
 cover: https://www.ucarecdn.com/3a96858a-0381-4999-b6bb-90e6722e80ec/
 date: '2018-10-07'

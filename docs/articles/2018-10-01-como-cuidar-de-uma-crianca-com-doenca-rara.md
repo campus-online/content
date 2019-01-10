@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: Como cuidar de uma criança com doença rara
 cover: https://www.ucarecdn.com/45869f7c-20c0-4012-9b97-617e64af5b26/
 date: '2018-09-29'

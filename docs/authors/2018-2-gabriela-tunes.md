@@ -1,5 +1,4 @@
 ---
-template: author
 title: Gabriela Tunes
 semester: 2018/2
 image: https://www.ucarecdn.com/2c9c92b9-f46c-4d20-a7b4-8c671de6056c/

@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: >-
   Semana Universitária e extensão: universidade deixa a sua `ilha` e ganha o
   mundo

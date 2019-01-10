@@ -1,5 +1,4 @@
 ---
-template: author
 title: Denise Simino
 semester: 2018/2
 ---

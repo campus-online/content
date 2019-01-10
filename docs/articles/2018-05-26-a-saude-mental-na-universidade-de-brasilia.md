@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: A saúde mental na Universidade de Brasília
 cover: https://www.ucarecdn.com/8c8f1633-8b5f-422c-9b02-05f687a79154/
 date: '2018-05-26'

@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: Editorial - A batalha delas
 cover: https://www.ucarecdn.com/a9c6a772-8963-4bbd-a496-c8a6c7c49a1a/
 date: '2018-06-23'

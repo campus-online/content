@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: >-
   Sexo dentro de Campus é motivado por pouca maturidade e consumo alcoólico, diz
   especialista

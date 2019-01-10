@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: A universidade e o tabu da liberdade sexual
 cover: https://www.ucarecdn.com/7618294f-1d17-44b8-bb11-911ec02a802c/
 date: '2018-05-18'

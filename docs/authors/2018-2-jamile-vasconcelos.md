@@ -1,5 +1,4 @@
 ---
-template: author
 title: Jamile Vasconcelos
 semester: 2018/2
 image: https://www.ucarecdn.com/57806b82-8a7d-4fff-92c9-42ee65e58c3d/

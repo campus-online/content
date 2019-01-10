@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: Proibir doação de sangue por gays fere direitos constitucionais
 cover: https://www.ucarecdn.com/329e7070-1480-465e-a962-3cc49263a6ac/
 date: '2018-06-28'

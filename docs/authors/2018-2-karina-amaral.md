@@ -1,5 +1,4 @@
 ---
-template: author
 title: Karina Amaral
 semester: 2018/2
 image: https://www.ucarecdn.com/3e24d47c-a4ab-4f0d-bea1-daaa163ea392/

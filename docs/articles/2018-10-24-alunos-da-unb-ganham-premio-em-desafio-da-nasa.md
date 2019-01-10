@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: Alunos da UnB ganham prêmio em desafio da NASA
 cover: https://www.ucarecdn.com/afbd2701-17fa-4446-a25f-35aee482d7dc/
 date: '2018-10-24'

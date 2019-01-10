@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: >-
   Primeiro gay assumido eleito para a Câmara Legislativa, Fábio Felix é
   doutorando na UnB

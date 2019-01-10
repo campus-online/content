@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: As dificuldades dos estudantes intercambistas e de outros estados do Brasil
 cover: https://www.ucarecdn.com/4e1538ef-643b-4f77-b121-1f96f2a1f304/
 date: '2018-05-23'

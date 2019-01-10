@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: Maio Amarelo e um trânsito mais seguro no Brasil
 cover: https://www.ucarecdn.com/478892e1-3624-4a7a-8059-5723a1655c76/
 date: '2018-05-29'

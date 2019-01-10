@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: 'A situação dos terceirizados: O que vai acontecer daqui para frente'
 cover: https://www.ucarecdn.com/daede10d-eb58-45d9-bc8a-d7825efa339b/
 date: '2018-05-21'

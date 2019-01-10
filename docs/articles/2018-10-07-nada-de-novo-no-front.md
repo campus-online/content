@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: Nada de novo no front
 cover: https://www.ucarecdn.com/ecbdaa6a-99db-4163-a27e-99beedcb702b/
 date: '2018-10-07'

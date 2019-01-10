@@ -1,5 +1,4 @@
 ---
-template: author
 title: Juliana Ferreira
 semester: 2018/2
 image: https://www.ucarecdn.com/da3d372c-493c-4c99-a16c-145cc0c99c8f/

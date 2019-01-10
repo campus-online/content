@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: >-
   Ocorrências nas dependências da UnB diminuem em comparação a 2017, mas alguns
   pontos continuam perigosos

@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: 'Denise Imbroisi: “Existe uma incompreensão dos ajustes”'
 cover: https://www.ucarecdn.com/1c285c3b-efba-4d9b-a427-385cceacc2b8/
 date: '2018-05-22'

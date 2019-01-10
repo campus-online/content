@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: 'Eleitor do DF terá que levar título, documento e guarda-chuva'
 cover: https://www.ucarecdn.com/4500975c-48c0-4600-b6da-27d4b5185f1a/
 date: '2018-10-07'

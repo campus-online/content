@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: Teve problemas com a Biometria? O Campus tem algumas dicas para você
 cover: https://www.ucarecdn.com/1d1fbf1d-b635-4ed4-9986-00c1309163ca/
 date: '2018-10-28'

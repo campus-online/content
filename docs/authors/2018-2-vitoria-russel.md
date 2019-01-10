@@ -1,5 +1,4 @@
 ---
-template: author
 title: Vitória Russel
 semester: 2018/2
 image: https://www.ucarecdn.com/9e11d91d-de12-42a5-ba1e-d0eeb0ac6fd2/

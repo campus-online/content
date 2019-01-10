@@ -1,5 +1,4 @@
 ---
-template: author
 title: Gustavo França
 semester: 2018/2
 image: https://www.ucarecdn.com/f586d2dd-9e0e-4d70-8039-f356e06f29f3/

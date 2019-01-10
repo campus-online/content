@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: Diversidade de histórias que marcam relacionamentos na UnB
 cover: https://www.ucarecdn.com/71bc431f-f1ca-4bed-b108-6c18d7be2c8a/
 date: '2018-06-12'

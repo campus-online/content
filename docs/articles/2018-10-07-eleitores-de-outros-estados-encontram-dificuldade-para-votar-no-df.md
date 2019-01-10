@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: Eleitores de outros estados encontram dificuldade para votar no DF
 cover: https://www.ucarecdn.com/6ea367e8-d1cb-494c-80a3-abe0966211b7/
 date: '2018-10-07'

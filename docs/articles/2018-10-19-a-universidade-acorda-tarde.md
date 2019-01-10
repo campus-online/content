@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: O tardio despertar da universidade para as notícias falsas
 cover: https://www.ucarecdn.com/67964efd-8d67-42cb-a919-9e0c19c95cb7/
 date: '2018-10-19'

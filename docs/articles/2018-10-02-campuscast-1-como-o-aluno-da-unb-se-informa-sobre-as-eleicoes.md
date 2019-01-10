@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: 'Campuscast #1 – Como o aluno da UnB se informa sobre as eleições?'
 cover: https://www.ucarecdn.com/ae06780b-f284-4636-b2ca-0b1ba0cac821/
 date: '2018-10-02'

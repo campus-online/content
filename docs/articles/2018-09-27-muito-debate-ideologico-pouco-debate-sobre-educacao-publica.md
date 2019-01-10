@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: 'Muito debate ideológico, pouco debate sobre educação pública'
 cover: https://www.ucarecdn.com/2ca0a825-4afc-46ff-8513-4bbe3e76ef8b/
 date: '2018-09-27'

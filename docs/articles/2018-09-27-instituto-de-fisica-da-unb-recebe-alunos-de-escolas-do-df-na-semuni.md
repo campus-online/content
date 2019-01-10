@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: Instituto de Física da UnB recebe alunos de escolas do DF na SemUni
 cover: https://www.ucarecdn.com/67248c46-f3fb-440b-a135-0e552941ee1c/
 date: '2018-09-27'

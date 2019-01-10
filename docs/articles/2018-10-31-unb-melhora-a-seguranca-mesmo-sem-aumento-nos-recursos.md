@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: 'UnB melhora a segurança mesmo sem aumento nos recursos '
 cover: https://www.ucarecdn.com/3e271b69-c8c9-4d69-806d-e2d9c71a05ca/
 date: '2018-10-31'

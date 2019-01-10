@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: Editorial - A greve nas estradas
 cover: >-
   https://www.ucarecdn.com/edef9723-ecb9-47bc-88ae-6ad7292c1c51/

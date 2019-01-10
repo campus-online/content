@@ -1,5 +1,4 @@
 ---
-template: author
 title: Mariah Aquino
 semester: 2018/2
 image: https://www.ucarecdn.com/ae218222-06e2-4382-8b88-d26cfbf62bb0/

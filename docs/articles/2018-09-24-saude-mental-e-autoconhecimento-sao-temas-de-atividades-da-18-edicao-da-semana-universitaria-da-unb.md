@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: >-
   Saúde mental e autoconhecimento são temas de atividades da 18ª edição da
   Semana Universitária da UnB

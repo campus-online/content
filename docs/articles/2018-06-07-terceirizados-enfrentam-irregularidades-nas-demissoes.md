@@ -1,5 +1,4 @@
 ---
-template: blog-post
 title: Terceirizados enfrentam irregularidades nas demissões
 cover: https://www.ucarecdn.com/8292b37d-40ba-44c3-b5ea-1b5f83cf45f1/
 date: '2018-06-07'
