@@ -674,6 +674,36 @@
     lodash "^4.17.10"
     to-fast-properties "^2.0.0"
 
+"@campus-online/cms@^2.3.4-alpha.6":
+  version "2.3.4-alpha.6"
+  resolved "https://registry.yarnpkg.com/@campus-online/cms/-/cms-2.3.4-alpha.6.tgz#c406b2e43aec7c0f48ce937101ac4594caf1877d"
+  integrity sha512-s0SN21EmtgkxrDb3gVrGGezwQYS7/qgwaHpKO1bTwFVbSpVj7QKacgbI+swBL+nnSqal6vUHbtLb3k9/eYCdlA==
+  dependencies:
+    create-react-class "^15.6.0"
+    emotion "^9.2.6"
+    netlify-cms-backend-bitbucket "^2.1.0"
+    netlify-cms-backend-git-gateway "^2.1.2"
+    netlify-cms-backend-github "^2.1.0"
+    netlify-cms-backend-gitlab "^2.1.1"
+    netlify-cms-backend-test "^2.0.6"
+    netlify-cms-core "^2.4.1"
+    netlify-cms-custom-relation "^2.0.5"
+    netlify-cms-editor-component-image "^2.2.0"
+    netlify-cms-media-library-uploadcare "^0.3.1"
+    netlify-cms-widget-boolean "^2.0.5"
+    netlify-cms-widget-date "^2.1.0"
+    netlify-cms-widget-datetime "^2.0.7"
+    netlify-cms-widget-file "^2.2.0"
+    netlify-cms-widget-image "^2.1.1"
+    netlify-cms-widget-list "^2.1.0"
+    netlify-cms-widget-markdown "^2.1.0"
+    netlify-cms-widget-number "^2.0.5"
+    netlify-cms-widget-object "^2.0.5"
+    netlify-cms-widget-relation "^2.0.5"
+    netlify-cms-widget-select "^2.1.0"
+    netlify-cms-widget-string "^2.0.4"
+    netlify-cms-widget-text "^2.0.6"
+
 "@emotion/babel-utils@^0.6.4":
   version "0.6.10"
   resolved "https://registry.yarnpkg.com/@emotion/babel-utils/-/babel-utils-0.6.10.tgz#83dbf3dfa933fae9fc566e54fbb45f14674c6ccc"
@@ -744,35 +774,6 @@
   version "0.8.2"
   resolved "https://registry.yarnpkg.com/@emotion/utils/-/utils-0.8.2.tgz#576ff7fb1230185b619a75d258cbc98f0867a8dc"
   integrity sha512-rLu3wcBWH4P5q1CGoSSH/i9hrXs7SlbRLkoq9IGuoPYNGQvDJ3pt/wmOM+XgYjIDRMVIdkUWt0RsfzF50JfnCw==
-
-"@leonardodino/netlify-cms@^2.3.2-alpha.1":
-  version "2.3.2-alpha.1"
-  resolved "https://registry.yarnpkg.com/@leonardodino/netlify-cms/-/netlify-cms-2.3.2-alpha.1.tgz#647ac3777f9984c2882a8416adb126fff675e08f"
-  integrity sha512-5rBaLqtn/1AnZN30ExpCgGZiinwoxzfR9vrDGhpppZ9bFviRX0zF+MiGOz5+NoDj/tIrgK6lMPmZXGvfYmrGNQ==
-  dependencies:
-    create-react-class "^15.6.0"
-    emotion "^9.2.6"
-    netlify-cms-backend-bitbucket "^2.1.0"
-    netlify-cms-backend-git-gateway "^2.1.2"
-    netlify-cms-backend-github "^2.1.0"
-    netlify-cms-backend-gitlab "^2.1.1"
-    netlify-cms-backend-test "^2.0.6"
-    netlify-cms-core "^2.4.0"
-    netlify-cms-editor-component-image "^2.2.0"
-    netlify-cms-media-library-uploadcare "^0.3.1"
-    netlify-cms-widget-boolean "^2.0.5"
-    netlify-cms-widget-date "^2.1.0"
-    netlify-cms-widget-datetime "^2.0.7"
-    netlify-cms-widget-file "^2.2.0"
-    netlify-cms-widget-image "^2.1.1"
-    netlify-cms-widget-list "^2.1.0"
-    netlify-cms-widget-markdown "^2.1.0"
-    netlify-cms-widget-number "^2.0.5"
-    netlify-cms-widget-object "^2.0.5"
-    netlify-cms-widget-relation "^2.0.5"
-    netlify-cms-widget-select "^2.1.0"
-    netlify-cms-widget-string "^2.0.4"
-    netlify-cms-widget-text "^2.0.6"
 
 "@types/node@^10.11.7":
   version "10.12.18"
@@ -6476,7 +6477,7 @@ netlify-cms-backend-test@^2.0.6:
   dependencies:
     uuid "^3.3.2"
 
-netlify-cms-core@^2.4.0:
+netlify-cms-core@^2.4.1:
   version "2.4.1"
   resolved "https://registry.yarnpkg.com/netlify-cms-core/-/netlify-cms-core-2.4.1.tgz#ac666cbe430f770740daea0b4d411b42ec4e7257"
   integrity sha512-xXO8PcLRQ6lYkp421ZUAFGwaipckM8kDHiEC2sCwgWzdr2P+pg6zxKpaC+NsjRy2E+jHqas/NaLL0LjLwlMzWQ==
@@ -6530,6 +6531,13 @@ netlify-cms-core@^2.4.0:
     tomlify-j0.4 "^3.0.0-alpha.0"
     url "^0.11.0"
     what-input "^5.0.3"
+
+netlify-cms-custom-relation@^2.0.5:
+  version "2.0.5"
+  resolved "https://registry.yarnpkg.com/netlify-cms-custom-relation/-/netlify-cms-custom-relation-2.0.5.tgz#ee48218dab88d0e3111c74525c391f2553f783f2"
+  integrity sha512-GQw8B+yLYgC45Mj5dcu8eaVy6f6/euAXyQK0JK2LSoxXUyO5WArKzNRPBJzZIMfIRxy5J5K3w1DtvS4aJDvp5A==
+  dependencies:
+    react-select "^2.1.1"
 
 netlify-cms-editor-component-image@^2.2.0:
   version "2.2.0"

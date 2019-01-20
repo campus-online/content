@@ -25,7 +25,7 @@ module.exports = {
 	devtool: 'source-map',
 	resolve: {
 		alias: {
-			'netlify-cms': '@leonardodino/netlify-cms',
+			'netlify-cms': '@campus-online/cms',
 		},
 	},
 	module: {
