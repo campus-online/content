@@ -1,0 +1,83 @@
+logo_url: https://campus.fac.unb.br/assets/images/logo.png
+
+backend:
+  name: git-gateway
+  branch: master
+  squash_merges: true
+  site_domain: campus-content.netlify.com
+  identity_url: https://campus-content.netlify.com/.netlify/identity
+  gateway_url: https://campus-content.netlify.com/.netlify/git/github
+
+publish_mode: editorial_workflow
+
+slug:
+  encoding: "ascii"
+  clean_accents: true
+
+display_url: https://campus.fac.unb.br
+
+media_library:
+  name: uploadcare
+  config:
+    publicKey: demopublickey
+
+editor:
+  preview: false
+
+collections:
+  - name: articles
+    label: "Matérias"
+    label_singular: "Matéria"
+    folder: "docs/articles"
+    create: true
+    format: "yaml-frontmatter"
+    slug: "{{date}}-{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - {label: "Título", name: title, widget: string, required: true}
+      - {label: "Foto de Capa", name: cover, widget: image, required: false}
+      - {label: "Data de publicação", name: date, widget: date, format: "YYYY-MM-DD", required: true}
+      - {label: "Editoria", name: editorial, widget: editorial, collection: "editorials", searchFields: ["title"], valueField: "title", required: false}
+      - {label: "Autor", name: author, widget: author, collection: "authors", searchFields: ["semester", "title"], required: false}
+      - {label: "Semestre de publicação (20xx/x)", name: semester, widget: semester, required: true}
+      - {label: "Tags", name: tags, widget: list, required: false}
+      - {label: "Destaque", name: featured, widget: boolean, default: false, required: false}
+      - {label: "Sutiã", name: headline, widget: string, required: false}
+      - {label: "Corpo", name: body, widget: markdown}
+
+
+  - name: authors
+    label: "Repórteres"
+    label_singular: "Repórter"
+    folder: "docs/authors"
+    create: true
+    delete: false
+    extension: "md"
+    format: "yaml-frontmatter"
+    slug: "{{semester}}-{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - {label: "Nome", name: title, widget: string, required: true}
+      - {label: "Semestre no Campus (20xx/x)", name: semester, widget: semester, required: true}
+      - {label: "Foto (opcional)", name: image, widget: image, required: false}
+      - {label: "Bio (opcional)", name: body, widget: markdown, required: false}
+
+
+  - name: editorials
+    label: "Editorias"
+    label_singular: "Editoria"
+    folder: "docs/editorials"
+    create: true
+    delete: false
+    extension: "md"
+    format: "yaml-frontmatter"
+    slug: "{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - {label: "Nome da Editoria", name: title, widget: string, required: true}
+      - {label: "Cor (hexadecimal)", name: color, widget: string, required: true, pattern: ['^#(?:[0-9a-fA-F]{3}){1,2}$', "Cor Inválida"]}
+      - {label: "Semestre (20xx/x)", name: semester, widget: semester, required: true}
+      - {label: "Descrição (opcional)", name: description, widget: text, required: false}
