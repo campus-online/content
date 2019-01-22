@@ -38,8 +38,8 @@ collections:
       - {label: "Título", name: title, widget: string, required: true}
       - {label: "Foto de Capa", name: cover, widget: image, required: false}
       - {label: "Data de publicação", name: date, widget: date, format: "YYYY-MM-DD", required: true}
-      - {label: "Editoria", name: editorial, widget: editorial, collection: "editorials", searchFields: ["title"], valueField: "title", required: false}
-      - {label: "Autor", name: author, widget: author, collection: "authors", searchFields: ["semester", "title"], required: false}
+      - {label: "Editoria", name: editorial, widget: editorial, required: false}
+      - {label: "Autores", name: authors, widget: author, multiple: true, required: false}
       - {label: "Semestre de publicação (20xx/x)", name: semester, widget: semester, required: true}
       - {label: "Tags", name: tags, widget: list, required: false}
       - {label: "Destaque", name: featured, widget: boolean, default: false, required: false}
