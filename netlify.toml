@@ -5,9 +5,3 @@
 
 [build.environment]
   AWS_LAMBDA_JS_RUNTIME = "nodejs8.10"
-
-[[redirects]]
-  from = "/admin/"
-  to = "https://campus.netlify.com/admin/"
-  status = 301
-  force = true
