@@ -22,7 +22,7 @@
     "setupTestFrameworkScriptFile": "./tests/setup.js"
   },
   "dependencies": {
-    "@campus-online/cms": "^2.3.4-alpha.6",
+    "@campus-online/cms": "^2.3.4-alpha.7",
     "gatsby-transformer-remark": "^2.1.19",
     "netlify-identity-widget": "^1.5.2",
     "node-fetch": "^2.3.0",

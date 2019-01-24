@@ -674,10 +674,10 @@
     lodash "^4.17.10"
     to-fast-properties "^2.0.0"
 
-"@campus-online/cms@^2.3.4-alpha.6":
-  version "2.3.4-alpha.6"
-  resolved "https://registry.yarnpkg.com/@campus-online/cms/-/cms-2.3.4-alpha.6.tgz#c406b2e43aec7c0f48ce937101ac4594caf1877d"
-  integrity sha512-s0SN21EmtgkxrDb3gVrGGezwQYS7/qgwaHpKO1bTwFVbSpVj7QKacgbI+swBL+nnSqal6vUHbtLb3k9/eYCdlA==
+"@campus-online/cms@^2.3.4-alpha.7":
+  version "2.3.4-alpha.7"
+  resolved "https://registry.yarnpkg.com/@campus-online/cms/-/cms-2.3.4-alpha.7.tgz#76c3073738202e30bf422c864e1171856c55a03b"
+  integrity sha512-2kiQtOlkfYCiuhZlehFY1OjMePcsIe6HOSEXVp9NEYKK9o3qBcexo0iRU3HewBj2nvipZyHC5ksHOOF8w6W/Yw==
   dependencies:
     create-react-class "^15.6.0"
     emotion "^9.2.6"

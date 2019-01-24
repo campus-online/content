@@ -30,6 +30,7 @@ collections:
     label_singular: "Matéria"
     folder: "docs/articles"
     create: true
+    reverse: true
     format: "yaml-frontmatter"
     slug: "{{date}}-{{slug}}"
     editor:
@@ -53,6 +54,7 @@ collections:
     folder: "docs/authors"
     create: true
     delete: false
+    reverse: true
     extension: "md"
     format: "yaml-frontmatter"
     slug: "{{semester}}-{{slug}}"
@@ -71,6 +73,7 @@ collections:
     folder: "docs/editorials"
     create: true
     delete: false
+    reverse: true
     extension: "md"
     format: "yaml-frontmatter"
     slug: "{{slug}}"
