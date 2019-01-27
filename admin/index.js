@@ -1,4 +1,4 @@
-import CMS from 'netlify-cms'
+import CMS, { init } from 'netlify-cms'
 
 // import AboutPagePreview from '../templates/about/preview'
 // import BlogPostPreview from '../templates/article/preview'
@@ -14,3 +14,5 @@ window.___loader = window.___loader || {enqueue: () => undefined}
 CMS.registerWidget('author', AuthorWidget)
 CMS.registerWidget('editorial', EditorialWidget)
 CMS.registerWidget('semester', SemesterWidget)
+
+init()

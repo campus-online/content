@@ -674,12 +674,11 @@
     lodash "^4.17.10"
     to-fast-properties "^2.0.0"
 
-"@campus-online/cms@^2.3.4-alpha.7":
-  version "2.3.4-alpha.7"
-  resolved "https://registry.yarnpkg.com/@campus-online/cms/-/cms-2.3.4-alpha.7.tgz#76c3073738202e30bf422c864e1171856c55a03b"
-  integrity sha512-2kiQtOlkfYCiuhZlehFY1OjMePcsIe6HOSEXVp9NEYKK9o3qBcexo0iRU3HewBj2nvipZyHC5ksHOOF8w6W/Yw==
+"@campus-online/cms@2.3.4-alpha.9":
+  version "2.3.4-alpha.9"
+  resolved "https://registry.yarnpkg.com/@campus-online/cms/-/cms-2.3.4-alpha.9.tgz#4e303cf92388261eb59564ad49fdb7fa26d0585c"
+  integrity sha512-7JwFp2BTAEz5m8OpLLPsNPtEZSxmDB6CjpNlDeND1hC9Nuw8TfYkl9LvNqVTAyWojsUC0PGjdF5f315PKk7iTQ==
   dependencies:
-    create-react-class "^15.6.0"
     emotion "^9.2.6"
     netlify-cms-backend-bitbucket "^2.1.0"
     netlify-cms-backend-git-gateway "^2.1.2"
@@ -689,7 +688,9 @@
     netlify-cms-core "^2.4.1"
     netlify-cms-custom-relation "^2.0.5"
     netlify-cms-editor-component-image "^2.2.0"
+    netlify-cms-entry-loader "^2.0.5"
     netlify-cms-media-library-uploadcare "^0.3.1"
+    netlify-cms-ui-default "^2.2.0"
     netlify-cms-widget-boolean "^2.0.5"
     netlify-cms-widget-date "^2.1.0"
     netlify-cms-widget-datetime "^2.0.7"
@@ -2332,7 +2333,7 @@ create-hmac@^1.1.0, create-hmac@^1.1.2, create-hmac@^1.1.4:
     safe-buffer "^5.0.1"
     sha.js "^2.4.8"
 
-create-react-class@^15.5.1, create-react-class@^15.5.2, create-react-class@^15.6.0:
+create-react-class@^15.5.1, create-react-class@^15.5.2:
   version "15.6.3"
   resolved "https://registry.yarnpkg.com/create-react-class/-/create-react-class-15.6.3.tgz#2d73237fb3f970ae6ebe011a9e66f46dbca80036"
   integrity sha512-M+/3Q6E6DLO6Yx3OwrWjwHBnvfXXYA7W+dFjt/ZDBemHO1DDZhsalX/NUtnTYclN6GfnBDRh4qRHjcDHmlJBJg==
@@ -6477,7 +6478,7 @@ netlify-cms-backend-test@^2.0.6:
   dependencies:
     uuid "^3.3.2"
 
-netlify-cms-core@^2.4.1:
+netlify-cms-core@2.4.1, netlify-cms-core@^2.4.1:
   version "2.4.1"
   resolved "https://registry.yarnpkg.com/netlify-cms-core/-/netlify-cms-core-2.4.1.tgz#ac666cbe430f770740daea0b4d411b42ec4e7257"
   integrity sha512-xXO8PcLRQ6lYkp421ZUAFGwaipckM8kDHiEC2sCwgWzdr2P+pg6zxKpaC+NsjRy2E+jHqas/NaLL0LjLwlMzWQ==
@@ -6543,6 +6544,14 @@ netlify-cms-editor-component-image@^2.2.0:
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/netlify-cms-editor-component-image/-/netlify-cms-editor-component-image-2.2.0.tgz#fd8bc0d942c86485f1d6181f210f6a8fbd637af3"
   integrity sha512-0RRTXNOo5tzr3kjI3J+Ix8ufGeQ91j1Fhj2syy9l2ND7Uevr5J5oKxUD5cBzQVHwHq1Qc+hciuRoypFqk+NtAQ==
+
+netlify-cms-entry-loader@^2.0.5:
+  version "2.0.5"
+  resolved "https://registry.yarnpkg.com/netlify-cms-entry-loader/-/netlify-cms-entry-loader-2.0.5.tgz#37927b39e6a7bd558d90cbbfd1675a3a8a6d331c"
+  integrity sha512-Nk3NTXX1EwUJ6AtF60vLNg94rOCOPDUWVxvWqsFcfykH7cuUxvnTUWst7ODiO8yFrQOlhxNlB348naOWV6Sj9g==
+  dependencies:
+    netlify-cms-core "2.4.1"
+    react-select "^2.3.0"
 
 netlify-cms-lib-auth@^2.0.5:
   version "2.0.5"
@@ -7862,7 +7871,7 @@ react-scroll-sync@^0.6.0:
   resolved "https://registry.yarnpkg.com/react-scroll-sync/-/react-scroll-sync-0.6.0.tgz#c87eba2cdd55ae35874277d74b034419d73df59a"
   integrity sha512-Frc7pNPIEQY6rUAUwm1wW0an57Xau6X1Sag+Ra2FJT+oDBEBdh4cahrE3oGwtYHPcyWMt74q7vRKLw73cPy6aw==
 
-react-select@^2.1.1:
+react-select@^2.1.1, react-select@^2.3.0:
   version "2.3.0"
   resolved "https://registry.yarnpkg.com/react-select/-/react-select-2.3.0.tgz#990429622445eb2b4a6e985b8069fe7d498cae91"
   integrity sha512-CD3jyZs5lwy/CHW3SdYU1d1FtmJxgvVPdKMwEE8dD6MyNANFtvW95P/V20StPsPppFY7oePv/i2Mun2C2+WgTA==
