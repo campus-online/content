@@ -1,7 +1,7 @@
 ---
 title: Zanei Barcellos
 semester: 2018/2
-image: https://www.ucarecdn.com/edbe9d22-1b0e-4087-a430-5490b831fd7e/
+image: 'https://www.ucarecdn.com/edbe9d22-1b0e-4087-a430-5490b831fd7e/'
 ---
 Zanei é o professor/jornalista responsável pelo Campus Online - MTb  01182. 
 

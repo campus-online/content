@@ -2,7 +2,7 @@
 title: >-
   Ocorrências nas dependências da UnB diminuem em comparação a 2017, mas alguns
   pontos continuam perigosos
-cover: https://www.ucarecdn.com/5abb4299-8d03-47f2-a9bd-9793d8f44643/
+cover: 'https://www.ucarecdn.com/5abb4299-8d03-47f2-a9bd-9793d8f44643/'
 date: '2018-11-01'
 editorial: 2018-2-comportamento
 authors:
@@ -16,7 +16,7 @@ headline: >-
   Número de ocorrências diminuiu de 190 para 126, se comparados os primeiros
   semestres de 2017 e 2018
 ---
-Apesar das medidas implementadas pela UnB a fim de melhorar a segurança, relatada na matéria do **_Campus Online_** [UnB melhora a segurança mesmo sem aumento nos recursos](https://campus.fac.unb.br/materias/2018-10-31-unb-melhora-a-seguranca-mesmo-sem-aumento-nos-recursos/), a pauta da segurança continua sendo uma constante entre os alunos da instituição de ensino. Pegar aulas à noite e estacionar carro ou bicicleta são tarefas que ainda despertam receio em meio à comunidade acadêmica.
+Apesar das medidas implementadas pela UnB a fim de melhorar a segurança, relatada na matéria do _**Campus Online**_ [UnB melhora a segurança mesmo sem aumento nos recursos](https://campus.fac.unb.br/materias/2018-10-31-unb-melhora-a-seguranca-mesmo-sem-aumento-nos-recursos/), a pauta da segurança continua sendo uma constante entre os alunos da instituição de ensino. Pegar aulas à noite e estacionar carro ou bicicleta são tarefas que ainda despertam receio em meio à comunidade acadêmica.
 
 De acordo com a Diretoria de Segurança da UnB (Diseg), apenas no primeiro semestre de 2018 mais de 60 ocorrências foram feitas por arrombamento e furto de veículos nas dependências da universidade. Apesar de grande, o número é menor que os registros do primeiro semestre do ano passado.
 

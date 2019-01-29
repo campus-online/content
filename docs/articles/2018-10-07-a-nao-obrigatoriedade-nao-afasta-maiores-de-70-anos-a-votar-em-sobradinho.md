@@ -2,7 +2,7 @@
 title: >-
   Eleitores com mais de 70 anos comparecem às urnas em Sobradinho mesmo com a
   não obrigatoriedade
-cover: https://www.ucarecdn.com/afb06a19-ce40-468f-968f-533a349891f9/
+cover: 'https://www.ucarecdn.com/afb06a19-ce40-468f-968f-533a349891f9/'
 date: '2018-10-07'
 editorial: 2018-2-politica
 authors:

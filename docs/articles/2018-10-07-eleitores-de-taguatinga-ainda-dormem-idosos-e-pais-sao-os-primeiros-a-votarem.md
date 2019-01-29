@@ -1,6 +1,6 @@
 ---
 title: 'Eleitores de Taguatinga ainda dormem, idosos e pais são os primeiros a votarem'
-cover: https://www.ucarecdn.com/ae0fb833-8b7d-4a14-9bc0-85c735aea292/
+cover: 'https://www.ucarecdn.com/ae0fb833-8b7d-4a14-9bc0-85c735aea292/'
 date: '2018-10-07'
 editorial: 2018-2-politica
 authors:

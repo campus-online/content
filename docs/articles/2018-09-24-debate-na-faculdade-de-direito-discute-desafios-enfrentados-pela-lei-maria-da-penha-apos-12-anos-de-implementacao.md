@@ -2,7 +2,7 @@
 title: >-
   Debate na Faculdade de Direito discute desafios enfrentados pela Lei Maria da
   Penha após 12 anos de implementação
-cover: https://www.ucarecdn.com/088830a2-c6a5-4640-b76e-5231119df62f/
+cover: 'https://www.ucarecdn.com/088830a2-c6a5-4640-b76e-5231119df62f/'
 date: '2018-09-24'
 editorial: 2018-2-educacao
 authors:

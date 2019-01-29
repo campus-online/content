@@ -1,6 +1,6 @@
 ---
 title: Eleitores de outros estados encontram dificuldade para votar no DF
-cover: https://www.ucarecdn.com/6ea367e8-d1cb-494c-80a3-abe0966211b7/
+cover: 'https://www.ucarecdn.com/6ea367e8-d1cb-494c-80a3-abe0966211b7/'
 date: '2018-10-07'
 editorial: 2018-2-politica
 authors:
@@ -15,7 +15,7 @@ headline: >-
   De acordo com cidadãos, inovações digitais não resolvem dúvidas na hora de
   irem às urnas
 ---
-Mariana da Silva, pernambucana que vai votar fora de seu estado pela primeira vez, acredita que as mudanças tecnológicas nesta eleição acabaram atrapalhando um pouco. “O site \[do TSE] é muito pesado, não abre no celular. O acesso é muito difícil, se não fosse pelo pessoal de apoio, não teria achado a seção”, conta.
+Mariana da Silva, pernambucana que vai votar fora de seu estado pela primeira vez, acredita que as mudanças tecnológicas nesta eleição acabaram atrapalhando um pouco. “O site [do TSE] é muito pesado, não abre no celular. O acesso é muito difícil, se não fosse pelo pessoal de apoio, não teria achado a seção”, conta.
 
 Quem não tinha acesso à internet, teve que procurar em listas a seção e número da sala de votação. No Instituto de Educação Superior de Brasília (IESB), na Asa Sul, as filas para acesso das listas não estavam grandes, tinham várias espalhadas no pátio central, porém Ivone Manoel, de 57 anos e seu marido Flávio Ribeiro, 54, sentiram dificuldade para consultar as listas. “As letras são muito pequenas e tem muito nome. Meu marido não enxerga direito e na hora não tinha ninguém pra ajudar, aí fica difícil”.
 

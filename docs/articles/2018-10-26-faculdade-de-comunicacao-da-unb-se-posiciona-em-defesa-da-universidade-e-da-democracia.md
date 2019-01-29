@@ -2,7 +2,7 @@
 title: >-
   Faculdade de Comunicação da UnB se posiciona em defesa da Universidade e da
   democracia
-cover: https://www.ucarecdn.com/611f2878-3452-488f-b41d-63682b65482d/
+cover: 'https://www.ucarecdn.com/611f2878-3452-488f-b41d-63682b65482d/'
 date: '2018-10-26'
 editorial: 2018-2-opiniao
 authors:
@@ -21,9 +21,7 @@ A nota também resgata a história de engajamento da Faculdade de Comunicação 
 
 Leia abaixo a íntegra:
 
-
-
-**_Nota da Direção da Faculdade de Comunicação da UnB em repúdio às ameaças à liberdade de expressão_**
+_**Nota da Direção da Faculdade de Comunicação da UnB em repúdio às ameaças à liberdade de expressão**_
 
 _Graves notícias de ameaças e perseguição à atuação de jornalistas e demais profissionais da Comunicação nesta Campanha Eleitoral de 2018 têm sido notificadas publicamente por entidades representativas como a Federação Nacional de Jornalistas (FENAJ), a Associação Brasileira de Jornalismo Investigativo (Abraji) e outras instituições._
 
@@ -31,9 +29,9 @@ _Levando em conta o registro das referidas ameaças e diante das inúmeras manif
 
 _A Direção da FAC-UnB se solidariza às(aos) profissionais que, mesmo diante de um ambiente hostil à prática de um jornalismo ético e de qualidade, mantiveram seus princípios em defesa da democracia e das liberdades. Também nos solidarizamos aos docentes, técnicos e discentes das Universidades públicas que recentemente foram cerceados de exercer seus direitos à liberdade de cátedra, à liberdade de expressão e de pensamento, à reflexão e ao debate sobre a situação política nacional._
 
-_A Faculdade de Comunicação da UnB tem, em sua história, a memória institucional da repressão imposta pela ditadura militar entre 1964 e 1985, que demitiu professores, assim como suscitou o exílio e perseguiu estudantes, técnicos e docentes dentro do próprio campus universitário, fatos históricos amplamente documentados e disponíveis em: _[_http://comissaoverdade.unb.br/images/docs/Relatorio_Comissao_da_Verdade.pdf_](http://comissaoverdade.unb.br/images/docs/Relatorio_Comissao_da_Verdade.pdf)_._
+_A Faculdade de Comunicação da UnB tem, em sua história, a memória institucional da repressão imposta pela ditadura militar entre 1964 e 1985, que demitiu professores, assim como suscitou o exílio e perseguiu estudantes, técnicos e docentes dentro do próprio campus universitário, fatos históricos amplamente documentados e disponíveis em:_ [_http://comissaoverdade.unb.br/images/docs/Relatorio_Comissao_da_Verdade.pdf_](http://comissaoverdade.unb.br/images/docs/Relatorio_Comissao_da_Verdade.pdf)_._
 
-_Por isso, neste momento tão importante da vida nacional, em que a disputa eleitoral tem sido marcada pelo uso intensivo e deliberado de desinformação para influenciar a decisão do voto dos cidadãos e cidadãs, situação já identificada publicamente em 25 de outubro de 2018, pela Organização dos Estados Americanos (OEA, organização da qual o Brasil é país fundador e membro, conforme: _[_http://agenciabrasil.ebc.com.br/politica/noticia/2018-10/para-oea-difusao-de-noticias-falsas-no-brasil-nao-tem-precedentes_](http://agenciabrasil.ebc.com.br/politica/noticia/2018-10/para-oea-difusao-de-noticias-falsas-no-brasil-nao-tem-precedentes)_, manifestamos nosso compromisso com o respeito à liberdade de expressão. Consideramos a liberdade de expressão um princípio fundamental para assegurar os Direitos Humanos no que abarca os direitos à pluralidade, à diversidade e à justiça social, valores estes norteadores de nossa história e de nossa instituição._
+_Por isso, neste momento tão importante da vida nacional, em que a disputa eleitoral tem sido marcada pelo uso intensivo e deliberado de desinformação para influenciar a decisão do voto dos cidadãos e cidadãs, situação já identificada publicamente em 25 de outubro de 2018, pela Organização dos Estados Americanos (OEA, organização da qual o Brasil é país fundador e membro, conforme:_ [_http://agenciabrasil.ebc.com.br/politica/noticia/2018-10/para-oea-difusao-de-noticias-falsas-no-brasil-nao-tem-precedentes_](http://agenciabrasil.ebc.com.br/politica/noticia/2018-10/para-oea-difusao-de-noticias-falsas-no-brasil-nao-tem-precedentes)_, manifestamos nosso compromisso com o respeito à liberdade de expressão. Consideramos a liberdade de expressão um princípio fundamental para assegurar os Direitos Humanos no que abarca os direitos à pluralidade, à diversidade e à justiça social, valores estes norteadores de nossa história e de nossa instituição._
 
 _Atenciosamente,_
 

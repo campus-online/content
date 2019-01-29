@@ -2,7 +2,7 @@
 title: >-
   UnB mantém base nacional de dados de Ciência da Informação, campo inexplorado
   no país
-cover: https://www.ucarecdn.com/5859d18a-9594-4ee8-8fdf-b375441a6a8c/
+cover: 'https://www.ucarecdn.com/5859d18a-9594-4ee8-8fdf-b375441a6a8c/'
 date: '2018-09-24'
 editorial: 2018-2-educacao
 authors:

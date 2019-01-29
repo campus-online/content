@@ -2,7 +2,7 @@
 title: >-
   Filmes produzidos por alunos da UnB participam do 13º Festival Taguatinga de
   Cinema
-cover: https://www.ucarecdn.com/665213d3-7db2-48d4-8930-efe1b112b0f2/
+cover: 'https://www.ucarecdn.com/665213d3-7db2-48d4-8930-efe1b112b0f2/'
 date: '2018-06-02'
 editorial: 2018-1-educacao
 authors:

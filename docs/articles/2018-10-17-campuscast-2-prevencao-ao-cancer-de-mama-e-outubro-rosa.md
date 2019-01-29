@@ -1,6 +1,6 @@
 ---
 title: 'CampusCast #2 – Prevenção ao câncer de mama e Outubro Rosa'
-cover: https://www.ucarecdn.com/6c35b486-f0d7-4ece-8ac8-5a75e03e03f6/
+cover: 'https://www.ucarecdn.com/6c35b486-f0d7-4ece-8ac8-5a75e03e03f6/'
 date: '2018-10-17'
 editorial: 2018-2-campuscast
 authors:
@@ -20,8 +20,8 @@ A conversa teve informações sobre autoexame, tabus, autoestima e a importânci
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/515440281&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
-Conheça a ONG Vencedoras Unidas:\
-**Facebook:** https://www.facebook.com/pg/vencedorasunidas\
+Conheça a ONG Vencedoras Unidas:
+**Facebook:** https://www.facebook.com/pg/vencedorasunidas
 **Telefone:** (61) 99325-1873
 
 ## Ficha técnica:
@@ -30,4 +30,4 @@ Conheça a ONG Vencedoras Unidas:\
 
 **Produção:** Mariah Aquino e Marina Julião
 
-**Trabalhos técnicos: **Glauber Oliveira
+**Trabalhos técnicos:** Glauber Oliveira

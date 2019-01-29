@@ -2,7 +2,7 @@
 title: >-
   Amar não é errado; ter preconceito, sim! 17 de maio: Dia Internacional contra
   a Homofobia
-cover: https://www.ucarecdn.com/bb8dbb40-669d-45a3-9eea-fcd1f754dff7/
+cover: 'https://www.ucarecdn.com/bb8dbb40-669d-45a3-9eea-fcd1f754dff7/'
 date: '2018-05-17'
 editorial: 2018-1-opiniao
 authors:
@@ -18,7 +18,6 @@ headline: >-
   “Dirigi a palavra a uma senhora que se encontrava sentada perto de mim.
   Disse-lhe: “Nossa! Está quente, né?”
 ---
-
 > A senhora nada respondeu. Em seguida, ela pegou sua bolsa do mesmo cubo onde tivera eu deixado meus babados. A pobre talvez tenha pensado que representasse uma ameaça a seu patrimônio ou a sua moral de latrina. Fiquei chocado! Mentira! Já me acostumei. Afinal, cresci alvejado por bastantes gentalhas! Homofobia e inveja não são coisas que me são estranhas.”
 
 **Henrique Augusto — Letras Francês**

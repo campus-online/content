@@ -1,6 +1,6 @@
 ---
 title: 'FS de portas abertas aos estudantes de escolas públicas   '
-cover: https://www.ucarecdn.com/2618c966-ac1c-4310-a50e-dc477925841a/
+cover: 'https://www.ucarecdn.com/2618c966-ac1c-4310-a50e-dc477925841a/'
 date: '2018-09-26'
 editorial: 2018-2-educacao
 authors:

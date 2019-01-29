@@ -1,6 +1,6 @@
 ---
 title: 'Ensaio fotográfico: UnB se veste de política'
-cover: https://www.ucarecdn.com/69a00da2-7f82-4c17-b9bf-a11aa2593a03/
+cover: 'https://www.ucarecdn.com/69a00da2-7f82-4c17-b9bf-a11aa2593a03/'
 date: '2018-11-12'
 editorial: 2018-2-politica
 authors:

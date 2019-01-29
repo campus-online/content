@@ -1,6 +1,6 @@
 ---
 title: O tardio despertar da universidade para as notícias falsas
-cover: https://www.ucarecdn.com/67964efd-8d67-42cb-a919-9e0c19c95cb7/
+cover: 'https://www.ucarecdn.com/67964efd-8d67-42cb-a919-9e0c19c95cb7/'
 date: '2018-10-19'
 editorial: 2018-2-politica
 authors:
@@ -32,7 +32,6 @@ Mas nem tudo está perdido, como afirma o professor. Pesquisas comprovam que as 
 Em nota, a assessoria da Universidade de Brasília diz que “os projetos de pesquisa são de iniciativa dos professores e de seus orientandos no doutorado, no mestrado e na graduação, e procuram atender às demandas da sociedade. Fake news é um tema de interesse social relevante que, certamente, está mobilizando pesquisadores da UnB. O professor Paulo José Araújo da Cunha ofertou a disciplina "Jornalismo e Fake News", neste semestre, e obteve significativa adesão de estudantes. A professora Thaïs de Mendonça Jorge é outro exemplo de pesquisadora que tem aprofundado a temática. Além do Jornalismo e da Comunicação, outras áreas do conhecimento têm se ocupado do assunto, como é o caso do Direito, da Filosofia e da Ciência Política.”
 
 ## Bom exemplo
-
 
 O Campus conversou também com Leonardo Cavalcanti, editor de política do jornal Correio Braziliense. A partir deste ano, Cavalcanti passou a publicar no jornal um material especial sobre a construção de notícias falsas, revelando o perfil de quem, um dia, já trabalhou com a publicação do conteúdo inverídico, além de dar detalhes do mecanismo da construção do fato inverídico. “A ideia da reportagem era tentar mostrar como eram as engrenagens da produção da fake news, mostrando a evolução ao longo do crime. Existe uma evolução da fake news. A matéria aborda, de início, um crime de 2010, assemelhando-se a um crime financeiro, no qual abre-se uma porta, aí a polícia vai e fecha e você vai processando isso, sofisticando o tipo criminal. Essa série continua. Nossa ideia é de que não pare”, revelou.
 

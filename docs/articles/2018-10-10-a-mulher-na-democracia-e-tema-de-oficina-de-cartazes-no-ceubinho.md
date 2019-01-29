@@ -1,6 +1,6 @@
 ---
 title: '"A mulher na democracia" é tema de oficina de cartazes na UnB'
-cover: https://www.ucarecdn.com/e4aa6a85-b4af-441d-b88c-7487998a8a39/
+cover: 'https://www.ucarecdn.com/e4aa6a85-b4af-441d-b88c-7487998a8a39/'
 date: '2018-10-10'
 editorial: 2018-2-comportamento
 authors:

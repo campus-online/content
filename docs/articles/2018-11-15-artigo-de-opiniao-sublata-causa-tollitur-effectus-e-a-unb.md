@@ -1,6 +1,6 @@
 ---
 title: 'Artigo de opinião: Sublata causa, tollitur effectus e a UnB'
-cover: https://www.ucarecdn.com/113b40e2-dffb-4b4a-939c-d9a271050885/
+cover: 'https://www.ucarecdn.com/113b40e2-dffb-4b4a-939c-d9a271050885/'
 date: '2018-11-15'
 editorial: 2018-2-opiniao
 authors:
@@ -16,7 +16,7 @@ A medida radical tenta impedir que novos casos de violência e descontrole acont
 
 Que há um problema que se agrava ninguém discorda. Tanto é que, corretamente, instalou-se mais de 350 câmeras pela universidade. Inclusive, foi uma destas que filmou e serviu para a identificação dos assassinos que executaram um desafeto na entrada da Faculdade de Direito (FD).
 
-Observemos os números apresentados pela Diretoria de Segurança da UnB (Diseg) e publicados em ótima matéria deste_** Campus Online**_. Foram 126 ocorrências no primeiro semestre deste 2018, sendo arrombamento e furto de veículos o líder em registros: 61. Na sequência aparecem veículos abertos (20), ameaça e agressão (16), furto de outros bens pessoais (14), furto de bicicletas (12) e tentativa de furto de veículos (3).
+Observemos os números apresentados pela Diretoria de Segurança da UnB (Diseg) e publicados em ótima matéria deste **_Campus Online_**. Foram 126 ocorrências no primeiro semestre deste 2018, sendo arrombamento e furto de veículos o líder em registros: 61. Na sequência aparecem veículos abertos (20), ameaça e agressão (16), furto de outros bens pessoais (14), furto de bicicletas (12) e tentativa de furto de veículos (3).
 
 A maior parte é contra veículos. E percebamos uma sutil, mas importante diferença: trata-se de furto, e não roubo. Mesmo que o Código Penal defina ambas como “subtrair, para si ou para outrem, coisa alheia móvel”, no furto não há violência ou grave ameaça (art. 155 do CP), o que ocorre no roubo (art. 157).
 
@@ -35,7 +35,5 @@ O que se precisa pensar é o porquê indivíduos mal-intencionados escolheram as
 Há espaços fechados na Universidade como o Centro Comunitário e o Beijodromo que podem muito bem ajudar nessa empreitada. Ademais, precisamos pensar seriamente sobre barrar pessoas que não são da comunidade universitária nas festas, com comprovação de vínculo por meio de carteirinhas de estudantes e servidores.
 
 No momento, fica a impressão de que precisavam tomar uma atitude o mais rápido possível e foi direto no coração das festas na Universidade. Ficará a pergunta, que os números da Diseg-UnB poderão nos ajudar a responder mais na frente: as festas com bebidas alcoólicas eram realmente a causa? Ou os causadores dos efeitos eram outros?
-
-
 
 **Bruno H. de Moura é jornalista e graduando em Direito pela UnB. Foi coordenador Jurídico e de Comunicação do Diretório Central dos Estudantes (DCE-UnB).**

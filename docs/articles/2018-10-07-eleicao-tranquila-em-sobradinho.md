@@ -1,6 +1,6 @@
 ---
 title: Eleição tranquila em Sobradinho
-cover: https://www.ucarecdn.com/93b5013f-caf5-42cc-9ab4-e931bb0e5a23/
+cover: 'https://www.ucarecdn.com/93b5013f-caf5-42cc-9ab4-e931bb0e5a23/'
 date: '2018-10-07'
 editorial: 2018-2-politica
 authors:

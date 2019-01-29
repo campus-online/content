@@ -1,6 +1,6 @@
 ---
 title: Diversidade de histórias que marcam relacionamentos na UnB
-cover: https://www.ucarecdn.com/71bc431f-f1ca-4bed-b108-6c18d7be2c8a/
+cover: 'https://www.ucarecdn.com/71bc431f-f1ca-4bed-b108-6c18d7be2c8a/'
 date: '2018-06-12'
 editorial: 2018-1-universidade
 authors:
@@ -10,15 +10,9 @@ tags:
   - relacionamento
 featured: false
 ---
-
-
-
-
 A universidade é um local de conhecimentos que vão muito além do tripé de ensino, pesquisa, extensão. Este ambiente em que a maioria começa a fazer parte no final da adolescência, e nele permanece por longos anos, permite e incentiva a formação de diversas relações interpessoais. Muitos, a partir deste momento, frequentam suas primeiras festas, realizam seus primeiros debates e desejos; exploram todo um novo universo e a si mesmos. Esta vivência permite que se conheçam novas pessoas, novos amigos e inclusive novos sentimentos.
 
 O amor, apesar das dificuldades encontradas, resiste neste pequeno mundo que a universidade representa: seja no envolvimento de pessoas entre atividades letivas ou no caminho entre elas. Neste dia dos namorados, o Campus Online traz três histórias de amor bem lindas que permeiam o universo desta tão querida UnB.
-
-
 
 ## Amor de longa data
 
@@ -54,8 +48,6 @@ No curso de Geologia são comuns as saídas de campo. São pequenas viagens que 
 
 Ambas concordam que a UnB foi muito importante para o relacionamento. Além de ser onde se conheceram, tiveram muitas experiências que o ambiente universitário proporciona. Por exemplo, o fato de quase toda quinta-feira esperarem o início de palestras no fim da tarde, as saídas de campo e os Happy Hours. “Eu queria agradecer também ao RU (Restaurante Universitário), porque ele fez a gente comer juntas”, relata Odara, e Deborah acrescenta: “Acho que fazer refeições juntas aproxima as pessoas”.
 
-
-
 ## Amor muito antes da UnB
 
 Relação que vem muito antes da UnB e  do interesse  em um namoro. Geovana, do quinto semestre do curso de Letras Estrangeiras Aplicadas, e Ana Carolina, do segundo semestre de Tradução Francês, já possuem um relacionamento de longa data. Ainda assim, a UnB não deixa de ser um fator importante. Nessa história, amor e amizade não estão assim tão longe.
@@ -63,7 +55,5 @@ Relação que vem muito antes da UnB e  do interesse  em um namoro. Geovana, do 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7wIpwCluYDU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 E aí, você fazia ideia que existem essas histórias massas assim por aqui?
-
-
 
 \*Todos os arquivos de mídia foram cedidos pelos respectivos casais.

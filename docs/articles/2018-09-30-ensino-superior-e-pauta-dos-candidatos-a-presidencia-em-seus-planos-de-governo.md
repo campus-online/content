@@ -1,6 +1,6 @@
 ---
 title: Ensino Superior é pauta dos candidatos à Presidência em seus planos de governo
-cover: https://www.ucarecdn.com/a1612b14-d998-4884-83e0-3b08e8daa4b2/
+cover: 'https://www.ucarecdn.com/a1612b14-d998-4884-83e0-3b08e8daa4b2/'
 date: '2018-09-30'
 editorial: 2018-2-politica
 authors:

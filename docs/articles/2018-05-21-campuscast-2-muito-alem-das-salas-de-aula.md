@@ -1,6 +1,6 @@
 ---
 title: 'Campuscast #2 – Muito além das salas de aula'
-cover: https://www.ucarecdn.com/b46e9aed-c0e3-4f0b-a6cd-77e8fc82ed20/
+cover: 'https://www.ucarecdn.com/b46e9aed-c0e3-4f0b-a6cd-77e8fc82ed20/'
 date: '2018-05-21'
 authors:
   - 2018-1-victor-farias

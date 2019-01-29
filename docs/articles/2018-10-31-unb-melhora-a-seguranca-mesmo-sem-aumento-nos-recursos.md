@@ -1,6 +1,6 @@
 ---
 title: 'UnB melhora a segurança mesmo sem aumento nos recursos '
-cover: https://www.ucarecdn.com/3e271b69-c8c9-4d69-806d-e2d9c71a05ca/
+cover: 'https://www.ucarecdn.com/3e271b69-c8c9-4d69-806d-e2d9c71a05ca/'
 date: '2018-10-31'
 editorial: 2018-2-comportamento
 authors:
@@ -32,7 +32,7 @@ Neste vídeo da Secretaria de Comunicação da UnB, é possível compreender mel
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6T3UNSXdkRM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-As medidas, entretanto, estão quase inteiramente restritas ao campus Darcy Ribeiro. Os corredores de segurança e as cadeiras elevadas, por exemplo, não foram instalados nos outros campi. O prefeito Valdeci Reis justifica a não implantação desses recursos nos outros locais: “essas medidas foram implantadas apenas no Darcy Ribeiro porque ele é o único \[campus] completamente aberto, o que cria uma margem maior para crimes”.
+As medidas, entretanto, estão quase inteiramente restritas ao campus Darcy Ribeiro. Os corredores de segurança e as cadeiras elevadas, por exemplo, não foram instalados nos outros campi. O prefeito Valdeci Reis justifica a não implantação desses recursos nos outros locais: “essas medidas foram implantadas apenas no Darcy Ribeiro porque ele é o único [campus] completamente aberto, o que cria uma margem maior para crimes”.
 
 ## Vigilantes nos estacionamentos
 

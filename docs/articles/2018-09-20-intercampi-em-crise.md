@@ -1,6 +1,6 @@
 ---
 title: Intercampi em crise
-cover: https://www.ucarecdn.com/4ec8dd9a-335e-4e8c-adbd-0ef3847c5d07/
+cover: 'https://www.ucarecdn.com/4ec8dd9a-335e-4e8c-adbd-0ef3847c5d07/'
 date: '2018-09-20'
 editorial: 2018-2-educacao
 authors:
@@ -16,8 +16,8 @@ headline: >-
   Colapso orçamentário da Universidade de Brasília afeta rotina de estudantes
   que dependem do sistema de transporte integrado entre os campi
 ---
-Quem mora em alguma região administrativa (RA), mas estuda no principal campus da Universidade de Brasília, o Darcy Ribeiro, já enfrenta problemas diariamente com as longas distâncias que separam a residência e o centro acadêmico. Mas, com as novas mudanças implantadas pela gestão da universidade, a situação ficou ainda mais complicada para muitos estudantes. A partir do segundo semestre de 2018, o transporte gratuito para mobilidade entre os campi da UnB, conhecido como Intercampi, passou a ter uma nova escala de horários.  \
-\
+Quem mora em alguma região administrativa (RA), mas estuda no principal campus da Universidade de Brasília, o Darcy Ribeiro, já enfrenta problemas diariamente com as longas distâncias que separam a residência e o centro acadêmico. Mas, com as novas mudanças implantadas pela gestão da universidade, a situação ficou ainda mais complicada para muitos estudantes. A partir do segundo semestre de 2018, o transporte gratuito para mobilidade entre os campi da UnB, conhecido como Intercampi, passou a ter uma nova escala de horários.
+
 A estudante de Agronomia Yasmin Lima, de 18 anos, já tem sentido dentro de sala de aula os impactos das alterações nas linhas de transporte.
 
  “Como só são disponibilizados poucos horários, o Intercampi fica super cheio. Passamos por dificuldade também para pegar, já que a fila se forma com muita antecedência. Ou seja, se a professora demora na aula, a gente perde o transporte. Então, temos que sair meia hora mais cedo. Isso atrapalha no andamento da aula”, afirma.
@@ -74,7 +74,7 @@ Como justificativa para a adaptação de horários oferecidos pelos Intercampi, 
 
 Questionado sobre a possibilidade de retorno aos antigos moldes de horários de trânsito dos Intercampi, Valdeci afirmou que, pelo menos por enquanto, não há possibilidade. Completou dizendo que o Intercampi atende plenamente aos alunos que precisam do serviço.
 
-**
-Reportagem: **Gabriel Escobar, Gabriel Ponte e Mariah Aquino
+
+**Reportagem:** Gabriel Escobar, Gabriel Ponte e Mariah Aquino
 
 **Produção:** Marina Julião e Murilo Fagundes

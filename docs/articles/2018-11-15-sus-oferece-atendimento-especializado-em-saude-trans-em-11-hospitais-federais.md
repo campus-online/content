@@ -2,7 +2,7 @@
 title: >-
   Cerca de 288 pessoas esperavam por atendimento especializado em saúde trans
   pelo SUS até agosto
-cover: https://www.ucarecdn.com/c8ed8cb1-55c1-4464-a389-7011f25a1fb5/
+cover: 'https://www.ucarecdn.com/c8ed8cb1-55c1-4464-a389-7011f25a1fb5/'
 date: '2018-11-15'
 editorial: 2018-2-comportamento
 authors:
@@ -27,7 +27,7 @@ A tabela a seguir mostra quais hospitais federais oferecem os procedimentos.
 
 Dois grupos de crianças e adolescentes também podem receber assistência. A faixa etária de um grupo vai de 12 a 17 anos, e do outro, de 17 a 21 anos. O foco não é em procedimentos cirúrgicos, mas em intervenções psicossociais, como estratégias de relacionamento em sociedade preconceituosa e conscientização de direitos sociais.
 
-Sobre o acesso a procedimentos pelo SUS, o Ministério da Saúde afirma que “a inclusão de pacientes na lista de espera é feita por gestores \[de secretarias de saúde] locais”.
+Sobre o acesso a procedimentos pelo SUS, o Ministério da Saúde afirma que “a inclusão de pacientes na lista de espera é feita por gestores [de secretarias de saúde] locais”.
 
 ![A bandeira do orgulho transgênero foi criada em agosto de 1999, por Monica Helms e tem cinco listras horizontais. São duas listras azuis, cor tradicionalmente ligada aos meninos, duas listras cor-de-rosa, cor tradicionalmente ligada às meninas, e uma faixa central branca, para aqueles que estão entre os dois sexos, em transição de um para o outro ou consideram ter um gênero neutro ou indefinido. (Foto: reprodução)](https://www.ucarecdn.com/89989027-63e4-410b-b14a-07422dfb92f8/)
 
@@ -35,7 +35,7 @@ Sobre o acesso a procedimentos pelo SUS, o Ministério da Saúde afirma que “a
 
 Em seu livro Sociologia, o britânico Anthony Giddens chama a atenção para o uso do termo ‘opção sexual’ no lugar de ‘orientação sexual’. Porque “‘orientação sexual’ diz respeito à direção da atração sexual ou romântica da pessoa. O termo ‘opção sexual’ é enganoso e deve ser evitado, pois implica que a atração sexual ou romântica da pessoa é totalmente questão de escolha pessoal”.
 
-Em [publicação](http://www.anis.org.br/biblioteca/2014-12/homofobia_e_educacaopdf.pdf) na revista Anis – Instituto de Bioética –, sua fundadora e professora da Universidade de Brasília Débora Diniz diz que “falar em diversidade sexual requer situar questões relativas a gênero \[...] no terreno da ética democrática e dos direitos humanos, apelando para a necessidade de se reconhecerem como legítimas as múltiplas e dinâmicas formas de expressão das subjetividades, dos corpos e das práticas sexuais”.
+Em [publicação](http://www.anis.org.br/biblioteca/2014-12/homofobia_e_educacaopdf.pdf) na revista Anis – Instituto de Bioética –, sua fundadora e professora da Universidade de Brasília Débora Diniz diz que “falar em diversidade sexual requer situar questões relativas a gênero [...] no terreno da ética democrática e dos direitos humanos, apelando para a necessidade de se reconhecerem como legítimas as múltiplas e dinâmicas formas de expressão das subjetividades, dos corpos e das práticas sexuais”.
 
 Mesmo com a [Política Nacional de Saúde LGBT](http://bvsms.saude.gov.br/bvs/publicacoes/politica_nacional_saude_lesbicas_gays.pdf) de 2011 e as [campanhas](http://portalms.saude.gov.br/component/content/article/41380-gays-lesbicas-bissexuais-travestis-e-transexuais) veiculadas em 2016, maus contatos entre profissionais da saúde e comunidade T ainda são um obstáculo. Por isso, a atualização de profissionais tem sido incentivada, por exemplo, por meio de [cursos](http://unasus.uerj.br/cursos-em-andamento/lgbt/) da [Universidade Aberta do Sistema Único de Saúde](https://www.unasus.gov.br/), que oferece cursos presenciais em mais de 5 mil municípios.
 
@@ -47,7 +47,7 @@ Educador social na região da Estrutural, no Distrito Federal, ele avalia o nív
 
 Caetano também se identifica como poeta. Veja na íntegra um de seus trabalhos.
 
-_**Meu corpo é um campo de batalha**_
+**_Meu corpo é um campo de batalha_**
 
 _Meu corpo é um campo de batalha._
 

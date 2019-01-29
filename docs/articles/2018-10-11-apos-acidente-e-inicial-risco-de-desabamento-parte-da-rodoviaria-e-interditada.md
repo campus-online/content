@@ -2,7 +2,7 @@
 title: >-
   Interdição de parte da Rodoviária não afeta linha 110, que faz ligação com a
   UnB
-cover: https://www.ucarecdn.com/756a4c8c-e192-4fc1-adde-214fd5f9d353/
+cover: 'https://www.ucarecdn.com/756a4c8c-e192-4fc1-adde-214fd5f9d353/'
 date: '2018-10-11'
 editorial: 2018-2-cidade
 authors:
@@ -34,13 +34,12 @@ Agentes da Defesa Civil, Novacap, Corpo de Bombeiros e Polícia Militar garantir
 
 Ainda segundo a Novacap, o acidente de hoje não tem relação com as reformas que estão sendo feitas na rodoviária e a empresa responsável pelo dano terá que arcar com os custos dos prejuízos. A empresa Vivo foi comunicada e em nota informou que já “está em contato com os órgãos competentes para fornecer todas as informações necessárias e tomar as medidas cabíveis”.
 
-**Mudanças temporárias
-**
+**Mudanças temporárias**
+
 
 Enquanto parte da estação de embarque estiver interditada quatro linhas de ônibus terão seus pontos alterados:
 
-\- 0.620 e 620.1 Planaltina: o ponto de embarque passa a ser no Eixinho L, ao lado da plataforma superior da Rodoviária;
-
-\- 2302, Gama, e 2202, Santa Maria: os passageiros das linhas paradoras do BRT embarcarão no Eixinho W (entre o Conjunto Nacional e o Conic).
+* 0.620 e 620.1 Planaltina: o ponto de embarque passa a ser no Eixinho L, ao lado da plataforma superior da Rodoviária;
+* 2302, Gama, e 2202, Santa Maria: os passageiros das linhas paradoras do BRT embarcarão no Eixinho W (entre o Conjunto Nacional e o Conic).
 
 ![(Foto: Sarah Paes)](https://www.ucarecdn.com/fdc3550b-1594-4428-8b22-d0ca7385f5d6/)
