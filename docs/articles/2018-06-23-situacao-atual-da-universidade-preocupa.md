@@ -42,10 +42,7 @@ Em uma nota divulgada na sequência, o Ministério disse:
 
 _“O MEC reafirma que o orçamento global da UnB cresceu de R$ 1.667.645.015 em 2017 para R$ 1.731.410.855 em 2018; em 2016 e 2017, foram repassados 100% dos recursos para custeio das universidades federais, fato que não ocorria há 2 anos. A UnB teve aumento de 12% nos recursos de custeio (manutenção) considerando todas as fontes de recursos. A UnB passou de uma execução de R$ 205,7 milhões, em 2017, para uma LOA de R$ 229,9 milhões, em 2018. Neste critério, a UnB é a segunda universidade com mais recursos entre o bloco das seis instituições de mesmo porte. As informações do MEC foram corroboradas pela direção da UnB em nota divulgada no portal da própria instituição._
 
-
 _O Ministério da Educação tem realizado diálogo constante, aberto e transparente com toda a sociedade sobre a situação da UnB. No período de menos de duas semanas, o MEC se reuniu em quatro ocasiões com representantes da comunidade da UnB. A última reunião aconteceu no dia 18 (de abril), no MEC, com a presença do ministro Rossieli Soares, da reitora da UnB, Márcia Abrahão Moura, do vice-reitor da UnB, Enrique Huelva, além de representantes da Secretaria de Educação Superior e da Subsecretaria de Planejamento e Orçamento do Ministério. Nesta reunião foram discutidos assuntos relacionados ao quadro atual de gestão da UnB, bem como das demais universidades federais e unidades vinculadas ao Ministério. As outras três reuniões do MEC com professores, servidores técnico-administrativos e estudantes da UnB aconteceram no dia 16, na Câmara dos Deputados e no dia 10, durante duas ocasiões: na invasão à sede do MEC e à sede do FNDE._
-
-
 
 _O MEC acredita no diálogo como instrumento de solução de impasses como o vivido entre a administração superior da UnB, alunos, servidores técnico-administrativos e professores. O MEC espera que a solução de consenso seja breve para que a UnB retome suas atividades normais, além de reafirmar a disposição de diálogo, respeitando as competências e responsabilidades de cada órgão e os limites da autonomia administrativa e de gestão da instituição.”_
 
@@ -103,12 +100,9 @@ As lideranças do Sintfub explicam o apoio à causa dos terceirizados, como eles
 
 Sobre a aplicação linear dos cortes, alegada pelo Sintfub, a reitora falou ao **Campus Online** por e-mail:
 
-
 _“Não estamos aplicando linearmente os cortes. O que acontece é que herdamos, da antiga gestão, contratos de prestação de serviços muito superiores à nossa real capacidade de pagamento. Este ano, esses contratos somam R$ 214 milhões, para um orçamento de custeio de cerca de R$ 137 milhões. Nosso déficit é da ordem de R$ 92,3 milhões._
 
-
 _Para enfrentar esse difícil cenário, estamos trabalhando com aumento de receita e redução de despesas. Como gestora, também estou indo ao MEC para pedir a recomposição do orçamento e o aumento do teto para que nós possamos utilizar os recursos próprios. É o que cabe a mim, como reitora da Universidade, fazer. O sindicato tem uma forma de atuação, e a gestão tem outra.”_
-
 
 ## E o futuro, a quem pertence?
 
@@ -126,9 +120,7 @@ Mas apesar das adversidades – que são muitas –  a estrutura feita de concre
 
 **Análise: e então, já conseguimos entender o que acontece com a UnB?**
 
-
 _pela equipe do Campus Online, primeiro semestre de 2018_
-
 
 Este foi um trabalho de perguntas – a começar pelo título -, com muitas respostas difusas. Versões de todos os lados possíveis, dados fixos e difíceis de confrontar e a preocupação de produzir um conteúdo que não fosse mero institucional. Apesar da sensação de “mais do mesmo”, soubemos desde o início que seria uma grande responsabilidade fazê-lo.
 
@@ -141,7 +133,6 @@ Mas a autonomia se preserva, também, quando as gestões são claras sobre tudo 
 É muito mais complicado confrontar o que é desconhecido, em particular porque vivemos tempos em que a informação é uma arma nem sempre usada de forma positiva. Esta é a razão pela qual esclarecer os fatos ao máximo, sem vieses de nenhum tipo, deve ser uma obrigação de qualquer entidade ou grupo que diga defender o ensino superior público e seus estudantes.
 
 Uma dificuldade evidente foi lidar com os boatos. Eles não são fáceis de checar como parecem; é um processo refinado, que as demais obrigações de um semestre nem sempre tornam possível pôr em prática. Aqui, entram mais questões: _quem sai ganhando com tantas informações desencontradas sendo divulgadas? Isso é questão meramente administrativa ou está sendo feito um uso ideológico simplista e raso do momento que a UnB vive? Onde está mesmo a verdade?_
-
 
 Todos saem perdendo quando nada pode ser conferido com tanta profundidade. No entanto, é um desafio que não desestimula, muito pelo contrário.
 

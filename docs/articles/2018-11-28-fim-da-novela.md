@@ -10,11 +10,9 @@ tags:
   - ombudsman
 featured: false
 ---
-**O termo ombudsman tem origem sueca e significa "aquele que representa o cidadão". Na imprensa, a palavra é aplicada ao profissional cuja função é representar os eleitores de um jornal e fazer críticas à produção jornalística.** 
-
+**O termo ombudsman tem origem sueca e significa "aquele que representa o cidadão". Na imprensa, a palavra é aplicada ao profissional cuja função é representar os eleitores de um jornal e fazer críticas à produção jornalística.**
 
 **O ombudsman do Campus Online deste semestre é Victor Farias, que passou pelo jornal laboratório no 1º semestre de 2018. Leia abaixo sua terceira e última coluna:**
-
 
 O sentimento de fim de semestre no _**Campus**_ é semelhante a um último capítulo de novela. O bem parece que venceu o mau, os problemas somem e tudo dá certo. Só faltam os casamentos.
 
@@ -23,7 +21,6 @@ Nas novelas, o final cheio de cores e risos é uma saída fácil para os autores
 Nesta edição do _**Campus**_ a sensação não foi diferente. As Carminhas, Floras e Nazarés foram muitas – dentro e fora do jornal. A maior parte delas derrubadas no decorrer da estória. No capítulo final, comemoração pelo resultado. Justo.
 
 Mas não são só as personagens que saem da novela felizes, o telespectador – ou internauta – também ficou satisfeito com o resultado.
-
 
 No enredo deste _**Campus**_, destaca-se principalmente a inovação e as boas histórias contadas. Pautas pertinentes, bom uso das ferramentas e inteligência jornalística.
 

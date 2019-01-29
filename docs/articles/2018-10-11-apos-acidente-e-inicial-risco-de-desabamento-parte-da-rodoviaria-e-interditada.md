@@ -36,7 +36,6 @@ Ainda segundo a Novacap, o acidente de hoje não tem relação com as reformas q
 
 **Mudanças temporárias**
 
-
 Enquanto parte da estação de embarque estiver interditada quatro linhas de ônibus terão seus pontos alterados:
 
 * 0.620 e 620.1 Planaltina: o ponto de embarque passa a ser no Eixinho L, ao lado da plataforma superior da Rodoviária;

@@ -18,13 +18,11 @@ Nestas circunstâncias, devemos pensar em como manter a vida e com qualidade. N�
 
 **Mas então o que fazer se nossa cultura é a do risco?**
 
-
 Trata-se então de mudar nossa de forma de pensar e agir no mundo, modificando a cultura. Há conflito por toda a parte. São as pessoas nas cidades cujos espaços não estão tão adequados, os meios de transportes utilizados e a problemática instaurada quanto à produção de alimentos, energia, saúde e organização da vida. São pedestres, ciclistas e motoristas, todos no mesmo espaço. E para que possa existir a sustentabilidade é necessário antes de tudo que as pessoas se respeitem.
 
 O especialista, Pastor Willy Gonzales Taco, nos esclarece que os meios de transportes podem ser organizados com relação à escala. Caminhada e bicicleta para curta distância, carros e ônibus para média distância e sistemas de grande capacidade como metrôs para longa distância. De acordo com ele, “caminhar e usar bicicletas é fundamental para a sustentabilidade”. E não dá para falar em sustentabilidade sem falar em preservação da vida. Em pesquisa sobre transportes realizada na UnB, temos que 85% do deslocamento interno no campus Darcy é feito a pé.
 
  **A realidade dos ciclistas**
-
 
 Pastor Willy Gonzales Taco revela que apenas 10% dos alunos vem para a universidade a pé ou de bicicleta. Destaca que o uso das bikes aumentou significativamente devido à implantação de ciclovias e de bicicletário compartilhado. Apesar disso, os conflitos entre ciclistas, pedestres e motoristas de carros e ônibus permanece. A questão é bastante complexa. Devemos refletir sobre quem está dirigindo, se este motorista está atento ao trânsito ou se está usando o celular. “No campus muitos dirigem falando ao celular”. O pesquisador questiona as causas dos acidentes com ciclistas ocorridos no campus.
 
@@ -44,8 +42,6 @@ Raimundo, estudante do curso de Direito, faz o uso da bicicleta como meio de tra
 O grafiteiro, rapper do Extrema Função e artista plástico, Cleiniston, usa as bicicletas por motivo de trabalho. Ele afirma que o projeto + Bikes é muito bom. “É legal principalmente para a locomoção”. O aspecto ruim, quando você vai de uma estação até outra é “você vai levar a bicicleta e chega lá não tem lugar pra guardar ou você vai pegar a bicicleta e não tem bicicleta”. Ele acrescenta ainda a distância entre as estações que pode ser grande.
 
 **Projetos**
-
-
 
 **Na UnB** – Quando o assunto é pedalar, temos na UnB o Coletivo Bicicleta Livre que é um projeto de extensão, iniciado em 2007, com o objetivo de incentivar a utilização da bicicleta no campus. No princípio, foi implementado um sistema de bicicletas comunitárias para facilitar um deslocamento sustentável a partir da doação e conserto de bikes.
 

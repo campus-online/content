@@ -21,7 +21,7 @@ A nota também resgata a história de engajamento da Faculdade de Comunicação 
 
 Leia abaixo a íntegra:
 
-_**Nota da Direção da Faculdade de Comunicação da UnB em repúdio às ameaças à liberdade de expressão**_
+**_Nota da Direção da Faculdade de Comunicação da UnB em repúdio às ameaças à liberdade de expressão_**
 
 _Graves notícias de ameaças e perseguição à atuação de jornalistas e demais profissionais da Comunicação nesta Campanha Eleitoral de 2018 têm sido notificadas publicamente por entidades representativas como a Federação Nacional de Jornalistas (FENAJ), a Associação Brasileira de Jornalismo Investigativo (Abraji) e outras instituições._
 

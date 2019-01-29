@@ -74,7 +74,6 @@ Como justificativa para a adaptação de horários oferecidos pelos Intercampi, 
 
 Questionado sobre a possibilidade de retorno aos antigos moldes de horários de trânsito dos Intercampi, Valdeci afirmou que, pelo menos por enquanto, não há possibilidade. Completou dizendo que o Intercampi atende plenamente aos alunos que precisam do serviço.
 
-
 **Reportagem:** Gabriel Escobar, Gabriel Ponte e Mariah Aquino
 
 **Produção:** Marina Julião e Murilo Fagundes
