@@ -2,7 +2,7 @@
 title: >-
   Novos prazeres, velhos costumes: A prevenção contra infecções sexualmente
   transmissíveis na Universidade
-cover: https://www.ucarecdn.com/8aba6da9-951a-429e-954e-653d6566733a/
+cover: 'https://www.ucarecdn.com/8aba6da9-951a-429e-954e-653d6566733a/'
 date: '2018-05-14'
 editorial: 2018-1-educacao
 authors:
@@ -84,8 +84,8 @@ Cada vez mais aumentam os diagnósticos positivos. Mário relembra que há um m�
 
 ### Serviço:
 
-**Polo de Prevenção DST/AIDS**\
-**Local:** ICC SUL – Sala A1-136\
+**Polo de Prevenção DST/AIDS**
+**Local:** ICC SUL – Sala A1-136
 **Contato:** 3107-6735
 
 ![Arte: Natália Alves](https://www.ucarecdn.com/aef6e5b5-55b1-445e-9691-d1114f8fd2ba/)

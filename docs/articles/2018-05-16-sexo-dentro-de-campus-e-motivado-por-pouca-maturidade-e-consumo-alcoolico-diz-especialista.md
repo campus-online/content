@@ -2,7 +2,7 @@
 title: >-
   Sexo dentro de Campus é motivado por pouca maturidade e consumo alcoólico, diz
   especialista
-cover: https://www.ucarecdn.com/4073a9c1-aa11-42d0-92f6-97c05a36b668/
+cover: 'https://www.ucarecdn.com/4073a9c1-aa11-42d0-92f6-97c05a36b668/'
 date: '2018-05-16'
 editorial: 2018-1-educacao
 authors:
@@ -17,7 +17,6 @@ headline: >-
   Apesar da janela e da proximidade com outros estudantes, as salas de estudo
   privativas da biblioteca foram utilizadas para prática inapropriada
 ---
-
 Para sexólogo, noção de censura diminui num ambiente onde se prega liberdade
 
 Seja no banheiro, nos arbustos ou atrás de prédio, é crime. O risco de expulsão ou, em caso mais extremo, de ir preso não impede jovens de transarem dentro dos campi universitários. A faixa etária que compreende a maioria dos estudantes — segundo o anuário estatístico da UnB de 2017, 70% dos alunos regulares dos cursos de graduação têm entre 19 e 24 anos — marca a transição da adolescência à adultidade. A pouca maturidade associada, por diversas vezes, ao álcool implica em falta de auto-censura, que pode pôr em risco as saúdes física e psicológica do envolvido.

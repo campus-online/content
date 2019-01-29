@@ -1,6 +1,6 @@
 ---
 title: SemUni tem mais de 8 mil inscritos em 668 atividades
-cover: https://www.ucarecdn.com/369582ac-be0a-4af4-b1e3-b682c037a421/
+cover: 'https://www.ucarecdn.com/369582ac-be0a-4af4-b1e3-b682c037a421/'
 date: '2018-10-05'
 editorial: 2018-2-educacao
 authors:
@@ -18,8 +18,6 @@ Oito mil estudantes participaram das 668 atividades da Semana Universitária da 
 "A organização da Semana ganhou o engajamento das unidades com a descentralização de recursos e a criação do Programa Especial Semana Universitária que propiciou que cada unidade discutisse internamente e pudesse propor suas atividades de forma coesa", argumenta o Decanato por meio de sua assessoria de imprensa.
 
 Além da organização central do DEX, a Semana também é de responsabilidade dos líderes de departamento e dos coordenadores de extensão das unidades acadêmicas. Segundo Liza de Andrade, responsável pelas atividades de extensão na Faculdade de Arquitetura e Urbanismo (FAU), o evento foi "maravilhoso" por proporcionar troca de conhecimentos entre alunos, professores e técnicos do departamento.
-
-
 
 A FAU foi a campeã em atividades propostas, cerca de 10% de todas da UnB. Contudo, Liza aponta para um problema que não é de hoje em Semanas Universitárias, o pouco compromisso da comunidade estudantil com o evento.
 
@@ -50,7 +48,5 @@ Questionado sobre casos como os relatados, o DEX se pronunciou. "Temos consciên
 Explicaram também que as alterações deveriam ser feitas via Sistema de Extensão (SIEX), e que, mesmo com uma equipe de 53 bolsistas, servidores do DEX envolvidos na organização e o apoio da equipe do Centro de Informática da Universidade, faltaram recursos humanos para efetuar as alterações demandadas.
 
 "Apesar de disponibilizarmos contato telefônico e e-mail para efetuar as alterações no sistema, ainda assim observamos que houve uma falha de comunicação", justificou o decanato.
-
-
 
 _Edição de Pedro Henrique Gomes_

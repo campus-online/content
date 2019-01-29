@@ -1,6 +1,6 @@
 ---
 title: Das cadeiras das salas de aula da UnB aos gabinetes parlamentares
-cover: https://www.ucarecdn.com/1f433ec7-b983-4c26-9ab8-d5eed0012eb3/
+cover: 'https://www.ucarecdn.com/1f433ec7-b983-4c26-9ab8-d5eed0012eb3/'
 date: '2018-10-14'
 editorial: 2018-2-politica
 authors:
@@ -35,8 +35,8 @@ Há também ex-alunos da universidade já bastante conhecidos do brasiliense. O 
 
 ## Celeiro político
 
-A presença de estudantes formados pela UnB na política tradicional não é fato novo, nem específico das eleições deste ano. Tanto é que um dos candidatos ao Governo do Distrital Federal é graduado em História pela UnB. Com passagem pela universidade na década de 1980, o atual governador e candidato à reeleição Rodrigo Rollemberg (PSB) disputa o segundo turno com Ibaneis Rocha (MDB).\
-\
+A presença de estudantes formados pela UnB na política tradicional não é fato novo, nem específico das eleições deste ano. Tanto é que um dos candidatos ao Governo do Distrital Federal é graduado em História pela UnB. Com passagem pela universidade na década de 1980, o atual governador e candidato à reeleição Rodrigo Rollemberg (PSB) disputa o segundo turno com Ibaneis Rocha (MDB).
+
 Para Leandro Grass, a instituição é um celeiro de prática política. “A gente faz política na UnB o tempo todo, desde a organização do movimento estudantil até as empresas juniores, mas também no dia a dia. UnB é um espaço plural, espaço da diversidade, e essa convivência com pessoas tão distintas e visões de mundo diferentes, também foi muito importante para que eu entendesse o que é democracia, a importância do pluralismo na sociedade”, diz ele.
 
 _Texto por Eder Monteiro e Gustavo França_

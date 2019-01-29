@@ -1,6 +1,6 @@
 ---
 title: Sites para consultar o número de eleitor estão fora do ar
-cover: https://www.ucarecdn.com/461d6bef-237b-40a8-bae5-b605aa75e876/
+cover: 'https://www.ucarecdn.com/461d6bef-237b-40a8-bae5-b605aa75e876/'
 date: '2018-10-07'
 editorial: 2018-2-politica
 authors:

@@ -1,6 +1,6 @@
 ---
 title: Vendedores ambulantes questionam a desinformação durante as eleições
-cover: https://www.ucarecdn.com/e5ea8171-bb8a-428a-8883-1785d1bdf403/
+cover: 'https://www.ucarecdn.com/e5ea8171-bb8a-428a-8883-1785d1bdf403/'
 date: '2018-10-07'
 editorial: 2018-2-politica
 authors:

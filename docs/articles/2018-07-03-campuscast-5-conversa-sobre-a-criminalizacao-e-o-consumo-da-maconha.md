@@ -1,6 +1,6 @@
 ---
 title: 'Campuscast #5 – Criminalização e consumo da maconha'
-cover: https://www.ucarecdn.com/afc6437d-7ab9-46ab-b112-409b2bf9cfa8/
+cover: 'https://www.ucarecdn.com/afc6437d-7ab9-46ab-b112-409b2bf9cfa8/'
 date: '2018-07-03'
 editorial: 2018-1-campuscast
 authors:

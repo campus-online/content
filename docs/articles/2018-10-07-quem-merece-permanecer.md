@@ -1,6 +1,6 @@
 ---
 title: Quem merece permanecer?
-cover: https://www.ucarecdn.com/ba9e38ae-de19-461d-a628-88fd38537cb7/
+cover: 'https://www.ucarecdn.com/ba9e38ae-de19-461d-a628-88fd38537cb7/'
 date: '2018-10-07'
 editorial: 2018-2-politica
 authors:

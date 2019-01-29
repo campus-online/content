@@ -1,6 +1,6 @@
 ---
 title: '“A UnB não vai parar de funcionar”, diz reitora Márcia Abrahão'
-cover: https://www.ucarecdn.com/9781220c-f664-4747-9fc9-2ca79ed32d5c/
+cover: 'https://www.ucarecdn.com/9781220c-f664-4747-9fc9-2ca79ed32d5c/'
 date: '2018-05-15'
 editorial: 2018-1-universidade
 authors:
@@ -17,7 +17,6 @@ headline: >-
   em entrevista ao Campus Online que não existe a chance de interrupção do
   funcionamento da UnB no segundo semestre de 2018.
 ---
-
 > “A universidade não vai fechar em agosto, mas a comunidade tem que se conscientizar que alguns ajustes precisam ser feitos e não comprometem o funcionamento da UnB”, disse. Os ajustes a que Márcia se refere são revisões em contratos com as empresas terceirizadas que prestam serviços à Fundação Universidade de Brasília (FUB), como limpeza, manutenção, segurança patrimonial e fornecimento de refeições no Restaurante Universitário.
 
 ## Segurança afetada

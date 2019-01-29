@@ -1,6 +1,6 @@
 ---
 title: 'Denise Imbroisi: “Existe uma incompreensão dos ajustes”'
-cover: https://www.ucarecdn.com/1c285c3b-efba-4d9b-a427-385cceacc2b8/
+cover: 'https://www.ucarecdn.com/1c285c3b-efba-4d9b-a427-385cceacc2b8/'
 date: '2018-05-22'
 editorial: 2018-1-educacao
 authors:
@@ -14,8 +14,6 @@ headline: >-
   Universidade de Brasília diante da limitação no orçamento
 ---
 A decana de Planejamento, Orçamento e Avaliação Institucional, Denise Imbroisi, falou ao Campus Online sobre a situação orçamentária da UnB. Nos trechos em áudio a seguir, ela esclareceu algumas demandas.
-
-
 
 Os esforços para manter a Universidade funcionando apesar das consequências da Emenda Constitucional 95, de 2016, que definiu o teto (limite máximo) de gastos do Poder Executivo, foram o primeiro ponto da conversa.
 

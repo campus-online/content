@@ -1,6 +1,6 @@
 ---
 title: Mulheres vencem barreira de gênero no esporte
-cover: https://www.ucarecdn.com/8011fd8d-ad21-49b6-8500-6ac300da25b4/
+cover: 'https://www.ucarecdn.com/8011fd8d-ad21-49b6-8500-6ac300da25b4/'
 date: '2018-11-16'
 editorial: 2018-2-comportamento
 authors:

@@ -1,6 +1,6 @@
 ---
 title: 'Campuscast #1 – Como o aluno da UnB se informa sobre as eleições?'
-cover: https://www.ucarecdn.com/ae06780b-f284-4636-b2ca-0b1ba0cac821/
+cover: 'https://www.ucarecdn.com/ae06780b-f284-4636-b2ca-0b1ba0cac821/'
 date: '2018-10-02'
 editorial: 2018-2-campuscast
 authors:
@@ -29,4 +29,4 @@ Para ter acesso aos dados do Tribunal Superior Eleitoral (TSE) mencionados no po
 
 **Produção:** Mariah Aquino e Flávia Said
 
-**Trabalhos técnicos: **Glauber Oliveira
+**Trabalhos técnicos:** Glauber Oliveira

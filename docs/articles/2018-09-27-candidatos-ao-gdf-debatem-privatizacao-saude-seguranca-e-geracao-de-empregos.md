@@ -2,7 +2,7 @@
 title: >-
   Candidatos ao GDF na FAC:  debate discute privatização, saúde, segurança e
   promoção de empregos
-cover: https://www.ucarecdn.com/96f49077-c6fd-4220-b6c3-f564deade4cd/
+cover: 'https://www.ucarecdn.com/96f49077-c6fd-4220-b6c3-f564deade4cd/'
 date: '2018-09-27'
 editorial: 2018-2-politica
 authors:
@@ -17,13 +17,13 @@ headline: >-
   Painel da Faculdade de Comunicação (FAC) recebeu quatro candidatos ao governo
   do Distrito Federal. Eles debateram ideias e apresentaram propostas de governo
 ---
-Candidatos ao GDF debateram, na manhã desta quinta-feira (27/9), temas como o embate entre a privatização e a estatização, soluções para saúde e segurança pública e promoção de empregos. Também apresentaram à comunidade acadêmica suas propostas de governo.\
-\
+Candidatos ao GDF debateram, na manhã desta quinta-feira (27/9), temas como o embate entre a privatização e a estatização, soluções para saúde e segurança pública e promoção de empregos. Também apresentaram à comunidade acadêmica suas propostas de governo.
+
 O Painel com Candidatos ao GDF, realizado no auditório Pompeu de Sousa, na Faculdade de Comunicação, contou com a presença de quatro dos 11 candidatos ao governo: Alexandre Guerra (Novo), Renan Rosa (PCO), Antônio Guillem (PSTU) e Fátima Sousa (PSOL).
 
 O Painel foi dividido em três etapas: apresentação de propostas, perguntas entre os candidatos e perguntas do público.
 
-# Apresentação de propostas
+Apresentação de propostas
 
 O candidato do Partido Novo, Alexandre Guerra, defendeu a implantação de um governo eficiente, redução do número de secretarias, de 21 para 11, além de redução do Estado na economia e, segundo ele, “uma consequente geração de riqueza, renda e oportunidade para todos”.
 

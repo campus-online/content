@@ -1,6 +1,6 @@
 ---
 title: Quase metade dos estudantes da UnB apresentam sintomas de depressão
-cover: https://www.ucarecdn.com/dce192fc-8500-483e-8c0d-4bbda1914b5c/
+cover: 'https://www.ucarecdn.com/dce192fc-8500-483e-8c0d-4bbda1914b5c/'
 date: '2018-09-25'
 editorial: 2018-2-comportamento
 authors:

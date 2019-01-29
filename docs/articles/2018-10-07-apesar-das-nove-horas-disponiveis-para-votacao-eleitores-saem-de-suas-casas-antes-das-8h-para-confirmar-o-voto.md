@@ -2,7 +2,7 @@
 title: >-
   Apesar das nove horas disponíveis para votação, eleitores saem de suas casas
   antes das 8h para confirmar o voto
-cover: https://www.ucarecdn.com/037972e5-3416-4c01-a2da-ba3c2fc0c32d/
+cover: 'https://www.ucarecdn.com/037972e5-3416-4c01-a2da-ba3c2fc0c32d/'
 date: '2018-10-07'
 editorial: 2018-2-politica
 authors:

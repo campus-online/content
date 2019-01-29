@@ -1,6 +1,6 @@
 ---
 title: Movimento moderado e muitos santinhos no Cruzeiro
-cover: https://www.ucarecdn.com/318708d3-7a5c-4a2a-ac7f-d6a2eb3d1fa0/
+cover: 'https://www.ucarecdn.com/318708d3-7a5c-4a2a-ac7f-d6a2eb3d1fa0/'
 date: '2018-10-07'
 editorial: 2018-2-politica
 authors:

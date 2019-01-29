@@ -1,6 +1,6 @@
 ---
 title: Editorial - A nova missão da Semana Universitária
-cover: https://www.ucarecdn.com/b39b0879-330c-460f-9b9b-d6af764843aa/
+cover: 'https://www.ucarecdn.com/b39b0879-330c-460f-9b9b-d6af764843aa/'
 date: '2018-09-24'
 editorial: 2018-2-opiniao
 authors:
@@ -24,8 +24,8 @@ Mas há também universitários que aproveitam as oportunidades. Os projetos de 
 
 Em suma, a grande preocupação é que a falsa concepção do verdadeiro propósito da SemUni relaciona-se diretamente à uma pré-concepção, já errônea, de alguns alunos, que concebem um posicionamento precipitado e absoluto sobre o evento e já descartam qualquer possibilidade de interação acadêmica, científica e cultural naquele período reservado.
 
-Para esta edição, espera-se que a SemUni encontre, novamente, seu papel em relação ao convívio com estudante, além de que as mudanças implementadas surtam efeitos no curto prazo. Visitar a Universidade, ainda que por apenas uma hora na semana, nesse período especial, trará grandes ganhos ao participante. \
-\
+Para esta edição, espera-se que a SemUni encontre, novamente, seu papel em relação ao convívio com estudante, além de que as mudanças implementadas surtam efeitos no curto prazo. Visitar a Universidade, ainda que por apenas uma hora na semana, nesse período especial, trará grandes ganhos ao participante.
+
 Boa Semana Universitária a todos!
 
 _(Com UnB Notícias)_

@@ -1,6 +1,6 @@
 ---
 title: Votar para alguns é mais dever do que direito
-cover: https://www.ucarecdn.com/3670cee6-dd12-4248-b22d-0fc0c23b819f/
+cover: 'https://www.ucarecdn.com/3670cee6-dd12-4248-b22d-0fc0c23b819f/'
 date: '2018-10-07'
 editorial: 2018-2-politica
 authors:

@@ -1,6 +1,6 @@
 ---
 title: UnB oferece programas de intercâmbio para alunos da graduação
-cover: https://www.ucarecdn.com/e890161a-8051-4c98-a0fd-5f6f2a39d75d/
+cover: 'https://www.ucarecdn.com/e890161a-8051-4c98-a0fd-5f6f2a39d75d/'
 date: '2018-11-16'
 editorial: 2018-2-educacao
 authors:

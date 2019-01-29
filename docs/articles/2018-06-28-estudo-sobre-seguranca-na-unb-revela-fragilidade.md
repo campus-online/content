@@ -1,6 +1,6 @@
 ---
 title: Estudo sobre segurança na UnB revela fragilidade
-cover: https://www.ucarecdn.com/b052d05a-1b7a-4a4e-acaa-3d80b6cfaac1/
+cover: 'https://www.ucarecdn.com/b052d05a-1b7a-4a4e-acaa-3d80b6cfaac1/'
 date: '2018-06-28'
 editorial: 2018-1-educacao
 authors:
@@ -23,7 +23,7 @@ De acordo com o relatório, o tipo de crime com mais registros é o de furto a c
 
 Foram mapeados também os locais onde as pessoas, principalmente os estudantes, se sentem mais inseguros, denominados áreas críticas. No Darcy Ribeiro, este local é o subsolo do ICC, e, em segundo lugar, o caminho entre o ICC e a BCE. O trabalho propôs a criação dos “Caminhos Seguros”, que reforçam a iluminação nos lugares mais movimentados.
 
-O principal problema encontrado, no entanto, é a gestão de comunicação entre as  entidades de segurança na UnB. “As informações chegam difusas. Algumas ocorrências só \[são informadas] para a Polícia, outras só para a Segurança da UnB. É uma gestão desorganizada, não formalizada”, aponta Kássio. “No Conselho de Direitos Humanos da UnB, esta foi uma das razões levantadas para começar um trabalho de protocolo”, complementa. Além dos crimes, a baixa iluminação da área e a falta de vigilantes no local também são fatores que influenciam na sensação de insegurança da comunidade acadêmica.
+O principal problema encontrado, no entanto, é a gestão de comunicação entre as  entidades de segurança na UnB. “As informações chegam difusas. Algumas ocorrências só [são informadas] para a Polícia, outras só para a Segurança da UnB. É uma gestão desorganizada, não formalizada”, aponta Kássio. “No Conselho de Direitos Humanos da UnB, esta foi uma das razões levantadas para começar um trabalho de protocolo”, complementa. Além dos crimes, a baixa iluminação da área e a falta de vigilantes no local também são fatores que influenciam na sensação de insegurança da comunidade acadêmica.
 
 Entre as soluções apresentadas pelo SSP-DF, estão a instalação de câmeras nos locais de maior incidência de casos de violência. Já foram colocados 30 equipamentos de vídeo no campus da Asa Norte, e serão acrescentadas mais 350 nas vias, entradas de alguns prédios e estacionamentos. No último, Durante sugere câmeras no nível de altura das pessoas, próximas aos carros. “O ladrão não quer ser visto. Se tem uma câmera na frente dele, ele se sente inseguro. Já perde a anonimidade”.
 

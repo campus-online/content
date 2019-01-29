@@ -1,6 +1,6 @@
 ---
 title: Os desafios de conciliar a vida acadêmica com a prática esportiva
-cover: https://www.ucarecdn.com/e8ec2b20-380c-426b-b128-ed83538a9946/
+cover: 'https://www.ucarecdn.com/e8ec2b20-380c-426b-b128-ed83538a9946/'
 date: '2018-11-08'
 editorial: 2018-2-comportamento
 authors:
@@ -15,7 +15,7 @@ headline: >-
   Estudantes da UnB contam ao Campus a rotina diária prezando pelo bem-estar
   físico e mental
 ---
-Há alguns anos, novembro passou a ser tratado por entidades e organizações não governamentais como um mês de conscientização da saúde na população masculina. Apesar do foco estar na identificação e controle de prevenção do câncer de próstata, a campanha como um todo, aborda a ideia de segurança e práticas saudáveis no dia a dia, com o objetivo de evitar males maiores na saúde dos homens. Em razão da data, o **_Campus Online_** conversou com jovens universitários da Universidade de Brasília (UnB) para entender a importância da atividade física na rotina deles como forma de prevenção e controle de doenças, além do contato com outro ambiente que não as salas de aula.
+Há alguns anos, novembro passou a ser tratado por entidades e organizações não governamentais como um mês de conscientização da saúde na população masculina. Apesar do foco estar na identificação e controle de prevenção do câncer de próstata, a campanha como um todo, aborda a ideia de segurança e práticas saudáveis no dia a dia, com o objetivo de evitar males maiores na saúde dos homens. Em razão da data, o _**Campus Online**_ conversou com jovens universitários da Universidade de Brasília (UnB) para entender a importância da atividade física na rotina deles como forma de prevenção e controle de doenças, além do contato com outro ambiente que não as salas de aula.
 
 Mesclar, diariamente, uma intensa rotina de estudos com a prática de exercícios físicos, sejam eles individuais ou coletivos, não é fácil. Além de insistência, o aluno precisa buscar o equilíbrio, como forma de não se desviar dos compromissos firmados anteriormente. De acordo com especialistas, semanalmente, o indicado é intercalar atividades físicas com aeróbicas. As primeiras podem ser feitas, por quem começa a treinar, duas vezes na semana, enquanto que as aeróbicas podem ocorrer nos demais dias por, pelo menos, 30 minutos. Diante do quadro, o ideal é variar os diferentes treinos, até como forma de não sobrecarregar o corpo e respeitá-lo em momentos de maiores intensidades.
 

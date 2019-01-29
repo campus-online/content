@@ -2,7 +2,7 @@
 title: >-
   Em protesto às operações em universidades federais, placa antifascista é
   instalada na UnB
-cover: https://www.ucarecdn.com/46e7b5d2-cad6-47b9-978c-0efbad46e168/
+cover: 'https://www.ucarecdn.com/46e7b5d2-cad6-47b9-978c-0efbad46e168/'
 date: '2018-10-26'
 editorial: 2018-2-politica
 authors:
@@ -17,7 +17,7 @@ headline: >-
   UnB não foi notificada, mas segue atenta ao que ocorre nas universidades
   federais
 ---
-# **Por** _ANNA BEATRIZ VIEIRA, DENISE SIMINO, KARINA AMARAL e VITÓRIA RUSSEL_
+**Por** _ANNA BEATRIZ VIEIRA, DENISE SIMINO, KARINA AMARAL e VITÓRIA RUSSEL_
 
 Desde a última terça-feira (23/10), universidades federais de sete estados foram alvo de operações da Justiça Eleitoral contra suposta propaganda política irregular. Mesmo sem ser notificada, estudantes e funcionários da Universidade de Brasília organizaram manifestações, e membros da Reitoria seguem “atentos ao que vem ocorrendo nas universidades”.  Na noite desta sexta-feira (26), uma placa com os dizeres “UnB Antifascista” foi instalada no prédio da Faculdade de Direito (FD)
 
@@ -52,4 +52,4 @@ Até a publicação desta reportagem, dois ministros do STF - Gilmar Mendes e Ma
 
 Marco Aurélio afirmou que a “universidade é campo do saber. O saber pressupõe liberdade, liberdade no pensar, liberdade de expressar ideias. Interferência externa é, de regra, indevida. Vinga a autonomia universitária. Toda interferência é, de início, incabível. Essa é a óptica a ser observada. Falo de uma forma geral. Não me pronuncio especificamente sobre a atuação da Justiça Eleitoral. Mas reconheço que a quadra é de extremos. Por isso é perigosa, em termos de Estado Democrático de Direito.”
 
-_Foto: _Luiza Coe, para Campus Online
+_Foto:_ Luiza Coe, para Campus Online

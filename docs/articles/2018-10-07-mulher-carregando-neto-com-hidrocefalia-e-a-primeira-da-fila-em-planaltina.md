@@ -1,6 +1,6 @@
 ---
 title: Mulher carregando neto com hidrocefalia é a primeira da fila em Planaltina
-cover: https://www.ucarecdn.com/9d5f07b2-67f1-425a-bfc7-4c866a2115fe/
+cover: 'https://www.ucarecdn.com/9d5f07b2-67f1-425a-bfc7-4c866a2115fe/'
 date: '2018-10-07'
 editorial: 2018-2-politica
 authors:

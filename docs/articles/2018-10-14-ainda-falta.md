@@ -1,6 +1,6 @@
 ---
 title: 'Ainda falta '
-cover: https://www.ucarecdn.com/2a31a0d9-94a3-44f3-b831-01acf656ae56/
+cover: 'https://www.ucarecdn.com/2a31a0d9-94a3-44f3-b831-01acf656ae56/'
 date: '2018-10-14'
 editorial: 2018-2-opiniao
 authors:
@@ -11,7 +11,7 @@ tags:
 featured: false
 headline: 'Campus volta desenvolto, mas com partes adormecidas'
 ---
-**O termo ombudsman tem origem sueca e significa "aquele que representa o cidadão". Na imprensa, a palavra é aplicada ao profissional cuja função é representar os eleitores de um jornal e fazer críticas à produção jornalística. **
+**O termo ombudsman tem origem sueca e significa "aquele que representa o cidadão". Na imprensa, a palavra é aplicada ao profissional cuja função é representar os eleitores de um jornal e fazer críticas à produção jornalística.** 
 
 **O ombudsman do Campus Online deste semestre é Victor Farias, que passou pelo jornal laboratório no 1º semestre de 2018. Leia abaixo sua primeira coluna:**
 
