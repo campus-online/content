@@ -32,7 +32,7 @@ module.exports = {
 		noParse: [/netlify-cms/, /@campus-online\/cms/],
 		rules: [{
 			test: /\.m?js$/,
-			exclude: /node_modules/,
+			exclude: /node_modules|netlify-cms|@campus-online\/cms/,
 			use: {
 				loader: 'babel-loader',
 				options: {
@@ -67,7 +67,7 @@ module.exports = {
 			cache: true,
 			parallel: true,
 			sourceMap: false,
-			exclude: /(campus-online\/cms|node_modules)/,
+			exclude: /(campus-online\/cms|node_modules|netlify-cms)/,
 		})],
 	},
 }
