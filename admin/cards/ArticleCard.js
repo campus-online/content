@@ -2,10 +2,9 @@ import React from 'react'
 import styled, { css } from 'react-emotion'
 import { tint, shade, rgba } from 'polished'
 import { Link } from 'react-router-dom'
-import { EntryLoader } from 'netlify-cms'
-import { getEditUrl } from '../utils'
 import { colors, focusableShadow, focusableBadge, transitions } from '../styles'
 import { decorate, Wrapper } from '../components/Card'
+import AsyncEntryFragment from '../components/AsyncEntryFragment'
 
 const identity = a => a
 
@@ -87,23 +86,18 @@ Badge.defaultProps = {
 
 const Title = styled.h2`margin-bottom: 8px`
 
-const Editorial = ({slug, collection = 'editorials', inView}) => {
-	const url = getEditUrl({collection, slug})
-
-	if (!inView) return <Badge to={url}/>
-
-	return (
-		<EntryLoader
-			collection={collection}
-			slug={slug}
-			render={({isFetching, error, data}) => {
-				if (isFetching) return <Badge to={url}/>
-				if (error) return <Badge color={colors.red}>error</Badge>
-				return <Badge color={data.color} to={url}>{data.title}</Badge>
-			}}
-		/>
-	)
-}
+const Editorial = ({slug, inView}) => (
+	<AsyncEntryFragment
+		collection='editorials'
+		slug={slug}
+		inView={inView}
+		error={() => <Badge color={colors.red}>error</Badge>}
+		loading={(url) => <Badge to={url}/>}
+		render={(url, {color, title}) => (
+			<Badge color={color} to={url}>{title}</Badge>
+		)}
+	/>
+)
 
 const AuthorsWrapper = styled.div`
 	display: inline-flex;
@@ -154,24 +148,18 @@ Avatar.defaultProps = {
 	color: colors.inactive,
 }
 
-
-const Author = ({inView, slug, collection = 'authors', index = 0}) => {
-	const url = getEditUrl({collection, slug})
-
-	if(!inView) return <Avatar to={url} index={index}/>
-
-	return (
-		<EntryLoader
-			collection={collection}
-			slug={slug}
-			render={({isFetching, error, data}) => {
-				if (isFetching) return <Avatar to={url} index={index}/>
-				if (error) return <Avatar color={colors.red} title='error' index={index}/>
-				return <Avatar to={url} src={data.image} title={data.title} index={index} />
-			}}
-		/>
-	)
-}
+const Author = ({inView, slug, index = 0}) => (
+	<AsyncEntryFragment
+		collection='authors'
+		slug={slug}
+		inView={inView}
+		error={() => <Avatar color={colors.red} title='error' index={index}/>}
+		loading={url => <Avatar to={url} index={index}/>}
+		render={(url, {image, title}) => (
+			<Avatar to={url} src={image} title={title} index={index}/>
+		)}
+	/>
+)
 
 const Authors = ({inView, slugs = []}) => (
 	<AuthorsWrapper>
