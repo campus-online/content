@@ -1,20 +1,15 @@
 import React from 'react'
 import styled, { css } from 'react-emotion'
 import { tint, shade, rgba } from 'polished'
-import { Link as RouterLink } from 'react-router-dom'
-import Observer from 'react-intersection-observer'
+import { Link } from 'react-router-dom'
+import { EntryLoader } from 'netlify-cms'
 import { getEditUrl } from '../utils'
 import { colors, focusableShadow, focusableBadge, transitions } from '../styles'
 import { decorate, Wrapper } from '../components/Card'
-import EntryLoader from '../components/LazyEntryLoader'
 
 const identity = a => a
 
-const MaybeLink = React.forwardRef(
-	(props, ref) => props.to
-		? <RouterLink {...props} innerRef={ref}/>
-		: <span {...props} ref={ref}/>
-)
+const MaybeLink = props => props.to ? <Link {...props}/> : <span {...props}/>
 
 const FlexRow = styled.div`
 	display: flex;
@@ -23,9 +18,10 @@ const FlexRow = styled.div`
 	align-items: baseline;
 	margin-bottom: 8px;
 `
-
+const EMPTY_SVG = 'data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg"/>'
 const coverSettings = '/-/scale_crop/240x240/-/quality/lightest/'
-const getCoverImage = ({src}) => {
+const getCoverImage = ({src, inView}) => {
+	if(!inView) return EMPTY_SVG
 	if(!src || typeof src !== 'string') return 'none'
 	if(!src.includes('ucarecdn.com')) return src
 	return (src + '/').replace(/\/+$/, coverSettings)
@@ -36,7 +32,7 @@ const CoverImage = styled.img`
 	bottom: 0;
 	right: 0;
 	display: block;
-	background-color: ${colors.inactive};
+	background-color: ${tint(0.66, colors.background)};
 	width: ${p => p.size}px;
 	height: ${p => p.size}px;
 `
@@ -65,14 +61,10 @@ const CoverFlap = styled.div`
 `
 
 const Cover = ({isGrid, size = isGrid ? 120 : 60, ...props}) => (
-	<Observer triggerOnce>
-		{({inView, ref}) => (
-			<React.Fragment>
-				{inView && <CoverImage size={size} src={getCoverImage(props)}/>}
-				<CoverFlap innerRef={ref} size={size}/>
-			</React.Fragment>
-		)}
-	</Observer>
+	<React.Fragment>
+		<CoverImage size={size} src={getCoverImage(props)}/>
+		<CoverFlap size={size}/>
+	</React.Fragment>
 )
 
 
@@ -95,18 +87,23 @@ Badge.defaultProps = {
 
 const Title = styled.h2`margin-bottom: 8px`
 
-const Editorial = ({slug, collection = 'editorials'}) => (
-	<EntryLoader
-		collection={collection}
-		slug={slug}
-		render={({isFetching, error, data, ref}) => {
-			const url = getEditUrl({collection, slug})
-			if (isFetching) return <Badge to={url} innerRef={ref}/>
-			if (error) return <Badge color={colors.red}>error</Badge>
-			return <Badge color={data.color} to={url}>{data.title}</Badge>
-		}}
-	/>
-)
+const Editorial = ({slug, collection = 'editorials', inView}) => {
+	const url = getEditUrl({collection, slug})
+
+	if (!inView) return <Badge to={url}/>
+
+	return (
+		<EntryLoader
+			collection={collection}
+			slug={slug}
+			render={({isFetching, error, data}) => {
+				if (isFetching) return <Badge to={url}/>
+				if (error) return <Badge color={colors.red}>error</Badge>
+				return <Badge color={data.color} to={url}>{data.title}</Badge>
+			}}
+		/>
+	)
+}
 
 const AuthorsWrapper = styled.div`
 	display: inline-flex;
@@ -158,22 +155,29 @@ Avatar.defaultProps = {
 }
 
 
-const Author = ({slug, collection = 'authors', index = 0}) => (
-	<EntryLoader
-		collection={collection}
-		slug={slug}
-		render={({isFetching, error, data, ref}) => {
-			const url = getEditUrl({collection, slug})
-			if (isFetching) return <Avatar to={url} innerRef={ref} index={index}/>
-			if (error) return <Avatar color={colors.red} title='error' index={index}/>
-			return <Avatar to={url} src={data.image} title={data.title} index={index} />
-		}}
-	/>
-)
+const Author = ({inView, slug, collection = 'authors', index = 0}) => {
+	const url = getEditUrl({collection, slug})
 
-const Authors = ({slugs = []}) => (
+	if(!inView) return <Avatar to={url} index={index}/>
+
+	return (
+		<EntryLoader
+			collection={collection}
+			slug={slug}
+			render={({isFetching, error, data}) => {
+				if (isFetching) return <Avatar to={url} index={index}/>
+				if (error) return <Avatar color={colors.red} title='error' index={index}/>
+				return <Avatar to={url} src={data.image} title={data.title} index={index} />
+			}}
+		/>
+	)
+}
+
+const Authors = ({inView, slugs = []}) => (
 	<AuthorsWrapper>
-		{slugs.map((slug, i) => <Author key={slug} slug={slug} index={i}/>)}
+		{slugs.map((slug, index) => (
+			<Author key={slug} slug={slug} index={index} inView={inView}/>
+		))}
 	</AuthorsWrapper>
 )
 
@@ -205,25 +209,26 @@ const Tags = ({tags = []}) => (
 	</TagsWrapper>
 )
 
-const ArticleCard = ({viewStyle, entry}) => {
+const ArticleCard = ({entry, inView, viewStyle}) => {
 	const isGrid = viewStyle === 'VIEW_STYLE_GRID'
 	const data = entry.get('data').toJS()
 	const {title, date, editorial, authors, tags, featured, cover} = data
 	return (
 		<React.Fragment>
-			{cover && <Cover src={cover} isGrid={isGrid}/>}
+			{cover && <Cover src={cover} isGrid={isGrid} inView={inView}/>}
 			<div style={{position: 'relative'}}>
 				<FlexRow>
-					{editorial && <Editorial slug={editorial}/>}
+					{editorial && <Editorial slug={editorial} inView={inView}/>}
 					{date && <DateText date={date}/>}
 				</FlexRow>
-				<Title>{title}</Title>
+				{title && <Title>{title}</Title>}
 				{tags && <Tags tags={tags}/>}
 			</div>
-			{authors && authors.length > 0 && <Authors slugs={[...authors, '2018-1-vitor-dino']}/>}
+			{authors && authors.length > 0 && (
+				<Authors inView={inView} slugs={[...authors, '2018-1-vitor-dino']}/>
+			)}
 		</React.Fragment>
 	)
-	JSON.stringify({title, date, editorial, authors, tags, featured})
 }
 
 export default decorate()(ArticleCard)

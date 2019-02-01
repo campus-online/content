@@ -1,5 +1,6 @@
 import React from 'react'
 import styled from 'react-emotion'
+import Observer from 'react-intersection-observer'
 import { Link as RouterLink } from 'react-router-dom'
 import {getDisplayName, getEditUrl} from '../utils'
 import {focusableShadow, card, lengths} from '../styles'
@@ -41,11 +42,11 @@ const Spacing = styled.div`
 `
 
 
-const EntryCard = ({collection, entry, viewStyle, gridHeight, children}) => {
+const EntryCard = ({collection, entry, gridHeight, children, ...props}) => {
 	const url = getEditUrl({collection, entry})
-	const isGrid = viewStyle === 'VIEW_STYLE_GRID'
+	const isGrid = props.viewStyle === 'VIEW_STYLE_GRID'
 	return (
-		<Wrapper gridHeight={isGrid && gridHeight}>
+		<Wrapper gridHeight={isGrid && gridHeight} {...props}>
 			<AbsoluteLink to={url}/>
 			<Spacing>{children}</Spacing>
 		</Wrapper>
@@ -55,8 +56,15 @@ EntryCard.defaultProps = {gridHeight: '240px'}
 
 export const decorate = (options = {}) => BaseComponent => {
 	const WrappedComponent = props => (
-		<EntryCard {...options} {...props}><BaseComponent {...props}/></EntryCard>
+		<Observer triggerOnce rootMargin='100% 0px'>
+			{({inView, ref}) => (
+				<EntryCard {...options} {...props} innerRef={ref}>
+					<BaseComponent {...props} inView={inView}/>
+				</EntryCard>
+			)}
+		</Observer>
 	)
+
 	WrappedComponent.displayName = `decorate(${getDisplayName(BaseComponent)})`
 	return WrappedComponent
 }
