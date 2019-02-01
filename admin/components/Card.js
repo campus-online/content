@@ -55,15 +55,15 @@ const EntryCard = ({collection, entry, gridHeight, children, ...props}) => {
 EntryCard.defaultProps = {gridHeight: '240px'}
 
 export const decorate = (options = {}) => BaseComponent => {
-	const WrappedComponent = props => (
-		<Observer triggerOnce rootMargin='100% 0px'>
-			{({inView, ref}) => (
-				<EntryCard {...options} {...props} innerRef={ref}>
-					<BaseComponent {...props} inView={inView}/>
-				</EntryCard>
-			)}
-		</Observer>
-	)
+	const WrappedComponent = props => {
+		const render = ({inView, ref} = {}) => (
+			<EntryCard {...options} {...props} innerRef={ref}>
+				<BaseComponent {...props} inView={inView}/>
+			</EntryCard>
+		)
+		if(!options.observer) return render()
+		return <Observer triggerOnce rootMargin='100% 0px' children={render}/>
+	}
 
 	WrappedComponent.displayName = `decorate(${getDisplayName(BaseComponent)})`
 	return WrappedComponent

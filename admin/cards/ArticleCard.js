@@ -219,5 +219,5 @@ const ArticleCard = ({entry, inView, viewStyle}) => {
 	)
 }
 
-export default decorate()(ArticleCard)
+export default decorate({observer: true})(ArticleCard)
 
