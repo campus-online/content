@@ -1,8 +1,8 @@
-import React, {Component} from 'react'
+import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 
 export default class SemesterControl extends Component {
-	static defaultProps = {value: ''}
+	static defaultProps = { value: '' }
 	static propTypes = {
 		onChange: PropTypes.func.isRequired,
 		forID: PropTypes.string,
@@ -13,7 +13,7 @@ export default class SemesterControl extends Component {
 	}
 
 	isValid() {
-		const {value, field} = this.props
+		const { value, field } = this.props
 		const required = field.get('required')
 		const error = {
 			type: 'CUSTOM',
@@ -40,7 +40,7 @@ export default class SemesterControl extends Component {
 
 		return (
 			<input
-				type="text"
+				type='text'
 				id={forID}
 				className={classNameWrapper}
 				value={value || ''}

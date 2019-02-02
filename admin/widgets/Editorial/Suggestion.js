@@ -26,9 +26,9 @@ const Period = styled.small`
 	font-size: 0.625rem;
 `
 
-const EditorialSuggestion = ({title, semester, color}) => (
+const EditorialSuggestion = ({ title, semester, color }) => (
 	<Wrapper>
-		<Color style={{backgroundColor: color}} />
+		<Color style={{ backgroundColor: color }} />
 		<FlexColumn>
 			<Period>{semester}</Period>
 			<div>{title}</div>
@@ -37,4 +37,4 @@ const EditorialSuggestion = ({title, semester, color}) => (
 )
 
 export default EditorialSuggestion
-export const renderSuggestion = ({data}) => <EditorialSuggestion {...data} />
+export const renderSuggestion = ({ data }) => <EditorialSuggestion {...data} />

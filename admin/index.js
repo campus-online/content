@@ -8,7 +8,7 @@ import SemesterWidget from './widgets/Semester'
 import ArticleCard from './cards/ArticleCard'
 // import enhance from './withStyleSheet'
 
-window.___loader = window.___loader || {enqueue: () => undefined}
+window.___loader = window.___loader || { enqueue: () => undefined }
 
 // CMS.registerPreviewTemplate('about', enhance(AboutPagePreview))
 // CMS.registerPreviewTemplate('article', enhance(BlogPostPreview))

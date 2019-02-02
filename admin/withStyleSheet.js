@@ -1,5 +1,5 @@
 import React from 'react'
-import {StyleSheetManager} from 'styled-components'
+import { StyleSheetManager } from 'styled-components'
 // import {Wrapper} from '../components/Layout'
 // import '../reset.css'
 // import '../fonts.css'
@@ -10,13 +10,13 @@ const styleCSS = `
 `
 
 class StyleSheetWrapper extends React.Component {
-	state = {$head: null}
+	state = { $head: null }
 	injectPreviewCSS() {
 		const $iframe = document.querySelector('.Pane2 iframe')
 		const $head = $iframe.contentDocument.head
-		this.setState(state => ({...state, $head}))
+		this.setState(state => ({ ...state, $head }))
 	}
-	overideCSS(){
+	overideCSS() {
 		const $style = document.createElement('style')
 		$style.appendChild(document.createTextNode(styleCSS))
 		document.head.appendChild($style)
@@ -26,14 +26,10 @@ class StyleSheetWrapper extends React.Component {
 		this.injectPreviewCSS()
 	}
 	render() {
-		const {children} = this.props
-		const {$head} = this.state
+		const { children } = this.props
+		const { $head } = this.state
 		if (!$head) return children
-		return (
-			<StyleSheetManager target={$head}>
-				{children}
-			</StyleSheetManager>
-		)
+		return <StyleSheetManager target={$head}>{children}</StyleSheetManager>
 	}
 }
 

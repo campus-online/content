@@ -28,7 +28,7 @@ const Period = styled.small`
 	font-size: 0.625rem;
 `
 
-const AuthorSuggestion = ({image, title, semester}) => (
+const AuthorSuggestion = ({ image, title, semester }) => (
 	<Wrapper>
 		<Avatar src={image} />
 		<FlexColumn>
@@ -39,4 +39,4 @@ const AuthorSuggestion = ({image, title, semester}) => (
 )
 
 export default AuthorSuggestion
-export const renderSuggestion = ({data}) => <AuthorSuggestion {...data} />
+export const renderSuggestion = ({ data }) => <AuthorSuggestion {...data} />

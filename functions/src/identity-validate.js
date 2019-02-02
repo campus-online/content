@@ -1,6 +1,7 @@
-import {createHash} from 'crypto'
+import { createHash } from 'crypto'
 import fetch from 'node-fetch'
 
+// prettier-ignore
 const sha256 = string => createHash('sha256').update(string).digest('hex')
 const fetchJSON = async (...args) => await (await fetch(...args)).json()
 const isAllowed = async _email => {
@@ -9,17 +10,17 @@ const isAllowed = async _email => {
 	const hash = sha256(email).toLowerCase()
 	const url = `https://campus-unb.firebaseio.com/invite/${hash}/email.json`
 	const value = await fetchJSON(`${url}?shallow=true`)
-	console.log({email, value, hash})
+	console.log({ email, value, hash })
 	return email === value
 }
 
-export const handler = async ({body = 'null'} = {}) => {
+export const handler = async ({ body = 'null' } = {}) => {
 	try {
-		const {email} = JSON.parse(body).user
-		if (await isAllowed(email)) return {statusCode: 204, body: ''}
+		const { email } = JSON.parse(body).user
+		if (await isAllowed(email)) return { statusCode: 204, body: '' }
 		throw new Error(`email '${email}' is not allowed`)
-	} catch ({message}) {
+	} catch ({ message }) {
 		console.log(message)
 	}
-	return {statusCode: 403, body: ''}
+	return { statusCode: 403, body: '' }
 }

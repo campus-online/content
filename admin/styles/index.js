@@ -5,7 +5,7 @@ export { colors, lengths, transitions }
 const identity = a => a
 export const focusShadow = `0 0 0 2px ${colors.active}`
 
-export const focusableShadow = ({shadow} = {}) => `
+export const focusableShadow = ({ shadow } = {}) => `
 	appearance: none;
 	overflow: hidden;
 	box-shadow: ${shadow || 'none'};
@@ -20,5 +20,5 @@ export const badge = components.badge
 
 export const focusableCard = `
 	${components.card};
-	${focusableShadow({shadow: shadows.dropMain})};
+	${focusableShadow({ shadow: shadows.dropMain })};
 `

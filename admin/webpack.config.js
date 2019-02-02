@@ -9,7 +9,7 @@ const DIST_FOLDER = path.resolve(__dirname, '..', 'dist')
 const PRODUCTION = process.env.NODE_ENV === 'production'
 
 module.exports = {
-	mode:  PRODUCTION ? 'production' : 'development',
+	mode: PRODUCTION ? 'production' : 'development',
 	context: SOURCE_FOLDER,
 	entry: {
 		cms: './index.js',
@@ -18,9 +18,8 @@ module.exports = {
 	output: {
 		path: DIST_FOLDER,
 		publicPath: '/',
-		filename: ({chunk = {}} = {}) => (
-			chunk.name === 'cms' ? 'admin/[name].js' : '[name].js'
-		),
+		filename: ({ chunk = {} } = {}) =>
+			chunk.name === 'cms' ? 'admin/[name].js' : '[name].js',
 	},
 	devtool: PRODUCTION ? false : 'source-map',
 	resolve: {
@@ -30,25 +29,28 @@ module.exports = {
 	},
 	module: {
 		noParse: [/netlify-cms/, /@campus-online\/cms/],
-		rules: [{
-			enforce: 'pre',
-			test: /\.m?js$/,
-			exclude: /node_modules/,
-			loader: 'eslint-loader',
-			options: {
-				emitWarning: true,
-			},
-		}, {
-			test: /\.m?js$/,
-			exclude: /node_modules|netlify-cms|@campus-online\/cms/,
-			use: {
-				loader: 'babel-loader',
+		rules: [
+			{
+				enforce: 'pre',
+				test: /\.m?js$/,
+				exclude: /node_modules/,
+				loader: 'eslint-loader',
 				options: {
-					cacheDirectory: true,
-					cacheCompression: false,
-				}
+					emitWarning: true,
+				},
 			},
-		}],
+			{
+				test: /\.m?js$/,
+				exclude: /node_modules|netlify-cms|@campus-online\/cms/,
+				use: {
+					loader: 'babel-loader',
+					options: {
+						cacheDirectory: true,
+						cacheCompression: false,
+					},
+				},
+			},
+		],
 	},
 	plugins: [
 		new HtmlWebpackPlugin({
@@ -60,8 +62,10 @@ module.exports = {
 			filename: 'index.html',
 			chunks: ['identity'],
 		}),
-		new CopyWebpackPlugin([{from: 'config.yml', to: 'admin'}], {copyUnmodified: true}),
-		new WriteFilePlugin({test: /config\.yml/}),
+		new CopyWebpackPlugin([{ from: 'config.yml', to: 'admin' }], {
+			copyUnmodified: true,
+		}),
+		new WriteFilePlugin({ test: /config\.yml/ }),
 	],
 	devServer: {
 		contentBase: DIST_FOLDER,
@@ -77,13 +81,15 @@ module.exports = {
 		},
 		openPage: 'admin/',
 	},
-	performance: { maxEntrypointSize: 2.5e+6, maxAssetSize: 2.5e+6 },
+	performance: { maxEntrypointSize: 2.5e6, maxAssetSize: 2.5e6 },
 	optimization: {
-		minimizer: [new TerserPlugin({
-			cache: true,
-			parallel: true,
-			sourceMap: false,
-			exclude: /(campus-online\/cms|node_modules|netlify-cms)/,
-		})],
+		minimizer: [
+			new TerserPlugin({
+				cache: true,
+				parallel: true,
+				sourceMap: false,
+				exclude: /(campus-online\/cms|node_modules|netlify-cms)/,
+			}),
+		],
 	},
 }

@@ -5,9 +5,9 @@ import MaybeLink from './MaybeLink'
 
 const wrap = src => `url("${src}")`
 
-const getAvatarImage = ({src, size}) => {
-	if(!src || typeof src !== 'string') return 'none'
-	if(!src.includes('ucarecdn.com')) return wrap(src)
+const getAvatarImage = ({ src, size }) => {
+	if (!src || typeof src !== 'string') return 'none'
+	if (!src.includes('ucarecdn.com')) return wrap(src)
 	const dimensions = `${size * 2}x${size * 2}` // retina-ready
 	const avatarSettings = `/-/scale_crop/${dimensions}/-/quality/lightest/`
 	return wrap((src + '/').replace(/\/+$/, avatarSettings))
@@ -19,15 +19,15 @@ const avatarInset = [
 ].join(', ')
 
 const Avatar = styled(MaybeLink)`
-	${props => props.to && focusableShadow({shadow: props.src && avatarInset})}
+	${props => props.to && focusableShadow({ shadow: props.src && avatarInset })}
 	position: relative;
 	display: block;
 	overflow: hidden;
 	flex: 0 0 auto;
 	background-size: cover;
 	background-image: ${getAvatarImage};
-	${({size, color = colors.inactive}) => `
-		border-radius: ${size/2}px;
+	${({ size, color = colors.inactive }) => `
+		border-radius: ${size / 2}px;
 		height: ${size}px;
 		width: ${size}px;
 		background-color: ${tint(0.88, color)};

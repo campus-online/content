@@ -5,5 +5,6 @@ import { focusableShadow } from '../styles'
 
 const Link = styled(BaseLink)([focusableShadow])
 
-const MaybeLink = props => props.to ? <Link {...props}/> : <span {...props}/>
+const MaybeLink = props =>
+	props.to ? <Link {...props} /> : <span {...props} />
 export default MaybeLink
