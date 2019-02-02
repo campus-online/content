@@ -1,14 +1,13 @@
 import React from 'react'
-import styled, { css } from 'react-emotion'
-import { tint, shade, rgba } from 'polished'
-import { Link } from 'react-router-dom'
-import { colors, focusableShadow, focusableBadge, transitions } from '../styles'
+import styled from 'react-emotion'
+import { tint } from 'polished'
+import { colors, transitions } from '../styles'
 import { decorate, Wrapper } from '../components/Card'
 import AsyncEntryFragment from '../components/AsyncEntryFragment'
+import BaseAvatar from '../components/Avatar'
+import Badge from '../components/Badge'
 
 const identity = a => a
-
-const MaybeLink = props => props.to ? <Link {...props}/> : <span {...props}/>
 
 const FlexRow = styled.div`
 	display: flex;
@@ -17,6 +16,7 @@ const FlexRow = styled.div`
 	align-items: baseline;
 	margin-bottom: 8px;
 `
+
 const EMPTY_SVG = 'data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg"/>'
 const coverSettings = '/-/scale_crop/240x240/-/quality/lightest/'
 const getCoverImage = ({src, inView}) => {
@@ -66,24 +66,6 @@ const Cover = ({isGrid, size = isGrid ? 120 : 60, ...props}) => (
 	</React.Fragment>
 )
 
-
-const placeholder = <React.Fragment>&nbsp;</React.Fragment>
-const Badge = styled(MaybeLink)`
-	${focusableBadge};
-	display: block;
-	position: relative;
-	z-index: 1;
-	flex: 0 0 auto;
-	background-color: ${props => tint(0.88, props.color)};
-	color: ${props => shade(0.22, props.color)};
-	min-width: ${props => props.children === placeholder ? '92px' : 'auto'};
-`
-
-Badge.defaultProps = {
-	color: colors.inactive,
-	children: placeholder,
-}
-
 const Title = styled.h2`margin-bottom: 8px`
 
 const Editorial = ({slug, inView}) => (
@@ -106,49 +88,24 @@ const AuthorsWrapper = styled.div`
 	align-items: flex-start;
 	position: relative;
 	z-index: 1;
+	border-radius: ${p => p.size * 0.5}px;
 `
 
-const wrap = src => `url("${src}")`
-const avatarSettings = '/-/scale_crop/64x64/-/quality/lightest/'
-const getAvatarImage = ({src}) => {
-	if(!src || typeof src !== 'string') return 'none'
-	if(!src.includes('ucarecdn.com')) return wrap(src)
-	return wrap((src + '/').replace(/\/+$/, avatarSettings))
-}
-
-const avatarInset = [
-	'inset 0px 0px 0px 1px rgba(0, 0, 0, 0.25)',
-	'inset 0px 0px 8px -1px rgba(0, 0, 0, 0.25)',
-].join(', ')
-
-const Avatar = styled(MaybeLink)`
-	${props => props.to && focusableShadow({shadow: props.src && avatarInset})}
-	position: relative;
-	display: block;
-	height: 32px;
-	width: 32px;
-	border-radius: 16px;
-	overflow: hidden;
-	flex: 0 0 auto;
-	background-size: cover;
+const Avatar = styled(BaseAvatar)`
 	transition: transform ${transitions.main};
-	background-color: ${props => tint(0.88, props.color)};
-	background-image: ${getAvatarImage};
-	${({index = 0}) => css`
+	${({size, index = 0}) => `
 		z-index: ${99 - index};
-		transform: translateX(${index * -8}px);
+		transform: translateX(${index * size * -0.25}px);
 		html[data-whatintent="mouse"] ${AuthorsWrapper}:hover &,
 		html[data-whatintent="keyboard"] ${AuthorsWrapper}:focus-within & {
-			transform: translateX(${index * 4}px);
+			transform: translateX(${index * size * 0.125}px);
 		}
 	`}
 `
 
-Avatar.defaultProps = {
-	color: colors.inactive,
-}
+Avatar.defaultProps = { size: 32 }
 
-const Author = ({inView, slug, index = 0}) => (
+const Author = ({inView, size, slug, index = 0}) => (
 	<AsyncEntryFragment
 		collection='authors'
 		slug={slug}
@@ -161,10 +118,10 @@ const Author = ({inView, slug, index = 0}) => (
 	/>
 )
 
-const Authors = ({inView, slugs = []}) => (
-	<AuthorsWrapper>
+const Authors = ({inView, size = 32, slugs = []}) => (
+	<AuthorsWrapper size={size}>
 		{slugs.map((slug, index) => (
-			<Author key={slug} slug={slug} index={index} inView={inView}/>
+			<Author key={slug} slug={slug} index={index} size={size} inView={inView}/>
 		))}
 	</AuthorsWrapper>
 )
@@ -186,7 +143,7 @@ const DateText = ({date}) => (
 
 const TagsWrapper = styled.div`
 	font-size: 0.66rem;
-	text-transform: lowecase;
+	text-transform: lowercase;
 	opacity: 0.88;
 	margin: -4px 0 16px;
 `
@@ -212,7 +169,7 @@ const ArticleCard = ({entry, inView, viewStyle}) => {
 				{title && <Title>{title}</Title>}
 				{tags && <Tags tags={tags}/>}
 			</div>
-			{authors && authors.length > 0 && (
+			{authors && authors.length > 0 && ( /* [TODO]: remove vitor dino */
 				<Authors inView={inView} slugs={[...authors, '2018-1-vitor-dino']}/>
 			)}
 		</React.Fragment>

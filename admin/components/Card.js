@@ -1,9 +1,9 @@
 import React from 'react'
 import styled from 'react-emotion'
 import Observer from 'react-intersection-observer'
-import { Link as RouterLink } from 'react-router-dom'
 import {getDisplayName, getEditUrl} from '../utils'
-import {focusableShadow, card, lengths} from '../styles'
+import {card, lengths} from '../styles'
+import MaybeLink from './MaybeLink'
 
 export const Wrapper = styled.li`
 	${card};
@@ -16,8 +16,7 @@ export const Wrapper = styled.li`
 	}
 `
 
-const AbsoluteLink = styled(RouterLink)`
-	${focusableShadow};
+const AbsoluteLink = styled(MaybeLink)`
 	border-radius: ${lengths.borderRadius};
 	position: absolute;
 	color: currentColor;
