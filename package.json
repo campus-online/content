@@ -19,8 +19,8 @@
     "lint:admin": "eslint admin",
     "lint:functions": "eslint functions/src",
     "format": "npm-run-all -s 'format:*'",
-    "format:admin": "prettier --write --ignore-path ./.gitignore 'admin/**'",
-    "format:functions": "prettier --write --ignore-path ./.gitignore 'functions/src/**'",
+    "format:admin": "eslint --fix admin",
+    "format:functions": "eslint --fix functions/src",
     "test": "yarn lint && jest --noStackTrace"
   },
   "jest": {
