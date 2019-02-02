@@ -157,7 +157,7 @@ const Tags = ({tags = []}) => (
 const ArticleCard = ({entry, inView, viewStyle}) => {
 	const isGrid = viewStyle === 'VIEW_STYLE_GRID'
 	const data = entry.get('data').toJS()
-	const {title, date, editorial, authors, tags, featured, cover} = data
+	const {title, date, editorial, authors, tags, cover} = data
 	return (
 		<React.Fragment>
 			{cover && <Cover src={cover} isGrid={isGrid} inView={inView}/>}

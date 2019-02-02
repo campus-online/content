@@ -31,6 +31,14 @@ module.exports = {
 	module: {
 		noParse: [/netlify-cms/, /@campus-online\/cms/],
 		rules: [{
+			enforce: 'pre',
+			test: /\.m?js$/,
+			exclude: /node_modules/,
+			loader: 'eslint-loader',
+			options: {
+				emitWarning: true,
+			},
+		}, {
 			test: /\.m?js$/,
 			exclude: /node_modules|netlify-cms|@campus-online\/cms/,
 			use: {
@@ -57,8 +65,16 @@ module.exports = {
 	],
 	devServer: {
 		contentBase: DIST_FOLDER,
+		port: process.env.PORT,
 		hot: true,
 		open: true,
+		overlay: true,
+		stats: {
+			all: false,
+			errors: true,
+			errorDetails: true,
+			warnings: true,
+		},
 		openPage: 'admin/',
 	},
 	performance: { maxEntrypointSize: 2.5e+6, maxAssetSize: 2.5e+6 },

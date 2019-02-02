@@ -6,7 +6,7 @@ import AuthorWidget from './widgets/Author'
 import EditorialWidget from './widgets/Editorial'
 import SemesterWidget from './widgets/Semester'
 import ArticleCard from './cards/ArticleCard'
-import enhance from './withStyleSheet'
+// import enhance from './withStyleSheet'
 
 window.___loader = window.___loader || {enqueue: () => undefined}
 

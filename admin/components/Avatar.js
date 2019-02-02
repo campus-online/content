@@ -1,4 +1,3 @@
-import React from 'react'
 import styled from 'react-emotion'
 import { tint } from 'polished'
 import { colors, focusableShadow } from '../styles'

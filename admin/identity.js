@@ -2,7 +2,7 @@
 
 const __PATH_PREFIX__ = ''
 const CMS_PUBLIC_PATH = 'admin'
-
+// eslint-disable-next-line import/first
 import netlifyIdentityWidget from 'netlify-identity-widget'
 
 window.netlifyIdentity = netlifyIdentityWidget
