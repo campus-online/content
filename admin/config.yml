@@ -26,6 +26,7 @@ editor:
 
 collections:
   - name: articles
+    icon: 'feather-file-text'
     label: 'Matérias'
     label_singular: 'Matéria'
     folder: 'docs/articles'
@@ -76,6 +77,7 @@ collections:
       - { label: 'Corpo', name: body, widget: markdown }
 
   - name: authors
+    icon: 'feather-users'
     label: 'Repórteres'
     label_singular: 'Repórter'
     folder: 'docs/authors'
@@ -109,6 +111,7 @@ collections:
         }
 
   - name: editorials
+    icon: 'feather-layers'
     label: 'Editorias'
     label_singular: 'Editoria'
     folder: 'docs/editorials'
