@@ -24,13 +24,13 @@ media_library:
 editor:
   preview: false
 
-collections:
-  - name: articles
+collection_types:
+  articles: &articles
     icon: 'feather-file-text'
     label: 'Matérias'
     label_singular: 'Matéria'
-    folder: 'docs/articles'
-    create: true
+    create: false
+    delete: false
     reverse: true
     format: 'yaml-frontmatter'
     slug: '{{date}}-{{slug}}'
@@ -76,12 +76,11 @@ collections:
       - { label: 'Sutiã', name: headline, widget: string, required: false }
       - { label: 'Corpo', name: body, widget: markdown }
 
-  - name: editorials
+  editorials: &editorials
     icon: 'feather-layers'
     label: 'Editorias'
     label_singular: 'Editoria'
-    folder: 'docs/editorials'
-    create: true
+    create: false
     delete: false
     reverse: true
     extension: 'md'
@@ -116,12 +115,11 @@ collections:
           required: false,
         }
 
-  - name: authors
+  authors: &authors
     icon: 'feather-users'
     label: 'Repórteres'
     label_singular: 'Repórter'
-    folder: 'docs/authors'
-    create: true
+    create: false
     delete: false
     reverse: true
     extension: 'md'
@@ -149,3 +147,21 @@ collections:
           widget: markdown,
           required: false,
         }
+
+collections:
+  # [TODO]: add archive folders
+  - <<: *articles
+    name: articles
+    folder: 'docs/articles'
+    create: true
+    delete: true
+
+  - <<: *editorials
+    name: editorials
+    folder: 'docs/editorials'
+    create: true
+
+  - <<: *authors
+    name: authors
+    folder: 'docs/authors'
+    create: true
