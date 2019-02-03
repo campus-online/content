@@ -18,7 +18,7 @@ O sentimento de fim de semestre no _**Campus**_ é semelhante a um último capí
 
 Nas **_novelas_**, o final cheio de cores e ~~risos~~ é uma saída **fácil** para os autores e alegra a maior parte do público. Os mocinhos lutaram contra os vilões a trama toda e merecem ser felizes. Ninguém discorda.
 
-Nesta edição do _**Campus**_ a sensação não foi diferente. As Carminhas, Floras e Nazarés foram muitas – dentro e fora do jornal. A maior parte delas derrubadas no decorrer da estória. No capítulo final, comemoração pelo resultado. Justo. 
+Nesta edição do _**Campus**_ a sensação não foi diferente. As Carminhas, Floras e Nazarés foram muitas – dentro e fora do jornal. A maior parte delas derrubadas no decorrer da estória. No capítulo final, comemoração pelo resultado. Justo.
 
 Mas não são só as personagens que saem da novela felizes, o telespectador – ou internauta – também ficou satisfeito com o resultado.
 
