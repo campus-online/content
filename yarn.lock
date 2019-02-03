@@ -693,10 +693,10 @@
     lodash "^4.17.10"
     to-fast-properties "^2.0.0"
 
-"@campus-online/cms@2.3.4-alpha.13":
-  version "2.3.4-alpha.13"
-  resolved "https://registry.yarnpkg.com/@campus-online/cms/-/cms-2.3.4-alpha.13.tgz#da896ec9ee2e6ef716349bebfd97dd38009d473f"
-  integrity sha512-FmPtFOpJPSxS3vnBFoCHr0Z8BmTMftVRxI97NSeGceA3Q//7pyuJ0WBhg2wuL5cHZbgqMF6Gy4PbcT5uNapv3Q==
+"@campus-online/cms@2.3.4-alpha.20":
+  version "2.3.4-alpha.20"
+  resolved "https://registry.yarnpkg.com/@campus-online/cms/-/cms-2.3.4-alpha.20.tgz#a3704ecd19a0630fad86363934dc56fcfab8ce23"
+  integrity sha512-63BY26ApXsxoUraCF5dzt8LyN5L9ob3Wg56/sc3eOJLuY2Nz0HohV+xXDSQlTZUlFISmodm2u8HYgFO/DgXGmw==
   dependencies:
     emotion "^9.2.6"
     netlify-cms-backend-bitbucket "^2.1.0"
