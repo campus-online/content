@@ -26,6 +26,15 @@ const getCoverImage = ({ src, inView }) => {
 	return (src + '/').replace(/\/+$/, coverSettings)
 }
 
+const FeaturedMarker = styled.div`
+	position: absolute;
+	left: 0;
+	top: 0;
+	bottom: 0;
+	width: 4px;
+	background-color: ${colors.active};
+`
+
 const CoverImage = styled.img`
 	position: absolute;
 	bottom: 0;
@@ -173,9 +182,10 @@ const Tags = ({ tags = [] }) => (
 const ArticleCard = ({ entry, inView, viewStyle }) => {
 	const isGrid = viewStyle === 'VIEW_STYLE_GRID'
 	const data = entry.get('data').toJS()
-	const { title, date, editorial, authors, tags, cover } = data
+	const { title, date, editorial, authors, tags, cover, featured } = data
 	return (
 		<React.Fragment>
+			{featured && <FeaturedMarker />}
 			{cover && <Cover src={cover} isGrid={isGrid} inView={inView} />}
 			<div style={{ position: 'relative' }}>
 				<FlexRow>
