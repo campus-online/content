@@ -76,40 +76,6 @@ collections:
       - { label: 'Sutiã', name: headline, widget: string, required: false }
       - { label: 'Corpo', name: body, widget: markdown }
 
-  - name: authors
-    icon: 'feather-users'
-    label: 'Repórteres'
-    label_singular: 'Repórter'
-    folder: 'docs/authors'
-    create: true
-    delete: false
-    reverse: true
-    extension: 'md'
-    format: 'yaml-frontmatter'
-    slug: '{{semester}}-{{slug}}'
-    editor:
-      preview: false
-    fields:
-      - { label: 'Nome', name: title, widget: string, required: true }
-      - {
-          label: 'Semestre no Campus (20xx/x)',
-          name: semester,
-          widget: semester,
-          required: true,
-        }
-      - {
-          label: 'Foto (opcional)',
-          name: image,
-          widget: image,
-          required: false,
-        }
-      - {
-          label: 'Bio (opcional)',
-          name: body,
-          widget: markdown,
-          required: false,
-        }
-
   - name: editorials
     icon: 'feather-layers'
     label: 'Editorias'
@@ -147,5 +113,39 @@ collections:
           label: 'Descrição (opcional)',
           name: description,
           widget: text,
+          required: false,
+        }
+
+  - name: authors
+    icon: 'feather-users'
+    label: 'Repórteres'
+    label_singular: 'Repórter'
+    folder: 'docs/authors'
+    create: true
+    delete: false
+    reverse: true
+    extension: 'md'
+    format: 'yaml-frontmatter'
+    slug: '{{semester}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Nome', name: title, widget: string, required: true }
+      - {
+          label: 'Semestre no Campus (20xx/x)',
+          name: semester,
+          widget: semester,
+          required: true,
+        }
+      - {
+          label: 'Foto (opcional)',
+          name: image,
+          widget: image,
+          required: false,
+        }
+      - {
+          label: 'Bio (opcional)',
+          name: body,
+          widget: markdown,
           required: false,
         }
