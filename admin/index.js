@@ -6,6 +6,7 @@ import AuthorWidget from './widgets/Author'
 import EditorialWidget from './widgets/Editorial'
 import SemesterWidget from './widgets/Semester'
 import ArticleCard from './cards/ArticleCard'
+import AuthorCard from './cards/AuthorCard'
 // import enhance from './withStyleSheet'
 
 window.___loader = window.___loader || { enqueue: () => undefined }
@@ -16,5 +17,6 @@ CMS.registerWidget('author', AuthorWidget)
 CMS.registerWidget('editorial', EditorialWidget)
 CMS.registerWidget('semester', SemesterWidget)
 CMS.registerEntryCard('articles', ArticleCard)
+CMS.registerEntryCard('authors', AuthorCard)
 
 init()
