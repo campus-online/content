@@ -33,7 +33,7 @@ module.exports = {
 			{
 				enforce: 'pre',
 				test: /\.m?js$/,
-				exclude: /node_modules/,
+				exclude: /node_modules|netlify-cms|@campus-online\/cms/,
 				loader: 'eslint-loader',
 				options: {
 					emitWarning: true,
