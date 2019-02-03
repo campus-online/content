@@ -16,7 +16,7 @@ featured: false
 
 O sentimento de fim de semestre no _**Campus**_ é semelhante a um último capítulo de novela. O bem parece que venceu o mau, os problemas somem e tudo dá certo. Só faltam os casamentos.
 
-Nas **_novelas_**, o final cheio de cores e risos é uma saída fácil para os autores e alegra a maior parte do público. Os mocinhos lutaram contra os vilões a trama toda e merecem ser felizes. Ninguém discorda.
+Nas **_novelas_**, o final cheio de cores e ~~risos~~ é uma saída fácil para os autores e alegra a maior parte do público. Os mocinhos lutaram contra os vilões a trama toda e merecem ser felizes. Ninguém discorda.
 
 Nesta edição do _**Campus**_ a sensação não foi diferente. As Carminhas, Floras e Nazarés foram muitas – dentro e fora do jornal. A maior parte delas derrubadas no decorrer da estória. No capítulo final, comemoração pelo resultado. Justo.
 
