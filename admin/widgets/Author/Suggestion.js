@@ -1,17 +1,17 @@
 import React from 'react'
 import styled from 'styled-components'
 
-const Wrapper = styled.div`
+const Wrapper = styled('div')`
 	display: flex;
 	flex-direction: row;
 `
 
-const FlexColumn = styled.div`
+const FlexColumn = styled('div')`
 	display: flex;
 	flex-direction: column;
 `
 
-const Avatar = styled.div`
+const Avatar = styled('div')`
 	height: 2rem;
 	width: 2rem;
 	border-radius: 1rem;
@@ -23,7 +23,7 @@ const Avatar = styled.div`
 	background-image: ${p => (p.src ? `url("${p.src}")` : 'none')};
 `
 
-const Period = styled.small`
+const Period = styled('small')`
 	display: block;
 	font-size: 0.625rem;
 `

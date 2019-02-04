@@ -9,7 +9,7 @@ import Badge from '../components/Badge'
 
 const identity = a => a
 
-const FlexRow = styled.div`
+const FlexRow = styled('div')`
 	display: flex;
 	flex-direction: row;
 	justify-content: space-between;
@@ -26,7 +26,7 @@ const getCoverImage = ({ src, inView }) => {
 	return (src + '/').replace(/\/+$/, coverSettings)
 }
 
-const FeaturedMarker = styled.div`
+const FeaturedMarker = styled('div')`
 	position: absolute;
 	left: 0;
 	top: 0;
@@ -35,7 +35,7 @@ const FeaturedMarker = styled.div`
 	background-color: ${colors.active};
 `
 
-const CoverImage = styled.img`
+const CoverImage = styled('img')`
 	position: absolute;
 	bottom: 0;
 	right: 0;
@@ -45,7 +45,7 @@ const CoverImage = styled.img`
 	height: ${p => p.size}px;
 `
 
-const CoverFlap = styled.div`
+const CoverFlap = styled('div')`
 	position: absolute;
 	bottom: 0;
 	right: 0;
@@ -76,7 +76,7 @@ const Cover = ({ isGrid, size = isGrid ? 120 : 60, ...props }) => (
 	</React.Fragment>
 )
 
-const Title = styled.h2`
+const Title = styled('h2')`
 	margin-bottom: 8px;
 `
 
@@ -95,7 +95,7 @@ const Editorial = ({ slug, inView }) => (
 	/>
 )
 
-const AuthorsWrapper = styled.div`
+const AuthorsWrapper = styled('div')`
 	display: inline-flex;
 	align-self: flex-start;
 	flex-direction: row;
@@ -146,7 +146,7 @@ const Authors = ({ inView, size = 32, slugs = [] }) => (
 	</AuthorsWrapper>
 )
 
-const DateWrapper = styled.div`
+const DateWrapper = styled('div')`
 	font-size: 0.75rem;
 	opacity: 0.88;
 	text-transform: uppercase;
@@ -163,7 +163,7 @@ const DateText = ({ date }) => (
 	</DateWrapper>
 )
 
-const TagsWrapper = styled.div`
+const TagsWrapper = styled('div')`
 	font-size: 0.66rem;
 	text-transform: lowercase;
 	opacity: 0.88;

@@ -2,7 +2,7 @@ import React from 'react'
 import styled from 'react-emotion'
 import { decorate } from '../components/Card'
 
-const ColorSwatch = styled.div`
+const ColorSwatch = styled('div')`
 	position: absolute;
 	left: 0;
 	top: 0;
@@ -11,7 +11,7 @@ const ColorSwatch = styled.div`
 	background-color: ${props => props.color};
 `
 
-const Wrapper = styled.div`
+const Wrapper = styled('div')`
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
@@ -19,7 +19,7 @@ const Wrapper = styled.div`
 	align-items: center;
 `
 
-const Semester = styled.div`
+const Semester = styled('div')`
 	font-size: 0.75rem;
 	opacity: 0.88;
 	text-transform: uppercase;
@@ -29,12 +29,12 @@ const Semester = styled.div`
 	line-height: 18px;
 `
 
-const Title = styled.h2`
+const Title = styled('h2')`
 	margin: 0px;
 	line-height: 20px;
 `
 
-const Description = styled.p`
+const Description = styled('p')`
 	margin: 0px;
 	font-size: 0.75rem;
 	margin-top: 16px;

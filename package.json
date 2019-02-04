@@ -64,7 +64,6 @@
     "babel-eslint": "9.x",
     "babel-jest": "^23.6.0",
     "babel-loader": "^8.0.5",
-    "babel-plugin-emotion": "^9.2.11",
     "copy-webpack-plugin": "^4.6.0",
     "eslint": "5.x",
     "eslint-config-prettier": "^4.0.0",

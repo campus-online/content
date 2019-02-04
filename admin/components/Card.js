@@ -5,7 +5,7 @@ import { getDisplayName, getEditUrl } from '../utils'
 import { card, lengths } from '../styles'
 import MaybeLink from './MaybeLink'
 
-export const Wrapper = styled.li`
+export const Wrapper = styled('li')`
 	${card};
 	margin-left: 12px;
 	margin-bottom: 16px;
@@ -28,7 +28,7 @@ const AbsoluteLink = styled(MaybeLink)`
 	z-index: 1;
 `
 
-const Spacing = styled.div`
+const Spacing = styled('div')`
 	position: relative;
 	overflow: hidden;
 	border-radius: ${lengths.borderRadius};
