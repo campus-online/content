@@ -7,6 +7,10 @@ backend:
   site_domain: campus-content.netlify.com
   identity_url: https://campus-content.netlify.com/.netlify/identity
   gateway_url: https://campus-content.netlify.com/.netlify/git/github
+  commit_messages:
+    create: '{{collection}}:sparkles: {{slug}}'
+    update: '{{collection}}:pencil2: {{slug}}'
+    delete: '{{collection}}:put_litter_in_its_place: {{slug}}'
 
 publish_mode: editorial_workflow
 
@@ -29,6 +33,7 @@ collection_types:
     icon: 'feather-file-text'
     label: 'Matérias'
     label_singular: 'Matéria'
+    commit_label: ':newspaper:'
     create: false
     delete: false
     reverse: true
@@ -80,6 +85,7 @@ collection_types:
     icon: 'feather-layers'
     label: 'Editorias'
     label_singular: 'Editoria'
+    commit_label: ':file_folder:'
     create: false
     delete: false
     reverse: true
@@ -119,6 +125,7 @@ collection_types:
     icon: 'feather-users'
     label: 'Repórteres'
     label_singular: 'Repórter'
+    commit_label: ':bust_in_silhouette:'
     create: false
     delete: false
     reverse: true
