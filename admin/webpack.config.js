@@ -1,3 +1,4 @@
+const fs = require('fs')
 const path = require('path')
 const HtmlWebpackPlugin = require('html-webpack-plugin')
 const TerserPlugin = require('terser-webpack-plugin')
@@ -25,6 +26,8 @@ module.exports = {
 	resolve: {
 		alias: {
 			'netlify-cms': '@campus-online/cms',
+			'@frontend': '@campus-online/frontend/src',
+			gatsby: path.resolve(__dirname, 'utils', 'gatsby.js'),
 		},
 	},
 	module: {
@@ -49,6 +52,22 @@ module.exports = {
 						cacheCompression: false,
 					},
 				},
+			},
+			{
+				test: /\.m?js$/,
+				include: /@campus-online\/frontend\//,
+				use: {
+					loader: 'babel-loader',
+					options: {
+						...JSON.parse(fs.readFileSync(path.resolve(__dirname, '.babelrc'))),
+						cacheDirectory: true,
+						cacheCompression: false,
+					},
+				},
+			},
+			{
+				test: /\.css$/,
+				loader: 'raw-loader',
 			},
 		],
 	},
@@ -83,12 +102,14 @@ module.exports = {
 	},
 	performance: { maxEntrypointSize: 2.5e6, maxAssetSize: 2.5e6 },
 	optimization: {
+		splitChunks: {
+			minChunks: 2,
+		},
 		minimizer: [
 			new TerserPlugin({
-				cache: true,
+				cache: false,
 				parallel: true,
 				sourceMap: false,
-				exclude: /(campus-online\/cms|node_modules|netlify-cms)/,
 			}),
 		],
 	},

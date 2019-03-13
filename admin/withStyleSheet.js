@@ -1,52 +1,29 @@
 import React from 'react'
-import { StyleSheetManager } from 'styled-components'
-// import {Wrapper} from '../components/Layout'
-// import '../reset.css'
-// import '../fonts.css'
-
-const styleCSS = `
-	.SplitPane.vertical .Resizer.vertical {width: 11px}
-	.Pane2 iframe {border-radius: 0}
-`
+import { StyleSheetManager as Extract } from 'styled-components'
 
 class StyleSheetWrapper extends React.Component {
-	state = { $head: null }
-	injectPreviewCSS() {
-		const $iframe = document.querySelector('.Pane2 iframe')
-		const $head = $iframe.contentDocument.head
-		this.setState(state => ({ ...state, $head }))
-	}
-	overideCSS() {
-		const $style = document.createElement('style')
-		$style.appendChild(document.createTextNode(styleCSS))
-		document.head.appendChild($style)
-	}
+	state = { target: null }
 	componentDidMount() {
-		this.overideCSS()
-		this.injectPreviewCSS()
+		const $iframe = document.querySelector('.Pane2 iframe')
+		this.setState({ target: $iframe.contentDocument.head })
 	}
 	render() {
 		const { children } = this.props
-		const { $head } = this.state
-		if (!$head) return children
-		return <StyleSheetManager target={$head}>{children}</StyleSheetManager>
+		const { target } = this.state
+		return target && <Extract target={target}>{children}</Extract>
 	}
 }
 
-const getDisplayName = WrappedComponent =>
-	WrappedComponent.displayName || WrappedComponent.name || 'Component'
+const getDisplayName = Base => Base.displayName || Base.name || 'Component'
 
-const withStyleSheet = WrappedComponent => {
-	return class WithStyleSheet extends React.Component {
-		static displayName = `WithStyleSheet(${getDisplayName(WrappedComponent)})`
-		render() {
-			return (
-				<StyleSheetWrapper>
-					<WrappedComponent {...this.props} />
-				</StyleSheetWrapper>
-			)
-		}
-	}
+const withStyleSheet = Preview => {
+	const Wrapped = props => (
+		<StyleSheetWrapper>
+			<Preview {...props} />
+		</StyleSheetWrapper>
+	)
+	Wrapped.displayName = `withStyleSheet(${getDisplayName(Preview)})`
+	return Wrapped
 }
 
 export default withStyleSheet

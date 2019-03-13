@@ -40,7 +40,7 @@ collection_types:
     format: 'yaml-frontmatter'
     slug: '{{date}}-{{slug}}'
     editor:
-      preview: false
+      preview: true
     fields:
       - { label: 'Título', name: title, widget: string, required: true }
       - { label: 'Foto de Capa', name: cover, widget: image, required: false }

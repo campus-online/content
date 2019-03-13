@@ -43,6 +43,7 @@
   },
   "dependencies": {
     "@campus-online/cms": "2.3.4-alpha.20",
+    "@campus-online/frontend": "https://github.com/campus-online/frontend",
     "emotion": "^9.2.11",
     "gatsby-transformer-remark": "^2.1.19",
     "netlify-identity-widget": "^1.5.2",
@@ -58,6 +59,7 @@
   "devDependencies": {
     "@babel/core": "^7.2.2",
     "@babel/plugin-proposal-class-properties": "^7.2.3",
+    "@babel/plugin-syntax-dynamic-import": "^7.2.0",
     "@babel/preset-env": "^7.2.3",
     "@babel/preset-react": "^7.0.0",
     "babel-core": "^7.0.0-bridge.0",
@@ -82,6 +84,7 @@
     "netlify-lambda": "^1.1.1",
     "npm-run-all": "^4.1.5",
     "prettier": "1.16.3",
+    "raw-loader": "^1.0.0",
     "terser-webpack-plugin": "^1.2.1",
     "webpack": "^4.28.4",
     "webpack-cli": "^3.2.1",
