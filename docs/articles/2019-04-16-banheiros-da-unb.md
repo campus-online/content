@@ -1,6 +1,7 @@
 ---
 title: Banheiros da UnB
 date: '2019-04-16'
+editorial: cidade
 authors:
   - 2019-1-giovanna-lobato
 semester: 2019/1
