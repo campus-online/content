@@ -1,0 +1,174 @@
+logo_url: https://campus.fac.unb.br/assets/images/logo.png
+
+backend:
+  name: git-gateway
+  branch: master
+  squash_merges: true
+  site_domain: campus-content.netlify.com
+  identity_url: https://campus-content.netlify.com/.netlify/identity
+  gateway_url: https://campus-content.netlify.com/.netlify/git/github
+  commit_messages:
+    create: '{{collection}}:sparkles: {{slug}}'
+    update: '{{collection}}:pencil2: {{slug}}'
+    delete: '{{collection}}:put_litter_in_its_place: {{slug}}'
+
+publish_mode: editorial_workflow
+
+slug:
+  encoding: 'ascii'
+  clean_accents: true
+
+display_url: https://campus.fac.unb.br
+
+media_library:
+  name: uploadcare
+  config:
+    publicKey: demopublickey
+
+editor:
+  preview: false
+
+collection_types:
+  articles: &articles
+    icon: 'feather-file-text'
+    label: 'Matérias'
+    label_singular: 'Matéria'
+    commit_label: ':newspaper:'
+    create: false
+    delete: false
+    reverse: true
+    format: 'yaml-frontmatter'
+    slug: '{{date}}-{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Título', name: title, widget: string, required: true }
+      - { label: 'Foto de Capa', name: cover, widget: image, required: false }
+      - {
+          label: 'Data de publicação',
+          name: date,
+          widget: date,
+          format: 'YYYY-MM-DD',
+          required: true,
+        }
+      - {
+          label: 'Editoria',
+          name: editorial,
+          widget: editorial,
+          required: false,
+        }
+      - {
+          label: 'Autores',
+          name: authors,
+          widget: author,
+          multiple: true,
+          required: false,
+        }
+      - {
+          label: 'Semestre de publicação (20xx/x)',
+          name: semester,
+          widget: semester,
+          required: true,
+        }
+      - { label: 'Tags', name: tags, widget: list, required: false }
+      - {
+          label: 'Destaque',
+          name: featured,
+          widget: boolean,
+          default: false,
+          required: false,
+        }
+      - { label: 'Sutiã', name: headline, widget: string, required: false }
+      - { label: 'Corpo', name: body, widget: markdown }
+
+  editorials: &editorials
+    icon: 'feather-layers'
+    label: 'Editorias'
+    label_singular: 'Editoria'
+    commit_label: ':file_folder:'
+    create: false
+    delete: false
+    reverse: true
+    extension: 'md'
+    format: 'yaml-frontmatter'
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - {
+          label: 'Nome da Editoria',
+          name: title,
+          widget: string,
+          required: true,
+        }
+      - {
+          label: 'Cor (hexadecimal)',
+          name: color,
+          widget: string,
+          required: true,
+          pattern: ['^#(?:[0-9a-fA-F]{3}){1,2}$', 'Cor Inválida'],
+        }
+      - {
+          label: 'Semestre (20xx/x)',
+          name: semester,
+          widget: semester,
+          required: true,
+        }
+      - {
+          label: 'Descrição (opcional)',
+          name: description,
+          widget: text,
+          required: false,
+        }
+
+  authors: &authors
+    icon: 'feather-users'
+    label: 'Repórteres'
+    label_singular: 'Repórter'
+    commit_label: ':bust_in_silhouette:'
+    create: false
+    delete: false
+    reverse: true
+    extension: 'md'
+    format: 'yaml-frontmatter'
+    slug: '{{semester}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Nome', name: title, widget: string, required: true }
+      - {
+          label: 'Semestre no Campus (20xx/x)',
+          name: semester,
+          widget: semester,
+          required: true,
+        }
+      - {
+          label: 'Foto (opcional)',
+          name: image,
+          widget: image,
+          required: false,
+        }
+      - {
+          label: 'Bio (opcional)',
+          name: body,
+          widget: markdown,
+          required: false,
+        }
+
+collections:
+  # [TODO]: add archive folders
+  - <<: *articles
+    name: articles
+    folder: 'docs/articles'
+    create: true
+    delete: true
+
+  - <<: *editorials
+    name: editorials
+    folder: 'docs/editorials'
+    create: true
+
+  - <<: *authors
+    name: authors
+    folder: 'docs/authors'
+    create: true
