@@ -1,9 +1,11 @@
 import React from 'react'
-import styled from 'styled-components'
+import Option from 'react-select/lib/components/Option'
+import styled from 'react-emotion'
 
-const Wrapper = styled('div')`
+const FlexRow = styled('div')`
 	display: flex;
 	flex-direction: row;
+	align-items: center;
 `
 
 const FlexColumn = styled('div')`
@@ -28,8 +30,14 @@ const Period = styled('small')`
 	font-size: 0.625rem;
 `
 
-const AuthorSuggestion = ({ image, title, semester }) => (
-	<Wrapper>
+const Wrapper = ({ children, ...props }) => (
+	<Option {...props}>
+		<FlexRow>{children}</FlexRow>
+	</Option>
+)
+
+const AuthorOption = ({ data: { image, title, semester } = {}, ...props }) => (
+	<Wrapper {...props}>
 		<Avatar src={image} />
 		<FlexColumn>
 			<Period>{semester}</Period>
@@ -38,5 +46,4 @@ const AuthorSuggestion = ({ image, title, semester }) => (
 	</Wrapper>
 )
 
-export default AuthorSuggestion
-export const renderSuggestion = ({ data }) => <AuthorSuggestion {...data} />
+export default AuthorOption

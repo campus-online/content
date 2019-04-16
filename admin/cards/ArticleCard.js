@@ -195,8 +195,8 @@ const ArticleCard = ({ entry, inView, viewStyle }) => {
 				{title && <Title>{title}</Title>}
 				{tags && <Tags tags={tags} />}
 			</div>
-			{authors && authors.length > 0 /* [TODO]: remove vitor dino */ && (
-				<Authors inView={inView} slugs={[...authors, '2018-1-vitor-dino']} />
+			{authors && authors.length > 0 && (
+				<Authors inView={inView} slugs={authors} />
 			)}
 		</React.Fragment>
 	)

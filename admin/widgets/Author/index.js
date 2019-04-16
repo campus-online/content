@@ -1,10 +1,11 @@
 import { createCustomRelationWidget } from 'netlify-cms'
-// import {renderSuggestion} from './Suggestion'
+import Option from './Option'
 
 const { control, preview } = createCustomRelationWidget({
 	collection: 'authors',
 	displayName: 'AuthorControl',
 	searchFields: ['semester', 'title'],
+	components: { Option },
 })
 
 export default control
