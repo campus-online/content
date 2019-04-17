@@ -2,7 +2,8 @@
 title: Banheiros da UnB
 date: '2019-04-17'
 editorial: cidade
-authors: []
+authors:
+  - 2019-1-giovanna-lobato
 semester: 2019/1
 tags:
   - Serviço
