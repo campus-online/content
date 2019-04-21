@@ -26,13 +26,9 @@ Em 2018, o projeto ampliou sua atuação e prestou atendimento à comunidade tam
 
 “Tudo isso passou por um processo de amadurecimento do projeto. Nós começamos exclusivamente na UnB, mas como os projetos de extensão tem justamente o intuito de interagir com a comunidade, por mais que exista a divulgação na universidade, o público que mais precisa dessa informação acaba não conseguindo chegar até aqui”, relata a professora.  
 
-![](https://ucarecdn.com/9ecd5abf-1486-46ee-a165-212920a0fe5b/ "Projeto Balcão Fiscal. (Foto: José Odeveza)")
-
 O atendimento no Balcão Fiscal é realizado por estudantes e professores. A estudante de ciências contábeis e extensionista do projeto, Gabriela Souza diz que aprendeu com o projeto que, por mais que existam os canais para retirada de dúvidas, a forma mais simples do contribuinte não precisar de tanto esforço na hora de fazer a declaração, é o planejamento.
 
 “A declaração da pessoa física é bem intuitiva, o problema é que as pessoas deixam para organizar os comprovantes no período de declaração, o que dificulta muito o processo. O mais importante é que as pessoas entendam que o ano todo se deve organizar todos os rendimentos e gastos, para que no período de declaração só se insira as informações e não se perca nenhum benefício”, destaca a estudante. 
-
-
 
 ## Muito além do Imposto de renda
 
@@ -44,9 +40,7 @@ Segundo a  professora do departamento de contabilidade da UnB Lorena Almeida Cam
 
 O projeto possui um processo de seleção anual e atualmente podem participar apenas alunos do curso de ciências contábeis da UnB. 
 
-
-
-## Serviço 
+## Serviço
 
 O serviço está disponível no dia  23 de abril das 14h às 18h, na sala do Laboratório de Ciências Contábeis do Prédio da FACE, no Campus Darcy Ribeiro. E atenderá a comunidade no Shopping Conjunto Nacional no dia 27 de abril, das 9h às 18h.
 
