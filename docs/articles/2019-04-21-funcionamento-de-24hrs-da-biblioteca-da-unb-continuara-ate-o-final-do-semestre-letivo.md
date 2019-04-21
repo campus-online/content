@@ -11,6 +11,7 @@ tags:
   - biblioteca
   - serviço
   - educação
+  - bce
 featured: true
 headline: >-
   Salão de estudos referência e alguns serviços continuarão disponíveis para a
