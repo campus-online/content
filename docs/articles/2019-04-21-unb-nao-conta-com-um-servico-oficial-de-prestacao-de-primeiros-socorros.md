@@ -27,7 +27,7 @@ Segundo Aline, o número de atendimentos em 2018 foi de 3.580 nos três Núcleos
 
 Renata Valero, enfermeira do trabalho da Coordenadoria de Saúde Ocupacional (CSO), explica que hoje em dia o Hospital Universitário de Brasília (HUB) não realiza mais atendimentos emergenciais, “O HUB hoje a gente chama de hospital ‘porta fechada’. Só aceita paciente que vem de regulação, aqueles pacientes que passam por uma fila e que são enviados pra cá, então não tem mais aquela porta aberta, de você passar mal e eles te atenderem direto. Então infelizmente não atende, o paciente deve vir por regulação”.
 
-## **Campus Darcy Ribeiro**
+## Campus Darcy Ribeiro
 
 A UnB criou a disciplina Prevenção de Acidentes e Primeiros Socorros, ofertada pela Faculdade de Educação Física, após o  falecimento do estudante de administração Flávio Santana dos Santos, no ICC, em 2013. A disciplina, ministrada no Campus Darcy Ribeiro, localizado na Asa Norte, conta com 103 alunos no primeiro semestre de 2019. As aulas ocorrem às terças e quintas-feiras, com duas turmas: uma das 14h às 15h50 e outra das 16h às 17h50.
 
@@ -53,7 +53,7 @@ _O diretor do Campus Ceilândia, Araken dos Santos (Foto: Helen Marinho)_
 
 Por essa razão, segundo o diretor, e considerando que o campus de Ceilândia como um todo é ''um grupo de saúde'', houve uma conversa com os profissionais da Enfermagem:  ''Hoje, quando há qualquer evento, necessidade, eles nos dão o apoio. No caso, isso é feito por uma técnica em enfermagem e uma enfermeira que trabalha no laboratório. Temos também as professoras de Primeiros Socorros, que nos dão assistência. Temos resolvido isto dessa forma, além do contato com o SAMU.''
 
-## **Campus Planaltina**
+## Campus Planaltina
 
 > “Aqui em Planaltina eu vou em cada setor, pergunto como o funcionário “tá”, verifico pressão.''’ - Kênia Guimarães (Técnica de enfermagem).
 
@@ -103,7 +103,7 @@ A orientação geral para casos de necessidade de atendimento emergencial nos ca
 
 
 
-## **Localização dos Núcleos de Atenção à Saúde em cada campus**
+## Localização dos Núcleos de Atenção à Saúde em cada campus
 
 **Campus Darcy Ribeiro**
 
