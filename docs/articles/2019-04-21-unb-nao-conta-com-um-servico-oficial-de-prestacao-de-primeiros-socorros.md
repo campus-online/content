@@ -35,7 +35,7 @@ Segundo o vigilante Carlos Regis, ''O treinamento de vigilante inclui o combate 
 
 ![](https://ucarecdn.com/bc11e279-b82b-4c2e-b734-e3a7dd2494cc/ "''Pelo menos da minha parte, busco estar sempre me aperfeiçoando para além da área de segurança'' - Carlos Regis, vigilante. (Foto: Helen Marinho)")
 
-''Pelo menos da minha parte, busco estar sempre me aperfeiçoando para além da área de segurança'' - Carlos Regis, vigilante. (Foto: Helen Marinho)
+_''Pelo menos da minha parte, busco estar sempre me aperfeiçoando para além da área de segurança'' - Carlos Regis, vigilante. (Foto: Helen Marinho)_
 
 A Universidade possui poucos Núcleos de assistência, no caso do Darcy Ribeiro há o agravante de ser apenas um núcleo para todo o Campus, que possui 400 hectares e mais de 500 mil metros quadrados de área construída, o que dificulta os deslocamentos, tanto dos alunos como da equipe, caso esta tenha que sair para socorrer alguém. Além disso, são mais de 50 mil pessoas circulando pelo campus por dia, de acordo com o site oficial da UnB. Questionada a respeito da possibilidade de criação de mais unidades dos Núcleos no Darcy Ribeiro, assim como ampliação do horário de atendimento, a Reitoria  da Universidade não emitiu nenhuma resposta até o fechamento desta reportagem.
 
