@@ -5,7 +5,7 @@ title: >-
 date: '2019-04-21'
 editorial: cidade
 authors:
-  - 2019-1-giovanna-lobato
+  - 2019-1-louani-badu
 semester: 2019/1
 tags:
   - biblioteca
