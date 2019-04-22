@@ -5,11 +5,28 @@ editorial: cidade
 authors:
   - 2019-1-milena-castro
   - 2019-1-giovanna-lobato
+  - 2019-1-daumildo-junior
+  - 2019-1-isadora-demoly
+  - 2019-1-gabriel-bandeira
+  - 2019-1-gabriela-mestre
+  - 2019-1-beatriz-castro
+  - 2019-1-beatris-de-deus
+  - 2019-1-ana-karoliny-barros
+  - 2019-1-fernanda-vieira-bastos
+  - 2019-1-gabriel-queiroz
+  - 2019-1-alice-proba
+  - 2019-1-mara-oliveira
+  - 2019-1-marcos-amorozo
+  - 2019-1-giulia-soares
+  - 2019-1-ygor-wolf
+  - 2019-1-maria-antonia-meneses
+  - 2019-1-helen-marinho
 semester: 2019/1
 tags:
   - Serviço
   - comunidade
   - acessibilidade
+  - universidade
 featured: true
 headline: >-
   Dos 192 banheiros avaliados, 56% não possuem acessibilidade para pessoas com
