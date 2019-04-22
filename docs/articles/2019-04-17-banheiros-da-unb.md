@@ -1,5 +1,6 @@
 ---
 title: Dados mostram o panorama dos banheiros nos quatros campi da UnB
+cover: 'https://ucarecdn.com/231d7ac4-0e45-4645-b814-713b7df2956f/'
 date: '2019-04-17'
 editorial: cidade
 authors:
