@@ -1,6 +1,6 @@
 ---
 title: Giovanna Lobato
 semester: 2019/1
-image: 'https://ucarecdn.com/e8934bf5-6440-4712-be41-c0dfced5dad1/'
+image: 'https://ucarecdn.com/3df9b66c-6e55-4a58-8677-d1879f93631b/'
 ---
-Giovanna Lobato é estudante de jornalismo e escritora de romances.
+Editora do Site e repórter do Campus Online.
