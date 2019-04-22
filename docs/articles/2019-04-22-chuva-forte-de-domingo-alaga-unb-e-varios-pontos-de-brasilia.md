@@ -16,7 +16,7 @@ headline: >-
 ---
 A chuva forte que se iniciou no final da tarde deste domingo (21/4) causou vários estragos e atrasos pela cidade, desde o show de aniversário da capital na esplanada, até danos ainda não calculados na Universidade de Brasília. Na UnB o alagamento ocorreu devido à entrada de água pelos vãos de três salas no subsolo que não foram fechadas após o alagamento de 2011, segundo o prefeito Valdeci Reis. Logo após o acontecido, a Universidade informou em nota que a reitora Márcia Abrahão, o prefeito e uma equipe de especialistas da área de engenharia e técnicos da prefeitura estiveram no local averiguando riscos e danos à estrutura.
 
-![Entrada do ICC sul com poças d'água, alunos passando e uma placa com os dizeres "Cuidado, piso molhado".](https://ucarecdn.com/5439a57a-4a11-4703-9dc3-9b93166fc2c4/)
+![](https://ucarecdn.com/5439a57a-4a11-4703-9dc3-9b93166fc2c4/)
 
 _(Foto: Louani Badu)_
 
@@ -45,8 +45,6 @@ A Administração da Universidade de Brasília informa que está acompanhando, c
 Uma avaliação inicial não identificou danos à estrutura. Embora os bueiros do campus estivessem limpos e em bom funcionamento, a força da enxurrada, vinda da Asa Norte, ocasionou a sobrecarga do sistema de drenagem.
 
 O bloco B do subsolo do ICC Norte ficará interditado para limpeza. As atividades que ocorrem no local estarão suspensas até o término do serviço. Nos demais locais da Universidade, as atividades ocorrerão normalmente. A Administração e os diretores das unidades acadêmicas e administrativas farão um levantamento mais completo dos danos materiais decorrentes da chuva.
-
-
 
 ## Histórico
 
