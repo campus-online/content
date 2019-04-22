@@ -83,6 +83,4 @@ ICC Sul - ao lado da Diretoria de Diversidade
 
 FD - Bloco C 1° andar
 
-
-
-A planilha com o resultado da avaliação de todos os 192 banheiros avaliados pode ser acessada [aqui](https://docs.google.com/spreadsheets/d/1wmc-Jo-niZoocb9nbgXaZCa9XjPncaZNoLL5zO4Qg3A/edit?usp=sharing).
+A planilha com o resultado da avaliação de todos os 192 banheiros avaliados pode ser acessada [aqui](https://drive.google.com/open?id=1wmc-Jo-niZoocb9nbgXaZCa9XjPncaZNoLL5zO4Qg3A).
