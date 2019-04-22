@@ -14,7 +14,7 @@ headline: >-
   Em 2011, a Universidade de Brasília também foi bastante afetada pela chuva em
   um domingo e teve aulas canceladas durante dois dias
 ---
-A chuva forte que se iniciou no final da tarde de domingo (21) causou transtornos pela cidade, desde o cancelamento de shows no evento de comemoração do aniversário da capital na Esplanada, até danos ainda não calculados na Universidade de Brasília. Na UnB, o alagamento ocorreu devido à entrada de água pelos vãos de três salas no subsolo que não foram fechadas após o alagamento que ocorreu na Universidade em 2011, segundo o prefeito Valdeci Reis. Logo após o acontecido, a UnB informou, em nota, que a reitora Márcia Abrahão, o prefeito e uma equipe de especialistas da área de engenharia e técnicos da prefeitura estiveram no local averiguando riscos e danos à estrutura.
+A chuva forte que se iniciou no fim da tarde de domingo (21) causou transtornos pela cidade, desde o cancelamento de shows no evento de comemoração do aniversário da capital na Esplanada, até danos ainda não calculados na Universidade de Brasília. Na UnB, o alagamento ocorreu devido à entrada de água pelos vãos de três salas no subsolo que não foram fechadas após o alagamento que ocorreu na Universidade em 2011, segundo o prefeito Valdeci Reis. Logo após o acontecido, a UnB informou, em nota, que a reitora Márcia Abrahão, o prefeito e uma equipe de especialistas da área de engenharia e técnicos da prefeitura estiveram no local averiguando riscos e danos à estrutura.
 
 ![](https://ucarecdn.com/5439a57a-4a11-4703-9dc3-9b93166fc2c4/)
 
