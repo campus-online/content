@@ -1,5 +1,5 @@
 ---
-title: "Chuva forte de domingo alaga UnB e vários pontos de Brasília \t"
+title: Chuva do último domingo alaga UnB e causa interdição do ICC Norte
 cover: >-
   https://ucarecdn.com/160f6e6a-a674-43b0-afbf-0090df0b6eb9/-/crop/3024x2543/0,981/-/preview/-/enhance/100/
 date: '2019-04-22'
@@ -11,16 +11,16 @@ tags:
   - universidade
 featured: true
 headline: >-
-  Universidade de Brasília apresentou alagamento no ICC e FT, Estação central do
-  Metrô teve de ser fechada e Aeroporto suspendeu pousos e decolagens
+  Em 2011, a Universidade de Brasília também foi bastante afetada pela chuva em
+  um domingo e teve aulas canceladas durante dois dias
 ---
-A chuva forte que se iniciou no final da tarde deste domingo (21/4) causou vários estragos e atrasos pela cidade, desde o show de aniversário da capital na esplanada, até danos ainda não calculados na Universidade de Brasília. Na UnB o alagamento ocorreu devido à entrada de água pelos vãos de três salas no subsolo que não foram fechadas após o alagamento de 2011, segundo o prefeito Valdeci Reis. Logo após o acontecido, a Universidade informou em nota que a reitora Márcia Abrahão, o prefeito e uma equipe de especialistas da área de engenharia e técnicos da prefeitura estiveram no local averiguando riscos e danos à estrutura.
+A chuva forte que se iniciou no final da tarde de domingo (21) causou transtornos pela cidade, desde o cancelamento de shows no evento de comemoração do aniversário da capital na Esplanada, até danos ainda não calculados na Universidade de Brasília. Na UnB, o alagamento ocorreu devido à entrada de água pelos vãos de três salas no subsolo que não foram fechadas após o alagamento que ocorreu na Universidade em 2011, segundo o prefeito Valdeci Reis. Logo após o acontecido, a UnB informou, em nota, que a reitora Márcia Abrahão, o prefeito e uma equipe de especialistas da área de engenharia e técnicos da prefeitura estiveram no local averiguando riscos e danos à estrutura.
 
 ![](https://ucarecdn.com/5439a57a-4a11-4703-9dc3-9b93166fc2c4/)
 
 _(Foto: Louani Badu)_
 
-A manhã desta segunda-feira (22/4) começou com muito mais serviço para a equipe da empresa RCA, encarregada da limpeza. O serviço começou às 7h da manhã, com rodos e mangueiras. A ala sul Instituto Central de Ciências (ICC) estava com bastante água, mas tinha o acesso liberado. Já na ala norte, as duas entradas, que levam aos anfiteatros, à Faculdade de Comunicação e à de Arquitetura e Urbanismo, estavam fechadas. A medida foi tomada para facilitar o trabalho da equipe de limpeza, pois era a área mais atingida. O piso térreo acumulava água e terra, que desceram da grama ou do jardim, mas a área do subsolo foi onde ocorreu a maior parte dos danos.
+A manhã desta segunda-feira (22) começou com muito mais serviço para a equipe da empresa RCA, encarregada da limpeza. O trabalho começou às 7h da manhã, com rodos e mangueiras. A ala sul Instituto Central de Ciências (ICC) estava com bastante água, mas tinha o acesso liberado. Já na ala norte, as duas entradas, que levam aos anfiteatros, à Faculdade de Comunicação e à de Arquitetura e Urbanismo, estavam fechadas. A medida foi tomada para facilitar o trabalho da equipe de limpeza, pois era a área mais atingida. O piso térreo acumulava água e terra, que desceram da grama ou do jardim, mas o subsolo foi onde ocorreu a maior parte dos danos.
 
 Apesar da Universidade não ter suspendido as aulas, a maior parte dos alunos que estudam no ICC, teve suas aulas remanejadas ou canceladas. Em entrevista para a imprensa, o prefeito da UnB, Valdeci Reis, disse que as aulas estavam sob orientação dos professores, podendo ocorrer em outros locais ou serem canceladas. “A nossa prioridade esta manhã é fazer a limpeza do subsolo, entender e mensurar os danos junto à equipe de engenharia. Tivemos a energia do ICC desligada para facilitar a análise e, consequentemente, o sistema elétrico da BCE também ficou sem energia por fazer parte do mesmo conjunto, mas os outros locais já estão liberados”. 
 
