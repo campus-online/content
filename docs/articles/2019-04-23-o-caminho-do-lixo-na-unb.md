@@ -1,6 +1,6 @@
 ---
 title: O caminho do lixo na UnB
-cover: 'https://ucarecdn.com/a0d87e0e-c8e5-4c7c-ad9f-f7f4d6f51f52/'
+cover: 'https://ucarecdn.com/d6a5643c-25c9-42bb-9658-51fc7a63f36b/'
 date: '2019-04-23'
 editorial: cidade
 authors:
