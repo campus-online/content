@@ -11,7 +11,6 @@ tags:
   - serviço
   - universidade
   - descarte responsável
-  - ''
 featured: true
 ---
 Todo rejeito (lixo que não pode ser reaproveitado ou reciclado) é recolhido pelo Serviço de Limpeza Urbana (SLU) e encaminhado para o Aterro Sanitário de Samambaia. Lá, o lixo fica na área de disposição dos rejeitos para depois ser compactado e enterrado. A expectativa de vida do Aterro é de dez anos, contando a partir de 2017. Diariamente, são recebidas 2,7 mil toneladas. Em 2027, serão oito milhões de toneladas.
