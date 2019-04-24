@@ -13,13 +13,11 @@ tags:
 featured: true
 headline: 'Doce Desafio oferece prática orientada de exercício e atividades físicas '
 ---
-Diabetes, Educação em Saúde e Atividades Físicas Orientadas são os temas que compõem o tratamento oferecido pelo Doce Desafio, projeto de extensão de ação contínua da Faculdade de Educação Física da Universidade de Brasília (UnB).
-
-Criado em 2001, o Doce Desafio tem como objetivo principal "atender a diabéticos do DF, orientando-os à vida saudável, à prática da atividade física e ao conhecimento nutricional e medicamentoso aos quais são submetidos pelos médicos e profissionais envolvidos nos seus tratamentos", de acordo com a página oficial do programa no Facebook.
+Diabetes, Educação em Saúde e Atividades Físicas Orientadas são os temas que compõem o tratamento oferecido pelo Doce Desafio, projeto de extensão de ação contínua da Faculdade de Educação Física da Universidade de Brasília (UnB). O projeto, criado em 2011, tem como objetivo atender aos diabéticos do DF, "orientando-os à vida saudável, à prática de atividade física e ao conhecimento nutricional e medicamentoso, aos quais são submetidos pelos médicos e profissionais envolvidos nos seus tratamentos", de acordo com a página oficial do programa no Facebook.
 
 Sediado no Centro Olímpico da UnB, no Setor de Clubes Norte, o programa conta com uma equipe de monitores provenientes de diversos cursos da Universidade, como Enfermagem, Educação Física, Nutrição e Psicologia; os quais possuem como principal função o acompanhamento dos participantes nas atividades físicas.
 
-"Nós acompanhamos os diabéticos nas atividades, lembramos da necessidade de fazer a avaliação da glicemia, de lavar a mão antes da verificação inclusive, porque isso (a sujeira) também interfere, além de aferirmos a pressão'', afirma Hellen Cristina, 19, monitora do projeto e estudante do curso de Enfermagem. Para ela, o acompanhamento é especialmente importante caso haja 'pico de glicemia' no organismo dos participantes, pois, nessas circunstâncias, os monitores 'sabem o que fazer', podem socorrê-los.
+"Nós acompanhamos os diabéticos nas atividades, lembramos da necessidade de fazer a avaliação da glicemia, de lavar a mão antes da verificação inclusive, porque isso (a sujeira) também interfere, além de aferirmos a pressão'', afirma Hellen Cristina, 19, monitora do projeto e estudante do curso de Enfermagem. Para ela, o acompanhamento é especialmente importante caso haja 'pico de glicemia' no organismo dos participantes, pois, nessas circunstâncias, os monitores são capazes de socorrê-los.
 
 "Também fazemos alongamento dinâmico e atividades educativas relacionadas a diabetes. Uma vez, por exemplo, dei uma atividade educativa sobre acupuntura beneficiando o diabético. A gente tem que estar sempre dando esse suporte", acrescenta Hellen, que conheceu e tornou-se membro do projeto a partir de uma amiga diabética.
 
@@ -41,39 +39,17 @@ Para Conceição, 76, que sofre de diabetes tipo 2 e participa do Doce Desafio h
 
 Segundo ela, que convive com a diabetes há cerca de 20 anos, o principal benefício está relacionado a uma conscientização maior sobre a doença; ''O que eu acho mais importante é que ele \[o Doce Desafio] realmente leva a gente ter uma consciência maior sobre isso \[a doença], a ter que controlar melhor a alimentação, ter uma alimentação mais saudável. Algo que nem sempre é possível, mas é o que buscamos, não é?''
 
-Conceição faz parte do perfil predominante das pessoas atendidas pelo Doce Desafio, que é o de maioria idosa, na faixa dos 50 aos 70, 80 anos de idade. ''’Muitas \[pessoas] conhecem por amigos que já passaram ou passam pelo projeto, outras foram buscando mesmo, porque o diabético tem que estar sempre querendo se integrar em ONGs e projetos, aí muitos pesquisam e acham,  por meio do 'boca a boca''', confirma Hellen Cristina.
+Conceição faz parte do perfil predominante das pessoas atendidas pelo Doce Desafio, que é o de maioria idosa, na faixa dos 50 aos 70, 80 anos de idade. ''’Muitas \[pessoas] conhecem por amigos que já passaram ou passam pelo projeto, outras foram buscando mesmo, porque o diabético está sempre querendo se integrar em ONGs e projetos, aí muitos pesquisam e acham,  por meio do 'boca a boca''', confirma Hellen Cristina.
 
 ## Atividades do Doce Desafio
 
-As atividades do tratamento do projeto ocorrem segunda, quarta e sexta-feira, no Centro Olímpico da UnB. Os horários disponíveis são: 10h às 12h, 14 às 16h e 19h às 21h.
+As atividades do tratamento do projeto ocorrem segunda, quarta e sexta-feira, no Centro Olímpico da UnB. Os horários disponíveis são: 10h às 12h, 14 às 16h e 19h às 21h. De acordo com o site oficial, as atividades físicas englobadas são: ginástica, alongamento, musculação, futebol, dança, voleibol, caminhadas, recreação, dentre outras. Todas as atividades são adaptadas às necessidade de cada participante do projeto. 
 
-De acordo com o site oficial, as atividades físicas englobadas são:
-
-\-Ginástica;
-
-\-Alongamento;
-
-\-Musculação;
-
-\-Futebol;
-
-\-Dança;
-
-\-Voleibol;
-
-\-Caminhadas;
-
-\-Recreação;
-
-\-Outras.
-
-Obs.: Todas adaptadas às características e necessidades dos participantes. 
-
-Para maiores informações a respeito do funcionamento do projeto e acompanhamento das atividades promovidas por ele, acesse https://www.docedesafio.org.br.
+Para maiores informações a respeito do funcionamento do projeto e acompanhamento das atividades promovidas por ele, acesse www.docedesafio.org.br.
 
 ## Iniciativa Solidária
 
-No encalço da questão do auxílio aos diabéticos e somando-se a isso potenciais desafios relacionados à doença enfrentados no dia a dia na Universidade, 10 alunas/ex-alunas/extensionistas da UnB, que também sofrem com diabetes, criaram um grupo no aplicativo WhatsApp no início de 2019, com a intenção de servir como fonte de apoio para todas.
+No encalço da questão do auxílio aos diabéticos e, somando-se a isso, potenciais desafios relacionados à doença enfrentados no dia a dia na Universidade, 10 alunas/ex-alunas/extensionistas da UnB, que também sofrem com diabetes, criaram um grupo no aplicativo WhatsApp no início de 2019, com a intenção de servir como fonte de apoio para todas.
 
 O grupo, intitulado ''UnB e Diabetes'', foi criado em janeiro deste ano, após uma das atuais integrantes necessitar urgentemente de insulina na UnB, comunicar isso pela plataforma Twitter, e receber muitas respostas de outras meninas que também têm diabetes. Segundo uma das participantes, a formada em Museologia pela UnB, Julya Primo, 25, ''a ideia de criar o grupo foi de uma dessas meninas, após esse acontecimento, para a gente ter a quem recorrer em casos parecidos”.
 
