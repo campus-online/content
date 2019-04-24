@@ -19,7 +19,9 @@ Intervalo entre aulas. Um grupo de amigos se reúne no Ceubinho para tomar café
 
 Cada um dos frequentadores do campus Darcy Ribeiro é responsável por gerar aproximadamente cem gramas de lixo por dia, ou seja, a cada duas semanas são, em média, um quilo para cada um dos mais de 31 mil alunos. Todos os dias são gerados mais de 3,5 toneladas de resíduos em apenas um dos campus da Universidade. Desses, 63% acabam virando rejeitos e não podem ser reciclados. Esses dados foram levantados em 2017, por alunos de Ciências Ambientais na disciplina Trabalho Interdisciplinar Integrado.
 
-(INFOGRÁFICO COM OS DADOS)
+![](https://ucarecdn.com/1260179c-c1b2-4fdd-9902-2477408c40f7/)
+
+_Infográfico: Beatriz Castro._ 
 
 É muito lixo sendo produzido dentro da UnB que, com 153 cursos de graduação, 89, de mestrado, 69, de doutorado e 4 campi, produz diversos tipos de resíduos. Além disso, se atentar para a coleta seletiva é obrigação de todos os frequentadores da universidade. “Os estudantes são nossos grandes aliados na questão ambiental”, ressalta o professor Pedro Zuchi, coordenador da Assessoria de Sustentabilidade (ASA) da UnB. No entanto, muitos dos estudantes não sabem onde colocar cada tipo de lixo ou para onde vão os rejeitos.
 
