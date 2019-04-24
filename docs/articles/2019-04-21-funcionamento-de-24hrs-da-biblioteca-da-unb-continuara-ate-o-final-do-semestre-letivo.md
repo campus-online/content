@@ -16,11 +16,11 @@ headline: >-
   Salão de estudos e alguns serviços continuarão disponíveis para a comunidade
   durante a madrugada até dia 12/7
 ---
-Desde quarta-feira (13/3), junto ao início do 1º semestre letivo de 2019, a Biblioteca Central (BCE) iniciou um projeto de teste do horário de funcionamento, se estendendo das 00h às 7h de segunda a sexta, finalizando sexta-feira (12/7) junto ao término do semestre letivo. O serviço disponibilizado pela biblioteca conta com a devolução de livros, serviço de Wi-Fi, salão principal de estudos, acervos digitais e scanners de autoatendimento. Até então, a BCE encerrava suas atividades às 23h59 nos dias úteis. Aos fins de semana e feriados o horário será mantido, funcionando das 7h às 19h.
+Desde o início do 1º semestre letivo de 2019 (13/03), a Biblioteca Central (BCE) iniciou um projeto de teste do horário de funcionamento, se estendendo das 00h às 7h de segunda a sexta, finalizando junto ao término do semestre letivo, no dia 12 de julho. O serviço disponibilizado pela biblioteca conta com a devolução de livros, serviço de Wi-Fi, salão principal de estudos, acervos digitais e scanners de autoatendimento. Antes do início do projeto, a BCE encerrava suas atividades às 23h59 nos dias úteis. Aos fins de semana e feriados o horário será mantido, funcionando das 7h às 19h.
 
 Esta necessidade surgiu de uma demanda latente da comunidade. Além disso, o serviço fazia parte do plano de metas de gestão da reitora Márcia Abrahão desde que assumiu, em dezembro de 2016. “Essa é uma demanda histórica, na década de 80 a biblioteca já apresentava funcionamento 24h, e essa era uma das metas da nova reitora.” conta o Diretor da BCE, Fernando Leite.
 
-A princípio houveram rumores de que o período de teste seria apenas de um mês, iniciando quarta-feira (13/3) e finalizando um mês depois, mas de acordo com Fernando “O período de teste tem que ser de no mínimo um semestre, mas o nosso desejo é que seja continuado, pois a procura tem aumentado e a expectativa é crescer ainda mais o público com o avanço das aulas.”
+A princípio houveram rumores de que o período de teste seria apenas de um mês, iniciando no dia 13 de março e finalizando um mês depois, mas de acordo com Fernando “O período de teste tem que ser de no mínimo um semestre, mas o nosso desejo é que seja continuado, pois a procura tem aumentado e a expectativa é crescer ainda mais o público com o avanço das aulas.”
 
 O funcionamento ainda é limitado, porém os principais serviços estão disponíveis, como a devolução de material, consulta, Wi-Fi e _scanners_ de autoatendimento, deixando de fora apenas o empréstimo, por falta de servidores. “O nosso único problema em manter todas as atividades da BCE é só a carência de pessoal. Somos eu e mais um servidor remanejados para cá e dois vigilantes noturnos. Para que o serviço fosse integral seria necessário uma equipe inteira. A nossa esperança é que nesse novo processo seletivo, venham pessoas para cá.”, conta William Gomes, servidor realocado. O concurso público para captar servidores para a UnB não prevê vagas para a BCE. E embora o adicional noturno não esteja previsto no contrato CLT dos servidores, os funcionários o recebem.
 
@@ -33,8 +33,6 @@ Para João Victor Veras de Antropologia, a noite é o melhor horário para se es
 _A sala de estudos da BCE é usada na madrugada por, principalmente, universitários e estudantes que se preparam para concursos públicos. (Foto: Louani Badu)_
 
 Ao entrarem na biblioteca os usuários devem se registrar em uma lista que começa a valer a partir da meia noite, para fins de controle. “Durante a noite chegamos a ter umas 30 pessoas no máximo, mas o movimento tem aumentado.” conta a vigilante Aparecida Carvalho. E quando questionada sobre a segurança, diz que “Não podemos andar armados no campus, mas temos todos os cursos e treinamentos da Polícia Federal, além de passarmos por reciclagens de 2 em 2 anos”. Além de dois vigilantes, a Biblioteca Central conta também com a ronda da equipe de segurança do campus no estacionamento e de várias câmeras de segurança dentro e fora da biblioteca. 
-
-
 
 ## Novidades
 
