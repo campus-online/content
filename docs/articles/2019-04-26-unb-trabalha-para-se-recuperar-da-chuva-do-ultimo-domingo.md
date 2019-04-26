@@ -57,12 +57,12 @@ Os estudantes da pós-graduação em Antropologia perderam livros, uma geladeira
 
 _Entulho da sala de pós-graduação em Antropologia. (Foto: Giulia Soares/Campus Online)_
 
-Já para as equipes de limpeza, sobrou trabalho. Antes do corte de gastos que ocasionou na demissão de dezenas de funcionários: 144 serventes de limpeza e 3 encarregados para a supervisão de todo o ICC, passaram a ser 60 serventes e apenas 1 encarregada, a Maria Elizelda. Ao **Campus**, ela contou que a rotina está bem puxada. 
+Já para as equipes de limpeza, sobrou trabalho. Antes do corte de gastos que ocasionou na demissão de dezenas de funcionários: 144 serventes de limpeza e 3 encarregados para a supervisão de todo o ICC, passaram a ser 60 serventes e apenas 1 encarregada. 
 
-As quatro equipes de lavagem do ICC ainda estavam trabalhando nas áreas comuns do prédio, na quarta-feira, para a retirada de toda a lama. Por conta disso, algumas lavagens de departamento tiveram que ser canceladas. Funcionários de outros prédios também tiveram que auxiliar esse trabalho durante a semana. Ainda assim, Maria Elizelda diz que o recolhimento dos lixos e a limpeza dos banheiros e corredores não foi prejudicada. 
+A única encarregada pelo ICC, Maria Elizelda, em entrevista, contou ao Campus que a rotina está bastante puxada. As quatro equipes de lavagem do ICC ainda estavam trabalhando nas áreas comuns do prédio, na quarta-feira, para a retirada de toda a lama. Por conta disso, algumas lavagens de departamento tiveram que ser canceladas. Funcionários de outros prédios também tiveram que auxiliar esse trabalho durante a semana. Ainda assim, Maria Elizelda diz que o recolhimento dos lixos e a limpeza dos banheiros e corredores não foi prejudicada. 
 
 ![](https://ucarecdn.com/2d507faa-98be-4f22-bd9a-21d52d8ad939/)
 
 _Lixo acumulado no subsolo depois da limpeza. (Foto: Giulia Soares/Campus Online)_
 
-A Prefeitura garante que todas as bocas de lobo estão limpas e o sistema de drenagem da UnB possui bom funcionamento, e que o problema decorre da carência desse sistema em toda a Asa Norte. Como a universidade fica numa baixada, acaba recebendo grande volume de água e não consegue dar vazão à enxurrada.
+A Prefeitura da UnB garante que todas as bocas de lobo estão limpas, o sistema de drenagem da instituição possui bom funcionamento, e que o problema decorre da carência desse sistema em toda a Asa Norte. Como a universidade fica numa baixada, acaba recebendo grande volume de água e não consegue dar vazão à enxurrada.
