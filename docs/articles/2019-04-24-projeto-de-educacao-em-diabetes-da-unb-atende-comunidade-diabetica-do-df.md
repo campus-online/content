@@ -43,7 +43,7 @@ Conceição faz parte do perfil predominante das pessoas atendidas pelo Doce Des
 
 ## Atividades do Doce Desafio
 
-As atividades do tratamento do projeto ocorrem segunda, quarta e sexta-feira, no Centro Olímpico da UnB. Os horários disponíveis são: 10h às 12h, 14 às 16h e 19h às 21h. De acordo com o site oficial, as atividades físicas englobadas são: ginástica, alongamento, musculação, futebol, dança, voleibol, caminhadas, recreação, dentre outras. Todas as atividades são adaptadas às necessidade de cada participante do projeto. 
+As atividades do tratamento do projeto ocorrem segunda, quarta e sexta-feira, no Centro Olímpico da UnB. Os horários disponíveis são: 10h às 12h e 14 às 16h. De acordo com o site oficial, as atividades físicas englobadas são: ginástica, alongamento, musculação, futebol, dança, voleibol, caminhadas, recreação, dentre outras. Todas as atividades são adaptadas às necessidade de cada participante do projeto. 
 
 Para maiores informações a respeito do funcionamento do projeto e acompanhamento das atividades promovidas por ele, acesse www.docedesafio.org.br.
 
@@ -53,4 +53,6 @@ No encalço da questão do auxílio aos diabéticos e, somando-se a isso, potenc
 
 O grupo, intitulado "UnB e Diabetes", foi criado em janeiro deste ano, após uma das atuais integrantes necessitar urgentemente de insulina na UnB, comunicar isso pela plataforma Twitter, e receber muitas respostas de outras meninas que também têm diabetes. Segundo uma das participantes, a formada em Museologia pela UnB, Julya Primo, 25, "a ideia de criar o grupo foi de uma dessas meninas, após esse acontecimento, para a gente ter a quem recorrer em casos parecidos".
 
-De acordo com Julya, as integrantes têm entre 18 a 25 anos de idade e possuem diabetes tipo 1. Apesar de nunca terem se reunido pessoalmente, Julya afirma que, através do grupo, se apoiam de todas as formas que podem: "Seja tirando dúvidas umas das outras, compartilhando situações e experiências, dando conselhos tanto sobre o tratamento em si, quanto sobre aspectos psicológicos e emocionais, que são bastante afetados pelas mudanças no estilo de vida que a diabetes traz. Nós também buscamos ajudar umas às outras em casos de emergências mais físicas: uma hipo ou hiperglicemia, na falta de alguma insulina ou outro insumo necessário para que a correção da glicemia seja feita". Por ora, o grupo restringe-se a participantes femininas.
+De acordo com Julya, as integrantes têm entre 18 a 25 anos de idade e possuem diabetes tipo 1. Apesar de nunca terem se reunido pessoalmente, Julya afirma que, através do grupo, se apoiam de todas as formas que podem: "Seja tirando dúvidas umas das outras, compartilhando situações e experiências, dando conselhos tanto sobre o tratamento em si, quanto sobre aspectos psicológicos e emocionais, que são bastante afetados pelas mudanças no estilo de vida que a diabetes traz. Nós também buscamos ajudar umas às outras em casos de emergências mais físicas: uma hipo ou hiperglicemia, na falta de alguma insulina ou outro insumo necessário para que a correção da glicemia seja feita". 
+
+Por ora, o grupo restringe-se a participantes femininas. Interessadas em integrá-lo podem entrar em contato com uma das integrantes por meio do perfil @julyaprimo, no Instagram.
