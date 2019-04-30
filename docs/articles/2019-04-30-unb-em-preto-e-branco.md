@@ -1,5 +1,6 @@
 ---
 title: UnB em preto e branco
+cover: 'https://ucarecdn.com/b1d53780-0b74-4b66-a06e-218fbe489d10/'
 date: '2019-04-30'
 editorial: cidade
 authors:
