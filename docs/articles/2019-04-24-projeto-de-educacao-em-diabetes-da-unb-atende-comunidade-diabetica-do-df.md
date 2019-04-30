@@ -13,7 +13,7 @@ tags:
 featured: true
 headline: 'Doce Desafio oferece prática orientada de exercício e atividades físicas '
 ---
-Diabetes, Educação em Saúde e Atividades Físicas Orientadas são os temas que compõem o tratamento oferecido pelo Doce Desafio, projeto de extensão de ação contínua da Faculdade de Educação Física da Universidade de Brasília (UnB). O projeto, criado em 2011, tem como objetivo atender aos diabéticos do DF, "orientando-os à vida saudável, à prática de atividade física e ao conhecimento nutricional e medicamentoso, aos quais são submetidos pelos médicos e profissionais envolvidos nos seus tratamentos", de acordo com a página oficial do programa no Facebook.
+Diabetes, Educação em Saúde e Atividades Físicas Orientadas são os temas que compõem o tratamento oferecido pelo Doce Desafio, projeto de extensão de ação contínua da Faculdade de Educação Física da Universidade de Brasília (UnB). O projeto, criado em 2001, tem como objetivo atender aos diabéticos do DF, "orientando-os à vida saudável, à prática de atividade física e ao conhecimento nutricional e medicamentoso, aos quais são submetidos pelos médicos e profissionais envolvidos nos seus tratamentos", de acordo com a página oficial do programa no Facebook.
 
 Sediado no Centro Olímpico da UnB, no Setor de Clubes Norte, o programa conta com uma equipe de monitores provenientes de diversos cursos da Universidade, como Enfermagem, Educação Física, Nutrição e Psicologia; os quais possuem como principal função o acompanhamento dos participantes nas atividades físicas.
 
