@@ -1,6 +1,6 @@
 ---
 title: UnB em preto e branco
-cover: 'https://ucarecdn.com/b1d53780-0b74-4b66-a06e-218fbe489d10/'
+cover: 'https://ucarecdn.com/d488ee1a-270b-4edd-9aa9-b802ba4762ef/'
 date: '2019-04-30'
 editorial: cidade
 authors:
@@ -20,7 +20,7 @@ Muitas pessoas fazem parte da história da UnB. Independentemente do tempo que e
 
 ## Chico Barbeiro
 
-![](https://ucarecdn.com/e0b62063-fec3-4a06-9719-72a73dd9a8ea/)
+![](https://ucarecdn.com/3459306e-16c1-40a3-99b9-acf258c4d00f/)
 
 _(Foto: Beatris de Deus/Campus Online)_
 
@@ -32,7 +32,7 @@ Chico trabalha com seu filho, Rodrigo Ribeiro Amorim, 35, na barbearia localizad
 
 ## Elizelda
 
-![](https://ucarecdn.com/48542bed-9c9f-4f4a-a0b4-567eae2b0900/)
+![](https://ucarecdn.com/baa68031-99db-445f-86ef-240ada2e569a/)
 
 _(Foto: Beatris de Deus/Campus Online)_
 
@@ -44,7 +44,7 @@ Elizelda passou metade da sua vida em meio aos prédios, corredores e salas da U
 
 ## Gilmar
 
-![](https://ucarecdn.com/6f3808ab-a636-4fd0-9ef4-f2533ee150a4/)
+![](https://ucarecdn.com/dd19ed81-0066-407d-b6fa-39dbe7f7a395/)
 
 _(Foto: Beatris de Deus/Campus Online)_
 
@@ -54,7 +54,7 @@ Gilmar assumiu o ponto em 2007, e transformou a antiga sapataria de seu pai na l
 
 ## Neide
 
-![](https://ucarecdn.com/b18042cb-695e-4e35-8f43-058bad81d6d4/)
+![](https://ucarecdn.com/b317b4a7-64ed-48d3-ae8a-5568a26e448c/)
 
 _(Foto: Beatris de Deus/Campus Online)_
 
@@ -68,7 +68,7 @@ A dona da UniBanca relembra com carinho da efervescência cultural dentro da uni
 
 ## Chico da Livraria
 
-![](https://ucarecdn.com/f6d4adeb-228f-4297-bddd-2fd4afbc8063/)
+![](https://ucarecdn.com/01c37441-3df3-4b5f-ad4d-dd355e3f6d1c/)
 
 _(Foto: Beatris de Deus/Campus Multimídia)_
 

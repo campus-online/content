@@ -1,6 +1,6 @@
 ---
 title: UnB trabalha para se recuperar da chuva do último domingo
-cover: 'https://ucarecdn.com/8bca3332-8101-40b1-8074-fc676df193f7/'
+cover: 'https://ucarecdn.com/e3a5282c-bf07-4908-9f9f-2d7ddcb40729/'
 date: '2019-04-26'
 editorial: cidade
 authors:
@@ -17,7 +17,7 @@ Neste domingo (20), uma forte chuva atingiu a Universidade de Brasília e provoc
 
 Em nota, a Reitoria afirmou que, após um alagamento semelhante em 2011, diversas medidas foram tomadas para melhorar o escoamento de água. Entre elas, a troca de tubulações e a correção de obstruções na rede de águas pluviais. Além disso, houve o fechamento dos vãos de iluminação do ICC Norte. Porém, havia ainda quatro vãos abertos e foi por eles que a água entrou. 
 
-![](https://ucarecdn.com/bb24ff40-73d5-49b0-a0e1-37c954984ef1/)
+![](https://ucarecdn.com/feb246a8-e829-4d89-a14f-6c7f73ee037a/)
 
 _Vãos no Centro Acadêmico de História. (Foto: Giulia Soares/Campus Online)_
 
@@ -25,19 +25,19 @@ Segundo a universidade, não é possível estabelecer se esses vãos nunca foram
 
 Os vãos que ainda estavam abertos eram os das salas dos Centros Acadêmicos de História e Filosofia, da sala de pesquisa da pós-graduação em Antropologia e a sede da Associação Brasileira de Ensino e Pesquisa em Serviço Social (ABEPSS).
 
-![](https://ucarecdn.com/12f7c6f4-d976-4ad4-b53c-46146b2eefed/)
+![](https://ucarecdn.com/2def7696-8de2-4a00-9fcc-0c6db3acf3a6/)
 
 _Sala da ABEPSS depois do alagamento. (Foto: Giulia Soares/Campus Online)_
 
 A ABEPSS é uma entidade nacional que coordena a formação acadêmica em Serviço Social há 80 anos. O prejuízo financeiro foi com o patrimônio perdido – os computadores, impressoras, mesas e cadeiras –, mas a maior perda é histórica. A água levou documentos datados de, por exemplo, 1950, que estavam começando a ser digitalizados, um acervo de livros, revistas e fitas VHS que contavam com fotos históricas. “A sociedade ainda não tem noção do quanto que o serviço social brasileiro perdeu com essa enchente”, lamenta a professora Valdenízia Peixoto, chefe do departamento. 
 
-![](https://ucarecdn.com/a7cc5646-9f6e-4b05-b664-b01123de0010/)
+![](https://ucarecdn.com/ed95fd36-fcda-4b05-99c8-c2ddc86ed40b/)
 
 _Professora Valdenizia mostra os documentos históricos em processo de secagem. (Foto: Giulia Soares/Campus Online)_
 
 Alguns foram embora com a chuva, porém os documentos e livros que conseguiram ser resgatados estão passando por secagem e limpeza. As revistas não passarão pela recuperação, pois já existem em PDF. A professora Valdenízia ressaltou que todo este trabalho está sendo feito pelos próprios professores e alunos, com materiais que eles mesmos compraram. 
 
-![](https://ucarecdn.com/5b3f0cf5-e964-49ab-b2f8-3a86c95f1607/)
+![](https://ucarecdn.com/f5b7cb8c-6927-4554-897a-06c11383efff/)
 
 _Documento de 1955 foi molhado. (Foto: Giulia Soares/Campus Online)_
 
@@ -45,7 +45,7 @@ Ela busca apoio do Arquivo Central da UnB e do departamento de Arquivologia, al�
 
 O Centro Acadêmico (CA) de História perdeu seis sofás, dois microondas, uma geladeira, uma TV e diversos materiais que estavam na sala de estudos. O CA de Filosofia perdeu cinco sofás e um ar condicionado, além de toda a parte elétrica. O prejuízo financeiro ainda não foi calculado, mas todos os estudantes estão se mobilizando para arrecadar verba e doações. A estudante Carol Ribeiro, de História, relata que nessa sexta-feira acontecerá um mutirão de limpeza, levando em conta o cheiro forte que ficou no CA após o ocorrido. 
 
-![](https://ucarecdn.com/58d984aa-4942-41d9-8204-8ffd5d9237cd/)
+![](https://ucarecdn.com/9248c04c-36bf-4452-9787-c3c4ccf241a8/)
 
 _Centro Acadêmico de História depois da limpeza. (Foto: Giulia Soares/Campus Online)_
 
@@ -53,7 +53,7 @@ Os estudantes também reclamam que a solução da Prefeitura de tapar os vãos t
 
 Os estudantes da pós-graduação em Antropologia perderam livros, uma geladeira, um microondas, mesas e cadeiras. Por conta da falta de estrutura, suas aulas da semana foram suspensas. 
 
-![](https://ucarecdn.com/77aed737-2a84-4126-ac85-630fecca2e22/)
+![](https://ucarecdn.com/9232c010-0052-45dd-a11d-3633a9381c65/)
 
 _Entulho da sala de pós-graduação em Antropologia. (Foto: Giulia Soares/Campus Online)_
 
@@ -61,7 +61,7 @@ Já para as equipes de limpeza, sobrou trabalho. Antes do corte de gastos que oc
 
 A única encarregada pelo ICC, Maria Elizelda, em entrevista, contou ao Campus que a rotina está bastante puxada. As quatro equipes de lavagem do ICC ainda estavam trabalhando nas áreas comuns do prédio, na quarta-feira, para a retirada de toda a lama. Por conta disso, algumas lavagens de departamento tiveram que ser canceladas. Funcionários de outros prédios também tiveram que auxiliar esse trabalho durante a semana. Ainda assim, Maria Elizelda diz que o recolhimento dos lixos e a limpeza dos banheiros e corredores não foi prejudicada. 
 
-![](https://ucarecdn.com/2d507faa-98be-4f22-bd9a-21d52d8ad939/)
+![](https://ucarecdn.com/f6704f12-2b26-4d82-afd4-dfefb2b384e2/)
 
 _Lixo acumulado no subsolo depois da limpeza. (Foto: Giulia Soares/Campus Online)_
 

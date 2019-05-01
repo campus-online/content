@@ -1,6 +1,6 @@
 ---
 title: Aceitação de vale-refeição no Campus Darcy Ribeiro é baixa
-cover: 'https://ucarecdn.com/ec2e3b82-6eb2-48bd-80e9-91e3ce0ae10c/'
+cover: 'https://ucarecdn.com/60e78407-7d1f-4a47-b0d1-0182d27d58fd/'
 date: '2019-05-01'
 editorial: cidade
 authors:
