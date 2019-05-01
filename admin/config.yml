@@ -23,7 +23,7 @@ display_url: https://campus.fac.unb.br
 media_library:
   name: uploadcare
   config:
-    publicKey: demopublickey
+    publicKey: 0d4625f6c3c1fdb72ccf
 
 editor:
   preview: false
