@@ -1,6 +1,6 @@
 ---
 title: Isadora Demoly
 semester: 2019/1
-image: 'https://ucarecdn.com/22ddfeea-62ea-4f56-8e3c-538551a74c51/'
+image: 'https://ucarecdn.com/cbad3f02-3d8d-46de-91a0-bcaa16820d63/'
 ---
 Editora do Facebook e repórter do Campus Online.
