@@ -1,6 +1,6 @@
 ---
 title: Giulia Soares
 semester: 2019/1
-image: 'https://ucarecdn.com/e9548870-6b58-4180-ac08-f746ee7d5b66/'
+image: 'https://ucarecdn.com/4a95f3ac-05d8-411f-9c2f-a30308b67775/'
 ---
 Coordenadora do CampusCast e repórter do Campus Online.
