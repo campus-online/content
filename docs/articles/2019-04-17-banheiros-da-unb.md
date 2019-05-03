@@ -39,7 +39,7 @@ O estudo contabilizou se os espaços possuíam itens básicos como papel higiên
 
 ![](https://ucarecdn.com/e58323bf-9a1f-4906-a362-06c21446ec71/ "Fonte: Campus Multimídia, 2019.")
 
-_Fonte: Campus Multimídia, 2019._
+_Fonte: Campus Online, 2019._
 
 Segundo o mapeamento, apenas 85 banheiros têm boxes adaptados para pessoas com necessidades especiais (PNE). A falta de acessibilidade também está presente nos banheiros que não possuem rampa. Este é o caso do banheiro feminino da Faculdade de Tecnologia (FT) que fica no final do corredor do Departamento de Engenharia Elétrica.
 
