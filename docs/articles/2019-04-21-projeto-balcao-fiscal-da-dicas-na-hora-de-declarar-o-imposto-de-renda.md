@@ -1,6 +1,7 @@
 ---
 title: Projeto Balcão Fiscal dá dicas na hora de declarar o Imposto de Renda
-cover: 'https://ucarecdn.com/db71ee53-2c13-4faf-b183-7068b11ed089/'
+cover: >-
+  https://ucarecdn.com/be85e4f0-fa58-4622-a075-2055a610c39f/-/crop/774x553/0,341/-/preview/
 date: '2019-04-21'
 editorial: educacao
 authors:
