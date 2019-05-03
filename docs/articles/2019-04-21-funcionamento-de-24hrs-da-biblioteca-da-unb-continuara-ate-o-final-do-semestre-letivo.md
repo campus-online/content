@@ -15,7 +15,7 @@ tags:
 featured: true
 headline: >-
   Salão de estudos e alguns serviços continuarão disponíveis para a comunidade
-  durante a madrugada até dia 12/7
+  durante a madrugada até dia 12 de julho
 ---
 Desde o início do 1º semestre letivo de 2019 (13/03), a Biblioteca Central (BCE) iniciou um projeto de teste do horário de funcionamento, se estendendo das 00h às 7h de segunda a sexta, finalizando junto ao término do semestre letivo, no dia 12 de julho. O serviço disponibilizado pela biblioteca conta com a devolução de livros, serviço de Wi-Fi, salão principal de estudos, acervos digitais e scanners de autoatendimento. Antes do início do projeto, a BCE encerrava suas atividades às 23h59 nos dias úteis. Aos fins de semana e feriados o horário será mantido, funcionando das 7h às 19h.
 
