@@ -1,6 +1,7 @@
 ---
 title: Funcionamento 24h da Biblioteca da UnB continua
-cover: 'https://ucarecdn.com/d5a6cdba-bacf-4e11-ad0b-9131c94858fb/'
+cover: >-
+  https://ucarecdn.com/3701964f-1dfd-40fe-864b-45d1355bb1ef/-/crop/960x722/0,387/-/preview/
 date: '2019-04-23'
 editorial: cidade
 authors:
@@ -14,7 +15,7 @@ tags:
 featured: true
 headline: >-
   Salão de estudos e alguns serviços continuarão disponíveis para a comunidade
-  durante a madrugada até dia 12/7
+  durante a madrugada até dia 12 de julho
 ---
 Desde o início do 1º semestre letivo de 2019 (13/03), a Biblioteca Central (BCE) iniciou um projeto de teste do horário de funcionamento, se estendendo das 00h às 7h de segunda a sexta, finalizando junto ao término do semestre letivo, no dia 12 de julho. O serviço disponibilizado pela biblioteca conta com a devolução de livros, serviço de Wi-Fi, salão principal de estudos, acervos digitais e scanners de autoatendimento. Antes do início do projeto, a BCE encerrava suas atividades às 23h59 nos dias úteis. Aos fins de semana e feriados o horário será mantido, funcionando das 7h às 19h.
 
@@ -28,9 +29,9 @@ Os usuários têm muitos elogios. “Esse serviço é fundamental para institui�
 
 Para João Victor Veras de Antropologia, a noite é o melhor horário para se estudar “Eu tenho o dia muito corrido, trabalho e estudo, e a noite é o único horário que eu tenho para estudar, e a biblioteca estando aberta me ajuda muito”, conta. O público noturno é formado basicamente por universitários ou pessoas estudando para alguma avaliação específica e que veem na biblioteca um lugar seguro e calmo para estudar, sendo o único local em Brasília a ofertar esse serviço 24h.
 
-![](https://ucarecdn.com/37f23eb1-0782-4862-abae-22bab5daf6ac/ "(Foto: Louani Badu)")
+![](https://ucarecdn.com/5fa689d8-acb4-4deb-98d4-357a5c319b28/ "(Foto: Louani Badu)")
 
-_A sala de estudos da BCE é usada na madrugada por, principalmente, universitários e estudantes que se preparam para concursos públicos. (Foto: Louani Badu)_
+_A sala de estudos da BCE é usada na madrugada por, principalmente, universitários e estudantes que se preparam para concursos públicos. (Foto: Louani Badu/Campus Online)_
 
 Ao entrarem na biblioteca os usuários devem se registrar em uma lista que começa a valer a partir da meia noite, para fins de controle. “Durante a noite chegamos a ter umas 30 pessoas no máximo, mas o movimento tem aumentado.” conta a vigilante Aparecida Carvalho. E quando questionada sobre a segurança, diz que “Não podemos andar armados no campus, mas temos todos os cursos e treinamentos da Polícia Federal, além de passarmos por reciclagens de 2 em 2 anos”. Além de dois vigilantes, a Biblioteca Central conta também com a ronda da equipe de segurança do campus no estacionamento e de várias câmeras de segurança dentro e fora da biblioteca. 
 
