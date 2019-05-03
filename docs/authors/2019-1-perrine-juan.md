@@ -1,6 +1,6 @@
 ---
 title: Perrine Juan
 semester: 2019/1
-image: 'https://ucarecdn.com/2ef25ae0-dffe-4fb2-95ae-c10b87dac6ad/'
+image: 'https://ucarecdn.com/ec009c6c-27d7-43ad-95cf-460663a0ecab/'
 ---
 Repórter do Campus Online.
