@@ -1,6 +1,6 @@
 ---
 title: Gabriel Queiroz
 semester: 2019/1
-image: 'https://ucarecdn.com/db949653-1091-444f-b8b5-9e14179321e0/'
+image: 'https://ucarecdn.com/e99743ec-3c02-4a9f-a8fd-aedf19ab6efc/'
 ---
 Repórter do Campus Online.
