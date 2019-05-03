@@ -31,7 +31,7 @@ Para João Victor Veras de Antropologia, a noite é o melhor horário para se es
 
 ![](https://ucarecdn.com/5fa689d8-acb4-4deb-98d4-357a5c319b28/ "(Foto: Louani Badu)")
 
-_A sala de estudos da BCE é usada na madrugada por, principalmente, universitários e estudantes que se preparam para concursos públicos. (Foto: Louani Badu)_
+_A sala de estudos da BCE é usada na madrugada por, principalmente, universitários e estudantes que se preparam para concursos públicos. (Foto: Louani Badu/Campus Online)_
 
 Ao entrarem na biblioteca os usuários devem se registrar em uma lista que começa a valer a partir da meia noite, para fins de controle. “Durante a noite chegamos a ter umas 30 pessoas no máximo, mas o movimento tem aumentado.” conta a vigilante Aparecida Carvalho. E quando questionada sobre a segurança, diz que “Não podemos andar armados no campus, mas temos todos os cursos e treinamentos da Polícia Federal, além de passarmos por reciclagens de 2 em 2 anos”. Além de dois vigilantes, a Biblioteca Central conta também com a ronda da equipe de segurança do campus no estacionamento e de várias câmeras de segurança dentro e fora da biblioteca. 
 
