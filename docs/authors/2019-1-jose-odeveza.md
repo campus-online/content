@@ -1,6 +1,6 @@
 ---
 title: José Odeveza
 semester: 2019/1
-image: 'https://ucarecdn.com/dbc390cf-cc9f-4912-a91b-4e0fb591c8db/'
+image: 'https://ucarecdn.com/af0bc187-91c9-46d4-8f2c-2d4be5b09a0c/'
 ---
 Editor do WhatsApp e repórter do Campus Online.
