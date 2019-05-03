@@ -1,7 +1,6 @@
 ---
 title: Chuva do último domingo alaga UnB e causa interdição do ICC Norte
-cover: >-
-  https://ucarecdn.com/160f6e6a-a674-43b0-afbf-0090df0b6eb9/-/crop/3024x2543/0,981/-/preview/-/enhance/100/
+cover: 'https://ucarecdn.com/a5e815d8-191b-4675-894a-696efed2bcc3/'
 date: '2019-04-22'
 editorial: cidade
 authors:
@@ -16,9 +15,9 @@ headline: >-
 ---
 A chuva forte que se iniciou no fim da tarde de domingo (21) causou transtornos pela cidade, desde o cancelamento de shows no evento de comemoração do aniversário da capital na Esplanada, até danos ainda não calculados na Universidade de Brasília. Na UnB, o alagamento ocorreu devido à entrada de água pelos vãos de três salas no subsolo que não foram fechadas após o alagamento que ocorreu na Universidade em 2011, segundo o prefeito Valdeci Reis. Logo após o acontecido, a UnB informou, em nota, que a reitora Márcia Abrahão, o prefeito e uma equipe de especialistas da área de engenharia e técnicos da prefeitura estiveram no local averiguando riscos e danos à estrutura.
 
-![](https://ucarecdn.com/5439a57a-4a11-4703-9dc3-9b93166fc2c4/)
+![](https://ucarecdn.com/92488e6c-8a12-4e3d-a1c4-19ac2c5bb33b/)
 
-_(Foto: Louani Badu)_
+_(Foto: Louani Badu/Campus Online)_
 
 A manhã desta segunda-feira (22) começou com muito mais serviço para a equipe da empresa RCA, encarregada da limpeza. O trabalho começou às 7h da manhã, com rodos e mangueiras. A ala sul Instituto Central de Ciências (ICC) estava com bastante água, mas tinha o acesso liberado. Já na ala norte, as duas entradas, que levam aos anfiteatros, à Faculdade de Comunicação e à de Arquitetura e Urbanismo, estavam fechadas. A medida foi tomada para facilitar o trabalho da equipe de limpeza, pois era a área mais atingida. O piso térreo acumulava água e terra, que desceram da grama ou do jardim, mas o subsolo foi onde ocorreu a maior parte dos danos.
 
@@ -32,7 +31,7 @@ A UnB é uma das instituições mais ativas da associação e, também, é a sed
 
 A reitora, o prefeito e as demais autoridades da Universidade voltarão a se reunir quando a equipe de avaliação tiver um parecer dos danos e perdas. 
 
-![](https://ucarecdn.com/cd837f20-5fed-4b83-81b3-138599e0996f/)
+![](https://ucarecdn.com/55f2322b-1132-4cbf-9708-d8f3cc70613f/)
 
 _(Foto: Valdenizia Peixoto)_
 
