@@ -1,6 +1,6 @@
 ---
 title: UnB não conta com um serviço oficial de prestação de primeiros socorros
-cover: 'https://ucarecdn.com/ed5e4f9f-a5c5-4273-b8d6-b45c69bb1548/'
+cover: 'https://ucarecdn.com/ad17aff8-d3fa-48f9-a35f-0e3665a9d23d/'
 date: '2019-04-21'
 editorial: cidade
 authors:
@@ -19,9 +19,9 @@ Verificação de pressão arterial, temperatura, realização de curativos simpl
 
 No campus Darcy Ribeiro, o atendimento feito na unidade do ICC Sul vai das 7h30 às 11h30, com pausa para o almoço, e é retomado às 12h30, estendo-se até 16h30. Para Aline Azevedo, 52, técnica de enfermagem do Núcleo, essa restrição no horário de atendimento é prejudicial: "O atendimento costumava ser de doze horas seguidas, das 7h30 a 19h30, porém, houve toda uma reestruturação e a reitora \[Márcia Abraão] pediu que o atendimento passasse a ser de 8 horas, conforme a lei n° 8.112. Isso prejudica, porque toda a característica do serviço prestado aqui tem fundo assistencial, não podemos negligenciar o atendimento, não é? Já cheguei a sair daqui às 22h30, mesmo com essa reestruturação".
 
-![](https://ucarecdn.com/8f2472a4-2611-4a5d-a833-4dbcbda6bf1d/ "''Não chamamos o SAMU ou o Corpo de Bombeiros sempre, a não ser que seja uma situação emergencial, em que não podemos dar o suporte necessário\" - Aline Azevedo, em segundo plano. (Foto: Alice Proba)")
+![](https://ucarecdn.com/bd94cdf1-437e-405b-9f15-8a7534a4f0a8/ "''Não chamamos o SAMU ou o Corpo de Bombeiros sempre, a não ser que seja uma situação emergencial, em que não podemos dar o suporte necessário\" - Aline Azevedo, em segundo plano. (Foto: Alice Proba)")
 
-_''Não chamamos o SAMU ou o Corpo de Bombeiros sempre, a não ser que seja uma situação emergencial, em que não podemos dar o suporte necessário - Aline Azevedo, em segundo plano.'' (Foto: Alice Proba)_
+_''Não chamamos o SAMU ou o Corpo de Bombeiros sempre, a não ser que seja uma situação emergencial, em que não podemos dar o suporte necessário - Aline Azevedo, em segundo plano.'' (Foto: Alice Proba/Campus Online)_
 
 Segundo Aline, o número de atendimentos em 2018 foi de 3.580 nos três Núcleos da Universidade (Campi Darcy Ribeiro, Gama e Planaltina), em diversas modalidades. "Aqui é bem diversificado, verificamos muito pressão arterial, realizamos curativos, (cuidamos de) entorses. Há também muitos casos de crise psicótica, convulsão, alcoolismo. É muito comum a pessoa ser usuária de drogas, passar mal e a gente ter que dar o suporte. Há casos emergenciais em que precisamos chamar o SAMU e prestar o apoio até a chegada.'' Nesses casos, o(a) paciente poderá ficar sob o cuidado da enfermagem até a chegada do socorro, de parentes e/ou amigos que possam acompanhá-lo (a) até o hospital.
 
@@ -33,9 +33,9 @@ A UnB criou a disciplina Prevenção de Acidentes e Primeiros Socorros, ofertada
 
 Segundo o vigilante Carlos Regis, ''O treinamento de vigilante inclui o combate a incêndio e a questão dos primeiros socorros, por exemplo, para casos de paradas cardiorrespiratórias, desmaio ou engasgo, especialmente em relação a pessoas idosas e crianças.'' Carlos já teve que socorrer um estudante no Campus Gama, juntamente com uma colega, “o rapaz estava sob efeito de entorpecente, teve convulsão e o atendimento foi feito para amenizar: segurar a cabeça de lado, deixar o local livre, evitar a aglomeração de pessoas em torno da vítima e chamar o SAMU”. Segundo ele, o SAMU chegou em pouco tempo, em cerca de cinco minutos. Também entrou em contato com os familiares do socorrido.
 
-![](https://ucarecdn.com/bc11e279-b82b-4c2e-b734-e3a7dd2494cc/ "''Pelo menos da minha parte, busco estar sempre me aperfeiçoando para além da área de segurança'' - Carlos Regis, vigilante. (Foto: Helen Marinho)")
+![](https://ucarecdn.com/d653f484-a31d-4a23-8319-05b91a4171b1/ "''Pelo menos da minha parte, busco estar sempre me aperfeiçoando para além da área de segurança'' - Carlos Regis, vigilante. (Foto: Helen Marinho)")
 
-_''Pelo menos da minha parte, busco estar sempre me aperfeiçoando para além da área de segurança'' - Carlos Regis, vigilante. (Foto: Helen Marinho)_
+_''Pelo menos da minha parte, busco estar sempre me aperfeiçoando para além da área de segurança'' - Carlos Regis, vigilante. (Foto: Helen Marinho/Campus Online)_
 
 A Universidade possui poucos Núcleos de assistência, no caso do Darcy Ribeiro há o agravante de ser apenas um núcleo para todo o Campus, que possui 400 hectares e mais de 500 mil metros quadrados de área construída, o que dificulta os deslocamentos, tanto dos alunos como da equipe, caso esta tenha que sair para socorrer alguém. Além disso, são mais de 50 mil pessoas circulando pelo campus por dia, de acordo com o site oficial da UnB. Questionada a respeito da possibilidade de criação de mais unidades dos Núcleos no Darcy Ribeiro, assim como ampliação do horário de atendimento, a Reitoria  da Universidade não emitiu nenhuma resposta até o fechamento desta reportagem.
 
@@ -45,9 +45,9 @@ A Universidade possui poucos Núcleos de assistência, no caso do Darcy Ribeiro 
 
 O Campus Ceilândia da UnB concentra os cursos de Enfermagem, Farmácia, Fisioterapia, Fonoaudiologia, Saúde Coletiva e Terapia Ocupacional. Questionado a respeito da suposta inexistência de um Núcleo de Atenção à Saúde no Campus Ceilândia da UnB, o diretor do Campus, Araken dos Santos, afirmou que um posto de atendimento similar chegou a vigorar no local há cerca de dois anos, sendo composto por uma auxiliar de enfermagem e um motorista, porém o serviço prestado se mostrou pouco útil. 
 
-![](https://ucarecdn.com/5622fd57-f93a-44e2-8baf-804fcb7e0a87/ "O diretor do Campus Ceilândia, Araken dos Santos (Foto: Helen Marinho)")
+![](https://ucarecdn.com/e3db7008-090e-467f-b6bb-259b0a59ccbe/ "O diretor do Campus Ceilândia, Araken dos Santos (Foto: Helen Marinho)")
 
-_O diretor do Campus Ceilândia, Araken dos Santos (Foto: Helen Marinho)_
+_O diretor do Campus Ceilândia, Araken dos Santos (Foto: Helen Marinho/Campus Online)_
 
 ''A pessoa lotada aqui nunca podia fazer o atendimento requerido, sempre dizia que não era da alçada dela, só fazia o procedimento padrão que qualquer outra pessoa também poderia, que era o de perguntar como o paciente ou a paciente estava se sentindo e em seguida chamar o SAMU.''
 
@@ -57,27 +57,23 @@ Por essa razão, segundo o diretor, e considerando que o campus de Ceilândia co
 
 > “Aqui em Planaltina eu vou em cada setor, pergunto como o funcionário “tá”, verifico pressão.''’ - Kênia Guimarães (Técnica de enfermagem).
 
-![](https://ucarecdn.com/457982a5-5a60-4b4d-b8a9-a6529f762094/ "Prédio onde se localiza o Núcleo de Atenção à Saúde de Planaltina. (Foto: Alice Proba)")
+![](https://ucarecdn.com/39fc2f3e-f636-4ebc-925e-7ac0015ec400/ "Prédio onde se localiza o Núcleo de Atenção à Saúde de Planaltina. (Foto: Alice Proba)")
 
-_Prédio onde se localiza o Núcleo de Atenção à Saúde de Planaltina. (Foto: Alice Proba)_
+_Prédio onde se localiza o Núcleo de Atenção à Saúde de Planaltina. (Foto: Alice Proba/Campus Online)_
 
 O Núcleo de Atenção à Saúde de Planaltina realiza atendimentos primários de enfermagem, das sete às 19h, e conta com duas técnicas de enfermagem, que revezam os turnos. Localiza-se na Unidade Acadêmica (UAC), no último andar.
 
-![](https://ucarecdn.com/262a9f46-0a77-4a17-b7c0-403bad4de985/ "Kenia Guimarães, técnica de enfermagem do campus Planaltina. (Foto: Alice Proba)")
+![](https://ucarecdn.com/5085a8a3-ab75-4417-8cfb-a7f58441b507/ "Kenia Guimarães, técnica de enfermagem do campus Planaltina. (Foto: Alice Proba)")
 
-_Kenia Guimarães, técnica de enfermagem do campus Planaltina. (Foto: Alice Proba)_
+_Kenia Guimarães, técnica de enfermagem do campus Planaltina. (Foto: Alice Proba/Campus Online)_
 
 > “Eu dou dicas de como parar de fumar e alguma medicação a gente faz, quando a pessoa tem a receita médica e traz a medicação.'', diz Kenia Guimarães, técnica de enfermagem, há 24 anos na UnB.
 
 Outros serviços também prestados são a orientação no uso de anticoncepcionais, que, segundo Kenia, ocorrem bastante e também curativos em caso de acidentes mais leves, como arranhões.  Caso a situação seja grave o procedimento é o mesmo adotado em outros campi: chamar o SAMU.
 
-
-
 ## Casos de Emergência
 
 A orientação geral para casos de necessidade de atendimento emergencial nos campi da Universidade é a de contatar o Serviço de Atendimento Móvel de Emergência (SAMU) ou o Corpo de Bombeiros, através dos números 192 e 193, respectivamente. Isso acontece porque, de acordo com o Chefe de Gabinete da Reitoria, Paulo Cesar Marques, apesar do tipo de assistência à saúde supracitado, a Universidade não conta com um serviço oficial de prestação de primeiros socorros.
-
-
 
 ## Atribuições dos Núcleos de Atenção à Saúde
 
@@ -100,8 +96,6 @@ A orientação geral para casos de necessidade de atendimento emergencial nos ca
 \-Apoio em Campanhas;
 
 \-Orientações diversas.
-
-
 
 ## Localização dos Núcleos de Atenção à Saúde em cada campus
 
