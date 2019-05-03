@@ -1,6 +1,6 @@
 ---
 title: O destino final do lixo da UnB
-cover: 'https://ucarecdn.com/5c03b416-8e81-4204-8553-3b675b34f940/'
+cover: 'https://ucarecdn.com/e6f80636-0e8d-48da-b2df-f7faf08e40fc/'
 date: '2019-04-23'
 editorial: cidade
 authors:
@@ -15,13 +15,13 @@ featured: true
 ---
 Todo rejeito (lixo que não pode ser reaproveitado ou reciclado) é recolhido pelo Serviço de Limpeza Urbana (SLU) e encaminhado para o Aterro Sanitário de Samambaia. Lá, o lixo fica na área de disposição dos rejeitos para depois ser compactado e enterrado. A expectativa de vida do Aterro é de dez anos, contando a partir de 2017. Diariamente, são recebidas 2,7 mil toneladas. Em 2027, serão oito milhões de toneladas.
 
-![Aterro Sanitário de Samambaia visto de cima. (Foto: SLU/ Divulgação)](https://ucarecdn.com/0e9abf66-8fee-466b-b88a-ecdd15a20e16/)
+![Aterro Sanitário de Samambaia visto de cima. (Foto: SLU/ Divulgação)](https://ucarecdn.com/12cc227a-117c-4ea1-9f8e-ddc59d6f23a9/)
 
 A altura entre o lixo e a superfície é de, aproximadamente, 30 centímetros. Existem drenos instalados no solo para captar o chorume, que é encaminhado para a Caesb e diluído junto com o esgoto. Os gases liberados durante o processo são queimados, para evitar poluição. Até o dia 30 de junho, esse processo acontece. No entanto, após essa data, a UnB e outros órgãos públicos vão precisar contratar uma empresa responsável por essa coleta, de acordo com o Decreto de Grandes Geradores. Se opondo a esse decreto, existe um projeto de lei que está tramitando na Câmara dos Deputados para que não seja cobrado do próprio governo essa coleta, pois é uma tarefa do Governo do DF que seria uma despesa para o governo federal.
 
 Já o lixo seco do campus Darcy Ribeiro, é recolhido há dois anos pela Central de Reciclagem do Varjão (CRV). Lá o lixo é a principal fonte de renda das recicladoras, ou catadoras, que separam, pesam e depois vendem o material reciclado. Neste semestre, a CRV ainda não está recolhendo na UnB por conta do atraso do edital, mas a Prefeitura afirma que a partir de maio este trabalho será feito. Por enquanto, o lixo seco é recolhido pelo SLU e por carroceiros que pegam direto dos contêineres ou muitas vezes em outros locais da UnB, como pode ser visto na foto abaixo.
 
-![](https://ucarecdn.com/3f189463-153b-4941-9c69-bb354bfbda0b/)
+![](https://ucarecdn.com/88cf8c53-356e-412a-92b2-7d8cac5ded20/)
 
 _Na placa "proibido descartar lixo ou entulho", ao lado da FT. (Foto: Fernanda Bastos)_
 
@@ -29,7 +29,7 @@ O vidro é um material 100% reciclável, mas o Distrito Federal e a UnB não pos
 
 Os lixos perigosos, os biológicos e químicos, produzidos nos laboratórios do Instituto de Biologia e na Faculdade de Saúde, são recolhidos semanalmente pelo químico Eduardo Ferreira Pereira, 41, e pelo técnico de laboratório Noberto Fontenele Frota, 31. Eles realizam a pesagem e a separação nos três entrepostos da universidade (todos no campus Darcy Ribeiro; nos outros campi a coleta é realizada por agendamento) e levam os lixos para a empresa de tratamento. O gasto anual da UnB com o lixo biológico é de, em média, 78 mil reais e, com o químico, de 120 mil.
 
-![](https://ucarecdn.com/36ef08a9-fada-4a41-9051-59b19442afd8/)
+![](https://ucarecdn.com/dd1605cb-8371-4f3b-8ec8-e844459c8114/)
 
 _Coleta de lixo perigoso no entreposto do IB com uso de jaleco e luvas. (Foto: Giulia Soares)_
 
