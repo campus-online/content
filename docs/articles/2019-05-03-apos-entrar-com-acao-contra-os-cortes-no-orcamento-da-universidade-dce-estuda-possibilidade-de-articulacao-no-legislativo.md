@@ -23,7 +23,7 @@ headline: >-
 ---
 O Diretório Central dos Estudantes (DCE) da UnB entrou com uma ação civil pública na última terça-feira (30), no Tribunal Regional Federal da 1ª Região (TRF1), contra a medida do ministro da Educação, Abraham Weintraub, que decretou o corte de 30% no orçamento das Universidades Federais de Brasília (UnB), da Bahia (UFBA) e na Universidade Fluminense (UFF) no Rio de Janeiro. A ação protocolada pelo DCE foi despachada na tarde da última quinta-feira (3) para 7ª Vara Federal do Estado da Bahia, em Salvador, por conexão com outra ação civil pública registrada no estado baiano, também questionando a medida. 
 
-Segundo a presidente da chapa que coordena o Diretório, Jamile Sarchis, caso não seja concedida liminar que derrube a medida, a ideia é articular contra o ato do ministério da Educação (MEC) no Congresso Nacional. "A gente estuda a possibilidade de algum trabalho com o legislativo de pensar nisso em forma de Projeto de Lei (PL), fazer uma articulação em forma de um advocacy, conseguir algumas audiências públicas e mostrar, dentro da Câmara dos Deputados, projetos da UnB, provar que não é balbúrdia. De fato, fazemos ensino, pesquisa e extensão e que somos nota 5 no MEC", pontua. 
+Segundo a presidente da chapa que coordena o Diretório, Jamile Sarchis, caso não seja concedida liminar que derrube a medida, a ideia é articular contra o ato do ministério da Educação (MEC) no Congresso Nacional. "A gente estuda a possibilidade de algum trabalho com o legislativo de pensar nisso em forma de Projeto de Lei (PL), fazer uma articulação em forma de um _advocacy_, conseguir algumas audiências públicas e mostrar, dentro da Câmara dos Deputados, projetos da UnB, provar que não é balbúrdia. De fato, fazemos ensino, pesquisa e extensão e que somos nota 5 no MEC", pontua. 
 
 Jamile explica que a decisão do Diretório de judicializar um processo contra o corte anunciado pelo MEC se deu, principalmente, por não existirem critérios específicos para a medida.
 
@@ -46,3 +46,5 @@ No mesmo dia em que a medida foi divulgada, as Universidades atingidas se pronun
 > “Nós percebemos que deveria ser feito algo forte e eficiente. Não ia adiantar ficarmos no discurso, fazer nota, enfim. A própria reitora da UnB, Márcia Abrahão, já havia dito que estava tentando o diálogo, mas é muito difícil a reversão via diálogo” explica Jamile.
 
 O Ministério da Educação deve ser oficiado pelo MPF para prestar informações. Caso o inquérito do MPF conclua que a restrição orçamentária teve como base critérios que violem a liberdade de expressão e à autonomia universitária, a medida pode ser alvo de ação judicial pública também se somando aos processos.
+
+_\*Advocacy é uma ação política realizada por um indivíduo, organização ou grupo de pressão, no interior das instituições políticas, a fim de influenciar a formulação de políticas e a alocação de recursos públicos._
