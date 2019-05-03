@@ -2,7 +2,8 @@
 title: >-
   Após entrar com Ação contra os cortes no orçamento da Universidade, DCE estuda
   possibilidade de articulação no Legislativo  
-cover: 'https://ucarecdn.com/bae4d1e0-3a92-4d93-825d-8a48698c98f0/'
+cover: >-
+  https://ucarecdn.com/9354b885-05ba-4f25-b394-305f6a400ee4/-/crop/630x413/0,0/-/preview/
 date: '2019-05-03'
 editorial: educacao
 authors:
