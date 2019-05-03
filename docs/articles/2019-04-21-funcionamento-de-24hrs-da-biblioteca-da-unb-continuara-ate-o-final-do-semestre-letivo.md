@@ -1,6 +1,7 @@
 ---
 title: Funcionamento 24h da Biblioteca da UnB continua
-cover: 'https://ucarecdn.com/d5a6cdba-bacf-4e11-ad0b-9131c94858fb/'
+cover: >-
+  https://ucarecdn.com/3701964f-1dfd-40fe-864b-45d1355bb1ef/-/crop/960x722/0,387/-/preview/
 date: '2019-04-23'
 editorial: cidade
 authors:
@@ -28,7 +29,7 @@ Os usuários têm muitos elogios. “Esse serviço é fundamental para institui�
 
 Para João Victor Veras de Antropologia, a noite é o melhor horário para se estudar “Eu tenho o dia muito corrido, trabalho e estudo, e a noite é o único horário que eu tenho para estudar, e a biblioteca estando aberta me ajuda muito”, conta. O público noturno é formado basicamente por universitários ou pessoas estudando para alguma avaliação específica e que veem na biblioteca um lugar seguro e calmo para estudar, sendo o único local em Brasília a ofertar esse serviço 24h.
 
-![](https://ucarecdn.com/37f23eb1-0782-4862-abae-22bab5daf6ac/ "(Foto: Louani Badu)")
+![](https://ucarecdn.com/5fa689d8-acb4-4deb-98d4-357a5c319b28/ "(Foto: Louani Badu)")
 
 _A sala de estudos da BCE é usada na madrugada por, principalmente, universitários e estudantes que se preparam para concursos públicos. (Foto: Louani Badu)_
 
