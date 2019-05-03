@@ -1,6 +1,6 @@
 ---
 title: Beatris de Deus
 semester: 2019/1
-image: 'https://ucarecdn.com/a7e81f44-ead8-44e4-8da5-f466603dc5ea/'
+image: 'https://ucarecdn.com/9c91eb32-8a71-43af-9124-018e5532cfef/'
 ---
 Repórter do Campus Online.
