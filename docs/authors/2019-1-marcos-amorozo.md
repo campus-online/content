@@ -1,6 +1,6 @@
 ---
 title: Marcos Amorozo
 semester: 2019/1
-image: 'https://ucarecdn.com/bcf87392-419a-4b90-9f1b-c5a53d00b3d0/'
+image: 'https://ucarecdn.com/6795e09a-b2da-4a63-941e-0e079885fec6/'
 ---
 Repórter do Campus Online.
