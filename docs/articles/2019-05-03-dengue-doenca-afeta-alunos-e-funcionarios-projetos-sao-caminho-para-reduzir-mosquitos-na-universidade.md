@@ -17,7 +17,7 @@ headline: >-
   Universidade de Brasília (UnB), Rafael Carneiro, revela um problema recorrente
   em todo o Brasil nos tempos chuvosos: o Aedes Aegypti.
 ---
-Estima-se que exista 165 milhões de isentos para cada ser humano na terra, e os mosquitos representam uma parcela significativa e um problema nos países tropicais. Entre as doenças transmitidas por esses animais, está a dengue. De acordo com o último boletim da Secretaria de Saúde do Distrito Federal, somente na Asa Norte e neste ano, já são 100 possíveis casos da doença.
+Estima-se que existam 165 milhões de insetos para cada ser humano na terra, e os mosquitos representam uma parcela significativa deles, além de serem um problema nos países tropicais. Entre as doenças transmitidas por esses animais, está a **dengue**. De acordo com o último boletim da Secretaria de Saúde do Distrito Federal, somente na Asa Norte e neste ano, já são 100 possíveis casos da doença.
 
 Um retrato dessa quantidade de mosquitos e do risco é o subsolo do Instituto Central de Ciências (ICC). Para Rafael, o local é onde mais se encontra pernilongos e mosquitos da dengue na universidade.
 
