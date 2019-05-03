@@ -1,6 +1,8 @@
 ---
-title: Dados mostram o panorama dos banheiros nos quatros campi da UnB
-cover: 'https://ucarecdn.com/231d7ac4-0e45-4645-b814-713b7df2956f/'
+title: >-
+  56% dos banheiros da UnB não possuem acessiblidade para pessoas com
+  dificuldades de de locomoção
+cover: 'https://ucarecdn.com/cbdf48f1-eb1e-4d14-b73a-ee0fd79f3d09/'
 date: '2019-04-17'
 editorial: cidade
 authors:
@@ -29,15 +31,13 @@ tags:
   - acessibilidade
   - universidade
 featured: true
-headline: >-
-  Dos 192 banheiros avaliados, 56% não possuem acessibilidade para pessoas com
-  dificuldades de locomoção
+headline: Foram 192 banheiros avaliados nos 4 campi da Universidade de Brasília
 ---
 Pesquisa realizada por estudantes de jornalismo da Universidade de Brasília (UnB) indica que apenas 44% dos banheiros da instituição possuem acessibilidade. Ao todo, foram verificados 192 banheiros nos quatro campi da UnB, e, a partir dos dados, foram listados quais eram as melhores opções para uso dos estudantes, servidores e demais frequentadores da UnB. 
 
 O estudo contabilizou se os espaços possuíam itens básicos como papel higiênico, sabonete, vasos sanitários com descargas funcionando, iluminação e trancas. Confira abaixo:
 
-![](https://ucarecdn.com/cca7745e-3458-4a32-ba2c-b1e9ac643ee3/ "Fonte: Campus Multimídia, 2019.")
+![](https://ucarecdn.com/e58323bf-9a1f-4906-a362-06c21446ec71/ "Fonte: Campus Multimídia, 2019.")
 
 _Fonte: Campus Multimídia, 2019._
 
