@@ -1,7 +1,5 @@
 ---
-title: >-
-  Dengue: doença afeta alunos e funcionários; projetos são caminho para reduzir
-  mosquitos na universidade
+title: 'Dengue: doença afeta alunos e funcionários'
 cover: 'https://ucarecdn.com/7145b98c-4526-473a-b1de-8e54be849210/'
 date: '2019-05-03'
 editorial: comportamento
@@ -12,12 +10,13 @@ tags:
   - cidade
   - saúde
 featured: true
-headline: >-
-  “Eles chegam a carregar a gente.” A frase do estudante de Serviço Social da
-  Universidade de Brasília (UnB), Rafael Carneiro, revela um problema recorrente
-  em todo o Brasil nos tempos chuvosos: o Aedes Aegypti.
+headline: Projetos são caminho para reduzir mosquitos na universidade
 ---
+“Eles chegam a carregar a gente.” A frase do estudante de Serviço Social da Universidade de Brasília (UnB), Rafael Carneiro, revela um problema recorrente em todo o Brasil nos tempos chuvosos: o Aedes Aegypti.
+
 Estima-se que existam 165 milhões de insetos para cada ser humano na terra, e os mosquitos representam uma parcela significativa deles, além de serem um problema nos países tropicais. Entre as doenças transmitidas por esses animais, está a **dengue**. De acordo com o último boletim da Secretaria de Saúde do Distrito Federal, somente na Asa Norte e neste ano, já são 100 possíveis casos da doença.
+
+“Eles chegam a carregar a gente.” A frase do estudante de Serviço Social da Universidade de Brasília (UnB), Rafael Carneiro, revela um problema recorrente em todo o Brasil nos tempos chuvosos: o Aedes Aegypti.
 
 Um retrato dessa quantidade de mosquitos e do risco é o subsolo do Instituto Central de Ciências (ICC). Para Rafael, o local é onde mais se encontra pernilongos e mosquitos da dengue na universidade.
 
