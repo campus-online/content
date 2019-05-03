@@ -1,6 +1,6 @@
 ---
 title: Maria Antônia Meneses
 semester: 2019/1
-image: 'https://ucarecdn.com/bcf7b7fb-12e1-4a54-8066-8f93d9bb8b77/'
+image: 'https://ucarecdn.com/cdddeb64-9fac-4e01-a901-b7eb13aed19b/'
 ---
 Repórter do Campus Online.
