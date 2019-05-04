@@ -35,8 +35,6 @@ A ação civil, assim como outras já instauradas até o momento, se sustentam n
 
 O corte de verbas das Universidades federais foi anunciado pelo MEC nessa terça-feira (30). Em entrevista ao jornal O Estado de S. Paulo, o ministro Abraham Weintraub afirmou que reduziria os repasses para instituições que fizessem “balbúrdia”. As notícias sobre o pronunciamento tiveram ampla repercussão e deram destaque às respostas das Universidades emitidas por notas oficias, que refutavam a medida.
 
-Rapidamente a notícia se espalhou pelo Brasil, tendo um grande destaque para respostas, das Universidade atingidas, que desmistificam as justificativas da medida.
-
 Veja o material produzido pelo Jornal Campus que aponta [6 fatos que comprovam a “balbúrdia” que a UnB tem feito ao longo desses 53 anos. ](https://twitter.com/i/moments/1123249794326175744)
 
 ## Sem diálogo
