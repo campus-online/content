@@ -1,5 +1,5 @@
 ---
-title: Plataforma online paga por anotações de estudantes
+title: Plataforma online premia estudantes por anotações de aula
 cover: 'https://ucarecdn.com/1756defe-b661-45cf-bf16-c3dfecb0869b/'
 date: '2019-05-07'
 editorial: cidade
