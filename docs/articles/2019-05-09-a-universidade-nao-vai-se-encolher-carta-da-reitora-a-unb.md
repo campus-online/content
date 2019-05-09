@@ -1,5 +1,6 @@
 ---
 title: A Universidade não vai se encolher – carta da reitora à UnB
+cover: 'https://ucarecdn.com/72fcab95-4db5-443e-952f-91b2a7467ba3/'
 date: '2019-05-09'
 editorial: politica
 authors:
