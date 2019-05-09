@@ -27,7 +27,7 @@ _Sala do Programa de Apoio às Pessoas com Necessidades Especiais. (Foto: Alice 
 
 ![](https://ucarecdn.com/661f43c5-4b9b-4db6-99da-0d66cbd07868/)
 
-_AnÂngelogelo está á dois anos no PPNE. (Foto: Alice Proba/Campus Online)_
+_Ângelo está há dois anos no PPNE. (Foto: Alice Proba/Campus Online)_
 
 Questionada a respeito da criação de núcleos do PPNE nos outros campi da UnB e a aquisição de novos veículos, a reitoria não se manifestou até o fechamento desta reportagem.
 
