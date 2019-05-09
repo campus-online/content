@@ -15,7 +15,7 @@ tags:
 featured: true
 headline: ''
 ---
-A Coordenação de Apoio a Pessoas com Deficiência (PPNE), possui um veículo, destinado aos estudantes da UnB com deficiência física, visual e mobilidade reduzida, os estudantes que necessitam do carro, devem ir a PPNE e fazer um pré-agendamento, informando quais os dias, horários e locais que o aluno precisa estar. Atualmente esse serviço só está presente no campus Darcy Ribeiro.
+A Coordenação de Apoio a Pessoas com Deficiência (PPNE), possui um veículo, destinado aos estudantes da UnB com deficiência física, visual e mobilidade reduzida.  estudantes que necessitam do carro, devem ir à sala dada  e fazer um pré-agendamento, informando quais os dias, horários e locais que o aluno precisa estar. Atualmente esse serviço só está presente no campus Darcy Ribeiro.
 
 ![](https://ucarecdn.com/661f43c5-4b9b-4db6-99da-0d66cbd07868/)
 
