@@ -17,9 +17,17 @@ headline: ''
 ---
 A Coordenação de Apoio a Pessoas com Deficiência (PPNE), possui um veículo, destinado aos estudantes da UnB com deficiência física, visual e mobilidade reduzida.  estudantes que necessitam do carro, devem ir à sala dada  e fazer um pré-agendamento, informando quais os dias, horários e locais que o aluno precisa estar. Atualmente esse serviço só está presente no campus Darcy Ribeiro.
 
+O PPNE atende estudantes da UnB com necessidades educacionais específicas, estudantes com deficiência física, visual, auditiva, intelectual ou múltipla, transtorno do espectro autista, dislexia, déficit de atenção, altas habilidades, superdotação e mobilidade reduzida, funciona de 8h às 12h e de 14h às 18h, no Instituto Central de Ciências Norte (ICC Norte), ao lado da xerox Exata, de frente para a Faculdade de Comunicação (FAC).
+
+![](https://ucarecdn.com/4dfbd4b8-7ab9-42d8-aa6f-3ccd05cc99ad/-/crop/1200x739/0,447/-/preview/)
+
+_Sala do Programa de Apoio às Pessoas com Necessidades Especiais. (Foto: Alice Proba/Campus Online)_
+
+> _“Geralmente são trocas de salas de aula, tem aula em um setor, depois sai do setor e vai pra outro, fica complicado para os alunos fazerem esse trajeto, então a gente precisa fazer esse transporte”, diz Ângelo Alvez, motorista do veículo._
+
 ![](https://ucarecdn.com/661f43c5-4b9b-4db6-99da-0d66cbd07868/)
 
-_“Geralmente são trocas de salas de aula, tem aula em um setor, depois sai do setor e vai pra outro, fica complicado para os alunos fazerem esse trajeto, então a gente precisa fazer esse transporte”, diz Ângelo Alvez motorista do veículo e há dois anos no PPNE. (Foto: Alice Proba/Campus Online)_
+_AnÂngelogelo está á dois anos no PPNE. (Foto: Alice Proba/Campus Online)_
 
 Questionada a respeito da criação de núcleos do PPNE nos outros campi da UnB e a aquisição de novos veículos, a reitoria não se manifestou até o fechamento desta reportagem.
 
@@ -36,9 +44,3 @@ Jocilia Conceição, mãe de Millena Morais, estudante da Faculdade de Direito, 
 ![](https://ucarecdn.com/973e2702-14ab-48b9-b651-d0df25a07b60/)
 
 _Jocilia e Millena na Casa do Estudante Universitário (CEU/UnB), depois de pegarem o veículo na Faculdade de Direito. (Foto: Alice Proba/Campus Online)_
-
-O PPNE atende estudantes da UnB com necessidades educacionais específicas, estudantes com deficiência física, visual, auditiva, intelectual ou múltipla, transtorno do espectro autista, dislexia, déficit de atenção, altas habilidades, superdotação e mobilidade reduzida, funciona de 8h às 12h e de 14h às 18h, no Instituto Central de Ciências Norte (ICC Norte), ao lado da xerox Exata, de frente para a Faculdade de Comunicação (FAC).
-
-![](https://ucarecdn.com/4dfbd4b8-7ab9-42d8-aa6f-3ccd05cc99ad/-/crop/1200x739/0,447/-/preview/)
-
-_Sala do Programa de Apoio às Pessoas com Necessidades Especiais. (Foto: Alice Proba/Campus Online)_
