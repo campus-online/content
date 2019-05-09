@@ -44,3 +44,13 @@ Jocilia Conceição, mãe de Millena Morais, estudante da Faculdade de Direito, 
 ![](https://ucarecdn.com/973e2702-14ab-48b9-b651-d0df25a07b60/)
 
 _Jocilia e Millena na Casa do Estudante Universitário (CEU/UnB), depois de pegarem o veículo na Faculdade de Direito. (Foto: Alice Proba/Campus Online)_
+
+## _Rumo à uma UnB mais acessível_
+
+Segundo o Centro de Planejamento Oscar Niemeyer (Ceplan), no ano de 2017 foi criado um Grupo de Trabalho com o objetivo de elaborar um Laudo de Acessibilidade de todas as dependências do Campus Darcy Ribeiro e apresentar um Plano de Ação para efetuar as intervenções necessárias. Está em andamento a obra de adequação de acessibilidade do Instituto Central de Ciências (ICC) e da Biblioteca Central (BCE), com instalação de guarda-corpos, nas circulações horizontais e verticais, e acordo com a  legislação vigente.
+
+No ICC está em acontecendo a construção de um conjunto de sanitários que prevê medidas de acessibilidade no entrevigas BT 568-573 enquanto, na reitoria, a obra de um banheiro está prestes a ser concluída.
+
+A INFRA está mapeando novas intervenções e estão previstas novas obras nos outros campi da UnB.
+
+__
