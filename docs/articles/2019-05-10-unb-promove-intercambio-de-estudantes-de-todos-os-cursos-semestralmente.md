@@ -21,7 +21,7 @@ Toda a comunidade acadêmica é abrangida pelas seleções promovidas pelo INT, 
 
 Cada edital possui suas particularidades, mas seguem um padrão de pré-requisitos como: ter Índice de Rendimento Acadêmico (IRA) igual ou superior a 3,0, ser aluno regular da UnB, ter cursado no mínimo 40% e no máximo 90% dos créditos exigidos para graduação no curso, comprovar proficiência no idioma da universidade desejada e não estar como provável formando no semestre relativo a realização do intercâmbio. 
 
-## Inscrição
+## Inscrições
 
 Para a inscrição, o INT disponibiliza um formato de organização e de envio de cada documento para o somatório de pontos na classificação do estudante e é importante o candidato seguir o passo a passo, pois caso não esteja dentro dos documentos aceitos, pode invalidar os pontos no item fora das regras, como é o caso de certificados de idiomas, item decisivo para algumas situações. 
 
