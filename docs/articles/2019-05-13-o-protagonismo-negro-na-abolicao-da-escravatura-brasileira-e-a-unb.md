@@ -1,6 +1,6 @@
 ---
 title: O protagonismo negro na abolição da escravatura brasileira e a UnB
-cover: 'https://ucarecdn.com/42a57ff2-5338-4fc6-89ef-e89436ca3e6a/'
+cover: 'https://ucarecdn.com/bc8c3145-014a-47b2-9ea6-eb87b629b4ae/'
 date: '2019-05-13'
 editorial: cidade
 authors:
