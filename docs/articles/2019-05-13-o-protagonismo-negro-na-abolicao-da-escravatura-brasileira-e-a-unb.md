@@ -4,6 +4,7 @@ cover: 'https://ucarecdn.com/42a57ff2-5338-4fc6-89ef-e89436ca3e6a/'
 date: '2019-05-13'
 editorial: cidade
 authors:
+  - 2019-1-mariam-kone
   - 2019-1-milena-castro
   - 2019-1-talita-de-souza
 semester: 2019/1
