@@ -19,7 +19,7 @@ Vale-refeição é o benefício dado aos empregados para que eles se alimentem, 
 
 Pensando nisso e considerando a vastidão da comunidade acadêmica da Universidade de Brasília (UnB), que permite implicar que nela há beneficiários, sejam eles docentes e/ou discentes, de vales deste tipo, um levantamento a respeito de quais lanchonetes aceitavam o vale foi feito no Campus Darcy Ribeiro.
 
-O levantamento teve como base lanchonetes, cafés e cantinas listados no portal oficial da UnB como fornecedores de serviços de alimentação, em complementação aos serviços do Restaurante Universitário (RU). Com isso, 22 estabelecimentos foram analisados, e constatou-se que somente 3 deles aceitam o benefício, sendo estes duas redes de restaurantes fast-food, **Spoleto** e **Subway** (ambas localizadas próximas ao posto de gasolina da Petrobras na Universidade), e o **Restaurante da FINATEC** (Fundação de Empreendimentos Científicos e Tecnológicos).
+O levantamento teve como base lanchonetes, cafés e cantinas listados no portal oficial da UnB como fornecedores de serviços de alimentação, em complementação aos serviços do Restaurante Universitário (RU). Com isso, 22 estabelecimentos foram analisados, e constatou-se que somente 2 deles aceitam o benefício, sendo estes duas redes de restaurantes fast-food, **Spoleto** e **Subway** (ambas localizadas próximas ao posto de gasolina da Petrobras na Universidade), que aceitam os vales-refeição **Alelo** e **Sodexo**.
 
 ## Principais razões para a recusa
 
@@ -38,3 +38,5 @@ A mesma intenção é refletida na fala de Matheus Alves, encarregado do restaur
 Por ora, o Restaurante Universitário (RU) da UnB afirma não aceitar o vale-refeição como forma de pagamento. No entanto, de acordo com a coordenadora de gestão administrativa do restaurante, Mayla Angeline, há a intenção de se modificar este cenário: "Ainda não aceitamos, mas pretendemos. Não há previsão exata para isso, vai depender da Sanoli (empresa terceirizada responsável pelo fornecimento de refeições no RU)".
 
 Para Anderson de Castro, estudante de Administração da UnB, tal mudança seria benéfica: "Tenho costume de comer na Universidade quase todo dia, no RU. Não faço uso do vale, mas acho que seria excelente.”
+
+\[ATUALIZAÇÃO: Na data de publicação desta postagem, o Campus Online divulgou que 3 restaurantes aceitavam vale-refeição no Campus Darcy Ribeiro, o Spoleto, Subway e o Restaurante da FINATEC. No entanto, nos primeiros dias de maio, o Restaurante da FINATEC passou a não ser mais aberto ao público, sendo assim, o Campus Online o retirou da lista. Em adição, informamos quais vales são aceitos nos dois restaurantes remanescentes: Alelo e Sodexo.]
