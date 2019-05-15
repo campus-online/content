@@ -32,14 +32,12 @@ O estudante de Publicidade e Propaganda Lucas Moraes já ofereceu e pegou carona
 
 ## Outras formas de conseguir carona
 
-Além do Carona Phone, existem diversos aplicativos com a mesma finalidade. Um deles é o “Waze Carpool”, onde a maioria das caronas custam dois reais e o funcionamento é semelhante ao do CaronaPhone. Outra opção é o “BlaBlaCar”, porém o foco desse aplicativo é viagens de longa distância.
+Além do Carona Phone, existem diversos aplicativos com a mesma finalidade. Um deles é o “Waze Carpool”, onde a maioria das caronas custa dois reais e o funcionamento é semelhante ao do CaronaPhone. Outra opção é o “BlaBlaCar”, porém o foco desse aplicativo é viagens de longa distância.
 
 Nas descrições de todos esses aplicativos, é salientado que o principal objetivo é reduzir o número de carros nas ruas e, consequentemente, o nível de CO2 despejado na atmosfera. Segundo o Detran, o DF tem uma frota de 1.746.820 veículos e oferecer carona é uma forma de diminuir o trânsito na cidade, levando em consideração que a maioria dos carros trafegam com uma ou duas pessoas.
 
-É uma opção eficiente tanto para quem oferece a carona, porque reduz os custos da gasolina, e para quem pega, por ser mais confortável e rápido.
+É uma opção eficiente tanto para quem oferece a carona, porque reduz os custos da gasolina, quanto para quem pega, por ser mais confortável e rápido.
 
 ## Lei da Carona Solidária
 
-Vale lembrar que esse tipo de aplicativo é regularizado por lei, aprovada no final do ano passado na Câmara Legislativa do Distrito Federal. A Lei N° 6231 de 06/12/2018 considera como carona solidária o transporte de passageiros sem fins lucrativos, mas é permitido que o motorista divida os custos do combustível.
-
-A lei impediu que o motorista seja acusado de transporte ilegal.
+Vale lembrar que esse tipo de aplicativo é regularizado por lei, aprovada no final do ano passado na Câmara Legislativa do Distrito Federal. A Lei N° 6231 de 06/12/2018 considera como carona solidária o transporte de passageiros sem fins lucrativos, mas é permitido que o motorista divida os custos do combustível. A lei impede que o motorista seja acusado de transporte ilegal.
