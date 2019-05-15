@@ -12,6 +12,6 @@ tags:
   - unb
 featured: true
 ---
-O primeiro programa do CampusCast 2019/1 está no ar. Confira o primeiro episódio de **Qual é a sua história?**, produzido pelas repórteres Beatris de Deus e Perrine Juan, exclusivamente para o Campus Online.
+O primeiro programa do CampusCast 2019/1 está no ar. Confira o primeiro episódio de **Qual é a sua história?**, produzido pelas repórteres Beatris de Deus e Perrine Juan, para o Campus Online.
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/619674618&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
