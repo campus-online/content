@@ -18,7 +18,7 @@ headline: >-
   Serviço ajuda a reduzir os custos da gasolina para os motoristas e a emissão
   de CO2 do DF
 ---
-Diariamente, milhares de estudantes se deslocam para chegar até a UnB. Eles chegam de ônibus, carro, bicicleta, patinete ou a pé. Pensando na comodidade e na segurança desses alunos, um grupo de alunos de Ciência da Computação, em parceria com o Design, lançou o aplicativo “Carona Phone”.
+Diariamente, milhares de estudantes se deslocam para chegar até a UnB. Eles chegam de ônibus, carro, bicicleta, patinete ou a pé. Pensando na comodidade e na segurança desses alunos, um grupo de estudantes de Ciência da Computação, em parceria com o Design, lançou o aplicativo “Carona Phone”.
 
 Segundo o criador do aplicativo, Márcio Batista, o aplicativo existe para reduzir o grande número de carros circulando com apenas uma pessoa.
 
