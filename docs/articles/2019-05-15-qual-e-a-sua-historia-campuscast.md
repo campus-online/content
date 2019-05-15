@@ -10,7 +10,7 @@ semester: 2019/1
 tags:
   - podcast
   - unb
-featured: true
+featured: false
 ---
 O primeiro programa do CampusCast 2019/1 está no ar. Confira o primeiro episódio de **Qual é a sua história?**, produzido pelas repórteres Beatris de Deus e Perrine Juan, para o Campus Online.
 
