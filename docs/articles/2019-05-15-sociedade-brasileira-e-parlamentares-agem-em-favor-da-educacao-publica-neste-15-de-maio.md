@@ -24,4 +24,14 @@ O ato, que reuniu estudantes, professores, membros da sociedade civil, sindicato
 
 Após a manifestação, o Ministro da Educação compareceu ao plenário da Câmara dos Deputados, para o qual havia sido convocado, a fim de prestar esclarecimentos sobre os bloqueios de orçamento de instituições federais de educação. Em favor do contingenciamento, o ministro apresentou dados sobre a situação atual dos ensinos básico, fundamental, médio e superior. Afirmou que o último é o que está com a situação mais satisfatória no Brasil e, também, que essa situação é advinda da iniciativa privada. 
 
-Abraham Weintraub alegou também que o governo atual não é responsável pelo contingenciamento e culpa os governos anteriores.
+Abraham Weintraub alegou também que o governo atual não é responsável pelo contingenciamento e culpa os governos anteriores. 
+
+## Para mais informações sobre o contigenciamento de verbas da UnB, leia também:
+
+[A Universidade não vai se encolher – carta da reitora à UnB](https://campus.fac.unb.br/materias/2019-05-09-a-universidade-nao-vai-se-encolher-carta-da-reitora-a-unb/)
+
+[Após entrar com Ação contra os cortes no orçamento da Universidade, DCE estuda possibilidade de articulação no Legislativo](https://campus.fac.unb.br/materias/2019-05-03-apos-entrar-com-acao-contra-os-cortes-no-orcamento-da-universidade-dce-estuda-possibilidade-de-articulacao-no-legislativo/)
+
+[6 momentos em que a UnB só fez "balbúrdia"](https://twitter.com/i/moments/1123249794326175744)
+
+[Nota da Reitoria da UnB sobre o Bloqueio Orçamentário](https://twitter.com/campusitounb/status/1125759682122067975)
