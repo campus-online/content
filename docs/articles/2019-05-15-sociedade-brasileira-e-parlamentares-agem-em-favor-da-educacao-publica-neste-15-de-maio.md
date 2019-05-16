@@ -18,7 +18,7 @@ headline: >-
   Educação comparece ao plenário da Câmara dos Deputados para dar
   esclarecimentos
 ---
-Em prol da educação pública e contra o contingenciamento de verbas das instituições federais de educação, manifestantes saíram às ruas nesta quarta-feira (15). O ato ocorreu em aderência à paralisação nacional e, em Brasília, reuniu cerca de 6 mil participantes, de acordo com a Polícia Militar. O Campus Online fez a [cobertura ao vivo](https://twitter.com/campusitounb/status/1128648472821993472) da manifestação.
+Em prol da educação pública e contra o contingenciamento de verbas das instituições federais de educação, manifestantes saíram às ruas nesta quarta-feira (15). O ato ocorreu em aderência à paralisação nacional e, em Brasília, reuniu cerca de 6 mil participantes, de acordo com a Polícia Militar ao final do . De acordo com os organizadores, 50 mil pessoas estavam presentes. O us Online fez a [cobertura ao vivo](https://twitter.com/campusitounb/status/1128648472821993472) da manifestação.
 
 O ato, que reuniu estudantes, professores, membros da sociedade civil, sindicatos, deputados federais e distritais, dentre outros grupos, foi motivado pelo bloqueio de verbas das universidades públicas, dentre elas, a Universidade de Brasília (UnB). O bloqueio anunciado pelo Ministro da Educação, Abraham Weintraub, no dia 30 de abril, teve como justificativa a promoção de "balbúrdia" e a não apresentação de resultados acadêmicos satisfatórios pelas instituições.
 
