@@ -18,7 +18,7 @@ Entre eles, encontra-se o Bio Talk, projeto do PET-Bio, que tem por finalidade p
 
 Vitória Monteiro, formada em engenharia agronômica e mestranda na área de Fitopatologia na Universidade de Brasília, participou do Bio Talk e acredita que o inglês não é mais considerado um diferencial, é algo básico. “A maior parte dos artigos que lemos é em inglês, por isso existe a necessidade de aprender cada vez mais a língua”, contou ao Campus. 
 
-<audio src="https://drive.google.com/open?id=1JtDXTJYRJpzhfamhAVf7jC0YTxB7zDhe" controls></audio>
+<audio id="musica" controls="controls"><source src="C:\Usuarios\giova\Documentos\audio.mp3" type=audio/mpeg/ width="100%" height="300"></audio>
 
 Já o projeto “Trocando as línguas”, com a professora Janaína Soares do Departamento de Línguas Estrangeiras e Tradução busca uma troca, um intercâmbio entre as línguas. Segundo a docente, o projeto está firme com alunos de formação em línguas estrangeiras para crianças, mas tem interesse em expandir a iniciativa. “Meu desejo é realmente que seja uma iniciativa movida pelos alunos ou que se dê continuidade com eles”, relata.
 
@@ -26,7 +26,7 @@ Os encontros têm a duração estimada de cinquenta minutos e já contou com a p
 
 Existe também um projeto interdisciplinar para o acolhimento e inserção de imigrantes e refugiados.  “Ensinamos o português para que eles consigam se comunicar no dia a dia (...) para que consigam vencer as barreiras linguísticas diariamente”, conta Pedro Morais, estudante de PBSL que deu aulas no projeto. 
 
-## NEEPE 
+## NEEPE
 
 Criado em 2012, Núcleo de Ensino e Pesquisa em Português para Estrangeiros (NEEPE) oferece isenção de taxa de cursos para alunos que sejam professores e/ou pesquisadores vinculados à UnB.
 
