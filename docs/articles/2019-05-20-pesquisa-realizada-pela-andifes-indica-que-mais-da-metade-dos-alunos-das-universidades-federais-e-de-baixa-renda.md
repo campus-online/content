@@ -15,29 +15,27 @@ tags:
   - assistência estudantil
 featured: true
 ---
-A pesquisa realizada pela Associação Nacional dos Dirigentes das Instituições Federais de Ensino Superior (Andifes) e o Fórum Nacional de Pró-Reitores de Assistência Estudantil (FONAPRACE), sobre o perfil do estudante de graduação nas universidades federais lançada na última quinta-feira, dia 16, quando membros da Andifes se encontraram com o então Ministro da Educação, Abraham Weintraub. 
+A pesquisa realizada pela Associação Nacional dos Dirigentes das Instituições Federais de Ensino Superior (Andifes) e o Fórum Nacional de Pró-Reitores de Assistência Estudantil (FONAPRACE), sobre o perfil do estudante de graduação nas universidades federais lançada na última quinta-feira (16) quando membros da Andifes se encontraram com o atual Ministro da Educação, Abraham Weintraub. 
 
-A reunião aconteceu semanas após Weintraub comunicar o corte de 30% em verbas destinada à Universidade de Brasília (UnB), Universidade Federal da Bahia (UFBA) e a Universidade Federal Fluminense (UFF). Após a declaração, o ministro informou que corte afeta todas as universidade federais do País. Protestos foram realizados em todo o País. O Campus Online cobriu a manifestação em Brasília (link da matéria https://campus.fac.unb.br/materias/2019-05-15-sociedade-brasileira-e-parlamentares-agem-em-favor-da-educacao-publica-neste-15-de-maio/)
+A reunião aconteceu semanas após Weintraub comunicar o corte de 30% em verbas destinadas à Universidade de Brasília (UnB), Universidade Federal da Bahia (UFBA) e a Universidade Federal Fluminense (UFF). Após a declaração, o ministro informou que corte afeta todas as universidade federais do País. Protestos foram realizados em todo o País. [O Campus Online cobriu a manifestação em Brasília](https://campus.fac.unb.br/materias/2019-05-15-sociedade-brasileira-e-parlamentares-agem-em-favor-da-educacao-publica-neste-15-de-maio/).
 
-Das 65 instituições que participaram da pesquisa em 2018, a UnB obteve o percentual de 42,7% das respostas, ficando em 21 lugar. 
+Das 65 instituições que participaram da pesquisa em 2018, a UnB obteve o percentual de 42,7% das respostas, ficando em 21º lugar. 
 
 ![](https://ucarecdn.com/f1536eca-187f-418a-991d-3c7317d87a70/)
 
 _Da estimativa de 38,603 alunos, 16.491 responderam a pesquisa. (Fonte: Andifes)_
 
-Segundo a Andifes, “as informações são fundamentais para gerar subsídios para a criação e manutenção e políticas públicas e diagnóstico de como está o corpo discente das instituições federais de Ensino Superior com a finalidade de auxiliar nas demandas de assistência estudantil”.
+Segundo a Andifes, “as informações são fundamentais para gerar subsídios para a criação e manutenção de políticas públicas e diagnóstico de como está o corpo discente das instituições federais de Ensino Superior com a finalidade de auxiliar nas demandas de assistência estudantil”.
 
- Segundo o levantamento, 26,61% dos alunos têm renda de até meio salário mínimo, 26,93% de até um salário mínimo, e 16,61% de até um salário e meio, totalizando 70,2%. Em 2014, quando foi feita a última pesquisa, eles eram 66,2%. 
+De acordo com dados da pesquisa, 26, 61% dos alunos têm renda de até meio salário mínimo, 26,93% têm renda de até um salário mínimo e 16,61% até um salário mínimo e meio. O total desses percentuais é de 70,2%. Em 2014, quando foi feita a última pesquisa, eles eram 66,2%. A UnB é a instituição que tem menos estudantes com esse perfil, levando em consideração cada estado.
 
-Segundo os dados da pesquisa, 26, 61% dos alunos têm renda de até meio salário mínimo, 26,93% têm renda de até um salário mínimo e 16,61% até um salário mínimo e meio. O total desses percentuais é de 70,2%. A UnB é a instituição que tem menos estudantes com esse perfil, levando em consideração cada estado.
-
-“Fica evidente que as instituições federais ainda são frequentadas principalmente por pessoas ricas”, afirmou César Augusto da Ros, membro do FONAPRACE. 
+> “Fica evidente que as instituições federais ainda são frequentadas principalmente por pessoas ricas”, afirmou César Augusto da Ros, membro do FONAPRACE. 
 
 Além disso, a pesquisa indicou a principal dificuldade relatada pelos estudantes quanto ao desempenho acadêmico. Segundo eles, a falta de disciplina é a principal dificuldade, com 28,4% do total, seguida por dificuldades financeiras, 24,7%, e a carga excessiva de trabalhos na universidade, com 23,7%. 
 
-## Sistema de cotas para escola pública 
+## Sistema de cotas para escola pública
 
-A Lei nº 12.711/2012, regulamentada pelo decreto 7.824/12 e conhecida como Lei de Cotas,  garante que 50% das vagas nas universidade públicas do País seja estabelecida para estudantes que frequentaram o ensino médio em escolas públicas. 
+A Lei nº 12.711/2012, regulamentada pelo decreto 7.824/12 e conhecida como Lei de Cotas, garante que 50% das vagas nas universidade públicas do país sejam reservadas para estudantes que frequentaram o ensino médio em escolas públicas. 
 
 Desta porcentagem são subdivididos em: estudantes de escola pública com renda familiar bruta igual ou inferior a um salário mínimo e meio per capita, estudantes de escola públicas com renda familiar superior a um salário mínimo e meio e estudantes que se declaram pretos, pardos ou indígenas. 
 
@@ -47,7 +45,7 @@ Em 2019, faz 16 anos que o Conselho de Ensino, Pesquisa e Extensão (Cepe) da Un
 
 Na pesquisa da Andifes, entre os dados por cor, pardos e pretos, 60,4% dos alunos fizeram Ensino Médio exclusivamente em escola pública. 
 
-## Diretoria de Desenvolvimento Social (DDS/UnB) 
+## Diretoria de Desenvolvimento Social (DDS/UnB)
 
 _Assistência Estudantil atende cerca de 7 mil estudantes na UnB. (Os dados são referentes ao ano de  2019)_
 
@@ -69,7 +67,7 @@ Segundo ela, a Universidade precisa se posicionar e evitar que esses cortes ocor
 
 Porém, a ex-estudante, que participava dos programas de auxílio da UnB, não acha que será o suficiente.  Afirma ainda, que o estudante precisa mostrar a sua insatisfação “demonstrar como os cortes podem afetar a permanência de alguns na Universidade, seja por meio de abaixo-assinados, manifestações e/ou greves”,  defende.
 
-##  Confira os programas disponibilizados pela Assistência Estudantil:
+## Confira os programas disponibilizados pela Assistência Estudantil:
 
 **Programa Bolsa Alimentação (graduação e pós-graduação):** consiste no subsídio integral das refeições servidas pelo RU (café da manhã, almoço e jantar) aos estudantes participantes dos programas de assistência estudantil em todos os campi. Cerca de 7 mil estudantes são beneficiados.
 
@@ -113,8 +111,6 @@ patricial @ unb.br / 3107-8909
 
 gustavocosta @ unb.br / 3107-8909
 
- 
-
 ## **SPS Faculdade da Ceilândia - FCE:**
 
 **Assistentes Sociais**
@@ -127,7 +123,7 @@ jessicafm @ unb.br / 3107-8407
 
 tamaramiranda @ unb.br / 3107-8407 
 
-##  
+## 
 
 ## **SPS Faculdade de Planaltina - FUP:**
 
