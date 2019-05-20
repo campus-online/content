@@ -23,7 +23,7 @@ Durante essa semana, estudantes da UnB fizeram postagens criticando professores 
 
 Professoras da Faculdade de Educação da Universidade de Brasília (UnB), destacam que tudo depende do que o professor entende por aprendizagem, mas, em sala de aula, não é recomendado avaliar os estudantes de forma arbitrária.
 
-Na última quinta-feira, um dos alunos, que preferiu não se identificar, relatou nas redes sociais que o professor George, do Departamento de Estatística, deu aula normalmente durante a manifestação e, mais tarde, encaminhou um email afirmando que quem compareceu à aula, ganhou cinco pontos extras. 
+Na última quinta-feira, um dos alunos, que preferiu não se identificar, relatou nas redes sociais que o professor George, do Departamento de Estatística, deu aula normalmente durante a manifestação e, mais tarde, encaminhou um email afirmando que quem compareceu à aula, ganhou cinco pontos extras. Após a repercussão do caso, o professor George resolveu cancelar os pontos extras.
 
 Outro caso que repercutiu foi o de um professor de Ciências Contábeis que adiou a data da avaliação para o dia 15, antes marcada para o dia 13. Já outros professores, mesmo não aderindo à paralisação, flexibilizaram datas avaliativas para que os alunos não saíssem prejudicados. 
 
@@ -34,5 +34,3 @@ O planejamento das aulas e métodos avaliativos no ambiente acadêmico devem ser
 Sandra explica a importância de construir esse planejamento junto aos estudantes: “sala de aula é um espaço democrático onde você possibilita o acesso ao conhecimento. É muito legal quando a gente traz a avaliação e conversa, tem um panorama de como o trabalho está sendo realizado. Discentes e docentes tem que procurar sempre possibilidade de diálogo de ambas as partes”.
 
 A professora Eloísa Lopes, da Faculdade de Educação, diz que a comunicação em sala de aula não deve ser autoritária: “o professor deve sempre estar disposto a ouvir” e diz que o diálogo é fundamental para uma boa relação entre aluno e professor.
-
-Após a repercussão dos ocorridos, o professor de estatística decidiu retirar os pontos extras.
