@@ -13,7 +13,7 @@ tags:
   - professores
   - paralisação
   - 15 de maio
-featured: true
+featured: false
 headline: >-
   Após professores passarem conteúdos valendo nota no mesmo dia e horário da
   Paralisação Nacional dos Educadores no último dia 15, alunos compartilharam as
