@@ -2,6 +2,8 @@
 title: >-
   Conferência sobre abelhas alerta sobre mudança de hábitos alimentares caso
   abelhas sejam extintas
+cover: >-
+  https://ucarecdn.com/89e87f1e-4615-4603-b497-08600fd561b4/-/preview/-/enhance/100/
 date: '2019-05-21'
 editorial: cidade
 authors:
