@@ -44,7 +44,7 @@ O curta “Cagando e Andando” foi o recordista da noite levando para casa cinc
 
 _Matheus Vieira segura os cinco prêmios conquistados na noite. (Foto: Ygor Wolf/Campus Online)_ 
 
-O evento contou com o apoio da Animatic - Escola de Animação e Arte, da Faculdade de Comunicação (FAC), do Núcleo Técnico de audiovisual da Fac, da Diretoria de Organizações Comunitárias, Cultura e Arte, Instituto de Educação Superior de Brasília (IESB), e das escolas Studio online e 70 mm. 
+O evento contou com o apoio da Animatic - Escola de Animação e Arte, da Faculdade de Comunicação (FAC), do Núcleo Técnico de Audiovisual da Fac, da Diretoria de Organizações Comunitárias, Cultura e Arte, Instituto de Educação Superior de Brasília (IESB), e das escolas Studio Online e 70 mm. 
 
 ## Confira a lista de vencedores e sinopses dos nove curtas que concorreram nesta edição:
 
