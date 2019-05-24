@@ -1,5 +1,6 @@
 ---
 title: 'Futmanobol: Um esporte de mistura'
+cover: 'https://ucarecdn.com/cb130ff1-0d49-4b03-9d0d-275f14f214dd/'
 date: '2019-05-24'
 editorial: cidade
 authors:
