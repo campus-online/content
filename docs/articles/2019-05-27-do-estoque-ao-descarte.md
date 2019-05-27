@@ -1,5 +1,7 @@
 ---
 title: 'Do estoque ao descarte: saiba como funciona o Restaurante Universitário da UnB'
+cover: >-
+  https://ucarecdn.com/30d10681-a61d-4d66-8131-31c9c24225c0/-/preview/-/enhance/100/-/sharp/13/
 date: '2019-05-27'
 editorial: cidade
 authors:
