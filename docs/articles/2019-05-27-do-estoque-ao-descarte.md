@@ -1,5 +1,5 @@
 ---
-title: Do estoque ao descarte
+title: 'Do estoque ao descarte: saiba como funciona o Restaurante Universitário da UnB'
 date: '2019-05-27'
 editorial: cidade
 authors:
