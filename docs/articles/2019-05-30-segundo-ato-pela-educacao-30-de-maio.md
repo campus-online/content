@@ -19,7 +19,7 @@ headline: >-
 ---
 30 de abril: o Ministro da Educação, Abraham Weintraub anuncia bloqueio nas verbas previamente aprovadas para três universidades federais que ele considerava não terem desempenho acadêmico satisfatório e promoverem balbúrdia. As declarações geram polêmica e, nos dias seguintes, Weintraub anuncia bloqueio nos orçamentos de 63 Universidades e 38 Institutos Federais. As medidas foram tomadas por conta da necessidade de contingenciar as verbas do Ministério da Educação. [O histórico do caso pode ser encontrado aqui](https://campus.fac.unb.br/materias/2019-05-28-contingenciamento-nas-universidades-do-anuncio-ate-agora/).
 
-No dia 15 de maio, [manifestantes saíram às ruas em defesa da educação](https://campus.fac.unb.br/materias/2019-05-15-sociedade-brasileira-e-parlamentares-agem-em-favor-da-educacao-publica-neste-15-de-maio/), contra o contingenciamento. E no dia 22 do mesmo mês, o portal oficial do Ministério da Educação publicou que o último corte anunciado (de R$ 1,6 bilhão, no dia 2 de maio) não precisaria mais ser efetuado. 
+No dia 15 de maio, [manifestantes saíram às ruas em defesa da educação](https://campus.fac.unb.br/materias/2019-05-15-sociedade-brasileira-e-parlamentares-agem-em-favor-da-educacao-publica-neste-15-de-maio/), contra o contingenciamento. E no dia 22 do mesmo mês, o portal oficial do Ministério da Educação, anunciou que o último corte anunciado (de R$ 1,6 bilhão, no dia 2 de maio) não precisaria mais ser efetuado. 
 
 Hoje, 30 de maio, os manifestantes saem novamente às ruas em defesa da educação e contra o contingenciamento. Por volta das 10h, as pessoas começaram a se reunir na Biblioteca Nacional.
 
@@ -29,7 +29,7 @@ Hoje, 30 de maio, os manifestantes saem novamente às ruas em defesa da educaç�
 
 ![](https://ucarecdn.com/729cdfa3-e1ec-4ead-8816-1858298aedc4/)
 
-_Kati de boné cinza e a Nathaly de chapéu vermelho. (Foto: Louani Badu/Campus Online)_
+_Kati de boné baixo e a Nathaly de chapéu vermelho. (Foto: Louani Badu/Campus Online)_
 
 ![](https://ucarecdn.com/da27bbff-3664-41c3-92dd-e8474fd14acf/)
 
@@ -47,7 +47,7 @@ _Alguns dos presentes levaram elementos circenses para o protesto. (Foto: Louani
 
 Caio Araújo Mendes, de 24 anos, formado em Relações Internacionais, fala sobre a importância de estar na manifestação hoje.
 
-<iframe src="https://drive.google.com/file/d/1Nmx7yb77b4hIYEITXmzcvw-vmgpt3VQy/preview" width="640" height="480"></iframe> 
+<iframe src="https://drive.google.com/file/d/1Nmx7yb77b4hIYEITXmzcvw-vmgpt3VQy/preview" width="640" height="480"></iframe>
 
 ![](https://ucarecdn.com/010d36da-6518-47a2-9c51-31ce5d262c67/)
 
@@ -74,6 +74,10 @@ O Conselho é ligado ao Ministério da Mulher, da Família e dos Direitos Humano
 ![](https://ucarecdn.com/574b3a90-6923-422b-b358-4619e6dd6d6c/)
 
 _Print de tela da publicação no DOU._
+
+**\[Atualizado, 12h17]** A repórter do Campus, Louani Badu, conta como está a situação da manifestação.
+
+<iframe src="https://drive.google.com/file/d/1d12LNKhYomrgO-fId8AIUyQtPCvX9w_G/preview" width="640" height="480"></iframe> 
 
 **\[Atualizado, 12h21]** Por volta de 12h15, os manifestantes começaram a caminhar em direção à Avenida das Bandeiras, em frente ao Congresso Nacional. O trio que os acompanhava com o som foi impedido pela polícia de seguir com eles.
 
