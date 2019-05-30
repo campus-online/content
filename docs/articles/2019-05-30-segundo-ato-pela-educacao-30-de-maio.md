@@ -18,8 +18,6 @@ headline: >-
   Em sequência ao ato do dia 15 de maio, alunos, professores, políticos e
   membros da sociedade civil vão às ruas em defesa da educação
 ---
-
-
 30 de abril: o Ministro da Educação, Abraham Weintraub anuncia bloqueio nas verbas previamente aprovadas para três universidades federais que ele considerava não terem desempenho acadêmico satisfatório e promoverem balbúrdia. As declarações geram polêmica e, nos dias seguintes, Weintraub anuncia bloqueio nos orçamentos de 63 Universidades e 38 Institutos Federais. As medidas foram tomadas por conta da necessidade de contingenciar as verbas do Ministério da Educação. [O histórico do caso pode ser encontrado aqui](https://campus.fac.unb.br/materias/2019-05-28-contingenciamento-nas-universidades-do-anuncio-ate-agora/).
 
 No dia 15 de maio, [manifestantes saíram às ruas em defesa da educação](https://campus.fac.unb.br/materias/2019-05-15-sociedade-brasileira-e-parlamentares-agem-em-favor-da-educacao-publica-neste-15-de-maio/), contra o contingenciamento. E no dia 22 do mesmo mês, o portal oficial do Ministério da Educação, anunciou que o último corte anunciado (de R$ 1,6 bilhão, no dia 2 de maio) não precisaria mais ser efetuado. 
@@ -66,4 +64,6 @@ _Banner contra a corrupção exibido no ato hoje, 30/05. (Foto: Louani Badu/Camp
 
 _Manifestantes carregam um banner que defende o serviço público, a democracia e a Previdência. (Foto: Louani Badu/Campus Online)_
 
-__
+\[Atualizado, 11h58] A estimativa de presentes na manifestação é de 5.000 pessoas, de acordo com a PMDF, e, até agora, estimam que estejam reunidas cerca de 800 pessoas. O Major Márcio Rogério, da PMDF e subcomandante da operação, afirma que "o principal das manifestações é manter o estado democrático. Manifestação tirando direito de ir e vir, agredir ou depredar não são boas, o cunho principal é o respeito". 
+
+Aproximadamente 800 policiais militares estão envolvidos na segurança do ato. Estão presentes desde 6h e ficarão até o fim da manifestação.
