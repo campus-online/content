@@ -19,7 +19,7 @@ headline: >-
 ---
 30 de abril: o Ministro da Educação, Abraham Weintraub anuncia bloqueio nas verbas previamente aprovadas para três universidades federais que ele considerava não terem desempenho acadêmico satisfatório e promoverem balbúrdia. As declarações geram polêmica e, nos dias seguintes, Weintraub anuncia bloqueio nos orçamentos de 63 Universidades e 38 Institutos Federais. As medidas foram tomadas por conta da necessidade de contingenciar as verbas do Ministério da Educação. [O histórico do caso pode ser encontrado aqui](https://campus.fac.unb.br/materias/2019-05-28-contingenciamento-nas-universidades-do-anuncio-ate-agora/).
 
-No dia 15 de maio, [manifestantes saíram às ruas em defesa da educação](https://campus.fac.unb.br/materias/2019-05-15-sociedade-brasileira-e-parlamentares-agem-em-favor-da-educacao-publica-neste-15-de-maio/), contra o contingenciamento. E no dia 22 do mesmo mês, o portal oficial do Ministério da Educação, anunciou que o último corte anunciado (de R$ 1,6 bilhão, no dia 2 de maio) não precisaria mais ser efetuado. 
+No dia 15 de maio, [manifestantes saíram às ruas em defesa da educação](https://campus.fac.unb.br/materias/2019-05-15-sociedade-brasileira-e-parlamentares-agem-em-favor-da-educacao-publica-neste-15-de-maio/), contra o contingenciamento. E no dia 22 do mesmo mês, o portal oficial do Ministério da Educação publicou que o último corte anunciado (de R$ 1,6 bilhão, no dia 2 de maio) não precisaria mais ser efetuado. 
 
 Hoje, 30 de maio, os manifestantes saem novamente às ruas em defesa da educação e contra o contingenciamento. Por volta das 10h, as pessoas começaram a se reunir na Biblioteca Nacional.
 
@@ -29,7 +29,7 @@ Hoje, 30 de maio, os manifestantes saem novamente às ruas em defesa da educaç�
 
 ![](https://ucarecdn.com/729cdfa3-e1ec-4ead-8816-1858298aedc4/)
 
-_Kati de boné baixo e a Nathaly de chapéu vermelho. (Foto: Louani Badu/Campus Online)_
+_Kati de boné cinza e a Nathaly de chapéu vermelho. (Foto: Louani Badu/Campus Online)_
 
 ![](https://ucarecdn.com/da27bbff-3664-41c3-92dd-e8474fd14acf/)
 
