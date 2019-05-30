@@ -2,8 +2,7 @@
 title: >-
   Estudantes, professores e membros da sociedade civil se manifestam no segundo
   ato pela Educação neste 30 de maio
-cover: >-
-  https://ucarecdn.com/f4c6493a-c6d1-4ede-bcc8-42c0ebad7ac2/-/crop/960x777/0,71/-/preview/-/enhance/74/-/sharp/17/
+cover: 'https://ucarecdn.com/5a26f3ff-42b2-4d80-a89b-a2e00cd5b54d/'
 date: '2019-05-30'
 editorial: politica
 authors:
@@ -87,3 +86,9 @@ _Print de tela da publicação no DOU._
 ![](https://ucarecdn.com/98f62b1e-10d2-43cc-9685-22924c4499c4/-/crop/581x466/0,245/-/preview/)
 
 _Mateus Oliveira, estudante de Direito da Universidade Católica de Brasília pelo FIES, 18 anos. (Foto: Fernanda Vieira/Campus Online)_
+
+**\[Atualizado, 13h]** Por volta das 13h, os manifestantes começaram a se dispersar.
+
+![](https://ucarecdn.com/57b62e2e-4a00-431e-81ca-440a78e1fa1c/-/crop/581x418/0,263/-/preview/)
+
+_(Foto: Fernanda Vieira/Campus Online)_
