@@ -20,6 +20,8 @@ headline: >-
 ---
 
 
+
+
 30 de abril: o Ministro da Educação, Abraham Weintraub anuncia bloqueio nas verbas previamente aprovadas para três universidades federais que ele considerava não terem desempenho acadêmico satisfatório e promoverem balbúrdia. As declarações geram polêmica e, nos dias seguintes, Weintraub anuncia bloqueio nos orçamentos de 63 Universidades e 38 Institutos Federais. As medidas foram tomadas por conta da necessidade de contingenciar as verbas do Ministério da Educação. [O histórico do caso pode ser encontrado aqui](https://campus.fac.unb.br/materias/2019-05-28-contingenciamento-nas-universidades-do-anuncio-ate-agora/).
 
 No dia 15 de maio, [manifestantes saíram às ruas em defesa da educação](https://campus.fac.unb.br/materias/2019-05-15-sociedade-brasileira-e-parlamentares-agem-em-favor-da-educacao-publica-neste-15-de-maio/), contra o contingenciamento. E no dia 22 do mesmo mês, o portal oficial do Ministério da Educação, anunciou que o último corte anunciado (de R$ 1,6 bilhão, no dia 2 de maio) não precisaria mais ser efetuado. 
@@ -48,4 +50,10 @@ E como a educação anda de mãos dadas com a cultura, vale todo tipo de manifes
 
 _Alguns dos presentes levaram elementos circenses para o protesto. (Foto: Louani Badu/Campus Online)_
 
-__
+Caio Araújo Mendes, de 24 anos, formado em Relações Internacionais, fala sobre a importância de estar na manifestação hoje.
+
+<iframe src="https://drive.google.com/file/d/1Nmx7yb77b4hIYEITXmzcvw-vmgpt3VQy/preview" width="640" height="480"></iframe>
+
+![](https://ucarecdn.com/010d36da-6518-47a2-9c51-31ce5d262c67/)
+
+_Fátima Guimarães, 56, Bruna Guimarães, 32, e Cecília Guimarães, 7. As três gerações vieram ao protesto na intenção de "lutar pelo futuro", afirmam. (Foto: Daumildo Júnior/Campus Online)_
