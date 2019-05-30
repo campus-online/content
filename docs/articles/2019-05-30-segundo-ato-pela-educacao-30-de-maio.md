@@ -85,7 +85,7 @@ _Print de tela da publicação no DOU._
 
 _Mateus Oliveira, estudante de Direito da Universidade Católica de Brasília pelo FIES, 18 anos. (Foto: Fernanda Vieira/Campus Online)_
 
-**\[Atualizado, 13h]** Até 12h, a estimativa da organização era de que houvessem 10.000 pessoas presentes no ato. \*\*\*\* Por volta das 13h, os manifestantes começaram a se dispersar.
+**\[Atualizado, 13h]** Até 12h, a estimativa da organização era de que houvessem 10.000 pessoas presentes no ato. Por volta das 13h, os manifestantes começaram a se dispersar.
 
 ![](https://ucarecdn.com/57b62e2e-4a00-431e-81ca-440a78e1fa1c/-/crop/581x418/0,263/-/preview/)
 
