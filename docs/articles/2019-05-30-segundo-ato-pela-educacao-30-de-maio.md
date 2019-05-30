@@ -54,7 +54,7 @@ Caio Araújo Mendes, de 24 anos, formado em Relações Internacionais, fala sobr
 
 _Fátima Guimarães, 56, Bruna Guimarães, 32, e Cecília Guimarães, 7. As três gerações vieram ao protesto na intenção de "lutar pelo futuro", afirmam. (Foto: Daumildo Júnior/Campus Online)_
 
-\[Atualizado, 11h48] Algumas pessoas aproveitam a manifestação em defesa da educação para protestar contra outros assuntos, como a corrupção e a reforma da Previdência.
+**\[Atualizado, 11h48]** Algumas pessoas aproveitam a manifestação em defesa da educação para protestar contra outros assuntos, como a corrupção e a reforma da Previdência.
 
 ![](https://ucarecdn.com/9a7a2fd8-76b8-4809-a602-9028f7c6c4c5/-/crop/720x533/0,321/-/preview/)
 
@@ -64,6 +64,14 @@ _Banner contra a corrupção exibido no ato hoje, 30/05. (Foto: Louani Badu/Camp
 
 _Manifestantes carregam um banner que defende o serviço público, a democracia e a Previdência. (Foto: Louani Badu/Campus Online)_
 
-\[Atualizado, 11h58] A estimativa de presentes na manifestação é de 5.000 pessoas, de acordo com a PMDF, e, até agora, estimam que estejam reunidas cerca de 800 pessoas. O Major Márcio Rogério, da PMDF e subcomandante da operação, afirma que "o principal das manifestações é manter o estado democrático. Manifestação tirando direito de ir e vir, agredir ou depredar não são boas, o cunho principal é o respeito". 
+**\[Atualizado, 11h58]** A estimativa de presentes na manifestação é de 5.000 pessoas, de acordo com a PMDF, e, até agora, estimam que estejam reunidas cerca de 800 pessoas. O Major Márcio Rogério, da PMDF e subcomandante da operação, afirma que "o principal das manifestações é manter o estado democrático. Manifestação tirando direito de ir e vir, agredir ou depredar não são boas, o cunho principal é o respeito". 
 
 Aproximadamente 800 policiais militares estão envolvidos na segurança do ato. Estão presentes desde 6h e ficarão até o fim da manifestação.
+
+**\[Atualizado, 12h01]** No mesmo dia do segundo ato em defesa da Educação, o Conselho Nacional dos Direitos Humanos publica, no Diário Oficial da União (DOU), [recomendação](http://www.in.gov.br/web/dou/-/recomendacao-n-4-de-9-de-maio-de-2019-145561932) que aconselha o Presidente Jair Bolsonaro a não privar os ativos da educação. 
+
+O Conselho é ligado ao Ministério da Mulher, da Família e dos Direitos Humanos, da ministra Damares Alves. Ele utiliza a Constituição Federal para a defesa e afirma que os cortes prejudicam todas as etapas da educação: das creches às universidades.
+
+![](https://ucarecdn.com/574b3a90-6923-422b-b358-4619e6dd6d6c/)
+
+Print de tela da publicação no DOU.
