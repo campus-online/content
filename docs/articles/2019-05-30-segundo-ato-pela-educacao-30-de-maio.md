@@ -74,4 +74,8 @@ O Conselho é ligado ao Ministério da Mulher, da Família e dos Direitos Humano
 
 ![](https://ucarecdn.com/574b3a90-6923-422b-b358-4619e6dd6d6c/)
 
-Print de tela da publicação no DOU.
+_Print de tela da publicação no DOU._
+
+**\[Atualizado, 12h21]** Por volta de 12h15, os manifestantes começaram a caminhar em direção à Praça das Bandeiras. O trio que os acompanhava com o som foi impedido pela polícia de seguir com os eles.
+
+<iframe src="https://drive.google.com/file/d/1q6vyX5VWo7d0qFNDjTeKqKosuQAS1URt/preview" width="640" height="480"></iframe>
