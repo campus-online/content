@@ -50,12 +50,20 @@ Caio Araújo Mendes, de 24 anos, formado em Relações Internacionais, fala sobr
 
 <iframe src="https://drive.google.com/file/d/1Nmx7yb77b4hIYEITXmzcvw-vmgpt3VQy/preview" width="640" height="480"></iframe>
 
-Manifestação em família: três gerações de mulheres da família Guimarães participaram do protesto na intenção de "lutar pelo futuro", afirmam.
-
 ![](https://ucarecdn.com/010d36da-6518-47a2-9c51-31ce5d262c67/)
 
-_Fátima Guimarães, 56, Bruna Guimarães, 32, e Cecília Guimarães, 7. (Foto: Daumildo Júnior/Campus Online)_
+_Fátima Guimarães, 56, Bruna Guimarães, 32, e Cecília Guimarães, 7. As três gerações vieram ao protesto na intenção de "lutar pelo futuro", afirmam. (Foto: Daumildo Júnior/Campus Online)_
 
-\[Atualizado, 11h34] A repórter do Campus, Louani Badu, relata a situação da manifestação:
+\[Atualizado, 11h48] Algumas pessoas aproveitam a manifestação em defesa da educação para protestar contra outros assuntos, como a corrupção e a reforma da Previdência.
 
-<iframe src="https://drive.google.com/file/d/1d12LNKhYomrgO-fId8AIUyQtPCvX9w_G/preview" width="640" height="480"></iframe>
+![](https://ucarecdn.com/9a7a2fd8-76b8-4809-a602-9028f7c6c4c5/-/crop/720x533/0,321/-/preview/)
+
+_Banner contra a corrupção exibido no ato hoje, 30/05. (Foto: Louani Badu/Campus Online)_
+
+![](https://ucarecdn.com/d1f1735a-9583-483a-af62-1c4afbf0dea1/-/crop/720x576/0,314/-/preview/)
+
+_Manifestantes carregam um banner que defende o serviço público, a democracia e a Previdência. (Foto: Louani Badu/Campus Online)_
+
+\[Atualizado, 11h58] A estimativa de presentes na manifestação é de 5.000 pessoas, de acordo com a PMDF, e, até agora, estimam que estejam reunidas cerca de 800 pessoas. O Major Márcio Rogério, da PMDF e subcomandante da operação, afirma que "o principal das manifestações é manter o estado democrático. Manifestação tirando direito de ir e vir, agredir ou depredar não são boas, o cunho principal é o respeito". 
+
+Aproximadamente 800 policiais militares estão envolvidos na segurança do ato. Estão presentes desde 6h e ficarão até o fim da manifestação.
