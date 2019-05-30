@@ -76,6 +76,6 @@ O Conselho é ligado ao Ministério da Mulher, da Família e dos Direitos Humano
 
 _Print de tela da publicação no DOU._
 
-**\[Atualizado, 12h21]** Por volta de 12h15, os manifestantes começaram a caminhar em direção à Praça das Bandeiras. O trio que os acompanhava com o som foi impedido pela polícia de seguir com os eles.
+**\[Atualizado, 12h21]** Por volta de 12h15, os manifestantes começaram a caminhar em direção ao Congresso Nacional. O trio que os acompanhava com o som foi impedido pela polícia de seguir com eles.
 
-<iframe src="https://drive.google.com/file/d/1q6vyX5VWo7d0qFNDjTeKqKosuQAS1URt/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1q6vyX5VWo7d0qFNDjTeKqKosuQAS1URt/preview" width="100%" height="5000"></iframe>
