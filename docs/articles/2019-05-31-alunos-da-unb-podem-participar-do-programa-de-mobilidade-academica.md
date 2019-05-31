@@ -26,13 +26,13 @@ Caroline Corrêa, 19, é aluna de Nutrição da UnB e atualmente está na Univer
 
 _“A vida em uma cidade universitária traz experiências bem diferentes de uma universidade na sua própria cidade”, afirma Caroline. (Foto cedida por Caroline Corrêa)_
 
-Além de possibilitar a experiências dos universitários em outras instituições, a UnB recebe alunos de outras federais, como é o caso da Isabel Nobre, 22, estudante do 7° semestre de Engenharia Ambiental  que veio da Universidade Federal do Paraná através do programa. 
+Além de possibilitar a experiências dos universitários em outras instituições, a UnB recebe alunos de outras federais, como é o caso da Isabel Nobre, 22, estudante do 7° semestre de Engenharia Ambiental  que veio da Universidade Federal do Pará através do programa. 
 
 Ela compartilha a experiência afirmando: "poder ter acesso à universidade pública com graus de investimentos, que antes por mim eram desconhecidos, sem dúvidas me fez ter uma outra percepção, além de acessar pontos de vista totalmente diferentes daqueles que você está acostumada na sua área”.
 
 ![](https://ucarecdn.com/5ee2a0ab-9a4c-442c-8804-f44cddaf2731/)
 
- “Aqui o ambiente é completamente diferente e os desafios são outros", diz Isabel. (Foto: Mara Oliveira/Campus Online)
+ _“Aqui o ambiente é completamente diferente e os desafios são outros", diz Isabel. (Foto: Mara Oliveira/Campus Online)_
 
 ## Processos para o pedido
 
