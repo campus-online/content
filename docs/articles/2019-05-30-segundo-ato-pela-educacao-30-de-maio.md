@@ -17,6 +17,8 @@ headline: >-
   Em sequência ao ato do dia 15 de maio, alunos, professores, políticos e
   membros da sociedade civil vão às ruas em defesa da educação
 ---
+
+
 30 de abril: o Ministro da Educação, Abraham Weintraub anuncia bloqueio nas verbas previamente aprovadas para três universidades federais que ele considerava não terem desempenho acadêmico satisfatório e promoverem balbúrdia. As declarações geram polêmica e, nos dias seguintes, Weintraub anuncia bloqueio nos orçamentos de 63 Universidades e 38 Institutos Federais. As medidas foram tomadas por conta da necessidade de contingenciar as verbas do Ministério da Educação. [O histórico do caso pode ser encontrado aqui](https://campus.fac.unb.br/materias/2019-05-28-contingenciamento-nas-universidades-do-anuncio-ate-agora/).
 
 No dia 15 de maio, [manifestantes saíram às ruas em defesa da educação](https://campus.fac.unb.br/materias/2019-05-15-sociedade-brasileira-e-parlamentares-agem-em-favor-da-educacao-publica-neste-15-de-maio/), contra o contingenciamento. E no dia 22 do mesmo mês, o portal oficial do Ministério da Educação, anunciou que o último corte anunciado (de R$ 1,6 bilhão, no dia 2 de maio) não precisaria mais ser efetuado. 
@@ -94,3 +96,11 @@ _Mateus Oliveira, estudante de Direito da Universidade Católica de Brasília pe
 ![](https://ucarecdn.com/57b62e2e-4a00-431e-81ca-440a78e1fa1c/-/crop/581x418/0,263/-/preview/)
 
 _(Foto: Fernanda Vieira/Campus Online)_
+
+**\[Atualização, 31/05/2019, 10h37]** Após o fim da manifestação de ontem, o MEC publicou, em seu portal oficial, uma nota proibindo todas as instituições de ensino público de divulgarem e promoverem manifestações político-partidários durante o horário escolar. Na nota, o MEC incentiva a denúncia de tais movimentos pela ouvidoria.  
+
+Confira a nota na íntegra: [http://portal.mec.gov.br/](http://portal.mec.gov.br/component/content/article?id=76641&fbclid=IwAR0PxORIf2nc_ihayib3-GqoNaawGyTSB3kW9ngiZ1Drq9Wo5hdl8Dy8Bz0)  
+
+![](https://ucarecdn.com/a99969a6-78e2-41b8-a102-b5b743172197/)
+
+_Print de tela da publicação do MEC._
