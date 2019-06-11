@@ -2,6 +2,7 @@
 title: >-
   Mais de 55% dos moradores de rua que vivem perto da UnB tem menos de 25 anos,
   segundo censo 
+cover: 'https://ucarecdn.com/88ac2fcc-8c39-40fc-ab87-2c6255c65e71/'
 date: '2019-06-11'
 editorial: cidade
 authors:
@@ -18,6 +19,10 @@ headline: >-
 Mais de 55% dos moradores de rua que vivem no entorno da Universidade de Brasília tem menos de 25 anos. O dado foi divulgado pelo censo de moradores de rua do entorno da UnB de 2019, realizado pela empresa júnior ESTAT Consultoria. 
 
 O censo foi feito com 48 pessoas em três lugares diferentes do entorno da UnB: final da via L3 Norte, via de acesso à L4 Norte pelo início da L2 Norte e início da via L4 Norte. Além dos dados sobre a idade, outros pontos foram levantados, como nível de escolaridade, religião, renda mensal e frequência de doações recebidas.
+
+![](https://ucarecdn.com/52fda51c-850e-4738-b71a-e8a330cee471/)
+
+_Empresa júnior realizando a pesquisa em fevereiro deste ano. (Foto: Cedida pela ESTAT Consultoria ao Campus Online)_
 
 Entre os motivos dos moradores se concentrarem nos três lugares, 32,7% responderam “receber doações”, 26,1% responderam “não tem outra opção”, 19,6% disseram “proximidade com trabalho ou escola” e 8,7% responderam “ficar mais próximo da família”. As outras opções (“alcoolismo”, “local que governo não tira” e “porque gosta”) foram escolhidas por 4,3% cada uma. 
 
@@ -43,7 +48,7 @@ Um dos dados coletados que mais chamou atenção do coordenador foi o tempo de q
 
 Para o futuro, outra pesquisa já está em andamento. Dessa vez, os estudantes da UnB é que serão questionados, mas Reis disse que não pode divulgar por enquanto. “É uma pesquisa com alunos da UnB. A gente não pode divulgar ainda, mas daqui a pouco ela estará disponível aí para todo mundo”, informou Reis.
 
-## Doações e Respostas 
+## Doações e Respostas
 
 Ao Campus, a UnB informou que “não há uma iniciativa permanente a esse respeito”. Além disso, a instituição disse que não tem nenhum levantamento institucional de projetos acadêmicos que ajudam moradores de rua. 
 
