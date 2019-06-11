@@ -32,7 +32,7 @@ O censo também demonstrou que apenas 33,3% são naturais do Distrito Federal. O
 
 ![](https://ucarecdn.com/f2c4ffc1-de40-40f9-97b3-add4392cb7a5/)
 
-_Fonte: Campus Online._
+_(Fonte: ESTAT Consultoria) (Arte: Campus Online)_
 
 ## “Sempre passava por lá e via eles”
 
