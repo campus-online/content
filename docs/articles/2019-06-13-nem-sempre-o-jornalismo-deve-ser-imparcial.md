@@ -8,7 +8,7 @@ authors:
 semester: 2019/1
 tags:
   - coluna
-featured: false
+featured: true
 ---
 **A coluna a seguir foi escrita pelo jornalista e professor da Universidade de Brasília (UnB), Zanei Barcellos. O texto é opinativo e não reflete, necessariamente, a opinião do Campus Online. Leia a coluna:** 
 
