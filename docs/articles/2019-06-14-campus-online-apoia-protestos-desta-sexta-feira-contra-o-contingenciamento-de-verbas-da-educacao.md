@@ -1,5 +1,7 @@
 ---
-title: Campus Online apoia a greve geral desta sexta-feira
+title: >-
+  Campus Online apoia a greve geral desta sexta-feira, 14 de junho, em defesa da
+  educação pública de qualidade
 cover: 'https://ucarecdn.com/9aa6be39-ff61-454b-8b13-5647f35fad67/'
 date: '2019-06-14'
 editorial: opiniao
@@ -9,10 +11,8 @@ semester: 2019/1
 tags:
   - editorial
   - contingenciamento de verbas
-featured: false
-headline: >-
-  Contra o contingenciamento de verbas da educação e em defesa da educação
-  pública de qualidade
+featured: true
+headline: ''
 ---
 Diante dos acontecimentos dos últimos meses, [desde o anúncio do bloqueio de verbas](https://campus.fac.unb.br/materias/2019-05-28-contingenciamento-nas-universidades-do-anuncio-ate-agora/) das universidades federais pelo ministro Abraham Weintraub, no dia 23 de abril, o Campus Online vem fazendo uma cobertura extensa e intensa dos acontecimentos e seus desdobramentos. Fizemos cobertura ao vivo dos atos que aconteceram nos dias [15](https://twitter.com/campusitounb/status/1128648472821993472) e [30 de maio](https://campus.fac.unb.br/materias/2019-05-30-segundo-ato-pela-educacao-30-de-maio/), das atitudes tomadas pelo [Diretório Central dos Estudantes (DCE)](https://campus.fac.unb.br/materias/2019-05-03-apos-entrar-com-acao-contra-os-cortes-no-orcamento-da-universidade-dce-estuda-possibilidade-de-articulacao-no-legislativo/) e pela [Reitoria da Universidade de Brasília (UnB)](https://campus.fac.unb.br/materias/2019-05-09-a-universidade-nao-vai-se-encolher-carta-da-reitora-a-unb/) sobre os ataques. Acompanhamos também as respostas do [Congresso Nacional](https://twitter.com/campusitounb/status/1128734474022346753) ao bloqueio de verbas.
 
