@@ -1,5 +1,6 @@
 ---
 title: 'Conhecendo uma nova espécie: o estagiário'
+cover: 'https://ucarecdn.com/e8c5d781-de6b-4532-b57d-1df22b5222b8/'
 date: '2019-06-18'
 editorial: opiniao
 authors:
