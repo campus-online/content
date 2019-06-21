@@ -20,7 +20,7 @@ O termo é empregado pela psicóloga da Coordenação de Atenção à Saúde e Q
 
 “Os docentes são remunerados, cobrados e recompensados conforme o volume de atividades que apresentam. Em resposta a isso, muitas vezes eles adoecem, pois não sabem como lidar com esses estímulos”, afirma Laene. “Eles chegam a apresentar comportamentos que não são do seu temperamento comum e acabam, assim, diminuindo a capacidade de produção”, completa. 
 
-A pressão recebida passa a ser externalizada principalmente pelo isolamento e a solidão. Os outros colegas que trabalham junto com esses profissionais tendem a se afastar e evitar propor parcerias ou inseri-los nos círculos sociais. “No fim, todo esse estresse é descarregado nos alunos, seja de forma direta ou pela baixa na qualidade da aula, o que completa a ciranda da violência social”, conta Laene.
+A pressão recebida passa a ser externalizada principalmente pelo isolamento e a solidão. Os outros colegas que trabalham junto com esses profissionais tendem a se afastar e evitar propor parcerias ou inserí-los nos círculos sociais. “No fim, todo esse estresse é descarregado nos alunos, seja de forma direta ou pela baixa na qualidade da aula, o que completa a ciranda da violência social”, conta Laene.
 
 Um professor do departamento de música passou por uma situação como essa. Sabotado por uma colega em vários momentos, ele teve de se afastar das atividades de aula e pesquisa. Descrédito da tese de doutorado, boicote na organização de eventos, acusações - incluindo plágio - e até influência na nota final de uma orientanda fizeram com que esse docente se distanciasse dela e, aos poucos, perdesse a vontade de se manter na Universidade. 
 
@@ -32,7 +32,9 @@ O grupo de pesquisa que participava foi desfeito da noite para o dia e o ensino 
 
 “Um dia, parecia que eu ia explodir. Não conseguia pregar os meus olhos a noite”, diz o docente. Nesse momento, já tomava remédios para ficar mais calmo e entrava em quadro depressivo. Foi quando começou a procurar apoios da administração da UnB. Na ouvidoria, foi aconselhado a não entrar com processo administrativo contra a colega que, por já ter mais tempo de casa, deveria ter muitos conhecidos no colegiado, o que inviabilizaria algum tipo de punição. 
 
-O professor, então, começou a reunir relatos e provas dos assédios morais e das sabotagens que passou desde 2011, quando entrou na UnB como substituto, até 2015, depois de passar pelo estágio probatório do concurso. Foi orientado assim para que pudesse entrar com um processo judicial contra a colega. “A cada situação que eu lembrava, adicionava no relatório. Era como sentir a dor e constrangimento do momento de novo. Pensei em jogar a toalha".
+O professor, então, começou a reunir relatos e provas dos assédios morais e das sabotagens que passou desde 2011, quando entrou na UnB como substituto, até 2015, depois de passar pelo estágio probatório do concurso. Foi orientado assim para que pudesse entrar com um processo judicial contra a colega. 
+
+> “A cada situação que eu lembrava, adicionava no relatório. Era como sentir a dor e constrangimento do momento de novo. Pensei em jogar a toalha"
 
 O processo foi iniciado em 2016 e, já em profunda depressão, o professor mal conseguia levantar da cama. Não tinha condições de sair de casa, muito menos dar aula. “Eu adorava o meu quintal, com pomar e muitas árvores. Mas com o pânico que eu tinha, não era capaz chegar na porta, destrancar e sair”, relembra. Quando queria se envolver em atividade que lhe davam prazer, foi boicotado. O estresse a picos. Se sentia culpado pela situação e pelo processo. 
 
