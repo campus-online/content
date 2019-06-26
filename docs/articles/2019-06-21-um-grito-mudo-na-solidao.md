@@ -14,7 +14,7 @@ headline: >-
   Como a pressão, estresse e o corporativismo influenciam na saúde mental dos
   professores universitários
 ---
-Artigos, slides, aulas, livros, alunos, publicações, colegas, seminários, reuniões de colegiado. Tudo isso roda na cabeça, não se sabe com quem desabafar, o que fazer, como desacelerar. Nos corredores, ninguém nota, só se afastam cada vez mais. Sen só. Entra na sala para odiar o que mais gosta de fazer por horas quase ininterruptas. Onde descontar? Listas de exercícios extensas, trabalhos com prazos curtos, provas e mais provas. Os dois lados pilhados, desanimados e quase perdidos. Está instalada a “ciranda da violência social” na universidade.
+Artigos, slides, aulas, livros, alunos, publicações, colegas, seminários, reuniões de colegiado. Tudo isso roda na cabeça, não se sabe com quem desabafar, o que fazer, como desacelerar. Nos corredores, ninguém nota, só se afastam cada vez mais. Sente-só. Entra na sala para odiar o que mais gosta de fazer por horas quase ininterruptas. Onde descontar? Listas de exercícios extensas, trabalhos com prazos curtos, provas e mais provas. Os dois lados pilhados, desanimados e quase perdidos. Está instalada a “ciranda da violência social” na universidade.
 
 O termo é empregado pela psicóloga da Coordenação de Atenção à Saúde e Qualidade de Vida da UnB, Laene Pedro Gama para exemplificar as consequências na má saúde mental dos professores. Depressão, dor de cabeça, estresse e, principalmente, desânimo para desenvolver as tarefas rotineiras são os sintomas mais comuns. Abraçados às dificuldades, os profissionais seguem desenvolvendo seus projetos e pesquisas. Ambientes hostis e pressão em demasia são queixas frequentes e apontados como ativadores dos desconfortos.
 
@@ -22,7 +22,7 @@ O termo é empregado pela psicóloga da Coordenação de Atenção à Saúde e Q
 
 A pressão recebida passa a ser externalizada principalmente pelo isolamento e a solidão. Os outros colegas que trabalham junto com esses profissionais tendem a se afastar e evitar propor parcerias ou inserí-los nos círculos sociais. “No fim, todo esse estresse é descarregado nos alunos, seja de forma direta ou pela baixa na qualidade da aula, o que completa a ciranda da violência social”, conta Laene.
 
-Um professor do departamento de música passou por uma situação como essa. Sabotado por uma colega em vários momentos, ele teve de se afastar das atividades de aula e pesquisa. Descrédito da tese de doutorado, boicote na organização de eventos, acusações - incluindo plágio - e até influência na nota final de uma orientanda fizeram com que esse docente se distanciasse dela e, aos poucos, perdesse a vontade de se manter na Universidade. 
+Um professor da Universidade de Brasília passou por uma situação como essa. Sabotado por uma colega em vários momentos, ele teve de se afastar das atividades de aula e pesquisa. Descrédito da tese de doutorado, boicote na organização de eventos, acusações - incluindo plágio - e até influência na nota final de uma orientanda fizeram com que esse docente se distanciasse dela e, aos poucos, perdesse a vontade de se manter na Universidade. 
 
 “Todo o meu estresse foi em consequência dessa pessoa. Eu vim do Rio de Janeiro, tinha emprego e tudo por lá. Mas eu queria trabalhar numa universidade, pesquisar, dar aulas. Queria ver os alunos vibrando comigo!”, conta o professor. “Cheguei no maior gás em 2011, mas desde aquela época já fui prejudicado muitas vezes pela mesma pessoa”, completa.
 
