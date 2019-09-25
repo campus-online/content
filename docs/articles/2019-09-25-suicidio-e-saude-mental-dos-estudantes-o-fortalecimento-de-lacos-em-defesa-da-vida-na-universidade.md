@@ -2,7 +2,7 @@
 title: >-
   Suicídio e Saúde Mental dos estudantes: O fortalecimento de laços em defesa da
   vida na Universidade
-cover: 'https://ucarecdn.com/9cd98833-1742-4543-9382-2d934e7cf983/'
+cover: 'https://ucarecdn.com/a5fbc61d-1f49-4ff4-952f-60430e339df4/'
 date: '2019-09-25'
 editorial: comportamento
 authors:
@@ -13,7 +13,6 @@ tags:
   - Saúde Mental
   - Suicídio
   - Estudantes
-  - Vida
 featured: true
 headline: >-
   “O suicídio faz parte da condição humana. Desde que existe a humanidade há
