@@ -2,7 +2,7 @@
 title: >-
   Suicídio e Saúde Mental dos estudantes: O fortalecimento de laços em defesa da
   vida na Universidade
-cover: 'https://ucarecdn.com/a5fbc61d-1f49-4ff4-952f-60430e339df4/'
+cover: 'https://ucarecdn.com/f70363bb-23dd-4440-9ad7-63b806e11aea/'
 date: '2019-09-25'
 editorial: comportamento
 authors:
