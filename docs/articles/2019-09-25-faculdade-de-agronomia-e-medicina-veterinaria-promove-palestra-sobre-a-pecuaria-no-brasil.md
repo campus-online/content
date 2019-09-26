@@ -17,7 +17,7 @@ tags:
 featured: false
 headline: >-
   A palestra ocorreu como parte da XXI Semana Acadêmica de Medicina Veterinária
-  promovida na Semana Universitária.
+  realizada na Semana Universitária.
 ---
 Na última terça-feira (24/9), a XXI Semana Acadêmica de Medicina Veterinária da Universidade de Brasília (SEVET-UnB) promoveu uma palestra sobre o cenário da pecuária brasileira. O professor Clayton Quirino Mendes, da Faculdade de Agronomia e Medicina Veterinária da Universidade de Brasília (FAV/UnB), foi o palestrante do evento. Mestre em Agronomia e doutor em Ciências, o professor acredita que a intensificação da pecuária no Brasil é a solução para o aumento da produtividade, sem que ocorra mais desmatamento.
 
