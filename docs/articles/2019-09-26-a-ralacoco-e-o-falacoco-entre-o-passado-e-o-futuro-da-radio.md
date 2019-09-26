@@ -1,5 +1,5 @@
 ---
-title: 'A Ralacoco e o Falacoco: entre o passado e o futuro da rádio.'
+title: 'A Ralacoco e o Falacoco: entre o passado e o futuro da rádio'
 cover: >-
   https://ucarecdn.com/6354c821-896d-4ffb-b0cd-875b01c4cf1f/-/crop/4032x2723/0,301/-/preview/
 date: '2019-09-26'
