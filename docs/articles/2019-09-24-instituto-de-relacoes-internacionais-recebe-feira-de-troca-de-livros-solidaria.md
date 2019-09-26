@@ -11,6 +11,7 @@ tags:
   - Semana Universitária
   - Livros
   - Leitura
+  - Solidariedade
 featured: false
 headline: >-
   Troca de livros mobiliza alunos em prol de arrecadação de mantimentos para
@@ -28,4 +29,4 @@ Lauro Celso, 49, estudante de Turismo, foi o encarregado por guiar os alunos pel
 
 O evento foi seguido pelo segundo Colóquio Solidário, que aconteceu no próprio IREL à tarde. Essa atividade teve o intuito de reunir estudantes que queriam compartilhar projetos acadêmicos próprios, com a possibilidade de discussão entre eles. O candidato também deveria doar mantimentos para ter a sua inscrição efetivada.
 
-Texto e imagem por Thiago Guimarães, aluno da disciplina Apuração e Texto Jornalístico 1. Revisão de Ana Luísa Santos.
+Texto por Thiago Guimarães, aluno da disciplina Apuração e Texto Jornalístico 1. Revisão de Ana Luísa Santos. Imagem cedida pela organização do evento.
