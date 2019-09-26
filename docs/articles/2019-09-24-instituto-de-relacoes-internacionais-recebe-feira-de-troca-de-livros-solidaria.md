@@ -1,7 +1,7 @@
 ---
 title: Instituto de Relações Internacionais recebe feira de troca de livros solidária
 cover: >-
-  https://ucarecdn.com/aba017f3-716a-4f22-aceb-7c4b37afa5ea/-/crop/3060x2102/0,0/-/preview/-/enhance/61/
+  https://ucarecdn.com/e1dc9301-4c1c-4e69-8df5-76d95e6b4e90/-/crop/720x540/0,49/-/preview/-/enhance/1/-/sharp/8/
 date: '2019-09-24'
 editorial: universidade
 authors:
