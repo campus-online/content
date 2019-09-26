@@ -26,18 +26,10 @@ A desigualdade tanto econômica quanto social é presente na sociedade brasileir
 
 
 
-
-
-
-
-
-
-15. Violência e desigualdade impactando a UnB: composição de uma agenda de pesquisas
+Pauta 15: Violência e desigualdade impactando a UnB: composição de uma agenda de pesquisas
 
 DESCRIÇÃO DA ATIVIDADE: A oficina será constituída por dois momentos. No primeiro será feita uma análise da violência nas universidades do Brasil e do mundo; seus determinantes econômicos, sociais e políticos. E se debaterá sobre a necessidade e as diferentes possibilidades de uma agenda de pesquisas na área. Após a apresentação do conhecimento sistematizado sobre o tema será realizado um segundo momento no qual se propõe uma participação de todos envolvidos na reflexão sobre o recrudescimento da desigualdade social e as novas formas de exclusão, violência e seus impactos na UnB. O objetivo é permitir uma escuta, trocas e reflexão crítica sobre a problemática, buscando construir coletivamente uma agenda de pesquisas na área.
 
 Data de início: 25/09/2019
-
-
 
 Texto e imagem por Mariana Andrade, aluna da disciplina Apuração e Texto Jornalístico 1, sob supervisão e revisão do professor Solano Nascimento.
