@@ -14,22 +14,18 @@ tags:
   - Semana Universitária
 featured: false
 ---
-O estudo da violência é algo recente na história e é um assunto atualmente em evidência na sociedade. Uma das barreiras para o estudo da violência é a multiplicidade de conceitos criadas por várias correntes de pesquisadores, dificultando a padronização do estudo. “Eu vou defender que o padrão de desigualdade é central para o estudo da violência”, afirma a mestre em Educação pela Universidade Federal do Goiás (UFG) Larissa Leão.
+Na tarde da última quarta-feira (25), a palestra “Violência e desigualdade impactando a UnB: composição de uma agenda de pesquisas” foi ministrada pela mestre em Educação pela Universidade Federal do Goiás (UFG) Larissa Leão. A palestra aconteceu no Bloco de Salas de Aula Sul (BSAS) da Universidade de Brasília (UnB). 
 
-A violência entre alunos anteriormente era estudada sob ângulos: o de organização social e o econômico. Mas no decorrer dos últimos anos isso mudou. O termo violência escolar entrou em desuso e surgiu a palavra bullying para definir esses novos tipos de violência.
+O evento teve dois momentos distintos. O primeiro para exposição de agendas de pesquisa sobre o estudo da violência e suas consequências na vida escolar. Já o segundo momento permitiu uma discussão aberta entre os participantes. Ao decorrer de toda a palestra, a mestre em Educação defendeu que “o padrão de desigualdade é o ponto central para o estudo da violência”. Para ela, a desigualdade nos âmbitos econômico e de organização social são os responsáveis pela violência.
 
-Essa mudança conceitual entre violência escolar e bullying deu-se a partir da individualização, patologização e criminalização da infância e juventude, diz a pesquisadora. As crianças tornam-se responsáveis pelos seus atos e são chamadas de “mentes criminosas”, definição que é relacionada a transtornos psicológicos.
+A palestra percorreu desde os primeiros conceitos de violência escolar até a adoção de um novo conceito, agora, o bullying. Larissa Leão afirmou que a mudança conceitual iniciou-se a partir da presença de “individualização, patologização e criminalização da infância e juventude”. Segundo ela, a violência entre alunos começa a ser observada como transtorno psicológico e o termo “mentes criminosas” surge para responsabilizar os atos dos jovens.
 
-As empresas recebem convites para financiarem projetos com a finalidade de canalizar a agressividade dos estudantes. Os trabalhos oferecidos não têm retorno financeiro. Essas práticas estão ligadas a estruturação do trabalho gratuito, que é crime, e são um tipo de violência que sobrecarrega e adoece mentalmente os jovens que participam desses projetos. A mestre em Educação defende que devemos romper o "tabu de conversar sobre a violência” para suscitar a reflexão sobre o tema e gerar novas políticas públicas, baseando-se no pensamento empírico.
+A pesquisadora criticou a participação de empresas no financiamento de projetos nas escolas, mas as atividades oferecidas não têm retorno financeiro. E isso entra na categoria de trabalho gratuito, que é crime, além de sobrecarregar os jovens mentalmente e fisicamente. A mestre em Educação defende que "devemos romper o tabu de conversar sobre a violência” para suscitar a reflexão do tema e gerar novas políticas públicas.
 
-A desigualdade tanto econômica quanto social é presente na sociedade brasileira, criando uma espécie de segregação entre burguesia e cidadãos pobres. O grupo social mais prejudicado pela violência é a classe trabalhadora que vive em periferias, além de crianças, jovens e mulheres, de acordo com o Mapa da Violência. “Pobreza não justifica criminalidade”, afirma Larissa Leão, que também enxerga na sociedade uma opressão a tudo que vem dos cidadão mais pobres.
+O grupo social que habita as periferias é o mais prejudicado pela violência, entre a população estão a classe trabalhadora, as crianças, os jovens e as mulheres, de acordo com o Mapa da Violência. “Pobreza não justifica criminalidade” afirma Leão, que também enxerga na sociedade uma opressão a tudo que vem dos cidadão mais pobres.
+
+Por fim, o momento de debate possibilitou que os inscritos na palestra compartilhassem ideias de como combater a violência e exemplos relacionados a acontecimentos da vida pessoal. O estresse imposto pela pressão familiar, acadêmica e social na vida dos jovens foi algo em comum em todas as histórias.
 
 
-
-Pauta 15: Violência e desigualdade impactando a UnB: composição de uma agenda de pesquisas
-
-DESCRIÇÃO DA ATIVIDADE: A oficina será constituída por dois momentos. No primeiro será feita uma análise da violência nas universidades do Brasil e do mundo; seus determinantes econômicos, sociais e políticos. E se debaterá sobre a necessidade e as diferentes possibilidades de uma agenda de pesquisas na área. Após a apresentação do conhecimento sistematizado sobre o tema será realizado um segundo momento no qual se propõe uma participação de todos envolvidos na reflexão sobre o recrudescimento da desigualdade social e as novas formas de exclusão, violência e seus impactos na UnB. O objetivo é permitir uma escuta, trocas e reflexão crítica sobre a problemática, buscando construir coletivamente uma agenda de pesquisas na área.
-
-Data de início: 25/09/2019
 
 Texto e imagem por Mariana Andrade, aluna da disciplina Apuração e Texto Jornalístico 1, sob supervisão e revisão do professor Solano Nascimento.
