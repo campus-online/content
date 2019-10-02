@@ -2,6 +2,8 @@
 title: >-
   “Bio na Rua”: museu itinerante leva a biodiversidade do Cerrado para a Semana
   Universitária
+cover: >-
+  https://ucarecdn.com/c7d09526-b715-4571-843a-be2e3617f138/-/preview/-/enhance/2/-/sharp/10/
 date: '2019-09-27'
 editorial: universidade
 authors:
@@ -21,11 +23,13 @@ headline: >-
   extensão “Bio na Rua”, um museu itinerante repleto de exemplos reais da fauna
   e da flora do Cerrado brasileiro.
 ---
-Nesta quinta-feira (26), os estudantes de Biologia montaram seu estande na entrada norte do Instituto Central de Ciências (ICC), mais conhecida como Ceubinho. O acervo do projeto abrange principalmente plantas e insetos típicos do Centro-Oeste. Mas vai além: inclui até mesmo um fóssil de dinossauro (Herrerassauro), que teria habitado regiões hoje pertencentes ao Brasil.
+Na última quinta-feira (26), os estudantes de Biologia montaram seu estande na entrada norte do Instituto Central de Ciências (ICC), mais conhecida como Ceubinho. O acervo do projeto abrange principalmente plantas e insetos típicos do Centro-Oeste. Mas vai além: inclui até mesmo um fóssil de dinossauro (Herrerassauro), que teria habitado regiões hoje pertencentes ao Brasil.
 
 Segundo um dos organizadores, Pedro Paulo, aluno do 9º semestre de Biologia, a ideia não é fazer um projeto de educação ambiental, mas de “divulgação científica”. Mesmo assim, ele reconhece que o museu acaba servindo a ambos os propósitos.
 
 A movimentação em torno do estande dava prova disso. Alunos da própria UnB e de colégios públicos, que visitavam a Semana Universitária, escutavam atentamente as explicações dos expositores e faziam perguntas – principalmente sobre o fóssil de dinossauro, mas também sobre o jacaré-do-pantanal ou sobre o tamanduá e o bicho-preguiça empalhados.
+
+![Mateus de Alencar, estudante do 5º semestre de Biologia e um dos integrantes do museu itinerante, segura o fóssil de um herrerassauro.](https://ucarecdn.com/58664e22-d031-40af-8ced-08b46efb053a/ "Mateus de Alencar, estudante do 5º semestre de Biologia e um dos integrantes do museu itinerante, segura o fóssil de um herrerassauro.")
 
 Era a seção dos aracnídeos, no entanto, que reunia mais interessados. Isso porque era a única com exemplos de animas vivos: duas aranhas e um escorpião. Este, aliás, foi entregue ao grupo na última semana, após picar uma aluna de Geologia, em sala de aula.
 
