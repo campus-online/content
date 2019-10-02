@@ -1,5 +1,5 @@
 ---
-title: É possível ter bom desempenho com transtornos
+title: É possível ter bom desempenho mesmo com transtornos
 cover: >-
   https://ucarecdn.com/3d2dd0cb-2a15-4e8c-9582-887f4ad2d638/-/crop/927x668/0,0/-/preview/-/enhance/30/-/sharp/4/
 date: '2019-09-28'
