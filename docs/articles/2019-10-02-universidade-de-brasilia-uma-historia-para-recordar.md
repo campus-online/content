@@ -1,14 +1,22 @@
 ---
 title: 'Universidade de Brasília: Uma história para recordar '
 date: '2019-10-02'
+editorial: universidade
+authors:
+  - 2019-2-wanessa-alves
 semester: 2019/2
-featured: false
+tags:
+  - Brasília
+  - UnB
+  - Capital
+  - 60 anos
+featured: true
 headline: >-
   Em celebração aos 60 anos de Brasília, UnB lança consulta pública para a
   população sugerir ideias de ações para a universidade realizar no aniversário
   da capital no próximo ano.
 ---
-Com o intuito de relembrar a história e apresentar à comunidade externa o que é produzido na UnB, no começo deste mês foi criada a Comissão UnB nos 60 anos de Brasília, que por meio de uma consulta pública, pretende coletar sugestões de ações que serão oferecidas durante os 60 anos da Cidade. 
+Com o intuito de relembrar a história e apresentar à comunidade externa o que é produzido na UnB, no começo deste mês foi criada a Comissão _UnB nos 60 anos de Brasília_, que, por meio de uma consulta pública, pretende coletar sugestões de ações que serão oferecidas durante os 60 anos da Cidade. 
 
 Um dos objetivos desse projeto, segundo professor e secretário executivo da Comissão, Paulo César Marques, é apresentar à comunidade a história e a importância que a UnB tem para Brasília: “Mostrar a história que a Universidade tem, como que a Universidade foi se transformando espacialmente, em uma proporção que acompanhava a transformação da cidade, e qual é a representação histórica que isso tem. Trazer e valorizar isso para a comunidade interna e externa, como parte da história de Brasília, é o intuito da Comissão”, explicou ele. 
 
