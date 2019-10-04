@@ -1,6 +1,11 @@
 ---
 title: Projetos da UnB incentivam a entrada de meninas nas áreas de exatas
+cover: >-
+  https://ucarecdn.com/5ffa3f7b-3ed6-468c-a1d2-277c4f647260/-/preview/-/enhance/41/
 date: '2019-10-03'
+editorial: universidade
+authors:
+  - 2019-2-carla-moura
 semester: 2019/2
 tags:
   - Mulheres
