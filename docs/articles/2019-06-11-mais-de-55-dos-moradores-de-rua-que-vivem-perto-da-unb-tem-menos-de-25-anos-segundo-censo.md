@@ -4,7 +4,7 @@ title: >-
   segundo censo 
 cover: 'https://ucarecdn.com/88ac2fcc-8c39-40fc-ab87-2c6255c65e71/'
 date: '2019-06-11'
-editorial: cidade
+editorial: 2019-2-cidade
 authors:
   - 2019-1-daumildo-junior
 semester: 2019/1

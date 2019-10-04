@@ -3,7 +3,7 @@ title: Oficina de aromaterapia explica possíveis benefícios de óleos para a s
 cover: >-
   https://ucarecdn.com/2cc0f111-2653-4d87-b795-62e0b7f8a65f/-/crop/1280x828/0,132/-/preview/-/enhance/24/-/sharp/4/
 date: '2019-09-26'
-editorial: universidade
+editorial: 2019-2-universidade
 authors:
   - 2019-2-colaboradores
 semester: 2019/2

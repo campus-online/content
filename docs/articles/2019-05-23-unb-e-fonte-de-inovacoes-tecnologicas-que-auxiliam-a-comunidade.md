@@ -2,7 +2,7 @@
 title: UnB é fonte de inovações tecnológicas que auxiliam a comunidade
 cover: 'https://ucarecdn.com/c399a241-2837-4e36-8808-4c330f2749e0/'
 date: '2019-05-23'
-editorial: educacao
+editorial: 2019-2-educacao
 authors:
   - 2019-1-fernanda-vieira-bastos
 semester: 2019/1

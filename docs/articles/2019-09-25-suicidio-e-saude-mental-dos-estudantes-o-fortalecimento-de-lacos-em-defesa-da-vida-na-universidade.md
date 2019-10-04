@@ -4,7 +4,7 @@ title: >-
   vida na Universidade
 cover: 'https://ucarecdn.com/de85b191-51d1-41f3-8ee6-c864f1823eab/'
 date: '2019-09-25'
-editorial: comportamento
+editorial: 2019-2-comportamento
 authors:
   - 2019-2-anny-west
   - 2019-2-raquel-ribeiro

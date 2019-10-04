@@ -2,7 +2,7 @@
 title: 'Dengue: doença afeta alunos e funcionários'
 cover: 'https://ucarecdn.com/7145b98c-4526-473a-b1de-8e54be849210/'
 date: '2019-05-03'
-editorial: comportamento
+editorial: 2019-2-comportamento
 authors:
   - 2019-1-daumildo-junior
 semester: 2019/1

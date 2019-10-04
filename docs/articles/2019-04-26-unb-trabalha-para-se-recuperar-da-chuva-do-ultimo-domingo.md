@@ -2,7 +2,7 @@
 title: UnB trabalha para se recuperar da chuva do último domingo
 cover: 'https://ucarecdn.com/e3a5282c-bf07-4908-9f9f-2d7ddcb40729/'
 date: '2019-04-26'
-editorial: cidade
+editorial: 2019-2-cidade
 authors:
   - 2019-1-giulia-soares
 semester: 2019/1

@@ -3,7 +3,7 @@ title: Inteligência Artificial é tema de palestra na Semana Universitária
 cover: >-
   https://ucarecdn.com/0b6f98be-83e2-4315-a86a-8317169f08eb/-/preview/-/enhance/50/
 date: '2019-09-26'
-editorial: universidade
+editorial: 2019-2-universidade
 authors:
   - 2019-2-colaboradores
 semester: 2019/2

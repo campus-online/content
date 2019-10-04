@@ -4,7 +4,7 @@ title: >-
   ato pela Educação neste 30 de maio
 cover: 'https://ucarecdn.com/5a26f3ff-42b2-4d80-a89b-a2e00cd5b54d/'
 date: '2019-05-30'
-editorial: politica
+editorial: 2019-2-politica
 authors:
   - 2019-1-giovanna-lobato
 semester: 2019/1

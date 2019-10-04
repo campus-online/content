@@ -3,7 +3,7 @@ title: Instituto de Relações Internacionais recebe feira de troca de livros so
 cover: >-
   https://ucarecdn.com/e1dc9301-4c1c-4e69-8df5-76d95e6b4e90/-/crop/720x540/0,49/-/preview/-/enhance/1/-/sharp/8/
 date: '2019-09-24'
-editorial: universidade
+editorial: 2019-2-universidade
 authors:
   - 2019-2-colaboradores
 semester: 2019/2

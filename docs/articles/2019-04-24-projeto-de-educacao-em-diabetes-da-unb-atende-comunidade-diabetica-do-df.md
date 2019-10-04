@@ -2,7 +2,7 @@
 title: Projeto de Educação em Diabetes da UnB atende  comunidade diabética do DF
 cover: 'https://ucarecdn.com/f7c5f971-959c-43bb-b661-18fe32e78b10/'
 date: '2019-04-29'
-editorial: cidade
+editorial: 2019-2-cidade
 authors:
   - 2019-1-helen-marinho
 semester: 2019/1

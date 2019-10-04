@@ -4,7 +4,7 @@ title: >-
   dificuldades de de locomoção
 cover: 'https://ucarecdn.com/cbdf48f1-eb1e-4d14-b73a-ee0fd79f3d09/'
 date: '2019-04-17'
-editorial: cidade
+editorial: 2019-2-cidade
 authors:
   - 2019-1-milena-castro
   - 2019-1-giovanna-lobato

@@ -2,7 +2,7 @@
 title: Alunos participam de workshop sobre Acroyoga
 cover: 'https://ucarecdn.com/30fa942a-4a82-4547-bf59-970d3db6d3ed/-/preview/'
 date: '2019-09-25'
-editorial: universidade
+editorial: 2019-2-universidade
 authors:
   - 2019-2-colaboradores
 semester: 2019/2

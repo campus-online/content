@@ -3,7 +3,7 @@ title: Comunidade acadêmica se reúne para praticar idiomas
 cover: >-
   https://ucarecdn.com/5808e8b9-2c41-4889-9749-078d87742493/-/crop/1668x1044/0,1044/-/preview/
 date: '2019-05-17'
-editorial: educacao
+editorial: 2019-2-educacao
 authors:
   - 2019-1-ygor-wolf
 semester: 2019/1

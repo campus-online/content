@@ -2,7 +2,7 @@
 title: Um grito mudo na solidão
 cover: 'https://ucarecdn.com/ad2d7418-7b10-4656-bc4b-6ca7f16c3dea/'
 date: '2019-06-21'
-editorial: comportamento
+editorial: 2019-2-comportamento
 authors:
   - 2019-1-marcos-amorozo
 semester: 2019/1

@@ -3,7 +3,7 @@ title: Universidade também é espaço para autocuidado
 cover: >-
   https://ucarecdn.com/a1a48d6d-bd5f-457a-befc-52583825e80f/-/crop/3921x2551/111,0/-/preview/
 date: '2019-09-26'
-editorial: universidade
+editorial: 2019-2-universidade
 authors:
   - 2019-2-colaboradores
 semester: 2019/2

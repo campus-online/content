@@ -2,7 +2,7 @@
 title: 'UnB promove intercâmbio de estudantes de todos os cursos semestralmente '
 cover: 'https://ucarecdn.com/4c962983-bd9f-4e2c-8d70-6ee678f788cd/'
 date: '2019-05-10'
-editorial: educacao
+editorial: 2019-2-educacao
 authors:
   - 2019-1-louani-badu
 semester: 2019/1

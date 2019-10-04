@@ -3,7 +3,7 @@ title: Universidade de Brasília é palco para artesanato
 cover: >-
   https://ucarecdn.com/b5c45875-d0ac-4ab3-8078-a8772379e01e/-/crop/3888x2549/144,282/-/preview/
 date: '2019-09-25'
-editorial: universidade
+editorial: 2019-2-universidade
 authors:
   - 2019-2-colaboradores
 semester: 2019/2

@@ -2,7 +2,7 @@
 title: 'Em sua segunda edição, o Fórum Internacional sobre a Amazônia acontece na UnB'
 cover: 'https://ucarecdn.com/84f47060-90d2-42a1-b800-b7c3ef10a150/'
 date: '2019-06-05'
-editorial: cidade
+editorial: 2019-2-cidade
 authors:
   - 2019-1-helen-marinho
 semester: 2019/1

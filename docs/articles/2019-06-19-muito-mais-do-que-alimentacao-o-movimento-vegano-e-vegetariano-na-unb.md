@@ -3,7 +3,7 @@ title: 'Muito mais do que alimentação: o movimento vegano e vegetariano na UnB
 cover: >-
   https://ucarecdn.com/e6535e44-dde1-4593-9c4a-fe6eaa2cd327/-/crop/3024x2220/0,1264/-/preview/
 date: '2019-06-19'
-editorial: cidade
+editorial: 2019-2-cidade
 authors:
   - 2019-1-maria-antonia-meneses
 semester: 2019/1

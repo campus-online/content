@@ -5,7 +5,7 @@ title: >-
 cover: >-
   https://ucarecdn.com/e32148bf-ecc5-4f19-ba4a-76f3e9e8975e/-/crop/916x449/25,132/-/preview/-/enhance/55/
 date: '2019-09-26'
-editorial: universidade
+editorial: 2019-2-universidade
 authors:
   - 2019-2-colaboradores
 semester: 2019/2

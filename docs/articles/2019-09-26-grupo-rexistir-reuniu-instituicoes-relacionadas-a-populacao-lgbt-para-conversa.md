@@ -3,7 +3,7 @@ title: Grupo Rexistir reuniu instituições relacionadas à população LGBT par
 cover: >-
   https://ucarecdn.com/1e79de59-16a1-4b47-a7d7-8f35b85d7fab/-/preview/-/enhance/15/-/sharp/2/
 date: '2019-09-26'
-editorial: universidade
+editorial: 2019-2-universidade
 authors:
   - 2019-2-colaboradores
 semester: 2019/2

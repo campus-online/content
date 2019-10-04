@@ -4,7 +4,7 @@ title: >-
   educação
 cover: 'https://ucarecdn.com/bd560a76-fd2a-4bb6-8d3a-3754e558190f/'
 date: '2019-06-19'
-editorial: educacao
+editorial: 2019-2-educacao
 authors:
   - 2019-1-gabriel-queiroz
 semester: 2019/1
