@@ -4,7 +4,7 @@ title: >-
   Paralisação 
 cover: 'https://ucarecdn.com/e4ec5153-7e7a-42d9-ac13-a588b9926802/'
 date: '2019-05-20'
-editorial: 2019-2-educacao
+editorial: 2019-1-educacao
 authors:
   - 2019-1-mara-oliveira
   - 2019-1-jose-odeveza

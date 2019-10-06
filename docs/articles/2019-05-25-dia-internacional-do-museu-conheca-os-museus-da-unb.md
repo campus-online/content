@@ -2,7 +2,7 @@
 title: 'Dia Internacional do Museu: conheça os museus da UnB'
 cover: 'https://ucarecdn.com/aa86716c-14b7-466e-ae4b-50001bc71f76/'
 date: '2019-05-25'
-editorial: 2019-2-cidade
+editorial: 2019-1-cidade
 authors:
   - 2019-1-giulia-soares
 semester: 2019/1

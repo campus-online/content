@@ -2,7 +2,7 @@
 title: Chuva do último domingo alaga UnB e causa interdição do ICC Norte
 cover: 'https://ucarecdn.com/a5e815d8-191b-4675-894a-696efed2bcc3/'
 date: '2019-04-22'
-editorial: 2019-2-cidade
+editorial: 2019-1-cidade
 authors:
   - 2019-1-louani-badu
 semester: 2019/1

@@ -5,7 +5,7 @@ title: >-
 cover: >-
   https://ucarecdn.com/9354b885-05ba-4f25-b394-305f6a400ee4/-/crop/630x413/0,0/-/preview/
 date: '2019-05-03'
-editorial: 2019-2-educacao
+editorial: 2019-1-educacao
 authors:
   - 2019-1-talita-de-souza
   - 2019-1-jose-odeveza

@@ -2,7 +2,7 @@
 title: Locomotiva a todo vapor
 cover: 'https://ucarecdn.com/be24a21e-d260-4d4a-9c01-73a01e8532c7/'
 date: '2019-06-07'
-editorial: 2019-2-opiniao
+editorial: 2019-1-opiniao
 authors:
   - 2018-2-flavia-said
 semester: 2019/1

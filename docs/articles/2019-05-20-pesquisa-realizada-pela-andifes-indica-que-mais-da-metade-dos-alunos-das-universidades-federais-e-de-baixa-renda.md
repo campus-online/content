@@ -4,7 +4,7 @@ title: >-
   universidades federais é de baixa renda
 cover: 'https://ucarecdn.com/89287ce2-1a77-4591-a40d-676d5105f2a2/'
 date: '2019-05-20'
-editorial: 2019-2-cidade
+editorial: 2019-1-cidade
 authors:
   - 2019-1-ygor-wolf
   - 2019-1-louani-badu

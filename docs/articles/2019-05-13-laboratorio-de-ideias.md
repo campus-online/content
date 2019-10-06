@@ -2,7 +2,7 @@
 title: Laboratório de ideias
 cover: 'https://ucarecdn.com/e6ed5611-d8de-4235-b4bd-32ca79943647/'
 date: '2019-05-13'
-editorial: 2019-2-opiniao
+editorial: 2019-1-opiniao
 authors:
   - 2018-2-flavia-said
 semester: 2019/1

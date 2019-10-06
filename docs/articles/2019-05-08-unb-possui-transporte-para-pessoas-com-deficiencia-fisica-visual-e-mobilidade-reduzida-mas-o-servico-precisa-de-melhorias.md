@@ -4,7 +4,7 @@ title: >-
   reduzida, mas o serviço precisa de melhorias
 cover: 'https://ucarecdn.com/415eba90-d3f7-433e-ae10-999b4c0ed601/'
 date: '2019-05-08'
-editorial: 2019-2-cidade
+editorial: 2019-1-cidade
 authors:
   - 2019-1-alice-proba
 semester: 2019/1

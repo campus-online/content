@@ -2,7 +2,7 @@
 title: UnB em preto e branco
 cover: 'https://ucarecdn.com/d488ee1a-270b-4edd-9aa9-b802ba4762ef/'
 date: '2019-04-30'
-editorial: 2019-2-cidade
+editorial: 2019-1-cidade
 authors:
   - 2019-1-beatris-de-deus
 semester: 2019/1

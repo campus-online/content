@@ -2,7 +2,7 @@
 title: 'Contingenciamento nas universidades: do anúncio até agora'
 cover: 'https://ucarecdn.com/50e7d3c6-1069-4f6c-9aed-686fa916ce62/'
 date: '2019-05-28'
-editorial: 2019-2-educacao
+editorial: 2019-1-educacao
 authors:
   - 2019-1-gabriela-mestre
 semester: 2019/1

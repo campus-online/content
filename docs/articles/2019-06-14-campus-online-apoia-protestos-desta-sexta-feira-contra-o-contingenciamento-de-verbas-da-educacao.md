@@ -4,7 +4,7 @@ title: >-
   educação pública de qualidade
 cover: 'https://ucarecdn.com/9aa6be39-ff61-454b-8b13-5647f35fad67/'
 date: '2019-06-14'
-editorial: 2019-2-opiniao
+editorial: 2019-1-opiniao
 authors:
   - 2019-1-campus-online
 semester: 2019/1

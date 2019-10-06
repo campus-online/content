@@ -5,7 +5,7 @@ title: >-
 cover: >-
   https://ucarecdn.com/d186842e-f6ea-4d2b-939f-40a56f84d67b/-/preview/-/enhance/87/
 date: '2019-05-21'
-editorial: 2019-2-cidade
+editorial: 2019-1-cidade
 authors:
   - 2019-1-daumildo-junior
 semester: 2019/1

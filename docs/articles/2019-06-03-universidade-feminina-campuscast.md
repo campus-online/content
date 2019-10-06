@@ -2,7 +2,7 @@
 title: Universidade Feminina | CampusCast
 cover: 'https://ucarecdn.com/a94b1ca1-602d-499a-b52c-61a95abe61c9/'
 date: '2019-06-03'
-editorial: 2019-2-campuscast
+editorial: 2019-1-campuscast
 authors:
   - 2019-1-giulia-soares
   - 2019-1-fernanda-vieira-bastos

@@ -2,7 +2,7 @@
 title: 'Dia dos Namorados: Conheça a história de três casais que a UnB uniu'
 cover: 'https://ucarecdn.com/05060105-e5ed-48af-ab0b-5f4563babfc4/'
 date: '2019-06-12'
-editorial: 2019-2-comportamento
+editorial: 2019-1-comportamento
 authors:
   - 2019-1-maria-antonia-meneses
 semester: 2019/1
