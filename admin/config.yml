@@ -43,7 +43,7 @@ collection_types:
       preview: true
     fields:
       - { label: 'Título', name: title, widget: string, required: true }
-      - { label: 'Foto de Capa', name: cover, widget: image, required: false }
+      - { label: 'Foto de Capa', name: cover, widget: string, required: false }
       - {
           label: 'Data de publicação',
           name: date,
@@ -145,7 +145,7 @@ collection_types:
       - {
           label: 'Foto (opcional)',
           name: image,
-          widget: image,
+          widget: string,
           required: false,
         }
       - {
