@@ -91,7 +91,7 @@ collection_types:
     reverse: true
     extension: 'md'
     format: 'yaml-frontmatter'
-    slug: '{{slug}}'
+    slug: '{{semester}}-{{slug}}'
     editor:
       preview: false
     fields:
