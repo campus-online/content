@@ -3,7 +3,7 @@ title: Funcionamento 24h da Biblioteca da UnB continua
 cover: >-
   https://ucarecdn.com/3701964f-1dfd-40fe-864b-45d1355bb1ef/-/crop/960x722/0,387/-/preview/
 date: '2019-04-23'
-editorial: cidade
+editorial: 2019-1-cidade
 authors:
   - 2019-1-louani-badu
 semester: 2019/1

@@ -3,7 +3,7 @@ title: Estudantes experimentam novos meios de se locomover até a Universidade
 cover: >-
   https://ucarecdn.com/b447945a-1042-4063-99c8-b23a829f4769/-/preview/-/rotate/90/
 date: '2019-05-06'
-editorial: cidade
+editorial: 2019-1-cidade
 authors:
   - 2019-1-ygor-wolf
 semester: 2019/1

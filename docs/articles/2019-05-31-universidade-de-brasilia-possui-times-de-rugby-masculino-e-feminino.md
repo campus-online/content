@@ -3,7 +3,7 @@ title: Universidade de Brasília possui times de rugby masculino e feminino
 cover: >-
   https://ucarecdn.com/4237d9dd-7ff4-4f75-94f7-05e0f662ba07/-/preview/-/enhance/47/
 date: '2019-05-31'
-editorial: cidade
+editorial: 2019-1-cidade
 authors:
   - 2019-1-beatris-de-deus
 semester: 2019/1

@@ -2,7 +2,7 @@
 title: Qual é a sua história? | CampusCast
 cover: 'https://ucarecdn.com/c783f863-06e5-4b9d-a51f-120d9eb6884c/'
 date: '2019-05-15'
-editorial: campuscast
+editorial: 2019-1-campuscast
 authors:
   - 2019-1-beatris-de-deus
   - 2019-1-perrine-juan

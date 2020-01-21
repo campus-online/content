@@ -2,7 +2,7 @@
 title: 'Universidade de Brasília: Uma história para recordar '
 cover: 'https://ucarecdn.com/6e0640ef-c90b-466a-92a8-61962170684d/'
 date: '2019-10-02'
-editorial: universidade
+editorial: 2019-2-universidade
 authors:
   - 2019-2-wanessa-alves
 semester: 2019/2

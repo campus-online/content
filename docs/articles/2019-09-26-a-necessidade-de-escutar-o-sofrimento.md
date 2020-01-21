@@ -3,7 +3,7 @@ title: A necessidade de escutar o sofrimento
 cover: >-
   https://ucarecdn.com/e9f15939-1502-4262-87b1-25df5cf98899/-/crop/1299x739/0,0/-/preview/-/enhance/14/-/sharp/6/
 date: '2019-09-26'
-editorial: universidade
+editorial: 2019-2-universidade
 authors:
   - 2019-2-colaboradores
 semester: 2019/2

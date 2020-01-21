@@ -3,7 +3,7 @@ title: 'Universidade de Brasília: para que e para quem'
 cover: >-
   https://ucarecdn.com/56bd7cf6-2366-4df4-96a6-4ff9660ced21/-/preview/-/enhance/20/-/sharp/3/
 date: '2019-09-29'
-editorial: universidade
+editorial: 2019-2-universidade
 authors:
   - 2019-2-colaboradores
 semester: 2019/2

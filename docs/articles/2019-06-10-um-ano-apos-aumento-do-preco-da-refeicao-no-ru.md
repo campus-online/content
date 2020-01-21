@@ -4,7 +4,7 @@ title: >-
   de usuários da assistência estudantil e diminuição do público geral
 cover: 'https://ucarecdn.com/b18336a3-fbfa-41e5-8244-8e6bf3c7d588/'
 date: '2019-06-10'
-editorial: cidade
+editorial: 2019-1-cidade
 authors:
   - 2019-1-alice-proba
 semester: 2019/1

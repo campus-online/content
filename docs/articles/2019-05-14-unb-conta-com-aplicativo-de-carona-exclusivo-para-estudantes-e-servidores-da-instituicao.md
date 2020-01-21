@@ -4,7 +4,7 @@ title: >-
   instituição
 cover: 'https://ucarecdn.com/37ae9665-b089-46c8-b2d2-4b243994b4ab/'
 date: '2019-05-14'
-editorial: comportamento
+editorial: 2019-1-comportamento
 authors:
   - 2019-1-giulia-soares
 semester: 2019/1

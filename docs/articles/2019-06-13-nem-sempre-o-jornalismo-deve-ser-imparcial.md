@@ -2,7 +2,7 @@
 title: Nem sempre o jornalismo deve ser imparcial
 cover: 'https://ucarecdn.com/4ceadbdd-f27a-45c6-9f57-76dd3c58533d/'
 date: '2019-06-13'
-editorial: opiniao
+editorial: 2019-1-opiniao
 authors:
   - 2018-2-zanei-barcellos
 semester: 2019/1

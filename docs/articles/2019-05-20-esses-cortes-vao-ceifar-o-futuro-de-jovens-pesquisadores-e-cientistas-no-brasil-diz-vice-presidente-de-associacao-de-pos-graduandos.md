@@ -4,7 +4,7 @@ title: >-
   Brasil”, diz vice-presidente de associação de pós-graduandos
 cover: 'https://ucarecdn.com/16bc198c-7416-41f5-9e18-d9636bcab275/'
 date: '2019-05-20'
-editorial: educacao
+editorial: 2019-1-educacao
 authors:
   - 2019-1-daumildo-junior
 semester: 2019/1

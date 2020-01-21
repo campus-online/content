@@ -3,7 +3,7 @@ title: Desafios da metrópole brasiliense
 cover: >-
   https://ucarecdn.com/46c6549b-4ef4-48de-b597-d599a992d348/-/preview/-/enhance/11/-/sharp/3/
 date: '2019-09-30'
-editorial: universidade
+editorial: 2019-2-universidade
 authors:
   - 2019-2-colaboradores
 semester: 2019/2

@@ -2,7 +2,7 @@
 title: O destino final do lixo da UnB
 cover: 'https://ucarecdn.com/e6f80636-0e8d-48da-b2df-f7faf08e40fc/'
 date: '2019-04-23'
-editorial: cidade
+editorial: 2019-1-cidade
 authors:
   - 2019-1-fernanda-vieira-bastos
   - 2019-1-giulia-soares

@@ -3,7 +3,7 @@ title: 'Educação além dos sentidos: a vida de alunos surdocegos na UnB'
 cover: >-
   https://ucarecdn.com/de24d83b-92af-43c2-a441-914a9927b232/-/preview/-/enhance/65/
 date: '2019-05-30'
-editorial: educacao
+editorial: 2019-1-educacao
 authors:
   - 2019-1-maria-antonia-meneses
 semester: 2019/1

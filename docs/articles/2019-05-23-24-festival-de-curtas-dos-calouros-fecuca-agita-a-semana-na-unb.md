@@ -2,7 +2,7 @@
 title: 24º Festival de Curtas dos Calouros (FECUCA) agita a semana na UnB
 cover: 'https://ucarecdn.com/0c655c31-6b29-473d-8c3b-4c019a61af17/'
 date: '2019-05-23'
-editorial: cidade
+editorial: 2019-1-cidade
 authors:
   - 2019-1-ygor-wolf
 semester: 2019/1

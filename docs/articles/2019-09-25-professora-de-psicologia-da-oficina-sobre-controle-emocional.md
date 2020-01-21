@@ -3,7 +3,7 @@ title: 'Professora de Psicologia dá oficina sobre controle emocional '
 cover: >-
   https://ucarecdn.com/75919211-2917-47bc-8203-c63d9cf45c0c/-/preview/-/sharp/19/
 date: '2019-09-25'
-editorial: universidade
+editorial: 2019-2-universidade
 authors:
   - 2019-2-colaboradores
 semester: 2019/2

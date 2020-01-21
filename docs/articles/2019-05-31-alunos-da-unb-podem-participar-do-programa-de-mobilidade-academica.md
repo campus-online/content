@@ -2,7 +2,7 @@
 title: Alunos da UnB podem participar do programa de mobilidade acadêmica
 cover: 'https://ucarecdn.com/0aaacb39-ac46-4506-9f7f-be9561da116b/'
 date: '2019-05-31'
-editorial: educacao
+editorial: 2019-1-educacao
 authors:
   - 2019-1-mara-oliveira
 semester: 2019/1

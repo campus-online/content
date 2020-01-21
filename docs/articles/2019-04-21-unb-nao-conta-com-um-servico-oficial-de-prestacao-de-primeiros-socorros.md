@@ -2,7 +2,7 @@
 title: UnB não conta com um serviço oficial de prestação de primeiros socorros
 cover: 'https://ucarecdn.com/ad17aff8-d3fa-48f9-a35f-0e3665a9d23d/'
 date: '2019-04-21'
-editorial: cidade
+editorial: 2019-1-cidade
 authors:
   - 2019-1-helen-marinho
   - 2019-1-alice-proba

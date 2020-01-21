@@ -4,7 +4,7 @@ title: >-
   deste ano
 cover: 'https://ucarecdn.com/576fabe4-4bf0-4ded-b0b5-efb7a840997b/'
 date: '2019-05-29'
-editorial: cidade
+editorial: 2019-1-cidade
 authors:
   - 2019-1-gabriel-bandeira
 semester: 2019/1

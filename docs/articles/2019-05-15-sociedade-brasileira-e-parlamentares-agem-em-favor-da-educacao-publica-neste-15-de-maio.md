@@ -4,7 +4,7 @@ title: >-
   15 de maio
 cover: 'https://ucarecdn.com/a2b91acf-7534-4e69-a964-f4778cd6f5c2/'
 date: '2019-05-15'
-editorial: cidade
+editorial: 2019-1-cidade
 authors:
   - 2019-1-giovanna-lobato
 semester: 2019/1

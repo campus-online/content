@@ -2,7 +2,7 @@
 title: O caminho do lixo na UnB
 cover: 'https://ucarecdn.com/834b779d-3eb9-460a-a3da-bfc198ba5c22/'
 date: '2019-04-23'
-editorial: cidade
+editorial: 2019-1-cidade
 authors:
   - 2019-1-giulia-soares
   - 2019-1-fernanda-vieira-bastos

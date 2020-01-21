@@ -2,7 +2,7 @@
 title: A Universidade não vai se encolher – carta da reitora à UnB
 cover: 'https://ucarecdn.com/72fcab95-4db5-443e-952f-91b2a7467ba3/'
 date: '2019-05-09'
-editorial: politica
+editorial: 2019-1-politica
 authors:
   - 2019-1-talita-de-souza
 semester: 2019/1

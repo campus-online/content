@@ -3,7 +3,7 @@ title: Palestra de Mia Couto encerra Semana Universitária
 cover: >-
   https://ucarecdn.com/e2efa846-4ec2-43f2-87a8-51443fca5300/-/crop/2029x1331/0,397/-/preview/-/enhance/19/
 date: '2019-10-01'
-editorial: universidade
+editorial: 2019-2-universidade
 authors:
   - 2019-2-colaboradores
 semester: 2019/2

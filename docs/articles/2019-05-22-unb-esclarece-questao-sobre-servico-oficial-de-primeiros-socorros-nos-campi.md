@@ -2,7 +2,7 @@
 title: UnB esclarece questão sobre serviço oficial de primeiros socorros nos campi
 cover: 'https://ucarecdn.com/23f790a8-0783-4587-b89f-36f4fa6900b5/'
 date: '2019-05-22'
-editorial: cidade
+editorial: 2019-1-cidade
 authors:
   - 2019-1-helen-marinho
 semester: 2019/1

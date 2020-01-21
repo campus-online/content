@@ -4,7 +4,7 @@ title: >-
   educação
 cover: 'https://ucarecdn.com/bd560a76-fd2a-4bb6-8d3a-3754e558190f/'
 date: '2019-06-19'
-editorial: educacao
+editorial: 2019-1-educacao
 authors:
   - 2019-1-gabriel-queiroz
 semester: 2019/1
@@ -26,7 +26,7 @@ Conversamos com o ex-reitor da UnB para sabermos com mais detalhes a respeito de
 
 Penso que o simbólico que atravessa essa iniciativa expressa que é um grave desvio de finalidade, é uma ofensa direta à Lei de Diretrizes e Bases da Educação \[LDB] e a própria Constituição Federal, no que toca ao princípio da autonomia e da liberdade de ensinar. No primeiro caso, com motivação imprópria – reprimir balbúrdia – incide em responsabilidade, considerando a exigência de adequada fundamentação do ato, que deve respeitar a impessoalidade, a transparência e a legalidade e não a objeção difusa de politização. Veja-me o artigo. 37 da Constituição Federal. No segundo caso, com ofensa também às normas convencionais – Convenção Americana – imiscuindo-se no âmbito da autonomia. Em época recente, por essas mesmas razões representei contra o ministro da Educação na PGR \[Procuradoria Geral da República] e na Comissão de Ética Pública \[da Presidência da República]. Agora vejo que um deputado indica que vai entrar com ADPF (Ação por Descumprimento de Preceito Fundamental) diretamente no STF \[Supremo Tribunal Federal]. Somente entidades nacionais podem fazê-lo, no caso partido. Mas espero que a ANDIFES \[Associação Nacional de Dirigentes e Instituições Federais de Ensino] também o faça, porque a ameaça é a todo o sistema universitário federal.
 
-Na mais recente (PRG 00265840/2019), já recebida e acostada ao Inquérito Civil n. 1.29.000.001909/2019-20, ela instrui o procedimento de apuração do “posicionamento do Ministério da Educação que veda abordagem, análise, discussão ou debate acerca da participação de integrantes da comunidade escolar em atos públicos”. Tal como salientamos na peça que teve ampla repercussão, “No caso dos presentes autos, o Representado não apenas evidenciou nítida opção antidemocrática, arbitrária e, portanto, autoritária, como praticou atos de ofício no exercício de função pública para fazer prevalecer esta visão de mundo sobre milhões de brasileiros e brasileiras o que, por evidente, o torna passível de responsabilização nas esferas do direito penal e do direito administrativo”.
+Na mais recente (PRG 00265840/2019), já recebida e acostada ao Inquérito Civil n. 1.29.000.001909/2019-10, ela instrui o procedimento de apuração do “posicionamento do Ministério da Educação que veda abordagem, análise, discussão ou debate acerca da participação de integrantes da comunidade escolar em atos públicos”. Tal como salientamos na peça que teve ampla repercussão, “No caso dos presentes autos, o Representado não apenas evidenciou nítida opção antidemocrática, arbitrária e, portanto, autoritária, como praticou atos de ofício no exercício de função pública para fazer prevalecer esta visão de mundo sobre milhões de brasileiros e brasileiras o que, por evidente, o torna passível de responsabilização nas esferas do direito penal e do direito administrativo”.
 
 Nesta conjuntura, pois, de forte incidência desconstituinte, colocar-se na trincheira de defesa das conquistas e dos avanços políticos desenhados no Pacto de 1988, tem sido a convocatória irrecusável da luta por cidadania e por direitos. Em atos públicos, mobilizações, artigos, essa tem sido a agenda que nos convoca e compromete.
 
